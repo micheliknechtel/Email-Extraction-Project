@@ -4,6 +4,16 @@ import re
 import chardet
 import tld
 import tldextract
+from data import Email
+from typing import NamedTuple
+
+class dataStructure(NamedTuple):
+    email_id:  int
+    email:     list
+    domains:   list
+    sender:    list
+    receivers: list
+
 
 #----------------------------------------------------------------------------
 # returns a list of files for a given repository
@@ -64,7 +74,6 @@ def parse(infile, codec, sender, receiver, email, urls, topLevelDomain):
 def codecDetection(fileName):
     rawData = open(fileName,'rb').read()
     result = chardet.detect(rawData)
-    print(fileName)
     return result['encoding']
 
 #----------------------------------------------------------------------------
@@ -86,10 +95,13 @@ topLevelDomain = []
 if repository(direct):
     parsingFiles(listOpenFiles(direct), sender, receiver, email, urls, topLevelDomain)
 
-print(sender)
-print(receiver)
-print(email)
-print(urls)
-print(topLevelDomain)
+e = Email(email, 0)
+print(e.toJson())
+
+#print(sender)
+#print(receiver)
+#print(email)
+#print(urls)
+#print(topLevelDomain)
 
 
