@@ -33,19 +33,10 @@ def repository(path):
 def regex(line, pattern, array):
     matches = re.findall(pattern, line)
     if matches:
-        array.append(str(matches))
-#----------------------------------------------------------------------------
-# execute regex for a given pattern, and if found a match add it to a given the structure
-#----------------------------------------------------------------------------
-def regexUrlsDomain(line, pattern, urls, topLevelDomain):
-    matches = re.findall(pattern, line)
-    if matches:
-        array.append(str(matches))
-        token = str(matches).split('http://')[1].split('/')[0]
-#        topLevelDomain.append(token.split('.')[-2]+'.'+token.split('.')[-1])
+        array.append(matches)
 
 #----------------------------------------------------------------------------
-# check if the directory exist
+# Parse entire a given file filling up the structures sender, receiver, email, urls, topLevelDomain
 #----------------------------------------------------------------------------
 def parse(infile, codec, sender, receiver, email, urls, topLevelDomain):
     patternUrl      = 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'
@@ -56,13 +47,16 @@ def parse(infile, codec, sender, receiver, email, urls, topLevelDomain):
     TO   = "To: "
     with open(infile, 'rt', encoding=codec) as file:
         for line in file:
-            regex(line, patternEmail, email)
             regex(line, patternUrl, urls)
+            regex(line, patternEmail, email)
             if TO in line:
                 regex(line, patternReceiver, receiver)
             if FROM in line:
                 regex(line, patternSender, sender)
     file.close()
+    for i in range(len(urls)):
+        string = ''.join(str(u) for u in urls[i])
+        topLevelDomain.append(tldextract.extract(string).suffix)
 
 #----------------------------------------------------------------------------
 # for a given file returns the codec
@@ -71,7 +65,6 @@ def codecDetection(fileName):
     rawData = open(fileName,'rb').read()
     result = chardet.detect(rawData)
     print(fileName)
-    print(result)
     return result['encoding']
 
 #----------------------------------------------------------------------------
@@ -82,7 +75,7 @@ def parsingFiles(listFiles, sender, receiver, email, urls, topLevelDomain):
         parse(fileName, codecDetection(fileName), sender, receiver, email, urls, topLevelDomain)
         break
 
-direct = "/Users/micheliknechtel/Documents/xCode/ivizone/ivizone/email"
+direct = "/Users/micheliknechtel/Documents/xCode/ivizone/Email-Extraction-Project/email"
 
 sender   = []
 receiver = []
@@ -93,8 +86,10 @@ topLevelDomain = []
 if repository(direct):
     parsingFiles(listOpenFiles(direct), sender, receiver, email, urls, topLevelDomain)
 
-f = tldextract.extract(urls[0])
-my_string = urls[0]
-print(f)
+print(sender)
+print(receiver)
+print(email)
+print(urls)
+print(topLevelDomain)
 
 
