@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		7FDA46602045A44700AD9AA3 /* definitions.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = definitions.py; sourceTree = "<group>"; };
 		7FDB2358204452C900A81D14 /* app.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = app.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -16,7 +15,6 @@
 			isa = PBXGroup;
 			children = (
 				7FDB2358204452C900A81D14 /* app.py */,
-				7FDA46602045A44700AD9AA3 /* definitions.py */,
 			);
 			sourceTree = "<group>";
 		};
