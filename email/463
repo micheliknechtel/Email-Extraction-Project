@@ -1,0 +1,243 @@
+Received: (qmail 23695 invoked from network); 7 Jan 2003 13:58:53 -0000
+Received: from dev214.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 7 Jan 2003 13:58:53 -0000
+Received: (qmail 28052 invoked by uid 99); 7 Jan 2003 13:58:54 -0000
+Received: (qmail 5062 invoked from network); 7 Jan 2003 13:58:52 -0000
+Received: from unknown (HELO securehost.midwestwebhost.com) (216.170.227.180)
+  by www.mailshell.com with SMTP; 7 Jan 2003 13:58:52 -0000
+Received: (from admin1@localhost)
+	by securehost.midwestwebhost.com (8.11.6/8.11.6) id h07E0Qh01377;
+	Tue, 7 Jan 2003 08:00:26 -0600
+Message-Id: <200301071400.h07E0Qh01377@securehost.midwestwebhost.com>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 2.117  (F2.6; T1.001; A; B2.12; Q2.03)
+Date: Tue, 7 Jan 2003 14:00:26 UT
+From: "Dr. Ralph F. Wilson" <newsletter@wilsonweb.com>
+To: "Mailshell User" <nospam@mailshell.com>
+Subject: Joe, Web Marketing Today, #120, 1/7/03
+X-Arpidentifier: 513773_441521_666288_6876
+
+You can unsubscribe or change your e-mail address at the end of
+this message. You are currently subscribed as nospam@mailshell.com
+
+-----------------------------------------------------------------
+              WEB MARKETING TODAY (Plain Text version)
+A Free Wilson Info E-Mail Newsletter (ISSN 1094-8112)
+Dr. Ralph F. Wilson, Editor      http://www.wilsonweb.com/contact
+Wilson Internet Services                 http://www.wilsonweb.com 
+-----------------------------------------------------------------
+Advertising:  http://www.wilsonweb.com/ads/
+Back Issues:  http://www.wilsonweb.com/wmt/
+Change E-Mail Address or Format (Text or HTML)
+http://www.wilsonweb.info/cgi-bin/arp3/arp3-edit.pl?c=114383&p=496
+To unsubscribe:
+http://www.wilsonweb.info/cgi-bin/arp3/arp3-un.pl?c=114383&p=496
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+          Theme: Getting Past the Spam Filters, Part 2
+           http://www.wilsonweb.com/wmt8/issue120.htm
+January 7, 2003         Subscribers 122,696             Issue 120
+-----------------------------------------------------------------
+
+
+Dear Joe,
+
+The December 2002 issue of Web Marketing Today focused on how to
+lessen spam filters' impact on your e-mail newsletter or
+legitimate opt-in e-mail to your customer list. This month we
+continue with several articles on particular approaches to the
+spam problem:
+
+  * Review: Habeas Sender Warranted Email
+  * Review: Cloudmark SpamNet
+  * How to Protect Your E-Mail Address from Spambots
+  * How to Make URLs Clickable by AOL Subscribers
+
+I hope you had a wonderful holiday.
+
+I spent some of my time studying my Internet business and deciding
+what to trim down and what to expand. For the present I've
+decided, for example, not to publish my popular weekly Doctor Ebiz
+newsletter (www.doctorebiz.com) on weeks I am publishing Web
+Marketing Today. I may change my mind if advertising picks up,
+however. :-)
+
+I am planning to extend my Doctor Ebiz Internet Marketing Seminars
+this spring to several more cities in the US and Canada. I'm
+considering
+
+Atlanta, GA             Las Vegas, NV         Pittsburgh, PA
+Buffalo, NY             Los Angeles, CA       Providence, RI
+Charlotte, NC           Montreal, QB          Reno, NV
+Chicago, IL             Nashville, TN         Salt Lake City, UT
+Cleveland, OH           New Orleans, LA       St Louis, MO
+Detroit, MI             Orlando, FL           Toronto, ON
+Houston, TX             Philadelphia, PA      Vancouver, BC
+Kansas City, MO         Phoenix, AZ
+
+
+but can only select a few of these. Please vote for which cities
+you think I should consider.
+http://www.surveymonkey.com/s.asp?u=41952158834  Thank you for
+your help!
+<a href="http://surveymonkey.com/s.asp?u=41952158834">AOL Link</a>
+
+My prayer for all my readers is for a useful and productive year
+for your online business.
+
+God bless you,
+Dr. Ralph F. Wilson, Editor
+
+P.S. My lists have always been strictly opt-in. But now I'm
+seeking to get subscribers' explicit confirmation of their
+subscription. Would you be so kind as to confirm your subscription
+right now using this link? Thanks so much!
+http://www.wilsonweb.info/cgi-bin/arp3/arp3-confirm.pl?c=114383&p=496
+<a href="http://www.wilsonweb.info/cgi-bin/arp3/arp3-confirm.pl?c=114383&p=496">AOL Link</a>
+ 
+
+-----------------------------------------------------------------
+               Review: Habeas Sender Warranted Email
+                     by Dr. Ralph F. Wilson
+             http://www.wilsonweb.com/reviews/habeas.htm
+-----------------------------------------------------------------
+
+Spam filters are flagging too many legitimate opt-in e-mails as
+spam, know as "false positives." One important answer is for e-
+mailers to be able to warrant that their messages are actually
+permission-based, certified by a trusted third party. Habeas leads
+in such an approach, "fighting spam with poetry." I think Habeas
+deserves a very careful look. Read the Review
+http://www.wilsonweb.com/reviews/habeas.htm  
+<a href="http://wilsonweb.com/reviews/habeas.htm">AOL Link</A>
+
+
+-----------------------------------------------------------------
+                     Review: Cloudmark SpamNet
+                      by Dr. Ralph F. Wilson
+           http://www.wilsonweb.com/reviews/spamnet.htm
+-----------------------------------------------------------------
+
+I've fumed about the inaccuracies of spam filters that keep my
+newsletters from being delivered. But now I find myself using one
+-- Cloudmark SpamNet -- that installs as an add-on to Microsoft
+Outlook 2000/XP/2002. I like what it does since it saves me time
+every single day. Read the Review
+http://www.wilsonweb.com/reviews/spamnet.htm 
+<a href="http://wilsonweb.com/reviews/spamnet.htm">AOL Link</A>
+
+
+-----------------------------------------------------------------
+       How to Protect Your E-Mail Address from Spambots
+                   by Dr. Ralph F. Wilson
+       http://www.wilsonweb.com/wmt8/spambot_hiding.htm
+-----------------------------------------------------------------
+
+For $100 or so spammers can purchase software that will
+automatically roam Internet webpages looking for e-mail addresses
+that it can devour and then bombard with spam for the rest of
+their natural lives. Pretty sad! But there are ways to defend
+yourself against these monsters of the cyberworld. This article
+explains several ways you can disguise, separate, and hide your e-
+mail address from spambots, as well as lock them out entirely.
+Read the Article http://www.wilsonweb.com/wmt8/spambot_hiding.htm
+<a href="http://wilsonweb.com/wmt8/spambot_hiding.htm">AOL Link</A>
+
+
+-----------------------------------------------------------------
+         How to Make URLs Clickable by AOL Subscribers
+                   by Dr. Ralph F. Wilson
+          http://www.wilsonweb.com/wmt8/aol_links.htm
+-----------------------------------------------------------------
+
+Just when I thought AOL had finally "got it" in version 8.0, I
+find that URLs in text-only e-mails still aren't visible as
+clickable hyperlinks. Here's a work-around for crucial URLs that
+must be clicked such as subscription confirmation URLs. Nothing
+new -- some of you have been doing it for years -- but important.
+Read the Article  http://www.wilsonweb.com/wmt8/aol_links.htm
+<a href="http://wilsonweb.com/wmt8/aol_links.htm">AOL Link</A>
+
+
+-----------------------------------------------------------------
+       Read These 2-Line Ads from Your Fellow E-Businesses
+-----------------------------------------------------------------
+
+
+Automate your follow-up with great-looking HTML email - safely. 
+Try advanced autoresponders gratis:
+http://www.netresponders.com/w/
+
+OUTSOURCE FULFILLMENT ONLY $1.50 PER ORDER. Click for
+free cost estimator. http://www.efulfillmentservice.com/?wis
+
+SEARCH ENGINE MARKETING: The guide used by professionals. Get the
+real facts. NEW 2nd edition. http://wilsonweb.com/afd/se_report.htm
+
+Trying to Find Products to Sell? The up-to-date Drop Ship Source
+Directory lists >500,000 http://www.wilsonweb.com/afd/dropship.htm
+
+DR. WILSON'S INTERNET MARKETING SEMINAR in DVD, VHS, and VCD formats
+Now 23% off. Great training tool. http://wilsonweb.com/seminar/video.htm
+
+
+You can place your own 2-line ad in Web Marketing Today or Doctor
+Ebiz for the low, low price of $250 and $150, respectively, 
+reaching a huge audience. What could you say in your 2-line ad? 
+http://www.wilsonweb.com/ads/2-line-ad.htm  Now 10% to 25% off
+when you order 3 to 6 insertions at a time. You can mix and match
+2-line ads in Web Marketing Today, Doctor Ebiz, and Sponsored
+Links to get enough for the discount.
+
+                -----------------------------
+
+NEED E-BUSINESS KNOWLEDGE? Check out Dr. Wilson's e-books on
+Landing Pages, Affiliate Programs, Shopping Carts, Payment
+Gateways, E-Mail Newsletters, Viral Marketing, Maximizing Website
+Sales, and 10 Steps to E-Business on a Shoestring.
+http://www.wilsonweb.com/ebooks
+
+-----------------------------------------------------------------
+               Search, Subscribe and Forward
+-----------------------------------------------------------------
+
+If you haven't already done so, please forward this issue to one
+or two of your friends or business associates. Thanks so much!
+
+If you'd like to search our 9,500+ article database,
+place your search word(s) in the search box. For a phrase use
+quotation marks. http://wilsonweb.com/cat/
+
+If someone sent you this issue, please subscribe to Web Marketing
+Today for free right now. http://wilsonweb.com/wmt/
+
+If you'd like to change your e-mail address or from text to HTML:
+http://www.wilsonweb.info/cgi-bin/arp3/arp3-edit.pl?c=114383&p=496
+
+To unsubscribe:
+http://www.wilsonweb.info/cgi-bin/arp3/arp3-un.pl?c=114383&p=496
+
+------------------------------------------------------------------
+
+Copyright 2003, Ralph F. Wilson. All rights reserved. Please do
+NOT reprint or host on your Web site without explicit permission.
+However, if you found this newsletter helpful, we grant you
+permission, and strongly encourage you, to e-mail it to a business
+associate or a friend. Thank you. Web Marketing Today, Web
+Commerce Today, and Doctor Ebiz are registered trademarks, and
+E-Commerce Research Room, Wilson Info, and NetAssisted are
+trademarks of Wilson Internet Services. Reprint information may
+be found at http://www.wilsonweb.com/copyright/reprints.htm
+
+------------------------------------------------------------
+WILSON INTERNET SERVICES            http://www.wilsonweb.com 
+   E-Commerce and Web Marketing Publishing and Consulting
+Ezines: Web Marketing Today, Web Commerce Today, Doctor Ebiz
+     NetAssisted Biz, NetAssisted Church www.netassisted.com
+Dr. Ralph F. Wilson, Director
+PO Box 308                    Rocklin, California 95677, USA
+------- Contact: http://www.wilsonweb.com/contact/ ---------

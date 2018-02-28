@@ -1,0 +1,2011 @@
+Received: (qmail 17471 invoked from network); 14 Jan 2003 06:09:27 -0000
+Received: from dev213.mailshell.com (HELO mailshell.com) (@71.129.195.163)
+  by dev50.mailshell.com with SMTP; 14 Jan 2003 06:09:27 -0000
+Received: (qmail 9867 invoked by uid 99); 14 Jan 2003 06:09:22 -0000
+Received: (qmail 12859 invoked from network); 14 Jan 2003 06:09:20 -0000
+Received: from unknown (HELO outgoing.securityfocus.com) (205.206.231.26)
+  by www.mailshell.com with SMTP; 14 Jan 2003 06:09:20 -0000
+Received: from lists.securityfocus.com (lists.securityfocus.com [205.206.231.19])
+	by outgoing.securityfocus.com (Postfix) with QMQP
+	id 26F368F33D; Mon, 13 Jan 2003 09:51:32 -0700 (MST)
+Mailing-List: contact sf-news-help@securityfocus.com; run by ezmlm
+Precedence: bulk
+List-Id: <sf-news.list-id.securityfocus.com>
+List-Post: <mailto:sf-news@securityfocus.com>
+List-Help: <mailto:sf-news-help@securityfocus.com>
+List-Unsubscribe: <mailto:sf-news-unsubscribe@securityfocus.com>
+List-Subscribe: <mailto:sf-news-subscribe@securityfocus.com>
+Received: (qmail 1728 invoked from network); 13 Jan 2003 17:00:57 -0000
+Date: Mon, 13 Jan 2003 10:21:55 -0700 (MST)
+From: John Boletta <jboletta@securityfocus.com>
+To: "Mailshell User" <nospam@mailshell.com>
+Subject: SecurityFocus Newsletter #179
+Message-ID: <Pine.LNX.4.43.0301131021310.3247-100000@mail.securityfocus.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+Content-Transfer-Encoding: QUOTED-PRINTABLE
+
+
+SecurityFocus Newsletter #179
+-----------------------------
+
+This Issue is Sponsored by: SPI Dynamics
+
+ALERT: Exploiting Web Applications- A Step-by-Step Attack Analysis Learn
+why 70% of today's successful hacks involve Web Application attacks such
+as: SQL Injection, XSS, Cookie Manipulation, and Parameter Manipulation.
+All undetectable by Firewalls and IDS!
+
+Download *FREE* white paper from SPI Dynamics for a complete guide to
+protection!
+
+http://www.spidynamics.com/mktg/webappsecurity42
+---------------------------------------------------------------------------=
+----
+
+I. FRONT AND CENTER
+     1. Instant Insecurity: Security Issues of Instant Messaging
+     2. Intelligence Gathering: Watching a Honeypot at Work
+     3. Closing the Floodgates: DDoS Mitigation Techniques
+     4. Strikeback, Part Deux
+     5. SecurityFocus DPP Program
+     6. InfoSec World Conference and Expo/2003 (March 10-12, 2003,Orlando, =
+FL)
+II. BUGTRAQ SUMMARY
+     1. OpenTopic Private Message HTML Injection Vulnerability
+     2. DCP-Portal Remote File Include Vulnerability
+     3. FreeBSD System Call f_count Integer Overflow Vulnerability
+     4. DCP-Portal Unauthorized Account Access Vulnerability
+     5. H-Sphere Webshell Remote Buffer Overrun Vulnerability
+     6. AN HTTPD HTTP Request Buffer Overflow Vulnerability
+     7. AN HTTPD Cross Site Scripting Vulnerability
+     8. Longshine Wireless Access Point Devices Information Disclosure...
+     9. Multiple Vendor Network Device Driver Frame Padding Information...
+     10. IPFilter TCP ACK/Bad Checksum Packet Denial Of Service...
+     11. Microsoft Windows Fontview Denial of Service Vulnerability
+     12. H-Sphere Webshell flist() Buffer Overflow Vulnerability
+     13. S-PLUS For Unix Insecure Temporary File Vulnerabilities
+     14. H-Sphere Webshell diskusage.cc Buffer Overflow Vulnerability
+     15. H-Sphere Webshell Command.C Mode URI Parameter Command...
+     16. H-Sphere Webshell Command2.CC Zipfile URI Parameter Command...
+     17. myPHPNuke Information Disclosure Vulnerability
+     18. myPHPNuke Default_Theme Cross Site Scripting Vulnerability
+     19. KaZaA Advertisement Local Zone Vulnerability
+     20. CommuniGate Pro Webmail File Disclosure Vulnerability
+     21. S8Forum Remote Command Execution Vulnerability
+     22. Active PHP Bookmarks Multiple File Include Vulnerabilities
+     23. Active PHP Bookmarks Arbitrary Bookmark Addition Vulnerability
+     24. HTTP Fetcher Library Multiple Buffer Overflow Vulnerabilities
+     25. GeneWeb File Disclosure Vulnerability
+     26. cgihtml Signed Integer Content-Length Memory Corruption...
+     27. cgihtml Denial Of Service Vulnerability
+     28. CGIHTML Form Data File Corruption Vulnerability
+     29. CGIHTML Insecure Form-Data Temporary File Vulnerability
+     30. TANne Session Manager SysLog Format String Vulnerability
+     31. A.ShopKart Multiple SQL Injection Vulnerabilities
+     32. Horde IMP Database Files SQL Injection Vulnerabilities
+     33. AJ's Internet Cafe World-Writeable Files Vulnerability
+     34. AppIdeas MyCart Information Disclosure Vulnerability
+     35. Macromedia ColdFusion MX CFInclude And CFModule Tag Sandbox...
+     36. Business Objects WebIntelligence Application Session Hijacking...
+     37. FormMail Cross-Site Scripting Vulnerability
+     38. Mambo Site Server Multiple Cross Site Scripting Vulnerabilities
+     39. Mambo Site Server Arbitrary File Upload Vulnerability
+     40. Efficient Networks DSL Router Denial Of Service Vulnerability
+     41. Follett Software WebCollection Plus File Reading Vulnerability
+     42. BRS WebWeaver MKDir FTP Root Path Disclosure Vulnerability
+     43. Half-Life ClanMod Plugin Remote Format String Vulnerability
+     44. Half-Life AdminMod Plugin Remote Format String Vulnerability
+     45. Half-Life StatsMe Plug-in CMD_ARGV Buffer Overflow Vulnerability
+     46. Half-Life StatsMe Plug-in MakeStats Format String Vulnerability
+     47. Half-Life HLTV Remote Denial Of Service Vulnerability
+     48. SCO UnixWare/Open UNIX PS Buffer Overflow Vulnerability
+     49. Middleman net_dns() Frame Pointer Overwrite Vulnerability
+     51. Bea Systems WebLogic ResourceAllocationException System...
+III. SECURITYFOCUS NEWS ARTICLES
+     1. Feds seek public input on hacker sentencing
+     2. RIAA defaced -again!
+     3. The View From Symantec's Security Central
+     4. The return of the celebrity virus
+IV. SECURITYFOCUS TOP 6 TOOLS
+     1. RSA implementation in Octave v0.01
+     2. e2undel v0.81
+     3. RSA encrypting tool v0.11
+     4. System Statistics Remote Checker v0.8
+     5. Pathalizer v0.3
+     6. Packetflow Firewall Generator v0.7
+V. SECURITYJOBS LIST SUMMARY
+     1. Senior Federal Territory Manager (Thread)
+     2. Information Security Analyst (Thread)
+     3. IDS Signature Engineer needed now! (revised) (Thread)
+     4. IDS Signature Engineer needed now! (Thread)
+     5. Security Position with Bristol-Myers Squibb-Hopewell-NJ (Thread)
+     6. Seeking internship or entry-level position (Thread)
+     7. Looking for a security based role (no expierence) (Thread)
+     8. @stake Employment in Seattle (Thread)
+     9. Looking for security job opportunity in Northern...
+     10. Sales / Account Manager - Information Security Solutions (Thread)
+     11. VP of Sales - NJ - #730 (Thread)
+     12. Entrust Ops Engineer and Technical Support. Contract Saudi...
+     13. Hi Alfred!! (Thread)
+     14. Security Account Manager - OTTAWA, Canada - Government focus...
+     15. Sun security position available... (Thread)
+     16. Senior Risk Assessment Scientist - Chicago, IL - EOE (Thread)
+     17. Senior Security Architect - Chicago - up to $110,000 (Thread)
+     18. PKI Identrus Eleanor Expertise available (Thread)
+     19. Looking for an internship(SSCP/CCNA) (Thread)
+     20. Senior Systems Security Engineer - Baltimore/Washington DC...
+     21. Security Design and Support Engineer - Baltimore/Wasington...
+     22. Senior Security Engineer - Baltimore/Washington, DC (Thread)
+     23. ISS Certified Contract Role Saudi Arabia (Thread)
+     24. Sr. Project Manager - Employee Monitoring Solutions (Thread)
+     25. US - MD - Baltimore Area - Web Security Positions & Security...
+     26. Development Manager Needed (Thread)
+     27. Needed for Long term contract w/Full benefits-SYSTEMS...
+     28. "I am seeking" Sr. Security Position in Colorado area.  CISSP...
+VI. INCIDENTS LIST SUMMARY
+     1. Hacked web server (Thread)
+     2. Virus?  Trojan? (Thread)
+     3. IRC -> smtp worm? (Thread)
+     4. Curious "spam" (or broken viral payload)... (Thread)
+     5. Any known exploit for the samba 2.2.2-2.2.6 encrypted password...
+     6. /sumthin Revisited (Thread)
+     7. Possible google hack (Thread)
+     8. Root password changed (Thread)
+     9. Re[2]: Spoofed RFC1918 Network Source Addresses... (Thread)
+     10. Subseven 2.2 Server? (Thread)
+     11. PDL anti-spam blacklist (Thread)
+VII. VULN-DEV RESEARCH LIST SUMMARY
+     1. NO NEW POSTS FOR THE WEEK ENDING 01.10.03
+VIII. MICROSOFT FOCUS LIST SUMMARY
+     1. AD replication over WAN (Thread)
+     2. FW: Tools for changing WMI namespace ACL's (Thread)
+     3. SecurityFocus Microsoft Newsletter #120 (Thread)
+IX. SUN FOCUS LIST SUMMARY
+     1. NO NEW POSTS FOR THE WEEK ENDING 01.10.03
+X. LINUX FOCUS LIST SUMMARY
+     1. NO NEW POSTS FOR THE WEEK ENDING 01.10.03
+XI. SPONSOR INFORMATION
+
+
+
+I. FRONT AND CENTER
+-------------------
+1. Instant Insecurity: Security Issues of Instant Messaging
+By Neal Hindocha
+
+Instant messaging services are becoming an increasingly popular form of
+communication, both in the personal and the professional spheres. This
+paper will describe instant messaging and offer a brief overview of some
+of the security threats associated with the service.
+
+http://online.securityfocus.com/infocus/1657
+
+2. Intelligence Gathering: Watching a Honeypot at Work
+By Toby Miller
+
+The purpose of this article is share with the security community the data
+the author collected from his honeypot. This discussion will include the
+attacker's recon, the attack, the attempted cover-up, and the reason for
+the attack on the honeypot.
+
+http://online.securityfocus.com/infocus/1656
+
+3. Closing the Floodgates: DDoS Mitigation Techniques
+by Matthew Tanase
+
+To be on the receiving end of a distributed denial of service (DDoS)
+attack is a nightmare scenario for any network administrator, security
+specialist or access provider. It begins instantly, without warning, and
+continues relentlessly: machines down, jammed bandwidth, overloaded
+routers. An effective, immediate response is often difficult and may
+depend on third parties, such as ISPs. With these challenges in mind, this
+article will explore some techniques that systems administrators and
+security professionals can employ should they ever find themselves in this
+rather undesirable situation.
+
+http://online.securityfocus.com/infocus/1655
+
+4. Strikeback, Part Deux
+By Tim Mullen
+
+Why I should have the right to kill a malicious process on your machine.
+
+http://online.securityfocus.com/columnists/134
+
+5. SecurityFocus DPP Program
+
+Attention Universities!! Sign-up now for preferred pricing on the only
+global early-warning system for cyber attacks - SecurityFocus DeepSight
+Threat Management System.
+
+Click here for more information:
+http://www.securityfocus.com/corporate/products/dpsection.shtml
+
+6. InfoSec World Conference and Expo/2003 (March 10-12, 2003, Orlando, FL)
+
+Optional Workshops March 8, 9, 12, 13, & 14 Vendor Expo March 10 & 11
+
+Solutions to today=92s security concerns; hands-on experts; blockbuster
+vendor expo; the CISO Executive Summit; invaluable networking
+opportunities.  InfoSec World has it all!
+
+Go to: http://www.misti.com/10/os03nl37inf.html
+
+
+II. BUGTRAQ SUMMARY
+-------------------
+1. OpenTopic Private Message HTML Injection Vulnerability
+BugTraq ID: 6523
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6523
+Summary:
+
+OpenTopic is a commercially available content management system.
+
+A HTML injection vulnerability has been reported for OpenTopic. The
+vulnerability exists because OpenTopic does not sufficiently sanitize HTML
+code from private message posts.
+
+An attacker may include arbitrary HTML and script code in private messages
+and when this information is viewed by other users, the attacker-supplied
+code will execute in their web client in the security context of the site.
+
+Exploitation may allow for theft of cookie-based authentication
+credentials or other attacks.
+
+This vulnerability was reported for OpenTopic 2.3.1. It is not known
+whether other versions are affected.
+
+2. DCP-Portal Remote File Include Vulnerability
+BugTraq ID: 6525
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6525
+Summary:
+
+DCP-Portal is a freely available content management system implemented in
+PHP. It is available for a variety of platforms including Microsoft
+Windows and Linux variants.
+
+DCP-Portal is prone to an issue which may allow remote attackers to
+include arbitrary files located on remote servers. This issue is present
+in the 'library/editor/editor.php' and 'library/lib.php' scripts included
+with DCP-Portal.
+
+An attacker may exploit this by supplying a path to a maliciously created
+file, located on an attacker-controlled host as a value for the '$root'
+parameter.
+
+If the remote file is a PHP script, this may allow for execution of
+attacker-supplied PHP code with the privileges of the webserver.
+Successful exploitation may provide local access to the attacker.
+
+This vulnerability was reported for DCP-Portal 5.0.1. It is not known
+whether earlier versions are affected.
+
+3. FreeBSD System Call f_count Integer Overflow Vulnerability
+BugTraq ID: 6524
+Remote: No
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6524
+Summary:
+
+A vulnerability has been reported in the FreeBSD system. Reportedly, the
+fpathconf and lseek system calls are affected by vulnerabilities that may
+lead to a kernel integer overflow condition.
+
+The FreeBSD kernel has an internal reference counter maintained for each
+file. This counter is incremented whenever additional references to it are
+created (for example, by using the dup() system call). The counter is then
+decremented for every close() call. System calls that involve files will
+issue fhold() and fdrop() calls to increment and decrement this counter.
+
+Reportedly, the fpathconf and lseek system calls do not issue a fdrop()
+call. This issue can be exploited by a local attacker by invoking
+repeatedly these system calls to eventually overflow the file reference
+counter.  An attacker who exploits this vulnerability may cause the system
+to panic or to obtain root privileges on the vulnerable system.
+
+This vulnerability has been reported to affect RELENG_4 earlier than
+20021111 and all FreeBSD RELEASE versions.
+
+4. DCP-Portal Unauthorized Account Access Vulnerability
+BugTraq ID: 6526
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6526
+Summary:
+
+DCP-Portal is a freely available content management system implemented in
+PHP. It is available for a variety of platforms including Microsoft
+Windows and Linux variants.
+
+DCP-Portal does not sufficiently sanitize user-supplied input for URI
+parameters.
+
+An attacker can exploit this vulnerability by supplying values for the
+'dcp5_member_admin' or 'dcp5_member_id' parameters with the appropriate
+values. This will allow an attacker to obtain access to user accounts on
+the vulnerable site hosting DCP-Portal.
+
+This vulnerability was reported for DCP-Portal 5.0.1. It is not known
+whether earlier versions are affected.
+
+5. H-Sphere Webshell Remote Buffer Overrun Vulnerability
+BugTraq ID: 6527
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6527
+Summary:
+
+H-Sphere is a multiserver web hosting application. H-Sphere ships with
+WebShell, a component designed to be a file manager for uploading
+downloading files via FTP. H-Sphere is available for the Windows, Linux,
+and Unix operating systems.
+
+A vulnerability has been discovered in H-Sphere Webshell. The problem
+occurs during the pre-authentication phase. Due to insufficient bounds
+checking on user-supplied HTTP parameters, it is possible for a remote
+attacker to cause a buffer to be overrun
+
+The vulnerability occurs in the CGI::readFile() function and can be
+triggered by passing the target server an HTTP Content-Type 'boundary'
+parameter of excessive length.
+
+Successful exploitation of this issue would allow an attacker to overwrite
+the vulnerable functions instruction pointer. By causing the program to
+return to attacker-supplied instructions, it may be possible to execute
+arbitrary code with the privileges of the target process.
+
+It should be noted that this issue was discovered in H-Sphere 2.3 RC3. It
+is not yet known whether earlier versions are also vulnerable.
+
+6. AN HTTPD HTTP Request Buffer Overflow Vulnerability
+BugTraq ID: 6528
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6528
+Summary:
+
+AN HTTPD is a Japanese language Web server designed for use on Microsoft
+Windows operating systems.
+
+A buffer overflow vulnerability has been reported for AN HTTPD. The
+vulnerability exists when AN HTTPD receives overly long HTTP requests.
+
+An attacker can exploit this vulnerability by issuing a long HTTP request,
+consisting of at least 1024 characters, to any CGI or BAT script on the
+vulnerable server. When AN HTTPD attempts to process this request, it will
+crash.
+
+Although unconfirmed, it may be possible to cause the vulnerable web
+server to execute malicious attacker-supplied code.
+
+This vulnerability was reported for AN HTTPD 1.41e.
+
+7. AN HTTPD Cross Site Scripting Vulnerability
+BugTraq ID: 6529
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6529
+Summary:
+
+AN HTTPD is a Web server designed for use on Microsoft Windows operating
+systems.
+
+AN HTTPD does not adequately filter HTML code thus making it prone to
+cross-site scripting attacks. It is possible for a remote attacker to
+create a malicious link containing script code which will be executed in
+the browser of a legitimate user. All code will be executed within the
+context of the website running AN HTTPD.
+
+This issue may be exploited to steal cookie-based authentication
+credentials from legitimate users of the website running the vulnerable
+software. The attacker may hijack the session of the legitimate by using
+cookie-based authentication credentials.
+
+This vulnerability was reported for AN HTTPD 1.41e.
+
+8. Longshine Wireless Access Point Devices Information Disclosure Vulnerabi=
+lity
+BugTraq ID: 6533
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6533
+Summary:
+
+Longshine provides several products for networking including external
+wireless LAN access points. An information disclosure vulnerability has
+been reported for the Longshine LCS-883R-AC-B WLAN access point.
+
+The Longshine LCS-883R-AC-B device will allow tftp connections without any
+authentication. An attacker can exploit this vulnerability to connect via
+tftp to the access point and download the configuration file.
+
+Obtainable files from the tftp service include config.img, mac.dat, and
+rom.img.
+
+The configuration file contains sensitive information including the
+administrator password and WEP keys. An attacker who has access to this
+information may be able to modify existing settings and intercept traffic
+from the access point.
+
+** The D-Link DI-614+ product, reportedly based on the Longshine device,
+appears to be vulnerable to this issue.
+
+9. Multiple Vendor Network Device Driver Frame Padding Information Disclosu=
+re Vulnerability
+BugTraq ID: 6535
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6535
+Summary:
+
+Network device drivers for several vendors have been reported to disclose
+potentially sensitive information to attackers.
+
+Frames that are smaller than the minimum frame size should have the unused
+portion of the frame buffer padded with null (or other) bytes.  Some
+device drivers do not do this adequately, leaving the data that was stored
+in the memory comprising the buffer prior to its use intact.
+Consequently, this data may be transmitted within frames across ethernet
+segments.  As the ethernet frame buffer is allocated in kernel memory
+space, sensitive data may be leaked.
+
+An attacker can exploit this vulnerability by sending a simple ICMP packet
+to a vulnerable machine. A response to such a query will involve a packet
+that has been padded to a sufficient length. It may be that the
+information that is padded is of a sensitive nature. An attacker may use
+the information obtained in this manner to launch other attacks against a
+vulnerable system.
+
+This vulnerability has been reported to affect the atp.c, axnet_cs.c,
+xirc2ps_cs.c and the rtl8139.c network device drivers for Linux variant
+systems. Older NetApp systems using the 'Gigabit Ethernet Controller I'
+are vulnerable to this issue.
+
+Cisco has stated that the IOS 12.1 and 12.2 trains are not affected.
+
+10. IPFilter TCP ACK/Bad Checksum Packet Denial Of Service Vulnerability
+BugTraq ID: 6534
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6534
+Summary:
+
+IPFilter is a packet filtering implementation that is in wide use on a
+variety of Unix systems.
+
+IPFilter is prone to a denial of service when handling specially crafted
+packets.
+
+Normally when IPFilter handles a TCP ACK packet (without a previous SYN
+packet to initiate the session), it will mark the session as
+"TCPS_ESTABLISHED" in the state table.  The system will respond with a RST
+packet and IPFilter will set the timeout for the session in the state
+table to one minute.
+
+However, when IPFilter handles this type of TCP ACK packet with a bad
+checksum, it will add an "ESTABLISHED" session to its state table, which
+will time out in 120 hours.
+
+If numerous packets of this nature are sent, this may cause a denial of
+service as the state table will be filled with these sessions.
+
+This issue is known to occur when "keep state" rules are used without
+"flags S".  The vendor advises users against employing this configuration.
+It is possible to trigger this condition with other packet sequences.
+
+11. Microsoft Windows Fontview Denial of Service Vulnerability
+BugTraq ID: 6536
+Remote: No
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6536
+Summary:
+
+Microsoft Windows uses fontview.exe as the default font viewer.
+
+Windows is vulnerable to a denial of service condition when certain
+malformed OpenType font files (.otf) are viewed with the default font
+viewer.  Attempting to view the font file causes a page fault, resulting
+in the system Blue Screening and rebooting.
+
+Since this issue results in an invalid memory reference by the kernel,
+there is a possibility that it may be exploitable to cause code execution,
+however, this has not been confirmed.
+
+The exact cause of this issue is not currently known, however, this record
+will be updated if and when more details become available.
+
+This vulnerability is reported to affect Windows 2000 and XP, but other
+versions may also be affected.
+
+12. H-Sphere Webshell flist() Buffer Overflow Vulnerability
+BugTraq ID: 6538
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6538
+Summary:
+
+H-Sphere is a multiserver web hosting application. H-Sphere ships with
+WebShell, a component designed to be a file manager for uploading
+downloading files via FTP. H-Sphere is available for the Windows, Linux,
+and Unix operating systems.
+
+A remotely exploitable vulnerability has been discovered in H-Sphere. The
+problem occurs in the flist() function used by the WebShell component. By
+making a request for a directory name of excessive length, it may be
+possible to overrun a buffer.
+
+By exploiting this issue to overwrite sensitive locations in memory a
+remote attacker would be able to control the program and possibly execute
+arbitrary instructions.
+
+13. S-PLUS For Unix Insecure Temporary File Vulnerabilities
+BugTraq ID: 6530
+Remote: No
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6530
+Summary:
+
+S-PLUS for Unix is statistical analysis software.
+
+S-PLUS for Unix is prone to a number of insecure temporary file creation
+vulnerabilities.  These issues exist in some of the S-PLUS Spqe binary and
+various shell scripts.
+
+S-PLUS creates temporary files using predictable names, which are derived
+from the process ID (PID).  Additionally, when these files are created
+symbolic links will be followed.  If the attacker can anticipate the names
+of these temporary files, it is possible to lauch symbolic link attacks
+which may result in file corruption.  The attacker must simply create a
+symbolic link in place of one of the temporary files, and the symbolic
+link must point to another file that is writeable by the user executing
+one of the vulnerable S-PLUS utilities.
+
+S-PLUS for Unix is prone to multiple instances of this vulnerability.
+
+14. H-Sphere Webshell diskusage.cc Buffer Overflow Vulnerability
+BugTraq ID: 6540
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6540
+Summary:
+
+H-Sphere is a multiserver web hosting application. H-Sphere ships with
+WebShell, a component designed to be a file manager for uploading
+downloading files via FTP. H-Sphere is available for the Windows, Linux,
+and Unix operating systems.
+
+A vulnerability has been discovered in H-Sphere Webshell. The problem
+occurs due to insufficient bounds checking on user-supplied values.
+
+The vulnerability occurs in the diskusage.cc file and can be triggered by
+passing the target server an value of excessive length, of greater than
+1024 characters, for the 'path' variable.
+
+Successful exploitation of this issue may allow an attacker to overwrite
+the vulnerable functions instruction pointer. By causing the program to
+return to attacker-supplied instructions, it may be possible to execute
+arbitrary code with the privileges of the target process.
+
+It should be noted that this issue was discovered in H-Sphere 2.3 RC3. It
+is not yet known whether earlier versions are also vulnerable.
+
+15. H-Sphere Webshell Command.C Mode URI Parameter Command Execution Vulner=
+ability
+BugTraq ID: 6537
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6537
+Summary:
+
+H-Sphere is a multiserver web hosting application. H-Sphere ships with
+WebShell, a component designed to be a file manager for uploading
+downloading files via FTP. H-Sphere is available for the Windows, Linux,
+and Unix operating systems.
+
+The H-Sphere Webshell component is prone to a remote command execution
+vulnerability.
+
+This issue exists in the 'command.C' source file and is due to
+insufficient validation of input supplied via the 'mode' URI parameter.
+It is possible for a remote attacker to supply shell commands via this URI
+parameter, which will be executed with the privileges of Webshell.
+
+Exploitation of this vulnerability will allow the attacker to gain
+interactive and possibly privileged access to the underlying host.
+
+It should be noted that this issue was discovered in H-Sphere 2.3 RC3. It
+is not yet known whether earlier versions are also vulnerable.
+
+16. H-Sphere Webshell Command2.CC Zipfile URI Parameter Command Execution V=
+ulnerability
+BugTraq ID: 6539
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6539
+Summary:
+
+H-Sphere is a multiserver web hosting application. H-Sphere ships with
+WebShell, a component designed to be a file manager for uploading
+downloading files via FTP. H-Sphere is available for the Windows, Linux,
+and Unix operating systems.
+
+The H-Sphere Webshell component is prone to a remote command execution
+vulnerability.
+
+This issue exists in the 'command2.CC' source file and is due to
+insufficient validation of input supplied via the 'zipfile' URI parameter.
+It is possible for a remote attacker to supply shell commands via this URI
+parameter, which will be executed with the privileges of Webshell.
+
+Exploitation of this vulnerability will allow the attacker to gain
+interactive and possibly privileged access to the underlying host.
+
+It should be noted that this issue was discovered in H-Sphere 2.3 RC3. It
+is not yet known whether earlier versions are also vulnerable.
+
+17. myPHPNuke Information Disclosure Vulnerability
+BugTraq ID: 6541
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6541
+Summary:
+
+myPHPNuke is a Web Portal System based on PHP-Nuke 4.4.1a. It is available
+for the Linux and Microsoft Windows operatining system.
+
+An information disclosure vulnerability has been reported for myPHPNuke.
+The vulnerability exists due to insufficient checks performed in the
+system_footer.php script file. Specifically, the system_footer.php script,
+found in the 'admin/' subdirectory, calls the phpinfo() function without
+checking who the user is.
+
+An attacker can exploit this vulnerability by making a request for the
+system_footer.php script. The system will respond by disclosing
+information to a remote attacker.
+
+Information obtained in this manner may be used by an attacker to launch
+attacks against a vulnerable system.
+
+18. myPHPNuke Default_Theme Cross Site Scripting Vulnerability
+BugTraq ID: 6544
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6544
+Summary:
+
+myPHPNuke is a Web Portal System based on PHP-Nuke 4.4.1a. It is available
+for the Linux and Microsoft Windows operating systems.
+
+Reportedly, myPHPNuke does not adequately filter HTML code thus making it
+prone to cross-site scripting attacks. It is possible for a remote
+attacker to create a malicious link containing script code which will be
+executed in the browser of a legitimate user. All code will be executed
+within the context of the website running myPHPNuke.
+
+The vulnerability exists in the chatheader.php and partner.php script
+files included with myPHPNuke. Specifically, malicious HTML code is not
+properly sanitized from the value for the 'Default_Theme' URI parameter.
+
+This issue may be exploited to steal cookie-based authentication
+credentials from legitimate users of the website running the vulnerable
+software. The attacker may hijack the session of the legitimate by using
+cookie-based authentication credentials.
+
+This vulnerability was reported for myPHPNuke 1.8.8_final_7 and earlier.
+
+19. KaZaA Advertisement Local Zone Vulnerability
+BugTraq ID: 6543
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6543
+Summary:
+
+KaZaA Media Desktop is a peer to peer file sharing utility, available for
+Microsoft Windows based systems. A potential remote command execution
+vulnerability has been reported in some versions of KaZaA Media Desktop.
+
+By default all Internet content such as websites and advertisments are run
+within the 'Internet Zone'. Local content is run within the 'Local Zone'
+and is run with lower restrictions then the Internet Zone.
+
+It has been reported that KaZaA advertisement content is rendered in the
+systems Local Zone. This presents a security risk as it is possible for
+the content to execute arbitrary commands on the local system. This issue
+may also be exploited to disclose the contents of system files.
+
+20. CommuniGate Pro Webmail File Disclosure Vulnerability
+BugTraq ID: 6542
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6542
+Summary:
+
+CommuniGate Pro is an internet messaging server.  CommuniGate Pro includes
+a webmail service to allow access to mailboxes via HTTP.  It is available
+for a number of platforms including Unix and Linux variants and Microsoft
+Windows operating systems.
+
+A file disclosure vulnerability has been reported in the CommuniGate Pro
+webmail component.
+
+A specially crafted web request containing dot-dot-slash (../) directory
+traversal sequences may break out of the document root and disclose
+arbitrary web server readable files that exist on the underlying host.
+
+Exploitation of this vulnerability may lead to disclosure of sensitive
+information that may be useful in mounting further attacks on the host
+system.  The impact of this vulnerability is compounded by the fact that
+CommuniGate Pro runs as root by default, though may be configured to drop
+privileges.  This issue was reported for CommuniGate Pro on FreeBSD.  It
+is likely that the software is affected on other platforms as well.
+
+21. S8Forum Remote Command Execution Vulnerability
+BugTraq ID: 6547
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6547
+Summary:
+
+S8Forum is web forum software.  It employs a local flat-file database for
+storing user information.  It is available for Unix and Linux variants as
+well as Microsoft Windows operating systems.
+
+S8Forum is prone to a remote command execution vulnerability.
+
+When a user registers with the forum, a file is created locally with the
+specified username.  The contents of this file will be the data entered by
+the user.  As a result, a malicious user could create a file with an
+arbitrary name and PHP (.php) extension that contains valid PHP code.
+The attacker may then cause this file to be executed by requesting it via
+HTTP.
+
+This may result in execution of arbitrary commands with the privileges of
+the webserver process.  An attacker may exploit this condition to gain
+local, interactive access to the system hosting the vulnerable software.
+
+22. Active PHP Bookmarks Multiple File Include Vulnerabilities
+BugTraq ID: 6545
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6545
+Summary:
+
+Active PHP Bookmarks (APB) is a web-based application for managing a
+collection of bookmarks.  APB is available for Unix and Linux variants as
+well as Microsoft Windows operating systems.
+
+APB is prone to multiple issues which may allow a remote attacker to cause
+a malicious external file to be included and interpreted.
+
+Attackers may influence include paths for a number of APB scripts.  By
+specifying a path to a resource (such as a malicious PHP script) on a
+remote attacker-controlled server, it is possible to cause arbitrary
+commands to be executed with the privileges of the webserver process.
+
+This issue is known to exist in the following scripts:
+
+head.php
+apb_common.php
+apb_view_class.php
+
+23. Active PHP Bookmarks Arbitrary Bookmark Addition Vulnerability
+BugTraq ID: 6546
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6546
+Summary:
+
+Active PHP Bookmarks (APB) is prone to a vulnerability which may allow a
+remote attacker to add bookmarks arbitrarily.
+
+The user ID is stored in a hidden form field of the add_bookmark form.
+An attacker may submit this form with an arbitrary value in the
+appropriate form field.  For example, the attacker may edit a local copy
+of the form and then submit it with an arbitrary user ID.  This will
+permit the remote attacker to add bookmarks for any user.
+
+24. HTTP Fetcher Library Multiple Buffer Overflow Vulnerabilities
+BugTraq ID: 6531
+Remote: Yes
+Date Published: Jan 06 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6531
+Summary:
+
+HTTP Fetcher is a small library used for downloading files via HTTP using
+the GET method. It is available for various platforms including the Linux
+and Unix operating systems.
+
+Multiple buffer overflows have been discovered in HTTP Fetcher. The
+vulnerabilities occur in the http_fetch() function which is used to gather
+various HTTP header information. These buffer overflow occurs due to
+insufficient bounds checking of user-supplied parameters.
+
+It is possible to trigger these conditions by supplying excessive data as
+the 'host', 'referer', or 'userAgent' parameters. By exploiting one of
+these issues to overrun 'requestBuf', it may be possible for a remote
+attacker to overwrite sensitive memory.
+
+Successful exploitation of one of these vulnerabilities may allow an
+attacker to seize control of an application linked to the library. By
+overwriting the function's instruction pointer it may be possible to
+execute arbitrary commands.
+
+The exploitability of this issue may be an issue only if the client
+application were accessible remotely through a proxy server. For instance,
+a server which allowed a client to make GET requests from other servers.
+
+25. GeneWeb File Disclosure Vulnerability
+BugTraq ID: 6549
+Remote: Yes
+Date Published: Jan 07 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6549
+Summary:
+
+GeneWeb is Web based genealogy software. It is available for a variety of
+platforms including Linux variant operating systems.
+
+A file disclosure vulnerability has been reported for GeneWeb. Reportedly,
+GeneWeb does not adequately sanitize some input.
+
+An attacker can exploit this vulnerability to craft a specially formed URL
+that can cause geneweb to disclose the contents of arbitrary files on the
+vulnerable system.
+
+Although unconfirmed, it is likely that an attacker can construct a URL
+consisting of dot-dot-slash (../) character sequences to obtain access to
+files outside of the document root. It should be noted that only files
+accessible by the geneweb server will be disclosed to the attacker.
+
+Exploitation of this vulnerability may lead to disclosure of sensitive
+information that may be useful in mounting further attacks on the host
+system.
+
+This vulnerability affects GeneWeb versions 4.0.8 and earlier.
+
+26. cgihtml Signed Integer Content-Length Memory Corruption Vulnerability
+BugTraq ID: 6551
+Remote: Yes
+Date Published: Jan 07 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6551
+Summary:
+
+cgihtml is a series of CGI and HTML routines, implemented in C.  It can be
+run on a number of platforms, including Unix and Linux variants and
+Microsoft Windows.
+
+A vulnerability has been discovered in cgihtml which may result in memory
+corruption. The problem occurs when reading a user-supplied Content-Length
+value for POST data.
+
+An attacker is able to create a situation where memory may be overwritten
+by passing a negative length as the Content-Length value in a POST
+request. By passing excessive POST data it is possible for the attacker to
+overrun the allocated buffer, effectively overwriting heap memory. This
+may cause the affected program to crash.
+
+Although not yet confirmed, it may be possible to exploit this
+vulnerability to execute arbitrary code. Placing a malicious malloc header
+in heap memory may potentially allow an attacker to overwrite a GOT
+address to point to shellcode.
+
+27. cgihtml Denial Of Service Vulnerability
+BugTraq ID: 6555
+Remote: Yes
+Date Published: Jan 07 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6555
+Summary:
+
+cgihtml is a series of CGI and HTML routines, implemented in C.  It can be
+run on a number of platforms, including Unix and Linux variants and
+Microsoft Windows.
+
+A vulnerability has been discovered in cgihtml when processing Multipart
+HTTP headers. It has been reported that, when processing a multipart
+header, cgihtml fails to sufficiently verify the sanity of the header
+structure. This may result in an affected application reading invalid
+values supplied 38 bytes within a malicious header.
+
+If this situation were to occur it may be possible for the attacker to
+cause the application to crash. Although it has not yet been confirmed, it
+is speculated that cgihtml contains other vulnerabilities similar to this
+issue.
+
+28. CGIHTML Form Data File Corruption Vulnerability
+BugTraq ID: 6550
+Remote: Yes
+Date Published: Jan 07 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6550
+Summary:
+
+cgihtml is a series of CGI and HTML routines, implemented in C.  It can be
+run on a number of platforms, including Unix and Linux variants and
+Microsoft Windows.
+
+When handling uploaded form-data, cgihtml creates a temporary file to
+store this data in /tmp or another user-specified directory.  The software
+uses the client supplied filename when creating the temporary file.  If
+the attacker supplies a malicious filename, such as one pre-pended with
+dot-dot-slash (../) directory traversal sequences, it may be possible to
+corrupt files outside of the specified temporary directory.
+
+The cause of this issue trust in user-supplied input.  The routines use a
+client-supplied filenames when creating temporary file.  The routines then
+do not sufficiently validate that the filename does not contain directory
+traversal sequences or has a name that may conflict with existing system
+files.
+
+For this attack to be successful, the targetted files must be writeable by
+a server process that utilizes the vulnerable cgihtml routines.
+
+29. CGIHTML Insecure Form-Data Temporary File Vulnerability
+BugTraq ID: 6552
+Remote: No
+Date Published: Jan 07 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6552
+Summary:
+
+cgihtml is a series of CGI and HTML routines, implemented in C.  It can be
+run on a number of platforms, including Unix and Linux variants and
+Microsoft Windows.
+
+When handling uploaded form-data, cgihtml creates a temporary file to
+store this data in /tmp or another user-specified directory.  A client
+supplied filename is used when the temporary file is created.  This
+presents a security vulnerability since the name of the temporary file can
+be anticipated by the attacker.
+
+A local attacker may take advantage of this condition to create a symbolic
+link in place of the temporary file, which points to another file on the
+system which is writeable by a server process which utilizes the
+vulnerable routines.  The vulnerable routines will follow any symbolic
+links provided in place of a temporary file.  The attacker may then submit
+a malicious form-data upload, using the attacker-supplied filename, and
+cause local files to be corrupted.
+
+If custom data can be written to files, it is possible to gain elevated
+privileges.
+
+30. TANne Session Manager SysLog Format String Vulnerability
+BugTraq ID: 6553
+Remote: Yes
+Date Published: Jan 07 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6553
+Summary:
+
+TANne is a freely available, open source session management package.  It
+is available for Unix and Linux operating systems.
+
+A problem with TANne may make it possible to execute arbitrary code.
+
+Due to programming error, it may be possible to exploit a format string
+vulnerability.  A logging function in the TANne program contains insecure
+syslog() calls.  This could result in the execution of attacker-supplied
+code.
+
+The problem is the in two syslog() calls in the netzio.c source file.
+When the program is invoked using the vulnerable function, it may be
+possible to exploit a format string vulnerability through the generation
+of a malicious log event which contains attacker-supplied format strings.
+In the event that this vulnerability is exploited, an attacker could cause
+arbitrary locations in memory to be corrupted with attacker-specified data
+and execute code with the privileges of the TANne user.
+
+31. A.ShopKart Multiple SQL Injection Vulnerabilities
+BugTraq ID: 6558
+Remote: Yes
+Date Published: Jan 08 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6558
+Summary:
+
+a.shopKart is a freely available shopping cart system.  It is implemented
+in ASP and is available for Microsoft Windows operating systems.
+
+a.shopKart is prone to multiple SQL injection vulnerabilities.
+
+Due to insufficient sanitization of user-supplied input passed to SQL
+queries, it may be possible to manipulate the logic of SQL queries.
+Depending on the nature of the individuals queries and the underlying
+database implementation, it may be possible to cause database corruption
+or disclose sensitive information from within the database.
+
+Multiple instances of these vulnerabilities exist in the following
+scripts:
+
+addcustomer.asp
+addprod.asp
+process.asp
+
+It was reported that the "zip", "state", "country", "phone" and "fax"
+fields in the 'addcustomer.asp' script may allow for SQL injection.
+Further details about the other vulnerable scripts were not provided.
+
+SQL injection attacks may also potentially be used to exploit latent
+vulnerabilities in the underlying database implementation.
+
+32. Horde IMP Database Files SQL Injection Vulnerabilities
+BugTraq ID: 6559
+Remote: Yes
+Date Published: Jan 08 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6559
+Summary:
+
+IMP is a web-based mail interface/client developed by members of the Horde
+project.  It is implemented in PHP and runs on a number of operating
+systems, including Unix and Linux variants and Microsoft Windows operating
+systems.
+
+It has been reported that IMP is prone to multiple SQL injection
+vulnerabilities.
+
+IMP, in some cases, does not sufficiently sanitize user-supplied input
+which is used when constructing SQL queries to execute on the underlying
+database.  As a result, it is possible to manipulate SQL queries.  This
+may allow a remote attacker to modify query logic or potentially corrupt
+the database.  Consequences will vary depending on the queries used and
+the capabilities of the underlying database implementation.
+
+These issues occur throughout the database command files for different
+database implementations, for example 'lib/db.pgsql'.  These files contain
+syntax for constructing queries with using database implementations.
+
+SQL injection attacks may also potentially be used to exploit latent
+vulnerabilities in the underlying database implementation.
+
+33. AJ's Internet Cafe World-Writeable Files Vulnerability
+BugTraq ID: 6560
+Remote: No
+Date Published: Jan 08 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6560
+Summary:
+
+AJ's Internet Cafe is a freely available internet cafe software package
+for use with the Linux Thin Client Project software.
+
+A problem with AJ's Internet Cafe may allow unauthorized write access to
+files.
+
+It has been reported that AJ's Internet Cafe installs with insecure
+permissions.  By default, many files installed with the package are
+world-writeable.  This may allow users to modify the contents to gain free
+time on the host, or perform other malicious activities.
+
+34. AppIdeas MyCart Information Disclosure Vulnerability
+BugTraq ID: 6561
+Remote: Yes
+Date Published: Jan 09 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6561
+Summary:
+
+AppIdeas' MyCart is a collection of PHP scripts designed for use as a
+shopping cart system.
+
+It has been reported that MyCart is prone to an information disclosure
+vulnerability. The vulnerability is due to insufficient sanitization of
+user-supplied input.
+
+The precise nature of this vulnerability is not known however it has been
+reported that several PHP scripts included with MyCart are prone to this
+issue.
+
+An attacker can exploit the vulnerability in several scripts to cause
+MyCart to disclose sensitive information.
+
+This vulnerability has been reported for MyCart 2.0. It is not known
+whether other versions are affected.
+
+35. Macromedia ColdFusion MX CFInclude And CFModule Tag Sandbox Escaping Vu=
+lnerability
+BugTraq ID: 6566
+Remote: Yes
+Date Published: Jan 09 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6566
+Summary:
+
+ColdFusion MX Enterprise Edition is the application server developing and
+hosting infrastructure distributed by Macromedia.  It is available as a
+standalone product for Unix, Linux, and Microsoft Operating Systems.
+
+A problem with ColdFusion MX Enterprise Edition may allow users to access
+restricted files.
+
+A vulnerability in the use of the cfinclude and cfmodule Tags exists in
+ColdFusion MX.  In environments that are sandboxed, it may be possible for
+a script to access files outside of the sandboxed directory.  This could
+lead to unauthorized access to files on the host.
+
+The problem is in the handling of relative paths.  Due to insufficient
+checking of input in custom tags, it is possible to upload a file using
+custom tags and containing relative paths that will access files outside
+of a sandboxed directory.  This could allow an attacker to access
+unauthorized and potentially sensitive information.
+
+It should be noted that this vulnerability will only reveal the contents
+of files to which the ColdFusion server has read access to.
+
+36. Business Objects WebIntelligence Application Session Hijacking Vulnerab=
+ility
+BugTraq ID: 6569
+Remote: Yes
+Date Published: Jan 09 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6569
+Summary:
+
+WebIntelligence is an analysis tool for business intelligence.  It is
+distributed by Business Objects, and available for the Unix and Microsoft
+Windows platforms.
+
+A problem with the WebIntelligence application could make it possible for
+remote users to hijack sessions.
+
+It has been reported that WebIntelligence uses an insecure model for
+ensuring session security.  The application uses web-type security
+features that may be prone to hijacking.  This could allow a remote user
+to gain unauthorized access to another user's session.
+
+The problem is that the application uses cookies with guessable values to
+secure user sessions.  It has also been suggested that a remote attacker
+may use other means to steal cookie-based authentication credentials from
+legitimate users.  By gaining access to the application's session cookie,
+another user could gain complete access to the user's session, and perform
+all actions with the privileges of the victim.  This vulnerability however
+does not permit the changing of user passwords.
+
+37. FormMail Cross-Site Scripting Vulnerability
+BugTraq ID: 6570
+Remote: Yes
+Date Published: Jan 09 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6570
+Summary:
+
+FormMail is a web-based e-mail gateway, which allows form-based input to
+be emailed to a specified user. It is written in Perl and will run on most
+Linux and Unix variants, in addition to Microsoft Windows operating
+systems.
+
+FormMail is allegedly prone to cross-site scripting attacks.
+
+The FormMail script does not sufficiently sanitize HTML tags and script
+code from query strings, which in turn are output into pages generated by
+the software.  As a result, a remote attacker may construct a malicious
+link to the script which contains arbitrary script code.  If this link is
+visited by a web user, the attacker-supplied script code may be
+interpreted by their browser in the context of the site hosting the
+software.
+
+This may allow an attacker to steal cookie-based authentication
+credentials or manipulate web content.  Other attacks are also possible.
+
+This issue was reported in FormMail 1.92.  Other versions may also be
+affected.
+
+38. Mambo Site Server Multiple Cross Site Scripting Vulnerabilities
+BugTraq ID: 6571
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6571
+Summary:
+
+Mambo Site Server is a freely available, open source web content
+management tool. It is written in PHP, and available for Unix, Linux, and
+Microsoft Windows operating systems.
+
+Mambo Site Server does not adequately filter HTML code thus making it
+prone to cross-site scripting attacks. It is possible for a remote
+attacker to create a malicious link containing script code which will be
+executed in the browser of a legitimate user. All code will be executed
+within the context of the website running Mambo Site Server.
+
+The following files were reported to be prone to cross site scripting attac=
+ks:
+administrator/popups/sectionswindow.php
+administrator/gallery/gallery.php
+administrator/gallery/navigation.php
+administrator/gallery/uploadimage.php
+administrator/gallery/view.php
+administrator/upload.php
+themes/mambosimple.php
+upload.php
+emailfriend/emailarticle.php
+emailfriend/emailfaq.php
+emailfriend/emailnews.php
+
+This issue may be exploited to steal cookie-based authentication
+credentials from legitimate users of the website running the vulnerable
+software. The attacker may hijack the session of the legitimate by using
+cookie-based authentication credentials.
+
+This vulnerability was reported for Mambo Site Server 4.0.12 BETA and
+earlier.
+
+39. Mambo Site Server Arbitrary File Upload Vulnerability
+BugTraq ID: 6572
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6572
+Summary:
+
+Mambo Site Server is a freely available, open source web content
+management tool. It is written in PHP, and available for Unix, Linux, and
+Microsoft Windows operating systems.
+
+A problem with Mambo Site Server may make it possible for remote attackers
+to upload files to a vulnerable system.
+
+Due to inadequate security checks performed by some PHP scripts, an
+attacker is able to upload arbitrary files to the system. The following
+scripts have been reported to be vulnerable to this issue:
+administrator/gallery/uploadimage.php administrator/upload.php upload.php
+
+Specifically, the scripts only check to see whether certain image
+extensions, such as '.jpg' and '.gif', exist in the filename. As such any
+file that includes the allowed extensions may be uploaded. Any uploaded
+files will be stored in the 'images/stories' directory on the system.
+
+Given the ability to upload arbitrary files to the host, an attacker can
+exploit this vulnerability to upload malicious applications to the
+vulnerable system or use the system for the storage of files.
+
+This vulnerability was reported for Mambo Site Server 4.0.12 BETA and
+earlier.
+
+40. Efficient Networks DSL Router Denial Of Service Vulnerability
+BugTraq ID: 6573
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6573
+Summary:
+
+A denial of service vulnerability has been reported for the Efficient
+Networks 5861 line of DSL routers.
+
+The vulnerability can be triggered when the router is configured to block
+incoming TCP SYN flags and is subsequently portscanned.
+
+An attacker can exploit this vulnerability by portscanning a vulnerable
+DSL router on its WAN interface. When this occurs the device will
+reportedly lock up and then restart after a period of time. Repeated
+portscans may allow an attacker to cause the vulnerable device from
+responding indefinitely resulting in a complete denial of service
+condition.
+
+This vulnerability was reported to affect the Efficient Networks 5861 DSL
+Router. It is likely that other DSL router products are similarly
+affected.
+
+41. Follett Software WebCollection Plus File Reading Vulnerability
+BugTraq ID: 6574
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6574
+Summary:
+
+Follett Software WebCollection Plus is software that allows libraries to
+publish their collections online.  It is available for Windows and NetWare
+platforms.
+
+WebCollection Plus attempts to prevent reading files outside of the web
+root by filtering requests containing ':' characters or excessive '.'
+characters.  It is still possible to gain read access to files in the root
+of the drive containing the web root.
+
+By prepending a '/' character to a file name in the URL request,
+WebCollection Plus will serve the contents of the file.
+
+This vulnerability was reported to exist in WebCollection Plus version
+5.00, but other versions may also be vulnerable.
+
+42. BRS WebWeaver MKDir FTP Root Path Disclosure Vulnerability
+BugTraq ID: 6576
+Remote: No
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6576
+Summary:
+
+BRS WebWeaver is an ftpd and webserver from Blaine Southam.
+
+WebWeaver's FTP component has a flaw which can permit a remote user to
+learn the physical path to the FTP service's root directory.
+
+By submitting the FTP command mkdir argumented by a previously existing
+directory, the attacker can cause an error message to be generated by
+WebWeaver which includes the path for the FTP root.
+
+Properly exploited, this information could assist a hostile user in
+carrying out other attacks on the system.
+
+43. Half-Life ClanMod Plugin Remote Format String Vulnerability
+BugTraq ID: 6577
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6577
+Summary:
+
+Half-Life is commercially available game which may be played over a
+network. 'rcon' authentication is given to users for various adminstrative
+abilities on the server.
+
+ClanMod is a plugin designed to offer extended features to Half-Life
+server admins by providing an in-game menu system, scheduled tasks, custom
+command and task declarations, specialized configs and addons to ease the
+admin's task of administration.
+
+A format string vulnerability has been discovered in ClanMod. It has been
+reported that an rcon authenticated user may trigger this vulnerability
+through the 'cm_log' command. This command is used to write messages to
+the server log file. Due to insufficient format specifiers in a vfprintf()
+call by the logging function, it is possible for an attacker to supply
+their own format string.
+
+By passing a vulnerable server malicious format specifiers it is possible
+for an attacker to write to arbitrary locations in memory. This may allow
+an attacker to overwrite the servers GOT entries or other sensitive data
+which would allow the execution of malicious instructions.
+
+44. Half-Life AdminMod Plugin Remote Format String Vulnerability
+BugTraq ID: 6580
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6580
+Summary:
+
+Half-Life is commercially available game which may be played over a
+network. 'rcon' authentication is given to users for various adminstrative
+abilities on the server.
+
+A format string vulnerability has been discovered in the Half-Life
+AdminMod plugin. The problem occurs in commands which call the
+selfmessage() function, which is used by other functions to write a
+message to the users console. The format string occurs when the
+System_Response() function is called by selfmessage() to log the
+administrative command. The following AdminMod commands are affected by
+this issue:
+
+admin_ban
+admin_banip
+admin_bury
+admin_execclient
+admin_gag
+admin_godmode
+admin_kick
+admin_llama
+admin_map
+admin_noclip
+admin_psay
+admin_slap
+admin_slay
+admin_teleport
+admin_unbury
+admin_ungag
+admin_unllama
+admin_userorigin
+admin_vote_kick
+admin_vote_map
+
+By passing a vulnerable server malicious format specifiers it is possible
+for an 'rcon' authenticated attacker to write to arbitrary locations in
+memory. This may allow an attacker to overwrite the servers GOT entries or
+other sensitive data which would allow the execution of malicious
+instructions.
+
+45. Half-Life StatsMe Plug-in CMD_ARGV Buffer Overflow Vulnerability
+BugTraq ID: 6575
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6575
+Summary:
+
+Half-Life is commercially available game which may be played over a
+network.  StatsMe is a plug-in for Half-Life Dedicated Server which
+provides game statistics.  'rcon' authentication is given to users for
+various adminstrative abilities on the server.
+
+The Half-Life StatsMe plug-in is prone to an exploitable buffer overflow
+condition.  This issue may be exploited by an attacker who can
+authenticate with the rcon-password of the Half-Life server to execute
+arbitrary code in the context of the server process.
+
+User-supplied input is stored in the CMD_ARGV variable and used in a
+sscanf() operation, without any bounds checking.  As a result, it is
+possible to corrupt memory (such as stack variables) with
+attacker-supplied values.
+
+Exploitation may be dependant on which other plug-ins are running on the
+Half-Life server.  It has been reported that the "szBuffor" buffer has to
+lie on an address with printable characters for exploitation to be
+successful.
+
+Successful exploitation will allow an attacker to gain local and possibly
+privileged access to the host running the server.
+
+46. Half-Life StatsMe Plug-in MakeStats Format String Vulnerability
+BugTraq ID: 6578
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6578
+Summary:
+
+Half-Life is commercially available game which may be played over a
+network.  StatsMe is a plug-in for Half-Life Dedicated Server which
+provides game statistics.  'rcon' authentication is given to users for
+various adminstrative abilities on the server.
+
+The Half-Life StatsMe plug-in is prone to an exploitable format string
+vulnerability.  This issue may be exploited by an attacker who can
+authenticate with the rcon-password of the Half-Life server to execute
+arbitrary code in the context of the server process.  This issue exists in
+the MakeStats function in the 'statsme.cpp' source file.  The printf()
+function is used without any format specifiers.  An attacker may exploit
+this condition to overwrite arbitrary locations in memory with
+attacker-supplied values, potentially resulting in execution of arbitrary
+code.
+
+Exploitation may be dependant on which other plug-ins are running on the
+Half-Life server.  It has been reported that the "szBuffor" buffer has to
+lie on an address with printable characters for exploitation to be
+successful.
+
+Successful exploitation will allow an attacker to gain local and possibly
+privileged access to the host running the server.
+
+47. Half-Life HLTV Remote Denial Of Service Vulnerability
+BugTraq ID: 6579
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6579
+Summary:
+
+Half-Life is commercially available game which may be played over a
+network.  HLTV is the Half-Life TV component of the Half-Life Dedicated
+Server (hlds).  It is available for the Linux operating system.
+
+A problem with HLTV could make it possible for a remote user to deny
+service to legitimate users.
+
+It has been reported that under some circumstances, a remote user may
+cause the service to crash.  By sending a specially crafted packet to the
+host, the service becomes unstable.  The service must be manually
+restarted to resume normal operation.
+
+The problem is in the handling of specific types of requests from clients.
+When an HLTV server receives a request of the string '\xff\xff\xff\xff\0'
+the server crashes.  It is not know what impact this has on the operation
+of the game server.
+
+Versions other than hlds 3.1.1.0 may also be affected.
+
+48. SCO UnixWare/Open UNIX PS Buffer Overflow Vulnerability
+BugTraq ID: 6583
+Remote: No
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6583
+Summary:
+
+UnixWare and Open UNIX are operating systems distributed by SCO.
+
+The SCO UnixWare/Open UNIX ps utility is prone to a locally exploitable
+buffer overflow condition.
+
+This issue is due to insufficient bounds checking of arguments in command
+line options.  An attacker may invoke the utility with malformed
+arguments, causing sensitive regions of memory to be corrupted with
+attacker-supplied data.  This may allow an attacker to cause arbitrary
+code to be executed.
+
+While this utility is not installed setuid/setgid, it calls
+procprivl(SETPRV,pm_work(P_MACREAD).  The procprivl() function may be used
+to count, add, remove or put privileges associated with the calling
+process.  Due to the use of this function, it may be possible to exploit
+this vulnerability to execute arbitrary code with elevated privileges.
+
+49. Middleman net_dns() Frame Pointer Overwrite Vulnerability
+BugTraq ID: 6584
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6584
+Summary:
+
+Middleman is an HTTP/1.1 proxy server. It is available for the Linux and
+Unix operating systems.
+
+A vulnerability has been discovered in Middleman. The problem occurs when
+the net_dns() function calls s_strncpy() during a DNS lookup of the
+request server hostname. The s_strncpy() function is a wrapper for
+strncpy(), designed to NULL terminate all copied strings. When the
+s_strncpy() function is called on the requested host name of 128 bytes, a
+NULL byte may be written to the least significant byte (LSB) of the
+functions frame pointer (EBP). This issue occurs due to an incorrect
+length parameter passed to s_strncpy().
+
+Overwriting the least significant bit of EBP with a NULL byte may allow an
+attacker to point the variable into user-supplied data. As EBP is copied
+to the frames stack pointer (ESP), an attacker may trick the program into
+referencing a malicious address as an instruction pointer. This will allow
+an attacker to execute arbitrary commands with the privileges of the
+vulnerable server, possibly root.
+
+It should be noted that this issue may not occur on all systems. The
+existance of this vulnerability may be highly dependant on compiler
+optimization.
+
+50. BRS WebWeaver MKDir Directory Traversal Weakness
+BugTraq ID: 6585
+Remote: Yes
+Date Published: Jan 10 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6585
+Summary:
+
+BRS WebWeaver is an ftpd and webserver from Blaine Southam.
+
+WebWeaver's FTP component has a flaw which can permit a remote user to
+create directories outside the FTP root.
+
+By executing the mkdir command on an ftp server with dot-dot-slash (..\)
+directory traversal notation, an attacker can create a directory outside
+of the FTP root.
+
+This weakness could possibly be used in combination with other
+vulnerabilities to exploit a system for some gain, such as denial of
+service or elevated privileges.  It should be noted that this weakness
+will not allow users to clobber directories.
+
+51. Bea Systems WebLogic ResourceAllocationException System Password Disclo=
+sure Vulnerability
+BugTraq ID: 6586
+Remote: Yes
+Date Published: Jan 11 2003 12:00AM
+Relevant URL:
+http://www.securityfocus.com/bid/6586
+Summary:
+
+BEA Systems WebLogic Server is an enterprise level web and wireless
+application server for Microsoft Windows and most Unix and Linux
+distributions.
+
+A vulnerability in BEA Systems WebLogic Server may, under some
+circumstances, result in the disclosure of system passwords if exceptions
+are output.
+
+BEA Systems has reported that WebLogic Server will throw an exception when
+an application attempts to route a JMS message across a bridge and an
+error occurs.  This exception will include the supplied system password,
+in plaintext.
+
+Applications that output exceptions may inadvertently disclose password
+values.  This may ultimately result in a remote party gaining access to
+affected systems.
+
+
+III. SECURITYFOCUS NEWS AND COMMENTARY
+------------------------------------------
+1. Feds seek public input on hacker sentencing
+By Kevin Poulsen
+
+Should computer intruders and virus writers spend more time in prison, or
+less? Should a hacker's motives be considered? The U.S. commission that
+decides federal sentences wants your opinion.
+
+http://online.securityfocus.com/news/2028
+
+2. RIAA defaced -again!
+By Drew Cullen, The Register
+
+Reader reports are flooding in that the RIAA.org has been defaced - again.
+
+http://online.securityfocus.com/news/2036
+
+3. The View From Symantec's Security Central
+By Leslie Walker, TechNews.com
+
+An ordinary office building on Route 1 in Alexandria offers a rare window
+into the Internet hacker wars and a few clues to why Uncle Sam wants more
+monitoring capabilities in cyberspace.
+
+http://online.securityfocus.com/news/2007
+
+4. The return of the celebrity virus
+By John Leyden, The Register
+
+A worm written in apparent tribute to Canadian singer/skater chick Avril
+Lavigne is spreading across the Net today.
+
+http://online.securityfocus.com/news/2006
+
+
+IV. SECURITYFOCUS TOP 6 TOOLS
+-----------------------------
+1. RSA implementation in Octave v0.01
+by xilun
+Relevant URL:
+http://xilun666.free.fr/rsa.m
+Platforms: Os Independent
+Summary:
+
+RSA implementation in Octave is a short, dirty, and very slow
+implementation of the cryptographic primitives of the RSA public key
+algorithm, using GNU Octave. It includes functions to work on big numbers,
+modular exponentiation, modular inversion, probabilistic prime numbers
+generators, key pair generators, and functions to encrypt and decrypt
+files using a rather insecure scheme.
+
+2. e2undel v0.81
+by Oliver Diedrich e2undel@users.sourceforge.net
+Relevant URL:
+http://e2undel.sourceforge.net
+Platforms: Linux, POSIX
+Summary:
+
+e2undel is an interactive console tool that recovers the data of deleted
+files on an ext2 file system under Linux. A library that allows you to
+recover deleted files by name is included. e2undel does not manipulate any
+internal ext2 structures, and it does not require any additional tools. It
+should be useable without knowledge of the ext2 interna.
+
+3. RSA encrypting tool v0.11
+by Tomasz Pyra
+Relevant URL:
+http://sedez.iq.pl/~hellfire/rsa/
+Platforms: Linux, POSIX
+Summary:
+
+This is a simple RSA algorithm implementation.
+
+4. System Statistics Remote Checker v0.8
+by Stanley
+Relevant URL:
+http://www.stanley.art.pl/
+Platforms: Linux, POSIX
+Summary:
+
+SSRC (System Statistics Remote Checker) is a quite smart program written
+in C++. It's a little server that allows the systems administrator to
+remotely check its statistics and status. It gives information like how
+many currently-logged-in users, how many currently-running processes,
+percent of free RAM and swap, time at server, and more.
+
+5. Pathalizer v0.3
+by Arnout Engelen
+Relevant URL:
+http://pathalizer.bzzt.net
+Platforms: FreeBSD, Linux, POSIX
+Summary:
+
+Pathalizer is a tool for visualizing the paths most users take when
+browsing a Web site. This information can be used to decide how to improve
+the navigation of the site, and for determining wihch parts are most worth
+improving and keeping up to date. It generates a directed, weighed graph
+from an Apache log, but could easily be modified to analyze any list of
+events.
+
+6. Packetflow Firewall Generator v0.7
+by pfrieden
+Relevant URL:
+http://packetflowfw.sourceforge.net/
+Platforms: Os Independent
+Summary:
+
+PacketFlow Firewall Generator is an XML-based firewall generator. It takes
+an XML configuration file that defines the firewall policy and generates a
+list of iptables commands to implement this policy. It is primarily
+intended for use on dedicated firewalls, but it can be used in other
+scenarios. It makes dealing with many interfaces easy. PacketFlow works on
+the concept of interface "security levels." New connections are allowed to
+flow down hill from interfaces with a high security level to interfaces
+with a low security level. This approach tends to make rule sets much
+shorter, even with many interfaces. Access lists allow you to override the
+default behavior of the security levels. Access lists are defined between
+interfaces. There is also support for incoming, outgoing, and wildcard
+access lists. Wildcard access lists allow you to easily allow new
+connections to a particular service from any interface.
+
+
+V. SECURITY JOBS SUMMARY
+------------------------
+1. Senior Federal Territory Manager (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306354
+
+2. Information Security Analyst (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306353
+
+3. IDS Signature Engineer needed now! (revised) (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306352
+
+4. IDS Signature Engineer needed now! (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306173
+
+5. Security Position with Bristol-Myers Squibb-Hopewell-NJ (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306308
+
+6. Seeking internship or entry-level position (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306144
+
+7. Looking for a security based role (no expierence) (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306194
+
+8. @stake Employment in Seattle (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306101
+
+9. Looking for security job opportunity in Northern California/Central Vall=
+ey. (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306100
+
+10. Sales / Account Manager - Information Security Solutions (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306016
+
+11. VP of Sales - NJ - #730 (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306049
+
+12. Entrust Ops Engineer and Technical Support. Contract Saudi Arabia (Thre=
+ad)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306246
+
+13. Hi Alfred!! (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/306280
+
+14. Security Account Manager - OTTAWA, Canada - Government focus (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305764
+
+15. Sun security position available... (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305736
+
+16. Senior Risk Assessment Scientist - Chicago, IL - EOE (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305535
+
+17. Senior Security Architect - Chicago - up to $110,000 (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305478
+
+18. PKI Identrus Eleanor Expertise available (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305591
+
+19. Looking for an internship(SSCP/CCNA) (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305543
+
+20. Senior Systems Security Engineer - Baltimore/Washington DC (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305511
+
+21. Security Design and Support Engineer - Baltimore/Wasington DC (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305504
+
+22. Senior Security Engineer - Baltimore/Washington, DC (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305490
+
+23. ISS Certified Contract Role Saudi Arabia (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305532
+
+24. Sr. Project Manager - Employee Monitoring Solutions (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305526
+
+25. US - MD - Baltimore Area - Web Security Positions & Security    Monitor=
+ing Positions (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305474
+
+26. Development Manager Needed (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305385
+
+27. Needed for Long term contract w/Full benefits-SYSTEMS ENGINEER/CISSP (T=
+hread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305355
+
+28. "I am seeking" Sr. Security Position in Colorado area.  CISSP    CCNA C=
+CNP CCSA CCSE (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/77/305328
+
+
+VI. INCIDENTS LIST SUMMARY
+-------------------------
+1. Hacked web server (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/306361
+
+2. Virus?  Trojan? (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/306360
+
+3. IRC -> smtp worm? (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/306258
+
+4. Curious "spam" (or broken viral payload)... (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/306244
+
+5. Any known exploit for the samba 2.2.2-2.2.6 encrypted password vuln? (Th=
+read)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/305777
+
+6. /sumthin Revisited (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/305795
+
+7. Possible google hack (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/305598
+
+8. Root password changed (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/305569
+
+9. Re[2]: Spoofed RFC1918 Network Source Addresses... (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/305560
+
+10. Subseven 2.2 Server? (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/305528
+
+11. PDL anti-spam blacklist (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/75/305482
+
+
+VII. VULN-DEV RESEARCH LIST SUMMARY
+----------------------------------
+1. NO NEW POSTS FOR THE WEEK ENDING 01.10.03
+
+
+VIII. MICROSOFT FOCUS LIST SUMMARY
+---------------------------------
+1. AD replication over WAN (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/88/306287
+
+2. FW: Tools for changing WMI namespace ACL's (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/88/305471
+
+3. SecurityFocus Microsoft Newsletter #120 (Thread)
+Relevant URL:
+
+http://online.securityfocus.com/archive/88/305354
+
+
+IX. SUN FOCUS LIST SUMMARY
+----------------------------
+1. NO NEW POSTS FOR THE WEEK ENDING 01.10.03
+
+
+X. LINUX FOCUS LIST SUMMARY
+---------------------------
+1. NO NEW POSTS FOR THE WEEK ENDING 01.10.03
+
+
+XI. SPONSOR INFORMATION
+-----------------------
+This Issue is Sponsored by: SPI Dynamics
+
+ALERT: Exploiting Web Applications- A Step-by-Step Attack Analysis Learn
+why 70% of today's successful hacks involve Web Application attacks such
+as: SQL Injection, XSS, Cookie Manipulation, and Parameter Manipulation.
+All undetectable by Firewalls and IDS!
+
+Download *FREE* white paper from SPI Dynamics for a complete guide to
+protection!
+
+http://www.spidynamics.com/mktg/webappsecurity42
+---------------------------------------------------------------------------=
+----
+

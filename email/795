@@ -1,0 +1,149 @@
+Received: (qmail 1910 invoked from network); 8 Jan 2003 05:01:15 -0000
+Received: from dev211.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 8 Jan 2003 05:01:15 -0000
+Received: (qmail 4123 invoked by uid 99); 8 Jan 2003 05:01:14 -0000
+Message-ID: <20030108050114.12235.qmail@mailshell.com>
+Received: (qmail 27837 invoked from network); 8 Jan 2003 05:01:06 -0000
+Received: from unknown (HELO listserv.iupui.edu) (134.68.220.184)
+  by www.mailshell.com with SMTP; 8 Jan 2003 05:01:06 -0000
+Received: from in-uits-listsrv (listserv.iupui.edu) by listserv.iupui.edu (LSMTP for Windows NT v1.1b) with SMTP id <0.007D67B8@listserv.iupui.edu>; Wed, 8 Jan 2003 0:00:58 -0500
+Date:     Wed, 8 Jan 2003 00:00:58 -0500
+Reply-To: PageMaker for Desktop Publishers <PAGEMAKR@LISTSERV.IUPUI.EDU>
+Sender: PageMaker for Desktop Publishers <PAGEMAKR@LISTSERV.IUPUI.EDU>
+From: Automatic digest processor <LISTSERV@LISTSERV.IUPUI.EDU>
+Subject:  PAGEMAKR Digest - 6 Jan 2003 to 7 Jan 2003 (#2003-8)
+To: "Mailshell User" <nospam@mailshell.com>
+Precedence: list
+
+There are 6 messages totalling 129 lines in this issue.
+
+Topics of the day:
+
+  1. Calendar scripts for 2003 & later (4)
+  2. OT: INDY v QWRK
+  3. X11 on mac
+
+------------------------------------------------------------------------
+This is the digest version of the PAGEMAKR mailing list. To unsubscribe,
+send the command SIGNOFF PAGEMAKR to LISTSERV@LISTSERV.IUPUI.EDU. For
+more info, write to the listowner at PAGEMAKR-REQUEST@LISTSERV.IUPUI.EDU
+or see our web site at <http://www.makingpages.org/pagemaker/>.   Thanks!
+
+----------------------------------------------------------------------
+
+Date:    Tue, 7 Jan 2003 15:05:12 +0700
+From:    Berkompas in Bangkok <kompas@KSC15.TH.COM>
+Subject: Calendar scripts for 2003 & later
+
+Happy New Year, Everyone!
+
+In preparing a newsletter each month, we use the PM calendar script... but
+it doesn't go any later than 2002 in our version of PM 6.52. Is there
+someplace I can download a newer script? It's no fun trying to do montly
+calendars by hand!
+
+Thanks so much!
+Joette
+-------
+--
+Joette in Bangkok  <kompas@ksc15.th.com>
+Women Advancing Research & Education: http://project-aware.org/
+Asian art and culture magazine: http://awc_th.tripod.com/sawaddi.html
+
+------------------------------
+
+Date:    Tue, 7 Jan 2003 09:44:15 +0100
+From:    Massimo Mezzini <dtp@MENOUNO.COM>
+Subject: Re: Calendar scripts for 2003 & later
+
+On 7 Jan 2003 at 15:05, Berkompas in Bangkok wrote:
+
+> In preparing a newsletter each month, we use the PM calendar script...
+> but it doesn't go any later than 2002 in our version of PM 6.52. Is
+> there someplace I can download a newer script? It's no fun trying to
+> do montly calendars by hand!
+
+This one should be the calendar_1 template we talked about recently
+here. Just edit the script and add to the year list (there should be
+two), respecting the format:
+
+listbox 160,90,240,154,"1996","1997","1998","1999","2000","2001","2002","2003"
+
+ciao
+
+Massimo
+
+------------------------------
+
+Date:    Tue, 7 Jan 2003 08:06:28 EST
+From:    Carol Majors <MajorsPubl@AOL.COM>
+Subject: Re: Calendar scripts for 2003 & later
+
+In a message dated 1/7/03 3:13:12 AM, kompas@KSC15.TH.COM wrote:
+
+<<
+In preparing a newsletter each month, we use the PM calendar script... but
+it doesn't go any later than 2002 in our version of PM 6.52. Is there
+someplace I can download a newer script? It's no fun trying to do montly
+calendars by hand!>>
+
+
+If you need the new dates, I sent them to this listserve in Dec.  HTH. Carol M
+
+------------------------------
+
+Date:    Tue, 7 Jan 2003 13:05:52 -0500
+From:    Carol Majors <MajorsPubl@AOL.COM>
+Subject: OT: INDY v QWRK
+
+from creativepro.com:
+
+When the clock struck midnight on December 31, after kissing the person closest to you, did you sit back and reflect on 2002? After pondering personal milestones and professional achievements, did you stop to think about what technologies and products made a difference this year? No? Well, have no fear because we did. Just before the end of the year, our contributing writers took a few moments to comment on the key events of 2002 and speculate on what's to come in 2003. Not surprisingly, the fireworks over QuarkXPress 5 and InDesign 2 topped many pundits' lists.
+
+"As a palindrome year, it was hard to tell if we were coming or going during 2002. Certainly the year started off with a bang with the almost simultaneous (only seven days apart) releases of QuarkXPress 5 and InDesign 2. For the first few months of their releases, the competition was hot and heavy between the two programs. Most reviewers gave InDesign high marks while the scores for QuarkXPress were a little less positive. By the end of the year, though, the most scathing comment on the success of QuarkXPress was an e-mail from Quark Inc. offering QuarkXPress 4.1 for sale. Oh well, if you can't sell the new product, sell the old one."
+
+http://www.creativepro.com/story/feature/18490.html
+
+------------------------------
+
+Date:    Wed, 8 Jan 2003 07:44:15 +0700
+From:    Berkompas in Bangkok <kompas@KSC15.TH.COM>
+Subject: Re: Calendar scripts for 2003 & later
+
+Thanks, Carol. I was set to nomail for a couple of months and missed that.
+Geoff sent me both versions offlist. He's sure quicker than the digest!
+I so appreciate the help on this list!
+
+Joette
+
+At 8:06 AM -0500 1/7/03, MajorsPubl@aol.com wrote:
+>In a message dated 1/7/03 3:13:12 AM, kompas@KSC15.TH.COM wrote:
+>
+><<
+>In preparing a newsletter each month, we use the PM calendar script... but
+>it doesn't go any later than 2002 in our version of PM 6.52. Is there
+>someplace I can download a newer script? It's no fun trying to do montly
+>calendars by hand!>>
+>
+>
+>If you need the new dates, I sent them to this listserve in Dec.  HTH. Carol M
+
+------------------------------
+
+Date:    Wed, 8 Jan 2003 15:14:59 +1100
+From:    Geoffrey Heard <gheard@SURF.NET.AU>
+Subject: X11 on mac
+
+Hi people
+
+Check this: <http://www.apple.com/macosx/x11/>
+
+(Then tell me what it means!)
+
+Cheers
+Geoff
+
+------------------------------
+
+End of PAGEMAKR Digest - 6 Jan 2003 to 7 Jan 2003 (#2003-8)
+***********************************************************

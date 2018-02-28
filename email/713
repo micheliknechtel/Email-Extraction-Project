@@ -1,0 +1,273 @@
+Received: (qmail 19067 invoked from network); 7 Jan 2003 22:02:00 -0000
+Received: from dev210.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 7 Jan 2003 22:02:00 -0000
+Received: (qmail 15875 invoked by uid 99); 7 Jan 2003 22:02:00 -0000
+Received: (qmail 27406 invoked from network); 7 Jan 2003 22:01:58 -0000
+Received: from unknown (HELO intm7.sparklist.com) (216.91.57.136)
+  by www.mailshell.com with SMTP; 7 Jan 2003 22:01:58 -0000
+X-Mailer: Lyris ListManager Web Interface
+Date: Tue, 7 Jan 2003 13:34:46 -0800
+Subject: Internet.com's WebDeveloper.com(R) News Tuesday Jan. 7, 2003
+To: "Mailshell User" <nospam@mailshell.com>
+From: Webdeveloper-Weekly <listsupport@internet.com>
+List-Unsubscribe: <mailto:leave-webdeveloper-weekly-text-3552489L@list7.internet.com>
+Reply-To: Webdeveloper-Weekly <listsupport@internet.com>
+Message-Id: <INTM-3552489-2705009-2003.01.07-13.59.31--nospam#mailshell.com@list7.internet.com>
+
+ 
+**************************************************
+Internet.com's WebDeveloper.com(R) News
+Tuesday Jan. 7, 2003
+Delivered twice a week by highly skilled mailbots
+**************************************************
+
+___________________________ Sponsors ________________________________
+ 
+                  This newsletter sponsored by:  
+                         Jupiter Events
+_____________________________________________________________________
+
+=========================================================
+--------   NEWS AND VIEWS   --------
+
+--NEWS
+1. Macromedia Updates ColdFusion for J2EE, Adds OS Support
+2. SGI Uncloaks Linux Super Servers
+3. White House Leaks New Cyber Security Plan
+4. New Leaders Face Old Tech Issues
+
+--VIEWS
+1. Encryption/Decryption Tool
+2. Areas of a Triangle
+3. Auction Watcher & Refresher
+4. Digging deeper into Apache Axis
+5. Excerpt: Web Privacy with P3P, Pt. 3
+6. Introduction to MSSQL Server 2000 Analysis Services Custom Cubes:
+Financial
+7. Learn AD in 15 Minutes a Week: Microsoft DNS - Part 2
+and much more..................................
+
+/-------------------------------------------------------------------\
+ 
+Don't Miss Jupiter Content Management Forum in New York City 
+February 26 & 27, 2003 - the premier Content Management event 
+for business & technology decision makers who are looking for 
+strategic, technical and market opportunities in the evolving 
+field of content management. In-depth strategy sessions and 
+presentations led by industry experts. Gain the information you 
+need to learn how to leverage a wide range of content mgmt 
+practices. http://www.jupiterevents.com/jcm/spring03/index.html
+
+\--------------------------------------------------------------adv.-/
+
+=========================================================
+
+
+The purpose of this newsletter is to keep you up to date with the
+newest content at http://webdeveloper.com, including daily developer
+news, downloads, features, and special reports.
+To be added to or removed from this mailing list, visit
+http://e-newsletters.internet.com/webdev.html
+Please note that replying to THIS e-mail will not remove you from
+the mailing list.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***Web Developer Channel Newsletters***
+Get FREE Web Development Info via your Email!
+http://webdeveloper.com/WD_Channel_Newsletters.html
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+-------------- Developer Daily News <----------------
+Macromedia Updates ColdFusion for J2EE, Adds OS Support
+[January 7, 2003] In a sweeping move, Macromedia Tuesday announced
+additions to its ColdFusion MX for J2EE Application Servers product family
+and added Mac OS X and AIX support.
+http://www.internetnews.com/dev-news/article.php/1565241
+
+SGI Uncloaks Linux Super Servers
+[January 7, 2003] The systems maker says its new Altix 3000 line shatters
+performance and scalability records.
+http://www.internetnews.com/dev-news/article.php/1565121
+
+White House Leaks New Cyber Security Plan
+[January 7, 2003] In its latest trial balloon, Bush Administration
+reportedly is seeking to further water down plan to secure nation's
+computer networks from terrorist attacks.
+http://www.internetnews.com/bus-news/article.php/1565281
+
+New Leaders Face Old Tech Issues
+[January 7, 2003] 108th Congress convenes Tuesday facing a host of
+unresolved and frequently controversial issues ranging from spam to
+spectrum.
+http://www.internetnews.com/bus-news/article.php/1564991
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------
+****** Web Developer Channel New Forums ******
+New Forums are here at the Web Developer Channel!!
+Sign up and join the discussion! 
+http://forums.webdeveloper.com/
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+------------------> New Features/Special Reports <------------------
+Encryption/Decryption Tool
+The Encoder and Decoder applets pass a string to and from an HTML FORM
+field. Typically this is a textarea form field, text, or hidden form
+field. Once the string is passed it can be handled routinely with the form
+data, such as with a Perl call to the $ENV variable.
+http://javaboutique.internet.com//Encryption/
+
+Areas of a Triangle
+This script uses Heron's formula for calculating the area of a triangle
+from the three sides.
+http://webdeveloper.earthweb.com/webjs/jsmath/item.php/22401
+
+Auction Watcher & Refresher
+Use this script to have your favorite online auction items auto-refresh at
+your specified interval or whenever you want. Great for those last minutes
+of an auction!
+http://miscellaneous.javascriptsource.com/auction-watcher-&-refresher.html
+
+Digging deeper into Apache Axis
+Keld Hansen takes us deeper into Apache Axis. Showing us some of the tools
+that make this a serious application.
+http://javaboutique.internet.com/tutorials/Axis2-2/index.html
+
+Excerpt: Web Privacy with P3P, Pt. 3
+Having developed a privacy policy that matches your site content and
+activities, it's now time to generate your policy and reference files. Our
+final excerpt in this series discusses policy generation tools and
+deployment specifics.
+http://www.webreference.com/authoring/p3p/chap5/3/
+
+Introduction to MSSQL Server 2000 Analysis Services Custom Cubes:
+Financial
+Join author Bill Pearson as he expands our cube building skills to create
+an integrated Financial Reporting Cube. This two-part lesson will present
+hands-on practice in building core cube structures from multiple data
+tables and developing the initial design to focus on the production of
+financial statements.
+http://databasejournal.com/features/mssql/article.php/1564191
+
+Learn AD in 15 Minutes a Week: Microsoft DNS - Part 2
+Part 18 of Jason Zandri's 'Learn Active Directory Design and
+Administration in 15 Minutes a Week' series takes a second look at
+Microsoft DNS and reverse lookups and caching, as well as some of the
+local records that the DNS server holds.
+http://www.serverwatch.com/tutorials/article.php/1564421
+
+Book Excerpt: Usable Shopping Carts, Pt. 3
+You can save time and potential headaches by validating your site
+visitor's credit card number before sending it off to the payment gateway.
+Our concluding excerpt from "Usable Shopping Carts" shows you how to do
+just that; both PHP and ASP examples are provided. From glasshaus.
+http://www.webreference.com/programming/carts/chap7/3/ 
+
+/-------------------------------------------------------------------\
+ 
+Game Market Watch Conference & Expo - The Definitive Event for the 
+Electronic Entertainment Industry - April 1 & 2, 2003 - Los Angeles, 
+CA. This two-day event will educate professionals from the PC, 
+console & handheld games industry on emerging trends in this space 
+and help them identify & evaluate new business initiatives and 
+revenue-generating opportunities. Get insight into the latest 
+trends & issues surrounding the growth of this industry. Register 
+early & save! http://www.jupiterevents.com/gmw/spring03/index.html
+
+\--------------------------------------------------------------adv.-/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+***Web Developer Channel Newsletters***
+Get FREE Web Development Info via your Email!
+http://webdeveloper.com/WD_Channel_Newsletters.html
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thanks for coming by, and if you have any questions, please write to
+me at mailto:gwinfield@jupitermedia.com
+-- Gregg Winfield, Managing Editor, Webdeveloper.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+http://www.internet.com The E-Business and Internet Technology Network
+http://DomainNotes.com The Definitive Domain Resource
+http://e-comm.internet.com How to do e-commerce on the Internet
+http://Flashkit.com Interested in Flash? Here's the place to start!
+http://www.InternetNews.com The Latest Internet News: Keep Up!
+http://ipw.internet.com Categorized links to Internet apps
+http://www.JavaBoutique.com Java applets galore for your deployment
+http://javascript.com The only JavaScript portal you need!
+http://www.javascriptsource.com Cut and paste free JavaScript code!
+http://www.JustSmil.com All about SMIL technology!
+http://www.ScriptSearch.com CGI, C, Java, and JavaScript scripts!
+http://www.StreamingMediaWorld.com The latest in streaming media
+http://www.wdvl.com Web Developer's Virtual Library
+http://www.WebDeveloper.com News and Resources for Web developers
+http://www.WebDevelopersJournal.com For Suits, Ponytails and Propheads
+http://www.WebReference.com Developer's Guide to the Web & Webmastery
+http://xmlfiles.com/ XML,XSL,ASP,ADO tutorial from XML Files.
+http://www.voicexmlplanet.com/ VoiceXMLPlanet.com provides you with the
+knowledge your company needs to start enjoying the benefits of VoiceXML
+applications.
+**********************************************************************
+With over 6 million page views per month, internet.com's Web Developer
+Network is the BIGGEST resource available for the Web Developer community!
+Advertisers can choose from any of our five sites to target Web developers
+and place their ads in a high-quality news and information network of
+sites.
+Advertise where the LARGEST Web developer audience comes to find
+tutorials, daily news, downloads, links and techniques essential to their
+jobs.
+-----------------------------------------------------------------------
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LIKE THIS NEWSLETTER?  WANT YOUR OWN?
+Managing your own email newsletter is easy and affordable 
+with SparkLIST! 
+
+Over 800 businesses -- including internet.com -- use 
+SparkLIST to manage their email newsletters & campaigns.  
+Call us at 1 (800) 485-9994, or visit us at: 
+http://www.sparklist.com/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Advertising: If you are interested in advertising in our newsletters, call 
+Claudia at 1-203-662-2863 or send email to mailto:nsladsales@internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For contact information on sales offices worldwide visit 
+http://www.internet.com/mediakit/salescontacts.html
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+For details on becoming a Commerce Partner, contact David Arganbright
+on 1-203-662-2858 or mailto:commerce-licensing@internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To learn about other free newsletters offered by internet.com or 
+to change your subscription visit http://e-newsletters.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+internet.com's network of more than 160 Web sites is organized into 16 
+channels: 
+Internet Technology          http://internet.com/it
+E-Commerce/Marketing         http://internet.com/marketing
+Web Developer                http://internet.com/webdev
+Windows Internet Technology  http://internet.com/win
+Linux/Open Source            http://internet.com/linux
+Internet Resources           http://internet.com/resources
+ISP Resources                http://internet.com/isp
+Internet Lists               http://internet.com/lists
+Download                     http://internet.com/downloads
+International                http://internet.com/international
+Internet News                http://internet.com/news
+Internet Investing           http://internet.com/stocks 
+ASP Resources                http://internet.com/asp
+Wireless Internet            http://internet.com/wireless 
+Career Resources             http://internet.com/careers
+EarthWeb		     http://www.earthweb.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To find an answer - http://search.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Looking for a job? Filling an opening? - http://jobs.internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This newsletter is published by Jupitermedia Corporation
+http://internet.com - The Internet & IT Network 
+Copyright (c) 2003 Jupitermedia Corporation. All rights reserved.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For information on reprinting or linking to internet.com content: 
+http://internet.com/corporate/permissions.html 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+---
+You are currently subscribed to webdeveloper-weekly-text as: nospam@mailshell.com
+To unsubscribe send a blank email to leave-webdeveloper-weekly-text-3552489L@list7.internet.com

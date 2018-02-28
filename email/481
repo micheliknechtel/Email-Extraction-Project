@@ -1,0 +1,387 @@
+Received: (qmail 1379 invoked from network); 9 Jan 2003 03:27:21 -0000
+Received: from dev210.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 9 Jan 2003 03:27:21 -0000
+Received: (qmail 27584 invoked by uid 99); 9 Jan 2003 03:27:22 -0000
+Received: (qmail 24446 invoked from network); 9 Jan 2003 03:27:16 -0000
+Received: from unknown (HELO maelstrom.stjohns.edu) (149.68.45.24)
+  by www.mailshell.com with SMTP; 9 Jan 2003 03:27:16 -0000
+Received: from maelstrom.stjohns.edu (149.68.45.24) by maelstrom.stjohns.edu (LSMTP for OpenVMS v1.1a) with SMTP id <0.ED684DCF@maelstrom.stjohns.edu>; Wed, 8 Jan 2003 23:27:09 -0500
+Received: from MAELSTROM.STJOHNS.EDU by MAELSTROM.STJOHNS.EDU (LISTSERV-TCP/IP
+          release 1.8d) with spool id 4454056 for
+          COMPUTERLADY@MAELSTROM.STJOHNS.EDU; Wed, 8 Jan 2003 23:27:00 -0500
+Approved-By: eboston@GWI.NET
+Received: from ptldme-mls2.maine.rr.com (204.210.65.67) by
+          maelstrom.stjohns.edu (LSMTP for OpenVMS v1.1a) with SMTP id
+          <4.C6B99892@maelstrom.stjohns.edu>; Wed, 8 Jan 2003 23:18:54 -0500
+Received: from TCLXP (ptd-24-25-179-220.maine.rr.com [24.25.179.220]) by
+          ptldme-mls2.maine.rr.com (8.11.0/RoadRunner 1.03) with ESMTP id
+          h093IMX21936 for <computerlady@maelstrom.stjohns.edu>; Wed, 8 Jan
+          2003 22:18:22 -0500 (EST)
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.3416
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+Importance: Normal
+Message-ID:  <000a01c2b78d$c59938a0$6501a8c0@TCLXP>
+Date:         Wed, 8 Jan 2003 22:18:25 -0500
+Reply-To: eboston@GWI.NET
+Sender: COMPUTERLADY - The Computer Lady weekly newsletter <COMPUTERLADY@MAELSTROM.STJOHNS.EDU>
+From: Elizabeth Boston <eboston@GWI.NET>
+Subject:      [COMPUTERLADY] The Computer Lady 1/9/03
+To: "Mailshell User" <nospam@mailshell.com>
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+                        Ask The Computer Lady
+
+                         Volume 6 Issue #2
+                          January 9, 2003
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+Registered: Library of Congress, Washington DC - ISSN: 1525-6332
+Written by Elizabeth Boston, http://askTCL.com
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+        In This Issue...
+
+        1. Introduction
+        2. Silence The Modem
+        3. Dial Up Password
+        4. Spyware
+        5. Featured Links
+        6. Fan Tip
+        7. Free Software: Roboform
+        8. Free Software: PasswordSafe
+        9. Your Comments
+
+Dear Reader,
+
+Thanks to all of you who wrote expressing concern at my getting locked
+outside in my nightgown.
+
+Due to a couple of big snowstorms in the past week, I now have a
+temporary solution for putting the dog out. The snow in my backyard is
+about three feet deep, way over the head of my little dog, so we
+shoveled a little playpen in the back yard for her. Now, she can run out
+the door and play in her yard, but is unable to go any further.
+
+I don't have to worry about getting stuck in my nightgown any more!=20
+
+Have a great week,
+Elizabeth
+
+
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+                         Ask The Computer Lady
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+Dear Computer Lady,
+
+
+Some time ago I learned how to mute the noise of a dial-up modem.  I had
+a problem with my computer and lost everything I had.  I can not
+remember for the life of me how to do and have been unable to find the
+information anywhere.  Do you happen to know the secret?=20
+
+
+I know many of your readers as well as myself would be sooooooo happy.
+
+Thanks in advance, Rita
+
+Dear Rita,=20
+
+There are settings for adjusting the modem speaker volume in two places.
+For the first one...=20
+
+
+1) Double click on "My Computer", then on "Control Panel", and then on
+"Modems"
+
+2) Make sure the "General" tab is selected on the top of the page, your
+modem is highlighted blue, and then click on the "Properties button.
+
+3) On the modem Properties page, click on the "General" tab, and look
+for the speaker volume adjustment. Slide the tab all the way to the left
+to turn the volume off. Make sure you click "OK" when you are done.
+
+The second place where you can make this adjustment (and I suggest you
+check both places) is as follows.
+
+1) Double click on "My Computer", then on "Dial up Networking".
+
+2) Right click on your connection to your Internet Service Provider, and
+select properties.
+
+3) On the lower portion of the "General" page, look for the words
+"Connect Using" and click on the "Configure" button below your modem
+listing.
+
+4) In the middle of the general page, you will see the same speaker
+adjustment. Make sure this one is also in the off position.
+
+Elizabeth
+
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+Learn Online - Get maximum value out of your computer!
+http://www.learnwave.com/cgi/a.pl?calgary&1158
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+Dear Computer Lady,
+
+When logging on to email after entering my ID and password I was asked
+if I wanted to save this to automatically sign in, in the future. I
+clicked yes before I noticed I made a mistake in my log on ID. Where is
+the file saved so I can go and edit the ID?
+
+Thank You, Mike
+
+Dear Mike,
+
+You didn't mention which version of Windows you are using, but in
+Windows 95 & 98, just double click on "My Computer" Then on "Dial Up
+Networking" and you should see your dial up connection.=20
+
+Double click on your internet connection and a window will come up that
+will allow you to make the changes to your password.=20
+
+Once you have changed the password, you need to click the "Connect"
+button and successfully connect to the internet once in order for the
+change to become permanent.
+
+In Windows XP,=20
+
+Click on "Start", then "Control Panel", then on "Network & Internet
+Connections".
+
+In the Network and Internet Connections window, click on "Setup or
+change your internet connection". This will bring up your "Internet
+Properties" window. Make sure you are on the "Connections" tab and click
+on your internet connection, then click on the "Settings" button to the
+right.=20
+
+Change your password and then click "OK" twice.
+
+I don't think it is necessary to connect before saving the password in
+XP, but I am not 100% sure.
+
+Elizabeth
+
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+Past issues of "Ask The Computer Lady" can be found at:
+http://askTCL.com just click on "Newsletter Archives"
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+Dear Computer Lady,
+
+You mentioned that Gator was spyware.  What does this mean because I use
+this all the time? Am I more susceptible to hackers or something?
+
+DW
+
+Dear DW,
+
+Spyware is any software which employs a user's Internet connection in
+the background without their knowledge or explicit permission, usually
+for advertising purposes. Spyware programs are usually bundled as a
+hidden component in mis-labeled "freeware" and shareware applications
+downloaded from the Internet.
+
+Here is the official definition from whatis.com:
+
+Spyware is any technology that aids in gathering information about a
+person or organization without their knowledge. On the Internet, spyware
+is programming that is put in someone's computer to secretly gather
+information about the user and relay it to advertisers or other
+interested parties. Spyware can get in a computer as a software virus or
+as the result of installing a new program. Data collecting programs that
+are installed with the user's knowledge are not, properly speaking,
+spyware, if the user fully understands what data is being collected and
+with whom it is being shared.=20
+
+What can you do about spyware?=20
+
+You should use a program to check for spyware that might be currently
+installed on your system. Ad-Aware is a great program for this. Ad-aware
+is a free multi spyware removal utility that scans your memory, registry
+and hard drives for known spyware and scumware components and lets you
+remove them safely. You can check out Ad-Aware at:
+http://www.lavasoftusa.com
+
+Elizabeth
+
+=20
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+                        Featured links:
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+I am happy to announce that 8 of you linked to my website this week!
+Check out my links page at: http://www.asktcl.com/links.htm to see a
+listing of all 8.
+
+This weeks featured sites are:
+Grey Hairs & Laugh Lines A comical book by Lexie Walker
+http://www.geocities.com/drivenmadbykids2000/Lexie_Walker_comicalbook.ht
+ml
+
+ADD Information and resource website for Attention Deficit Disorder.
+http://comfort4adhd.tripod.com/adhd/index.html
+
+If you have a website, I would love to feature you here. Just go to:
+http://www.asktcl.com/linktome.htm=20
+and follow the directions to put a link to The Computer Lady on your web
+site. Then send me an e-mail with a link to your website. Every week, I
+will select a random site and feature it here.
+
+
+
+
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+                        TIP OF THE WEEK:
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+Are your fans working?=20
+
+I thought to bring up this subject today because of a computer repair I
+recently did. I had to replace a motherboard, processor and power supply
+in a computer. The motherboard and processor overheated because the fan
+in the power supply stopped working. If the problem had been noticed
+earlier, all that would have needed replacing was the power supply.
+
+Take a moment and look at the back of your computer. Is there a fan in
+the back? If so, is it turning and is air coming out? If the fan has
+stopped, or there is no airflow, get it fixed before it leads to bigger
+problems.
+
+If you are really brave, open up your case, and check for fans inside
+the computer too.
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+                        FREE SOFTWARE OF THE WEEK:
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+Dear Computer Lady,
+=20
+I enjoy the "Computer Lady" newsletter.  I am a Supervisor at a large
+multi-national computer corporation in Houston, Texas.  I learn new
+tidbits from you and get a refresher on some old stuff I had forgotten.
+=20
+Regarding Drasher using "...Gator for passwords and forms."  I wanted to
+mentioned two other password saving options.
+=20
+1) Robo Form http://www.roboform.com/
+Screenshots  http://www.roboform.com/manual.html#passsave
+=20
+It saves my userid and password information the first time I enter it at
+a web site.  Thereafter, it sits in my system tray.  Then it pops up
+automatically when I go to a web site it has the information on.  I
+click the "FillForms" button and it fills it in for me.
+=20
+Example: At the Hotmail web site, it captured my userid and password the
+first time and let me name it (e.g. Grant's Hotmail, Mom's Hotmail,
+etc.).  Now when I am at the Hotmail logon page, it pops up and I click
+the "FillForms" button and it fills it in for me.  If I was checking
+moms email for her, I click on her name (Mom's Hotmail), then click on
+"FillForms" button so it will put in her userid and password.
+=20
+RoboForm has a lot of other features for more skilled users.  Best of
+all it is free.  There are no banner ads or pops ups.
+RoboForm Pro ($30) is for advanced and power users.
+=20
+=20
+=20
+2) I also use PasswordSafe  http://www.passwordsafe.com/
+=20
+It is web based and lets me add and access the data from anywhere,
+including non-web data, e.g. phone numbers, anniversary dates, web site
+accounts, online shopping, online auctions, network, email, Hotmail
+password, bookmarks and more. You can keep data in different folders,
+e.g. personal, business, social group, church related, etc.  You can
+also add a short note about the entry.  In one entry, I noted the
+password is the date I created the account, in reverse order (e.g.
+create date 01/03/03 reversed to password 303010). The service is free.
+There are no banner ads or pops ups.
+=20
+In addition, you can download HyperSafe.
+http://www.passwordsafe.com/hypersafe.html
+It lives on your PC.  You tell it to sync with your PasswordSafe account
+and it downloads all your data.  With HyperSafe you can look up your
+passwords and such without logging onto the PasswordSafe website.  You
+can copy and paste the data.  HyperSafe is free.  There are no banner
+ads or pops ups.
+=20
+I use all three.  I have about 187 entries in PasswordSafe/HyperSafe.
+=20
+Keep up the good work.
+=20
+Grant=20
+
+
+
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+                                NICE COMMENTS THIS WEEK:
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+From Debbie in Texas=20
+
+Comment: Your newsletter is great. I have learned a lot from it, and
+enjoy getting it every time. Thanks! Debbie from TX=20
+
+
+From Elaine in Canada=20
+
+Comment: The best site I ever signed up for.  I have got loads of good
+information from you have a small note book & make notes of things I
+know I will use sometime.  Have had to go to this book many times for
+your information. Thank you so much.=20
+
+
+
+You can send me your comments by signing my guestbook. Just click on the
+link at http://askTCL.com
+
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+Don't forget to check out my web site! http://askTCL.com
+Vote in my poll, shop online, read past issues, or find out more about
+me!
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+
+
+
+
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+        Subscription Instructions
+~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~^~
+Invite your friends to subscribe to this newsletter,=20
+they can do so on the internet at:
+http://www.freepctech.com/computerlady.shtml=20
+or by sending an email to:
+
+Listserv@maelstrom.stjohns.edu with
+
+subscribe computerlady <firstname> <lastname>
+
+in the body of the message.
+For example: subscribe computerlady Elizabeth Boston
+
+To unsubscribe from The COMPUTERLADY use our web
+interface at:  http://www.freepctech.com/computerlady.shtml
+                             - or -
+send an Email to: Listserv@maelstrom.stjohns.edu
+
+In the body of the message type this:
+  SIGNOFF COMPUTERLADY
+
+
+Owner: Elizabeth Boston
+      eboston@gwi.net
+        computerlady@nospin.org

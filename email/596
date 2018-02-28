@@ -1,0 +1,206 @@
+Received: (qmail 8531 invoked from network); 24 Jan 2003 20:04:27 -0000
+Received: from unknown (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 24 Jan 2003 20:04:27 -0000
+Received: (qmail 11149 invoked by uid 99); 24 Jan 2003 20:04:28 -0000
+Received: (qmail 5092 invoked from network); 24 Jan 2003 20:04:27 -0000
+Received: from unknown (HELO apollo.business2.com) (64.12.49.184)
+  by mail.mailshell.com with SMTP; 24 Jan 2003 20:04:27 -0000
+Received: from apollo (apollo [64.12.49.184])
+	by apollo.business2.com (8.12.4/8.12.4) with SMTP id h0OJTpdr004444
+	for nospam@mailshell.com; Fri, 24 Jan 2003 14:33:49 -0500 (EST)
+To: "Mailshell User" <nospam@mailshell.com>
+Message-ID: <10434368297060.6035842007966888.BulkMailer@business2.com>
+Date: Fri, 24 Jan 2003 14:29:27 -0500 (EST)
+From: "Business 2.0 - Working Tech" <newsletters@business2.com>
+Subject: Blade Technology Goes Back to the Future
+Mime-Version: 1.0
+Content-Type: text/plain;charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+
+* * * * * * * * * * * * * ADVERTISEMENT * * * * * * * * * * * * *
+20th Annual Venture Capital in the Rockies Conference 2/26 ?
+2/28/2003, Beaver Creek, CO. Featuring the best from 4 industry
+sectors + 4-star resort & skiing. Register now at
+www.coloradovca.org
+http://ar.atwola.com/redir/B0/q-45VLiP_el9QAE3Q9EjjvJg7GII7YohkwrNXfrEqzgm0aXKjmKmPg$$/http://www.coloradovca.org
+* * * * * * * * * * * * * ADVERTISEMENT * * * * * * * * * * * * *
+
+WORKING TECH
+
+Blade Technology Goes Back to the Future
+By Yvonne L. Lee
+
+http://www.business2.com/articles/web/0,,46733,00.html
+
+========================
+Editor's Note: With this issue, we're relaunching the column
+you've long known as The Defogger with a new name and new writer.
+From now on, it'll be called Working Tech - a name that we think
+describes its subject matter more clearly. Its author, Yvonne
+Lee, will focus on the same sort of subjects that Defogger
+covered: products and issues in workplace technology. Is that new
+server worth the investment? Should you upgrade your software?
+How are businesses coping with greater tech needs on stingier
+budgets?
+
+Yvonne brings years of experience to her work, having written for
+a host of tech bibles, including InfoWorld, Web Techniques, Byte,
+HP World, LinuxWorld and PC World.
+
+Let us know what you think.
+========================
+
+With big names such as Dell, Hewlett-Packard, IBM, and Sun 
+announcing that they're bringing out blade servers, the
+architecture has been receiving plenty of attention lately. Blade
+technology places a series of computers vertically in an
+enclosure called a cage, which is then placed on a rack in the
+sever room. This architecture -- wherein computers are stored
+vertically rather than horizontally -- packs a heck of a lot more
+power than a traditional rack mount. 
+
+Now an Austin-based company has figured out a way to use the
+architecture in reverse, for client computers. The company,
+ClearCube, is promoting its product as a way to cut down on
+maintenance headaches. Under ClearCube's architecture, users'
+computers aren't on their desks; they're stacked up in the server
+room. The company flogs this innovation as a techie's dream: When
+there's a problem, the technicians don't have to waste time
+getting to users' work areas to troubleshoot and repair hardware
+problems. What ClearCube doesn't publicize is that its
+architecture offers more privacy, reduces the risk of abuse, and
+is more attractive in situations where neatness and quiet count.
+
+ClearCube is the only company to design a system where the blades
+operate as client computers. The company's client blade
+architecture uses a paperback-book-size device called a C/Port to
+extend a video signal as far as 200 meters (220 yards) from the
+computer to the user's monitor across an Ethernet  cable, which
+is also used to send the data back and forth. Only the C/Port, a
+monitor, a keyboard, a mouse, and approved peripherals are on
+each user's desktop.
+
+ClearCube has designed the system so that not only are the
+computers tucked out of the way, but computer administrators can
+easily restrict access to peripherals. If someone plugs an
+unauthorized floppy or CD-ROM drive into the C/Port, it won't
+work. This cuts down on copying and pirating and stops the spread
+of computer viruses.
+
+So ClearCube melds the security of thin clients -- where users
+had a monitor, keyboard, and mouse, but operated applications on
+a remote server -- with the flexibility of desktop PCs. One of
+the reasons thin clients never quite made it, though, was that
+applications had to be redesigned to work on them. With
+ClearCube's solution, any PC application will work.
+
+ClearCube's system is catching on. Customers include retailer
+Lillian Vernon, Starwood Hotels & Resorts, British Petroleum
+North American Gas & Power, Atlanta Business Bank, and the U.S.
+Air Force. One enthusiastic client is Scott Hill, a senior
+technology officer at the financial management firm Oak
+Associates in Akron, Ohio, which switched to ClearCube in 2001.
+"Previously it would have taken us 20 minutes to a half an hour
+to unplug everything" to deal with trouble, Hill says. "Now it
+takes us anywhere from 5 to 10 minutes." He adds that the
+ClearCube system prevents certain kinds of abuse. "When you take
+the computer off the desk and put it in the server room, people
+aren't kicking it, people aren't putting heaters next to them,"
+Hill says. "Because it's in our server room, there's less dust
+that gets on them because the air is filtered."
+
+Obviously, ClearCube is not without its shortcomings. For
+example, since the technology relies on extending video signals
+across a longer cable, it doesn't work as well with CRT monitors.
+"We've not had as good a response with [the CRTs], because you
+need a higher refresh rate," Hill says, explaining that the older
+screen technology takes too long to redisplay information. That
+means an irritating lag between the time you type something and
+the moment it appears on the screen. Also, the same features that
+make the solution a good one for applications where you don't
+want your data to wander off make it ill suited in situations --
+such as news reporting, sales, and marketing -- where you want
+the data and applications to travel with the user.  
+
+
+* * * * * * * * * * * * * ADVERTISEMENT * * * * * * * * * * * * *
+20th Annual Venture Capital in the Rockies Conference 2/26 ?
+2/28/2003, Beaver Creek, CO. Featuring the best from 4 industry
+sectors + 4-star resort & skiing. Register now at
+www.coloradovca.org
+http://ar.atwola.com/redir/B0/q-45VLiP_el9QAE3Q9EjjvJg7GII7YohkwrNXfrEqzgm0aXKjmKmPg$$/http://www.coloradovca.org
+* * * * * * * * * * * * * ADVERTISEMENT * * * * * * * * * * * * *
+
+Related Articles:
+
+-- A Cube That's Not Square
+http://www.business2.com/articles/web/0,,17431,00.html
+
+ 
+Recommended Links:
+
+-- Dell Computer Corporation (DELL)
+http://www.business2.com/webguide/0,,20892,00.html
+
+-- Hewlett-Packard (HWP)
+http://www.business2.com/webguide/0,,33764,00.html
+
+-- International Business Machines Corporation (IBM)
+http://www.business2.com/webguide/0,,35698,00.html
+
+-- Sun Microsystems, Inc. (SUNW)
+http://www.business2.com/webguide/0,,22013,00.html
+
+-- Ethernet
+http://www.business2.com/webguide/0,,4414,00.html
+
+-- CD-ROM (Compact Disk Read-Only Memory or Media)
+http://www.business2.com/webguide/0,,29231,00.html
+
+ 
+Today's Top Stories:
+
+-- The Dell Way
+http://www.business2.com/articles/mag/0,,46293,00.html
+
+-- Who's Minding the Store?
+http://www.business2.com/articles/mag/0,,46334,00.html
+
+-- The Protection Racket
+http://www.business2.com/articles/mag/0,,46122,00.html
+
+ 
+Recent Working Tech Articles:
+
+-- Does Moore's Law Still Hold True?  - Dec 13
+http://www.business2.com/articles/web/0,,45941,00.html
+
+-- False Alarms on the Firewall - Nov 15
+http://www.business2.com/articles/web/0,,45262,00.html
+
+-- Still Waiting for the Web Services Miracle - Nov 01
+http://www.business2.com/articles/web/0,,44928,00.html
+
+-- Read More Working Tech Articles
+http://www.business2.com/columns/0,,1485,00.html
+
+
+++++++++++
+
+Please do not reply to this message.
+
+If you have any questions, comments, or would like to send
+feedback to the author, send an e-mail to:
+working_tech@business2.com
+
+You are receiving the TEXT version of this newsletter.  To get
+the HTML version with links and graphics, just go to:
+http://www.business2.com/nl/html?EmailAddr=nospam@mailshell.com 
+
+To unsubscribe from this newsletter, go to:
+http://www.business2.com/newsletter/unsubscribe?id=7&EmailAddr=nospam@mailshell.com
+
+To manage your existing newsletter subscriptions or subscribe to
+other Business 2.0 newsletters, go to:
+http://www.business2.com/articles/web/newslettersub/1,,manage,FF.html?EmailAddr=nospam@mailshell.com
+

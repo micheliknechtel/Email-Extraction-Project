@@ -1,0 +1,302 @@
+Received: (qmail 12319 invoked from network); 9 Jan 2003 20:12:37 -0000
+Received: from dev210.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 9 Jan 2003 20:12:37 -0000
+Received: (qmail 8613 invoked by uid 99); 9 Jan 2003 20:12:37 -0000
+Received: (qmail 16685 invoked from network); 9 Jan 2003 20:12:36 -0000
+Received: from unknown (HELO intm10.sparklist.com) (216.91.57.131)
+  by www.mailshell.com with SMTP; 9 Jan 2003 20:12:36 -0000
+X-Mailer: Lyris ListManager Web Interface
+Date: Thu, 9 Jan 2003 12:03:01 -0800
+Subject: Case for Preprocessing Capabilities in the Java Language
+To: "Mailshell User" <nospam@mailshell.com>
+From: Gamelan Java Update <listsupport@internet.com>
+List-Unsubscribe: <mailto:leave-earthweb-gamelan-java-text-148517I@list10.internet.com>
+Reply-To: Gamelan Java Update <listsupport@internet.com>
+Message-Id: <SPARKLIST-148517-1587987-2003.01.09-12.08.13--nospam#mailshell.com@list10.internet.com>
+
+
+
+Gamelan Java Update (tm)                Thursday, January 09, 2003
+
+ The Gamelan Java Update is part of the internet.com network:
+                      http://www.internet.com
+
+___________________________ Sponsors ________________________________
+ 
+                  This newsletter sponsored by:  
+                     Compuware Corporation
+                         Jupiter Events
+_____________________________________________________________________
+
+*********************************************************************
+                    The Official Java Directory
+*********************************************************************
+
+          gam-e-lan (from Javanese: gamel, to make music)   
+
+*********************************************************************
+                            CONTENTS
+*********************************************************************
+
+ARTICLES
+1. Case for Preprocessing Capabilities in the Java Language
+2. Java Sound, An Introduction
+3. Web Services Reliability Specification Published
+4. Becoming a Successful Team Member
+5. The Theory Behind User Interface Design, Part Two
+DEPARTMENTS
+ANNOUNCEMENTS
+
+
+/-------------------------------------------------------------------\
+ 
+Managing memory in complex Java environments? Deal with it. 
+Our "Memory Planning in Java" white paper tells you how. 
+Understand first how automatic memory management works 
+in standard Java environments. Then find and fix memory bugs 
+fast with DevPartner(tm) Java(tm) Edition. Our profiling tool 
+offers real-time memory data across every application tier, 
+all in a single report. Learn what more you can do today. 
+http://www.compuware.com/media.asp?cid=3024XE
+
+\--------------------------------------------------------------adv.-/
+
+
+*********************************************************************
+                            ARTICLES
+*********************************************************************
+
+1. Case for Preprocessing Capabilities in the Java Language
+January 9, 2003
+The Java implementation does not have a preprocessor. Is that a good thing or a 
+bad thing? Find out what you are missing, how important it may be (or not), and 
+how to work around this. 
+http://www.developer.com/java/other/article.php/1567101
+------------------------------------------------------------ 
+2. Java Sound, An Introduction
+January 7, 2003
+Add sound to your Java application. Richard Baldwin presents the first lesson in
+a new miniseries that will teach you how to use the Java Sound API.
+http://www.developer.com/java/other/article.php/1565671
+------------------------------------------------------------ 
+3. Web Services Reliability Specification Published
+January 9, 2003
+Six companies announce the release of the Web Services Reliability (WS-
+Reliability) specification working draft.
+http://www.developer.com/services/article.php/1567301
+------------------------------------------------------------ 
+4. Becoming a Successful Team Member
+January 8, 2003
+Many times your success within a company can depend on your ability to be a 
+strong team player. It is important to keep this skill sharp.
+http://www.developer.com/mgmt/article.php/1566581
+------------------------------------------------------------ 
+5. The Theory Behind User Interface Design, Part Two
+January 6, 2003
+Mauro Marinilli continues his discussion on some of the more interesting aspects
+of graphical user interfaces.
+http://www.developer.com/design/article.php/1564681
+------------------------------------------------------------ 
+
+ 
+/-------------------------------------------------------------------\
+ 
+IT Infrastructure & Management Services Conference & Expo
+April 15-16, 2003 * Boston Park Plaza * Boston, MA
+The only industry event focusing on how organizations can
+reduce IT costs and increase IT service quality through
+selective IT infrastructure, operations & management
+sourcing/ services. Register to attend today! For complete
+details & to register, visit: www.itinfrastructureevent.com 
+Priority Code: 81ITTA
+
+\--------------------------------------------------------------adv.-/
+
+
+*********************************************************************
+                          DEPARTMENTS
+*********************************************************************
+6. Discussions
+ 
+Check out the Gamelan discussion forum. (Free registration.)
+Participate at: http://forums.internet.com/WebX?Java/Gamelan
+ 
+You can also check out the Java discussions on CodeGuru.com at:
+http://www.codeguru.com/cgi-bin/bbs/wt/wwwthreads.pl
+ 
+ 
+7. Book and Product Reviews
+ 
+If you would be interested in reviewing a Java book or product for our website 
+please contact me at rgraham@jupitermedia.com.
+ 
+ 
+8. Java Jobs
+ 
+Searching for a new job utilizing your Java skills?
+ 
+http://www.internet.com/sections/careers.html 
+
+ 
+
+*********************************************************************
+                          ANNOUNCEMENTS
+*********************************************************************
+Here is some of the news making headlines from the past week:
+ 
+ 
+Developer.com Welcomes Coverage of Voice Technologies 
+ 
+Developer.com expands its coverage to include topics on Voice Development. 
+ 
+http://www.developer.com/voice/article.php/1566141 
+---------------------------------------------------------------- 
+ 
+Macromedia Updates ColdFusion for J2EE, Adds OS Support 
+ 
+In a sweeping move, Macromedia Tuesday announced additions to its ColdFusion MX 
+for J2EE Application Servers product family and added Mac OS X and AIX support. 
+ 
+http://www.internetnews.com/dev-news/article.php/1565241 
+---------------------------------------------------------------- 
+ 
+Attend live chats at Sun: 
+ 
+Sun engineers and other Java software insiders share their knowledge and 
+perspectives on the latest Java technology events in these online chats. 
+ 
+High Performance GUIs with the JFC/Swing API
+Steve Wilson, Scott Violet, and Chet Haase 
+Jan 21. 11:00 A.M. PST/7:00 P.M. GMT 
+ 
+To sign up or view transcripts of past talks, go to http://developer.java.sun. 
+com/developer/community/chat/. 
+---------------------------------------------------------------- 
+ 
+Return of the Yaha Worm 
+ 
+Security firms have issued high alerts for the latest Yaha worm, which 
+propagates via email using its own built-in SMTP engine. 
+ 
+http://www.internetnews.com/dev-news/article.php/1563161 
+---------------------------------------------------------------- 
+ 
+As always, please feel free to contact me with any comments about 
+the newsletter or the Gamelan.com site. 
+ 
+Thanks for reading, until next week...
+Rosemarie 
+ 
+---------------------------------------------------------------- 
+Do you know something really cool about Java? 
+ 
+If so, share it! This can be a tip or trick. It can also be insight into one of
+the classes or technologies related to Java. Gamelan.com is now accepting 
+voluntary articles and tutorials on Java technology. Potential authors are urged
+to submit a brief description of their plans to the Editor at rgraham@
+jupitermedia.com. Please include "Gamelan Article" in the message subject line.
+ 
+If you are interested in contributing an article, but are unsure of a topic, 
+let us know. We can help.
+
+ 
+/-------------------------------------------------------------------\
+ 
+Game Market Watch Conference & Expo - The Definitive Event for the 
+Electronic Entertainment Industry - April 1 & 2, 2003 - Los Angeles, 
+CA. This two-day event will educate professionals from the PC, 
+console & handheld games industry on emerging trends in this space 
+and help them identify & evaluate new business initiatives and 
+revenue-generating opportunities. Get insight into the latest 
+trends & issues surrounding the growth of this industry. Register 
+early & save! http://www.jupiterevents.com/gmw/spring03/index.html
+
+\--------------------------------------------------------------adv.-/
+
+
+*********************************************************************
+                         ABOUT THE UPDATE
+*********************************************************************
+
+Copyright (c) 2002, Jupitermedia Corporation. All rights reserved.
+
+http://www.internet.com
+
+This free publication may be copied or forwarded, without alteration, 
+for non-commercial use only.
+
+*********************************************************************
+     Earthweb.com's Family of Online Services for IT Insiders
+*********************************************************************
+
+IT MANAGEMENT
+http://itmanagement.earthweb.com/
+HARDWARE & SYSTEMS
+http://hardware.earthweb.com/
+NETWORKING & COMMUNICATIONS
+http://networking.earthweb.com/
+WEB DEVELOPMENT
+http://webdeveloper.earthweb.com/
+SOFTWARE DEVELOPMENT
+http://softwaredev.earthweb.com/
+
+Get the latest technical tips, tools, and resources via Earthweb's 
+extensive collection of free e-mail newsletters!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LIKE THIS NEWSLETTER?  WANT YOUR OWN?
+Managing your own email newsletter is easy and affordable 
+with SparkLIST! 
+
+Over 800 businesses -- including internet.com -- use 
+SparkLIST to manage their email newsletters & campaigns.  
+Call us at 1 (800) 485-9994, or visit us at: 
+http://www.sparklist.com/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Advertising: If you are interested in advertising in our newsletters, call 
+Claudia at 1-203-662-2863 or send email to mailto:nsladsales@internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For contact information on sales offices worldwide visit 
+http://www.internet.com/mediakit/salescontacts.html
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+For details on becoming a Commerce Partner, contact David Arganbright
+on 1-203-662-2858 or mailto:commerce-licensing@internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To learn about other free newsletters offered by internet.com or 
+to change your subscription visit http://e-newsletters.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+internet.com's network of more than 160 Web sites is organized into 16 
+channels: 
+Internet Technology          http://internet.com/it
+E-Commerce/Marketing         http://internet.com/marketing
+Web Developer                http://internet.com/webdev
+Windows Internet Technology  http://internet.com/win
+Linux/Open Source            http://internet.com/linux
+Internet Resources           http://internet.com/resources
+ISP Resources                http://internet.com/isp
+Internet Lists               http://internet.com/lists
+Download                     http://internet.com/downloads
+International                http://internet.com/international
+Internet News                http://internet.com/news
+Internet Investing           http://internet.com/stocks 
+ASP Resources                http://internet.com/asp
+Wireless Internet            http://internet.com/wireless 
+Career Resources             http://internet.com/careers
+EarthWeb		     http://www.earthweb.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To find an answer - http://search.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Looking for a job? Filling an opening? - http://jobs.internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This newsletter is published by Jupitermedia Corporation
+http://internet.com - The Internet & IT Network 
+Copyright (c) 2003 Jupitermedia Corporation. All rights reserved.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For information on reprinting or linking to internet.com content: 
+http://internet.com/corporate/permissions.html 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+---
+You are currently subscribed to earthweb-gamelan-java-text as: nospam@mailshell.com
+To unsubscribe send a blank email to leave-earthweb-gamelan-java-text-148517I@list10.internet.com

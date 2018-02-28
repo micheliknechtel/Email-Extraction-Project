@@ -1,0 +1,274 @@
+Received: (qmail 8841 invoked from network); 13 Jan 2003 05:17:07 -0000
+Received: from dev211.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 13 Jan 2003 05:17:07 -0000
+Received: (qmail 21759 invoked by uid 99); 13 Jan 2003 05:17:06 -0000
+Received: (qmail 31955 invoked from network); 13 Jan 2003 05:17:03 -0000
+Received: from unknown (HELO in-newsletter.wileypub.com) (168.215.86.59)
+  by www.mailshell.com with SMTP; 13 Jan 2003 05:17:03 -0000
+Date: Mon, 13 Jan 2003 00:05:59 -0500 (EST)
+Message-Id: <LISTMANAGERSQL-1353412-312639-2003.01.13-00.08.25--nospam#mailshell.com@mailer.Dummies.com>
+From: Dummies eTips <feedback@etips.dummies.com>
+To: "Mailshell User" <nospam@mailshell.com>
+Subject: Microsoft Windows: (98/Me) Clear Up the Confusion
+X-Delivery-Audit: 3562
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <mailto:leave-dd07-1353412S@mailer.Dummies.com>
+Reply-To: feedback@etips.dummies.com
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <title>Dummies eTips</title>
+  
+  <style type="text/css">
+    a { color:#000000 }
+    a:hover { text-decoration:none }
+    a:visited { color:#0099CC }
+    p { font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#000000 } 
+    td { font-family:Arial,Helvetica,sans-serif; font-size:12px; color:#000000 }
+    .whiteheader {font-family:Arial,Helvetica,sans-serif; font-size:16px; font-weight:bold; color:#ffffff }
+    .blueheader {font-family:Arial,Helvetica,sans-serif; font-size:14px; font-weight:bold; color:#0099cc }
+    .etip { font-family:Arial,Helvetica,sans-serif; font-size:14px; color:#000000 }
+    .smallblack { font-family:Arial,Helvetica,sans-serif; font-size:11px; color:#000000 } 
+    .footer { font-family:Arial,Helvetica,sans-serif; font-size:10px; color:#000000 }
+  </style>
+</head>
+
+<body bgcolor="#ffffff" text="#000000" link="#000000" alink="#0099cc" vlink="#0099cc" marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="15"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="20" height="1"></td>
+    <td>
+<!-- BEGIN TOP NAV -->
+
+<table width="590" cellspacing="0" cellpadding="0" border="0" bgcolor="#000000">
+  <tr>
+    <td width="188"><a href="http://www.dummies.com"><img src="http://etips.dummies.com/images/newsletter/dummies_logo.gif" width="188" height="55" border="0"></a></td>
+    <td width="18"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="18" height="1"></td>
+    <td width="200"><a href="http://www.dummies.com"><img src="http://etips.dummies.com/images/newsletter/nav_visit_site_ext.gif" width="200" height="55" border="0"></a></td>
+    <td width="18" valign="top"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="18" height="1"></td>
+    <td width="146"><a href="http://etips.dummies.com/signup.asp"><img src="http://etips.dummies.com/images/newsletter/nav_sign_up.gif" width="146" height="55" border="0"></a></td>
+    <td width="20" valign="top"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="20" height="1"></td>
+  </tr>
+  <tr>
+    <td width="590" colspan="6" bgcolor="#ffff00"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="590" height="5"></td>
+  </tr>  
+</table>
+
+<!-- END TOP NAV -->
+
+<table width="590" cellspacing="0" cellpadding="0" border="0" bgcolor="#0380B7">
+  <tr>
+    <td width="11"><img src="http://etips.dummies.com/images/newsletter/blue_corner_left.gif" width="11" height="33"></td>
+    <!-- BEGIN ETIP CATEGORY HEADING -->
+    <td width="568" class="whiteheader">Here is your Microsoft Windows eTip</td>
+    <!-- END ETIP CATEGORY HEADING -->
+    <td width="11"><img src="http://etips.dummies.com/images/newsletter/blue_corner_right.gif" width="11" height="33"></td>
+  </tr>
+</table>
+
+<table width="590" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="452"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="452" height="20"></td>
+    <td width="138" colspan="2"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="138" height="20"></td>
+  </tr>
+  <tr>
+    <td width="452" valign="top" class="etip"><img src="http://etips.dummies.com/images/newsletter/etips_logo.gif" align="left" width="76" height="63">
+    <!-- BEGIN ETIP TITLE -->
+    <p><span class="blueheader">(98/Me) Clear Up the Confusion</span>
+    <!-- END ETIP TITLE -->
+    <br>
+    <!-- BEGIN ETIP CONTENT -->    
+    <style type="text/css">
+li.bold {
+  font-weight: bold;
+}
+li.normal {
+  font-weight: normal;
+}
+span.normal {
+  font-weight: normal;
+}
+b.bold {
+  font-weight: bold;
+}
+</style>
+<p><i>This tip applies to Windows 98 and Windows Me.</i>
+</p>
+<p>The My Computer and Windows Explorer programs sometimes get confused and don't always list the files currently sitting on a disk drive. To prod the programs into taking a second look, simply press the F5 key along the top of your keyboard.
+</p>
+<p>Find more tips like this at <a href="http://cda.dummies.com/WileyCDA/DummiesTitle.rdr?productCd=0764502611" target="newwindow">Windows 98 For Dummies</a>, by Andy Rathbone.
+</p>
+    <!-- END ETIP CONTENT -->    
+    </td>
+    <td width="10"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="10" height="1"></td>
+    <td width="128" valign="top">
+    <!-- BEGIN FEATURED SECTION -->  
+    <table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="114" align="center">
+      <a href="http://portal.hungryminds.com/etip.asp?topic=dd07&promo=eLearningRHB&link=cda.dummies.com/WileyCDA/Section.rdr?id=100467"><img src="http://etips.dummies.com/images/ads/e_learning_promo.gif" width="114" border="0"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="114"><img src="http://etips.dummies.com/images/spacer.gif" width="114" height="10"></td>
+  </tr>
+    <tr>
+    <td width="114"><img src="http://etips.dummies.com/images/spacer.gif" width="114" height="10"></td>
+  </tr>
+  <tr>
+    
+  </tr>
+</table>
+
+    <!-- END FEATURED SECTION -->  
+    </td>
+  </tr>
+  <tr>
+    <td width="590" colspan="3"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="590" height="20"></td>
+  </tr>
+</table>
+<table width="590" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="590" colspan="3"><img src="http://etips.dummies.com/images/newsletter/subhead_other_titles.gif" width="590" height="41"></td>
+  </tr>
+  <tr>
+    <td width="590" colspan="3"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="590" height="15"></td>
+  </tr>
+  <tr>
+    <!-- BEGIN OTHER TITLES 1 -->
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+    <td width="580"><table width="100%" border="0" cellpadding="3" cellspacing="0">
+<tr><td align="center" valign="middle" bgcolor="FFFFFF">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2" COLOR="black">
+</font>
+</td></tr>
+<tr><td align="left" valign="top">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="2">
+
+<a href="http://portal.hungryminds.com/etip.asp?topic=dd07&promo=NewYear2003Banner&link=etips.dummies.com/newyear.html"><img src="http://etips.dummies.com/images/ads/newyear_banner.gif" width="308" border="0" align="left" hspace="3"></a>
+
+</font>
+</td></tr>
+<tr>
+<td>
+
+</table>
+</td>
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+    <!-- END OTHER TITLES 1 -->
+  </tr>
+  <tr>
+    <td width="590" colspan="3"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="590" height="15"></td>
+  </tr>
+  <tr>
+    <!-- BEGIN OTHER TITLES 2 -->
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+    <td width="580"><table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="100">
+      <a href="http://portal.hungryminds.com/etip.asp?topic=dd07&promo=TaxesFD2003&link=catalog.dummies.com/product.asp?isbn=0764554751" target="newwindow">
+        <img src="http://www.wiley.com/remcover.cgi?isbn=0764554751" width="100" border="0">
+      </a>
+    </td>
+    <td width="10">
+      <img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="10" height="1">
+    </td>
+    <td width="470" valign="top">
+
+<b>Save Money and Your Sanity!</b> 
+<br>
+Avoid the headaches that come with filing your taxes with this <a href="http://portal.hungryminds.com/etip.asp?topic=dd07&promo=TaxesFD2003&link=catalog.dummies.com/product.asp?isbn=0764554751" target="newwindow"><i>easy-to-understand book</i></a> that demystifies tax forms, minimizes errors, and answers your most important questions. With line-by-line instructions and unbeatable year-round tax-saving tips, this handy guide lets you maximize your tax deductions this year – and in the years ahead. 
+
+    </td>
+  </tr>
+</table>
+</td>
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+    <!-- END OTHER TITLES 2 -->
+  </tr>
+  <tr>
+    <td width="590" colspan="3"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="590" height="15"></td>
+  </tr>
+  <tr>
+    <!-- BEGIN OTHER TITLES 3 -->
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+    <td width="580"><table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="100">
+      <a href="http://portal.hungryminds.com/etip.asp?topic=dd07&promo=Excel2002AIODRFD&link=catalog.dummies.com/product.asp?isbn=0764517945" target="newwindow">
+        <img src="http://www.wiley.com/remcover.cgi?isbn=0764517945" width="100" border="0">
+      </a>
+    </td>
+    <td width="10">
+      <img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="10" height="1">
+    </td>
+    <td width="470" valign="top">
+
+<b>Nine Books in One!</b> 
+<br>
+Excel may be the greatest data management tool since the spiral notebook, but why should you care about the tricks it can do if you don’t know what it can do for you? This <a href="http://portal.hungryminds.com/etip.asp?topic=dd07&promo=Excel2002AIODRFD&link=catalog.dummies.com/product.asp?isbn=0764517945" target="newwindow"><i>friendly guide</i></a> shows you all the ways Excel can simplify your life, with easy-to-find, plain-English instructions for using every cool feature.
+
+    </td>
+  </tr>
+</table>
+</td>
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+    <!-- END OTHER TITLES 3 -->
+  </tr>
+  <tr>
+    <td width="590" colspan="3"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="590" height="15"></td>
+  </tr>
+  <tr>
+    <!-- BEGIN SUBSCRIPTION INFO -->
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+    <td width="580"><table width="585" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td width="100">
+      <img src="http://etips.dummies.com/images/newsletter/subhead_change_subscription.gif" width="100" height="63">
+    </td>
+    <td width="10" bgcolor="#ffffcc">
+      <img src="http://etips.dummies.com/images/newsletter/spacing.gif" width="10" height="1">
+    </td>
+    <td class="smallblack" bgcolor="#ffffcc" valign="middle">
+Hello<b> nospam@mailshell.com</b>. 
+
+Want to add more topics (because you know good things now that you've seen them!), choose a different delivery format, send eTips to a different e-mail address, or subtract topics or unsubscribe (perish the thought), do it all at <a href="http://etips.dummies.com/change.asp" target="newwindow">Dummies eTips</a>.
+
+    </td>
+  </tr>
+</table>
+</td>
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+    <!-- END SUBSCRIPTION INFO -->
+  </tr>
+  <tr>
+    <td width="590" colspan="3"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="590" height="15"></td>
+  </tr>
+  <tr>
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+    <td width="580"><table width="590" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" class="smallblack">
+This absolutely FREE service is brought to you by Dummies.com.<br>
+Copyright (c) 2003, Wiley. All Rights Reserved.<br>
+<a href="http://etips.dummies.com/disclaimer.html" target="newwindow">
+A Word From Our Lawyers</a>.
+    </td>
+  </tr>
+</table>
+</td>
+    <td width="5"><img src="http://etips.dummies.com/images/newsletter/spacer.gif" width="5" height="1"></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
+

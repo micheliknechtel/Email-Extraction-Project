@@ -1,0 +1,1086 @@
+Received: (qmail 19217 invoked from network); 13 Jan 2003 15:06:09 -0000
+Received: from dev210.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 13 Jan 2003 15:06:09 -0000
+Received: (qmail 14746 invoked by uid 99); 13 Jan 2003 15:06:08 -0000
+Received: (qmail 7862 invoked from network); 13 Jan 2003 15:06:07 -0000
+Received: from unknown (HELO merc62.na.sas.com) (149.173.6.49)
+  by www.mailshell.com with SMTP; 13 Jan 2003 15:06:07 -0000
+Received: from VM.SAS.COM ([10.4.3.6]) by merc62.na.sas.com with InterScan Messaging Security Suite for SMTP; Mon, 13 Jan 2003 09:52:32 -0500
+Received:  by VM.SAS.COM (IBM VM SMTP Level 3A0) via spool with SMTP id 1388 ; Mon, 13 Jan 2003 09:51:44 EST
+Received: from VM.SAS.COM (NJE origin LISTSERV@SDCVM) by VM.SAS.COM (LMail V1.2c/1.8c) with BSMTP id 6515; Mon, 13 Jan 2003 09:51:41 -0500
+Received: from VM.SAS.COM by VM.SAS.COM (LISTSERV release 1.8e) with NJE id
+          3052 for NEWDOCNEWS-L@VM.SAS.COM; Mon, 13 Jan 2003 09:51:36 -0500
+Received: from SDCVM (NJE origin SMTP@SDCVM) by VM.SAS.COM (LMail V1.2c/1.8c)
+          with BSMTP id 6506 for <newdocnews-l@SDCVM>; Mon, 13 Jan 2003
+          09:51:36 -0500
+Received: from merc62.na.sas.com [10.19.11.46] by VM.SAS.COM (IBM VM SMTP Level
+          3A0) via TCP with SMTP ; Mon, 13 Jan 2003 09:51:35 EST
+Received: from merc12.na.sas.com ([10.19.11.9]) by merc62.na.sas.com with
+          InterScan Messaging Security Suite for SMTP; Mon, 13 Jan 2003
+          09:51:57 -0500
+x-mimeole: Produced By Microsoft Exchange V6.0.6344.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+              boundary="----_=_NextPart_001_01C2BB13.51ADB2E4"
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Thread-Topic: what do you think?
+Thread-Index: AcK4wGU1zcs/iCFsEdeIOwDATzCHUgAAbInwAAAtScAAlBcPYA==
+Approved-By:  Judi Rourke-O'Briant <Judi.Rourke-OBriant@SAS.COM>
+Message-ID:  <187D6D956106D84E9D8B280F6458FE14F4AB53@merc12.na.sas.com>
+Date:         Mon, 13 Jan 2003 09:51:56 -0500
+Reply-To: New Customer Publications Information <NEWDOCNEWS-L@VM.SAS.COM>
+Sender: New Customer Publications Information <NEWDOCNEWS-L@VM.SAS.COM>
+From: Judi Rourke-O'Briant <Judi.Rourke-OBriant@sas.com>
+Subject: NEWDOCNEWS January 2003
+To: "Mailshell User" <nospam@mailshell.com>
+Precedence: list
+
+This is a multi-part message in MIME format.
+
+------_=_NextPart_001_01C2BB13.51ADB2E4
+Content-Type: text/plain;
+        charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+
+NEWDOCNEWS=20
+January 2003
+=20
+*************************************************=20
+Welcome to NEWDOCNEWS, the monthly electronic digest=20
+from SAS Publishing. NEWDOCNEWS provides you=20
+with information about new books dates for Regional User
+Group Conferences, announcements of online documentation,=20
+and general news items from SAS Publishing.=20
+**************************************************=20
+----Click here to view NEWDOCNEWS in HTML format---
+http://www.sas.com/service/doc/newdoc/jan03.html
+ **************************************************=20
+=20
+IN THIS ISSUE=20
+=20
+--Upcoming Titles from BBU Press
+--Sleepless in Seattle
+--Books By Users Press presents "Ask the BBU Experts"=20
+--Ordering Information
+--Helpful Resources from SAS Publishing
+
+=20
+-- Upcoming Titles from BBU Press=20
+=20
+Title: Quick Results with the Output Delivery System
+By: Sunil Gupta=20
+Available: March 2003
+Summary
+Improve the appearance of your SAS output today!=20
+Learn the basic concepts of the Output Delivery System (ODS)=20
+and apply ODS features to your SAS output quickly and effectively.=20
+This book discusses issues associated with defining and selecting=20
+output destinations, selecting output objects, and creating customized=20
+output files. By using the step-by-step examples provided throughout the =
+
+book, you will learn the benefits of ODS and you will see immediate=20
+results in the output you produce. This book addresses the following=20
+topics:=20
+
+*       Understanding the structure of ODS statements=20
+
+*       Generating ODS reports=20
+
+*       Routing output from several SAS procedures=20
+
+*       Manipulating ODS objects=20
+
+*       Writing to the ODS OUPUT destination=20
+
+*       Working with ODS destinations and objects=20
+
+*       Enhancing reports with ODS styles.=20
+
+=20
+Title: SAS for Monte Carlo Studies: A Guide for Quantitative Researchers
+By: Xitao Fan, Ph.D., Akos Felsovalyi, M.S., Stephen A. Sivo, Ph.D.,=20
+and Sean C. Keenan, Ph.D.=20
+Available: late January 2003=20
+Summary
+With the advance of computing technology, Monte Carlo simulation =
+research=20
+has become increasingly popular among quantitative researchers in a =
+variety=20
+of disciplines. More and more, statistical methods are being subjected =
+to=20
+rigorous empirical scrutiny in the form of statistical simulation so =
+that their=20
+limitations and strengths can be understood. With the combination of =
+powerful=20
+built-in statistical procedures and versatile programming capabilities, =
+the SAS=20
+System is ideal for conducting Monte Carlo simulation research!=20
+=20
+SAS for Monte Carlo Studies: A Guide for Quantitative Researchers =
+provides=20
+a detailed and practical guide for conducting Monte Carlo studies using =
+the=20
+SAS System. Quantitative researchers will find this book attractive for =
+its=20
+practicality and for its many hands-on application examples of Monte =
+Carlo=20
+research. Topics addressed in this book include:=20
+
+*       basic procedures for Monte Carlo simulation=20
+
+*       generating univariate random numbers in SAS=20
+
+*       generating data in Monte Carlo studies=20
+
+*       automating Monte Carlo simulations=20
+
+*       conducting Monte Carlo studies that involve univariate statistical =
+techniques=20
+
+*       conducting Monte Carlo studies for multivariate techniques=20
+
+*       examples for Monte Carlo simulation in finance:=20
+
+*       estimating default risk and Value-at-Risk (VaR)=20
+
+*       modeling time series processes with SAS/ETS software.=20
+
+=20
+Title: Step-by-Step Basic Statistics Using SAS: Student Guide
+By: Larry Hatcher, Ph.D=20
+Available: March 2003
+Summary
+Step-by-Step Basic Statistics Using SAS: Student Guide first introduces =
+you=20
+to SAS software, then leads you through a variety of elementary =
+statistical=20
+analyses that are commonly used in the social and behavioral sciences. =
+With=20
+SAS, you can focus more on conceptual issues in statistical analysis and =
+less=20
+on the mechanics of performing mathematical operations by hand. Main =
+topics=20
+include how to use the SAS windowing environment to write and submit SAS =
+
+programs; how to create SAS data sets and modify the variables that they =
+
+contain; basic descriptive statistics (measures of central tendency and =
+variability,=20
+frequency tables, and graphs); correlation and regression; t-tests =
+(single-sample,=20
+independent and paired samples); analysis of variance (ANOVA), both =
+one-way=20
+and factorial; and the chi-square test of independence. Even if you are =
+new to=20
+statistics and computers, you soon will be recording research data, =
+writing SAS=20
+programs, and interpreting the results. Reinforce what you've learned by =
+completing=20
+the exercises in the companion text, Step-by-Step Basic Statistics Using =
+
+SAS: Exercises.=20
+=20
+=20
+Title: Step-by-Step Basic Statistics Using SAS: Exercises
+By: Larry Hatcher, Ph.D=20
+Available: March 2003
+Summary
+With Step-by-Step Basic Statistics Using SAS: Exercises, you apply what =
+you=20
+learned in the companion text, Step-by-Step Basic Statistics Using SAS:=20
+Student Guide. Using the instruction provided, you soon will be creating =
+data=20
+sets and performing statistical analyses to investigate specific =
+research questions.=20
+The exercise data is inspired by studies in the social and behavioral =
+sciences,=20
+so your analyses and findings mirror real research. Each chapter =
+presents two=20
+opportunities to explore the results of the analyses and to practice =
+writing=20
+summary reports. For the first exercise, a complete solution is =
+provided,=20
+including the SAS program, output, and analysis report, as well as =
+tables=20
+and figures. For the second exercise, you supply the solution.=20
+=20
+Title: SAS Survival Analysis Techniques for Medical Research, Second =
+Edition
+By: Alan Cantor=20
+Available: February 2003
+Summary
+If you are new to survival analysis or want to expand your capabilities=20
+in this area, you will benefit from Alan Cantor's follow-up to Extending =
+
+SAS Survival Analysis Techniques for Medical Research. This second=20
+edition presents the theory and methods of survival analysis along with=20
+excellent discussions of the SAS procedures used to implement the=20
+methods described.=20
+New features include=20
+
+*       A discussion of permutation and randomization tests=20
+
+*       A discussion of the use of data imputation=20
+
+*       An improved discussion of power for Cox regression=20
+
+*       New features found in SAS Version 9, such as confidence bands for the =
+Kaplan-Meier curve=20
+
+*       Appendixes that cover mathematical and statistical background topics =
+needed in survival analysis=20
+
+*       Student exercises.=20
+
+The new features, along with several useful macros and numerous =
+examples,=20
+make SAS Survival Analysis Techniques for Medical Research, Second =
+Edition,=20
+a suitable textbook for a course in survival analysis for biostatistics =
+majors and=20
+majors in related fields. This book excels at presenting complex ideas =
+in a way=20
+that enables those without a strong technical background to utilize the =
+concepts=20
+and techniques presented within. =20
+
+-- Sleepless in Seattle=20
+
+SAS Users Group International (SUGI 28)
+March 30 - April 2, 2003
+Seattle, Washington=20
+
+A jam-packed exciting conference awaits you at SUGI 28 -- there will be =
+no time=20
+for sleeping! From the Opening Session to the Kickback Party, you won't =
+want to=20
+miss any of the events this conference offers. You will see the latest =
+SAS innovations --=20
+all designed to give you The Power to Know.=20
+=20
+Whatever your background or whatever your business or organization, =
+you'll benefit=20
+from this hard-working conference. You will find the competitive =
+advantage you seek=20
+at SUGI 28.=20
+=20
+Here are the highlights you will find at SUGI=20
+
+*       Hands-on demonstrations of SAS' latest technology=20
+
+*       Networking=20
+
+*       Detailed paper presentations by SAS users and staff=20
+
+*       Leading-edge strategies=20
+
+*       Creative techniques=20
+
+*       Workshops designed to answer your questions=20
+
+*       A new opportunity from the Books by Users Press - see next article!=20
+
+For more information, please visit the SUGI 28 Web site at=20
+ <http://www.sas.com/usergroups/sugi/sugi28/index.html> =
+http://www.sas.com/usergroups/sugi/sugi28/index.html=20
+=20
+
+-- Books by Users Press Presents "Ask the BBU Experts"=20
+=20
+New for SUGI 28--BBU Authors available to discuss SAS programming issues =
+with you!=20
+Are you looking for practical, time-tested techniques from an expert SAS =
+programmer?=20
+Perhaps you have questions about such topics as SQL, ODS, data mining, =
+or DATA step=20
+programming? If you'd like to talk through your questions or issues with =
+a SAS expert,=20
+we invite you to stop by "Ask the BBU Experts" in the SAS Publishing =
+area while you're=20
+at SUGI. There you'll find BBU authors prepared to talk with you about =
+programming=20
+techniques and best practices. The schedule of author appearances and =
+topics for=20
+discussion will be available at the SAS Publishing booth.=20
+=20
+-- Ordering Information
+=20
+Phone: 1-800-727-3228*, 8 a.m. to 5 p.m.=20
+Fax: 919-677-4444=20
+E-mail: sasbook@sas.com with questions about ordering or selection of =
+books=20
+yourturn@sas.com with technical content questions=20
+pubs@sas.com with general questions for SAS Publishing=20
+Online catalog: http://www.sas.com/pubs=20
+=20
+*For other Institute business, call 919-677-8000=20
+You may place your order with us at our World Wide Web site, using=20
+the following URL address: http://www.sas.com/pubs=20
+=20
+You can perform a keyword search, select publications by product,=20
+category, ISBN, author, title, and order number and you can place your=20
+order online. You will also find information about all the products and =
+services=20
+available from SAS Publishing.=20
+=20
+Selected SAS e-Publishing books can be ordered from the iUniverse
+site at http://corppub.iuniverse.com/marketplace/sas
+***********************************************************************=20
+--To Subscribe and Unsubscribe=20
+=20
+***To Subscribe***=20
+We hope you have enjoyed NEWDOCNEWS and encourage you to forward it=20
+to your co-workers or other SAS users. To subscribe, send an=20
+e-mail message to listserv@vm.sas.com. Leave the subject line=20
+blank. Use this text for your message:=20
+Subscribe NEWDOCNEWS-L your-first-name your-last-name=20
+(For example: subscribe newdocnews-l John Doe)=20
+=20
+***To Unsubscribe***=20
+If your e-mail address is about to change, please unsubscribe from=20
+your old address and subscribe with your new address.=20
+To unsubscribe, send an e-mail message to listserv@vm.sas.com.=20
+Leave the subject blank. Use as the text: unsubscribe newdocnews-l=20
+**********************************************************************
+=20
+-- Helpful Resources from SAS Publishing
+=20
+Authorline=20
+See what BBU authors are up to with new books, proposals, and more. The =
+newest=20
+issue of Authorline, the online newsletter, is available at=20
+ <http://www.sas.com/service/doc/bbu/authorline/07_02/toc.html> =
+www.sas.com/service/doc/bbu/authorline/07_02/toc.html.
+=20
+BBU Companion Pages=20
+Here you'll find valuable information related to the BBU books you've =
+purchased from=20
+SAS. Please visit the home page at  <http://www.sas.com/companionsites> =
+www.sas.com/companionsites.=20
+=20
+SAS Learning Edition=20
+SAS Learning Edition is a personal learning version of the world's =
+leading business=20
+intelligence and analytical software. For more information please go to  =
+<http://www.sas.com/le> www.sas.com/le.=20
+=20
+Online Training=20
+SAS software training is available to you in a variety of formats, =
+including self-paced=20
+online training courses. To take advantage of these online training =
+products, please=20
+go to  <http://www.sas.com/service/doc/train.html> =
+www.sas.com/service/doc/train.html.=20
+=20
+SAS OnlineDoc=20
+Web access to SAS Onlinedoc is available to registered users for both =
+Version 8 and 9.=20
+For more information, please go to  =
+<http://www.sas.com/service/doc/cdrom/index.html> =
+www.sas.com/service/doc/cdrom/index.html.=20
+=20
+**********************************************************************=20
+SAS...The Power to Know.=20
+***********************************************************************=20
+*SAS and all other SAS Institute Inc. product or service names=20
+are registered trademarks or trademarks of SAS Institute Inc. in=20
+the USA and other countries. (R) indicates USA registration.=20
+Note: Please do not reply to this listserv to order. Use the=20
+Web addresses, e-mail, or telephone numbers listed above=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+=20
+
+=20
+
+=20
+
+
+------_=_NextPart_001_01C2BB13.51ADB2E4
+Content-Type: text/html;
+        charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-1">
+
+
+<META content=3D"MSHTML 6.00.2719.2200" name=3DGENERATOR></HEAD>
+<BODY>
+<DIV><FONT face=3DTahoma size=3D2></FONT>&nbsp;</DIV>
+<DIV>
+<DIV><SPAN class=3D494270516-10012003><FONT face=3DArial color=3D#0000ff =
+
+size=3D2></FONT></SPAN></DIV></DIV>
+<BLOCKQUOTE dir=3Dltr style=3D"MARGIN-RIGHT: 0px">
+  <DIV><FONT face=3D"Comic Sans MS" color=3D#cc0000 size=3D2>
+  <DIV><FONT face=3DTahoma size=3D3><STRONG><FONT face=3D"Comic Sans MS" =
+
+  size=3D2>NEWDOCNEWS</FONT> </STRONG></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" color=3D#000000 size=3D2><SPAN=20
+  class=3D569582915-10012003><STRONG>January =
+2003</STRONG></SPAN></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" color=3D#000000 size=3D2><SPAN=20
+  class=3D569582915-10012003><STRONG></STRONG></SPAN></FONT>&nbsp;</DIV>
+  <DIV><FONT color=3D#000000><STRONG><FONT face=3D"Comic Sans MS"=20
+  size=3D2>*************************************************</FONT>=20
+  </STRONG></FONT></DIV>
+  <DIV><FONT color=3D#000000><FONT face=3D"Comic Sans MS" =
+size=3D2>Welcome to=20
+  NEWDOCNEWS, the monthly electronic digest</FONT> </FONT></DIV>
+  <DIV><FONT color=3D#000000><FONT face=3D"Comic Sans MS" size=3D2>from =
+SAS=20
+  Publishing. NEWDOCNEWS provides you</FONT> </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" color=3D#000000 size=3D2>with =
+information about=20
+  new books dates for Regional User</FONT></DIV>
+  <DIV><FONT color=3D#000000><FONT face=3D"Comic Sans MS" size=3D2>Group =
+Conferences,=20
+  announcements of online documentation,</FONT> </FONT></DIV>
+  <DIV><FONT color=3D#000000><FONT face=3D"Comic Sans MS" size=3D2>and =
+general news=20
+  items from SAS Publishing.</FONT><STRONG> </STRONG></FONT></DIV>
+  <DIV><FONT color=3D#000000><STRONG><FONT face=3D"Comic Sans MS"=20
+  size=3D2>**************************************************</FONT>=20
+  </STRONG></FONT></DIV>
+  <DIV><FONT color=3D#000000><FONT face=3D"Comic Sans MS" =
+size=3D2>----Click here to=20
+  view NEWDOCNEWS in HTML format---</FONT></FONT></DIV>
+  <DIV><FONT color=3D#000000><SPAN class=3D569582915-10012003><FONT=20
+  face=3D"Comic Sans MS" size=3D2><A=20
+  =
+href=3D"http://www.sas.com/service/doc/newdoc/jan03.html">http://www.sas.=
+com/service/doc/newdoc/jan03.html</A></FONT></SPAN></FONT></DIV>
+  <DIV><STRONG><FONT color=3D#000000><SPAN=20
+  class=3D569582915-10012003></SPAN>&nbsp;</FONT></STRONG><STRONG><FONT=20
+  face=3D"Comic Sans MS" color=3D#000000=20
+  size=3D2>**************************************************</FONT>=20
+  </STRONG></DIV></FONT></FONT></DIV>
+  <DIV><B><FONT face=3D"Comic Sans MS" color=3D#cc0000=20
+size=3D2></FONT></B>&nbsp;</DIV>
+  <DIV><B><FONT face=3D"Comic Sans MS" color=3D#cc0000 size=3D2>IN THIS=20
+  ISSUE</FONT></B> </DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2><FONT face=3DTahoma =
+size=3D3><FONT=20
+  face=3D"Comic Sans MS" size=3D2>--<STRONG>Upcoming Titles from BBU=20
+  Press</STRONG></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>--<STRONG>Sleepless in=20
+  Seattle</STRONG></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>--<STRONG>Books By Users =
+Press presents=20
+  "Ask the BBU Experts"</STRONG> </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>--<STRONG>Ordering=20
+  Information</STRONG></FONT></DIV>
+  <DIV><SPAN class=3D585402614-16122002><STRONG><FONT face=3D"Comic Sans =
+MS"=20
+  size=3D2>--Helpful Resources from SAS =
+Publishing</FONT></STRONG></SPAN></DIV>
+  <DIV></FONT><BR></FONT>&nbsp;</DIV>
+  <DIV><B><A name=3Dabc><FONT face=3D"Comic Sans MS"><FONT =
+color=3D#cc0000><FONT=20
+  size=3D2><SPAN class=3D569582915-10012003>-- </SPAN>Upcoming Titles =
+from BBU=20
+  Press</FONT></FONT></FONT></A></B> </DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT size=3D2><FONT face=3D"Comic Sans =
+MS"><STRONG>Title:</STRONG> <I>Quick=20
+  Results with the Output Delivery System</I><BR><STRONG>By:</STRONG> =
+Sunil=20
+  Gupta <BR><STRONG>Available:</STRONG> March=20
+  2003<BR><STRONG>Summary</STRONG><BR>Improve the appearance of your SAS =
+output=20
+  today! </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>Learn the basic concepts of =
+the Output=20
+  Delivery System (ODS) </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>and apply ODS features to =
+your SAS=20
+  output quickly and effectively. </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>This book discusses issues =
+associated=20
+  with defining and selecting </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>output destinations, =
+selecting output=20
+  objects, and creating customized </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>output files. By using the =
+step-by-step=20
+  examples provided throughout the </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>book, you will learn the =
+benefits of=20
+  ODS and you will see immediate </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>results in the output you =
+produce. This=20
+  book addresses the following </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>topics:</FONT> =
+</FONT></DIV>
+  <UL>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Understanding the =
+structure of ODS=20
+    statements</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Generating ODS =
+reports</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Routing output from =
+several SAS=20
+    procedures</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Manipulating ODS =
+objects</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Writing to the ODS OUPUT=20
+    destination</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Working with ODS =
+destinations and=20
+    objects</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Enhancing reports with ODS =
+
+    styles.</FONT> </LI></UL>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT =
+size=3D2><STRONG>Title:</STRONG> <I>SAS=20
+  for Monte Carlo Studies: A Guide for Quantitative=20
+  Researchers</I><BR><STRONG>By:</STRONG> Xitao Fan, Ph.D., Akos =
+Felsovalyi,=20
+  M.S., Stephen A. Sivo, Ph.D.,</FONT></FONT> </DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>and Sean C. Keenan, Ph.D.=20
+  <BR><STRONG>Available:</STRONG> late January 2003=20
+  <BR><STRONG>Summary</STRONG><BR>With the advance of computing =
+technology,=20
+  Monte Carlo simulation research </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>has become increasingly =
+popular among=20
+  quantitative researchers in a variety </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>of disciplines. More and =
+more,=20
+  statistical methods are being subjected to </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>rigorous empirical scrutiny =
+in the form=20
+  of statistical simulation so that their </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>limitations and strengths =
+can be=20
+  understood. With the combination of powerful </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>built-in statistical =
+procedures and=20
+  versatile programming capabilities, the SAS </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>System is ideal for =
+conducting Monte=20
+  Carlo simulation research!</FONT> </DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2><I>SAS for Monte =
+Carlo Studies: A=20
+  Guide for Quantitative Researchers</I> provides </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>a detailed and =
+practical guide=20
+  for conducting Monte Carlo studies using the </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>SAS System. =
+Quantitative=20
+  researchers will find this book attractive for its =
+</FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>practicality and for =
+its many=20
+  hands-on application examples of Monte Carlo </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>research. Topics =
+addressed in=20
+  this book include:</FONT></FONT> </DIV>
+  <UL>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>basic procedures for Monte =
+Carlo=20
+    simulation</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>generating univariate =
+random numbers=20
+    in SAS</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>generating data in Monte =
+Carlo=20
+    studies</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>automating Monte Carlo=20
+    simulations</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>conducting Monte Carlo =
+studies that=20
+    involve univariate statistical techniques</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>conducting Monte Carlo =
+studies for=20
+    multivariate techniques</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>examples for Monte Carlo =
+simulation in=20
+    finance:</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>estimating default risk =
+and=20
+    Value-at-Risk (VaR)</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>modeling time series =
+processes with=20
+    SAS/ETS software.</FONT> </LI></UL>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2><FONT face=3D"Comic =
+Sans MS"=20
+  size=3D2></FONT></FONT></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT =
+size=3D2><STRONG>Title:</STRONG>=20
+  <I>Step-by-Step Basic Statistics Using SAS: Student=20
+  Guide</I><BR><STRONG>By:</STRONG> Larry Hatcher, Ph.D=20
+  <BR><STRONG>Available:</STRONG> March=20
+  2003<BR><STRONG>Summary</STRONG><BR><I>Step-by-Step Basic Statistics =
+Using=20
+  SAS: Student Guide</I> first introduces you </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>to SAS software, then =
+leads you=20
+  through a variety of elementary statistical </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>analyses that are =
+commonly used=20
+  in the social and behavioral sciences. With </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>SAS, you can focus =
+more on=20
+  conceptual issues in statistical analysis and less =
+</FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>on the mechanics of =
+performing=20
+  mathematical operations by hand. Main topics </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>include how to use =
+the SAS=20
+  windowing environment to write and submit SAS </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>programs; how to =
+create SAS data=20
+  sets and modify the variables that they </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>contain; basic =
+descriptive=20
+  statistics (measures of central tendency and variability, =
+</FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>frequency tables, and =
+graphs);=20
+  correlation and regression; t-tests (single-sample, =
+</FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>independent and =
+paired samples);=20
+  analysis of variance (ANOVA), both one-way </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>and factorial; and =
+the chi-square=20
+  test of independence. Even if you are new to </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>statistics and =
+computers, you=20
+  soon will be recording research data, writing SAS </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>programs, and =
+interpreting the=20
+  results. Reinforce what you've learned by completing =
+</FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>the exercises in the =
+companion=20
+  text, <I>Step-by-Step Basic Statistics Using </I></FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2><I>SAS:=20
+  Exercises</I>.</FONT></FONT> </DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT=20
+  size=3D2><STRONG></STRONG></FONT></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT=20
+  size=3D2><STRONG></STRONG></FONT></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT =
+size=3D2><STRONG>Title:</STRONG>=20
+  <I>Step-by-Step Basic Statistics Using SAS:=20
+  Exercises</I><BR><STRONG>By:</STRONG> Larry Hatcher, Ph.D=20
+  <BR><STRONG>Available:</STRONG> March =
+2003<BR><STRONG>Summary</STRONG><BR>With=20
+  <I>Step-by-Step Basic Statistics Using SAS: Exercises</I>, you apply =
+what you=20
+  </FONT></FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT size=3D2><SPAN =
+
+  class=3D569582915-10012003>l</SPAN>earned in the companion text, =
+<I>Step-by-Step=20
+  Basic Statistics Using SAS: </I></FONT></FONT></FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT =
+size=3D2><I>Student=20
+  Guide</I>. Using the instruction provided, you soon will be creating =
+data=20
+  </FONT></FONT></FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT size=3D2>sets =
+and performing=20
+  statistical analyses to investigate specific research questions.=20
+  </FONT></FONT></FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT size=3D2>The =
+exercise data=20
+  is inspired by studies in the social and behavioral sciences,=20
+  </FONT></FONT></FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT size=3D2>so =
+your analyses=20
+  and findings mirror real research. Each chapter presents two=20
+  </FONT></FONT></FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT =
+size=3D2>opportunities to=20
+  explore the results of the analyses and to practice writing=20
+  </FONT></FONT></FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT =
+size=3D2>summary reports.=20
+  For the first exercise, a complete solution is provided,=20
+  </FONT></FONT></FONT></DIV>
+  <DIV><FONT size=3D+0><FONT size=3D+0><FONT face=3D"Comic Sans =
+MS"><FONT size=3D2><SPAN=20
+  class=3D569582915-10012003>i</SPAN>ncluding the SAS program, output, =
+and=20
+  analysis report, as well as tables </FONT></FONT></FONT></FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT size=3D2>and =
+figures. For=20
+  the second exercise, you supply the solution.</FONT></FONT></FONT> =
+</DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT =
+size=3D2><STRONG>Title:</STRONG> <I>SAS=20
+  Survival Analysis Techniques for Medical Research, Second=20
+  Edition</I><BR><STRONG>By:</STRONG> Alan Cantor=20
+  <BR><STRONG>Available:</STRONG> February=20
+  2003<BR><STRONG>Summary</STRONG><BR>If you are new to survival =
+analysis or=20
+  want to expand your capabilities </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>in this area, you =
+will benefit=20
+  from Alan Cantor's follow-up to <I>Extending </I></FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2><I>SAS Survival =
+Analysis=20
+  Techniques for Medical Research</I>. This second </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>edition presents the =
+theory and=20
+  methods of survival analysis along with </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>excellent discussions =
+of the SAS=20
+  procedures used to implement the </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>methods =
+described.</FONT></FONT>=20
+  </DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>New features include</FONT> =
+</DIV>
+  <UL>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>A discussion of =
+permutation and=20
+    randomization tests</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>A discussion of the use of =
+data=20
+    imputation</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>An improved discussion of =
+power for=20
+    Cox regression</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>New features found in SAS =
+Version 9,=20
+    such as confidence bands </FONT><FONT face=3D"Comic Sans MS" =
+size=3D2>for the=20
+    Kaplan-Meier curve</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Appendixes that cover =
+mathematical and=20
+    statistical background topics needed in survival analysis</FONT>=20
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Student exercises.</FONT> =
+</LI></UL>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>The new features, along =
+with several=20
+  useful macros and numerous examples, </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>make <I>SAS Survival =
+Analysis=20
+  Techniques for Medical Research, Second Edition</I>, </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>a suitable textbook for a =
+course in=20
+  survival analysis for biostatistics majors and </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>majors in related fields. =
+This book=20
+  excels at presenting complex ideas in a way </FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT size=3D2><SPAN =
+
+  class=3D569582915-10012003>t</SPAN>hat enables those without a strong =
+technical=20
+  background to utilize the concepts </FONT></FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>and techniques presented=20
+  within.&nbsp;<SPAN class=3D407311016-10012003><FONT=20
+  color=3D#800080>&nbsp;</FONT></SPAN></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2><SPAN=20
+  class=3D407311016-10012003></SPAN><BR></FONT><B><A name=3Dpqr><FONT=20
+  color=3D#cc0000><SPAN class=3D569582915-10012003>-- </SPAN><FONT=20
+  face=3D"Comic Sans MS" size=3D2>Sleepless in =
+Seattle</FONT></FONT></A></B> </DIV>
+  <P><FONT face=3D"Comic Sans MS" size=3D2>SAS Users Group International =
+(SUGI=20
+  28)<BR>March 30 - April 2, 2003<BR>Seattle, Washington</FONT>=20
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>A jam-packed exciting =
+conference awaits=20
+  you at SUGI 28&nbsp;<SPAN class=3D569582915-10012003>-- t</SPAN>here =
+will be no=20
+  time</FONT> </DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>for sleeping! From the =
+Opening Session=20
+  to the Kickback Party, you won't want to </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>miss any of the events this =
+conference=20
+  offers. You will see the latest SAS innovations -- </FONT></DIV>
+  <DIV><FONT size=3D+0><FONT face=3D"Comic Sans MS"><FONT size=3D2>all =
+designed to=20
+  give you <STRONG>The Power to Know<SPAN=20
+  class=3D569582915-10012003>.</SPAN></STRONG></FONT></FONT></FONT> =
+</DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>Whatever your background or =
+whatever=20
+  your business or organization, you'll benefit </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>from this hard-working =
+conference. You=20
+  will find the competitive advantage you seek </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>at SUGI 28.</FONT> </DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>Here are the highlights you =
+will find=20
+  at SUGI</FONT> </DIV>
+  <UL>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Hands-on demonstrations of =
+SAS' latest=20
+    technology </FONT>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Networking </FONT>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Detailed paper =
+presentations by SAS=20
+    users and staff </FONT>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Leading-edge strategies =
+</FONT>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Creative techniques =
+</FONT>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>Workshops designed to =
+answer your=20
+    questions </FONT>
+    <LI><FONT face=3D"Comic Sans MS" size=3D2>A new opportunity from the =
+Books by=20
+    Users Press - see next article! </FONT></LI></UL>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2>For more information, =
+please=20
+  visit the&nbsp;<SPAN class=3D569582915-10012003>SUGI 28 Web site at=20
+  </SPAN></FONT></FONT></DIV>
+  <DIV><SPAN class=3D569582915-10012003><A=20
+  href=3D"http://www.sas.com/usergroups/sugi/sugi28/index.html"><FONT=20
+  face=3D"Comic Sans MS"=20
+  =
+size=3D2>http://www.sas.com/usergroups/sugi/sugi28/index.html</FONT></A><=
+SPAN=20
+  class=3D233485014-13012003><FONT face=3D"Comic Sans MS" =
+color=3D#800080=20
+  size=3D2>&nbsp;</FONT></SPAN></SPAN></DIV>
+  <DIV><SPAN class=3D569582915-10012003><SPAN=20
+  class=3D233485014-13012003>&nbsp;</SPAN></SPAN><BR></DIV>
+  <DIV><B><A name=3Dstu><FONT face=3D"Comic Sans MS"><FONT =
+color=3D#cc0000><FONT=20
+  size=3D2><SPAN class=3D569582915-10012003>-- </SPAN>Books by Users =
+Press Presents=20
+  "Ask the BBU Experts"</FONT></FONT></FONT></A></B> </DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>New for SUGI 28--BBU =
+Authors available=20
+  to discuss SAS programming issues with you! </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>Are you looking for =
+practical,=20
+  time-tested techniques from an expert SAS programmer? </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>Perhaps you have questions =
+about such=20
+  topics as SQL, ODS, data mining, or DATA step </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>programming? If you'd like =
+to talk=20
+  through your questions or issues with a SAS expert, </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>we invite you to stop by =
+"Ask the BBU=20
+  Experts" in the SAS Publishing area while you're </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>at SUGI. There you'll find =
+BBU authors=20
+  prepared to talk with you about programming </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>techniques and best =
+practices. The=20
+  schedule of author appearances and topics for </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>discussion will be =
+available at the SAS=20
+  Publishing booth.</FONT> </DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV>
+  <DIV>
+  <DIV><STRONG><FONT face=3D"Comic Sans MS" color=3D#cc0000 =
+size=3D2><SPAN=20
+  class=3D569582915-10012003>-- Ordering =
+Information</SPAN></FONT></STRONG></DIV>
+  <DIV>&nbsp;</DIV>
+  <DIV>Phone: 1-800-727-3228*, 8 a.m. to 5 p.m. </DIV>
+  <DIV>Fax: 919-677-4444 </DIV>
+  <DIV>E-mail: sasbook@sas.com with questions about ordering or =
+selection of=20
+  books </DIV>
+  <DIV>yourturn@sas.com with technical content questions </DIV>
+  <DIV>pubs@sas.com with general questions for SAS Publishing </DIV>
+  <DIV>Online catalog: <A=20
+  href=3D"http://www.sas.com/pubs">http://www.sas.com/pubs</A> </DIV>
+  <DIV>&nbsp;</DIV>
+  <DIV>*For other Institute business, call 919-677-8000 </DIV>
+  <DIV>You may place your order with us at our World Wide Web site, =
+using </DIV>
+  <DIV>the following URL address: <A=20
+  href=3D"http://www.sas.com/pubs">http://www.sas.com/pubs</A> </DIV>
+  <DIV>&nbsp;</DIV>
+  <DIV>You can perform a keyword search, select publications by product, =
+</DIV>
+  <DIV>category, ISBN, author, title, and order number and you can place =
+your=20
+  </DIV>
+  <DIV>order online. You will also find information about all the =
+products and=20
+  services </DIV>
+  <DIV>available from SAS Publishing. </DIV>
+  <DIV>&nbsp;</DIV>
+  <DIV>Selected&nbsp;<SPAN class=3D537410115-08102002>SAS =
+</SPAN>e-Publishing=20
+  books can be ordered from&nbsp;<SPAN class=3D537410115-08102002>the=20
+  iUniverse</SPAN></DIV>
+  <DIV>site&nbsp;<SPAN class=3D537410115-08102002>at <A=20
+  =
+href=3D"http://corppub.iuniverse.com/marketplace/sas">http://corppub.iuni=
+verse.com/marketplace/sas</A></SPAN></DIV>
+  =
+<DIV>********************************************************************=
+***=20
+  </DIV>
+  <DIV>--<STRONG>To Subscribe and Unsubscribe</STRONG> </DIV>
+  <DIV>&nbsp;</DIV>
+  <DIV>***To Subscribe*** </DIV>
+  <DIV>We hope you have enjoyed NEWDOCNEWS and encourage you to forward =
+it=20
+</DIV>
+  <DIV>to your co-workers or other SAS users. To subscribe, send an =
+</DIV>
+  <DIV>e-mail message to listserv@vm.sas.com. Leave the subject line =
+</DIV>
+  <DIV>blank. Use this text for your message: </DIV>
+  <DIV>Subscribe NEWDOCNEWS-L your-first-name your-last-name </DIV>
+  <DIV>(For example: subscribe newdocnews-l John Doe) </DIV>
+  <DIV>&nbsp;</DIV>
+  <DIV>***To Unsubscribe*** </DIV>
+  <DIV>If your e-mail address is about to change, please unsubscribe =
+from </DIV>
+  <DIV>your old address and subscribe with your new address. </DIV>
+  <DIV>To unsubscribe, send an e-mail message to listserv@vm.sas.com. =
+</DIV>
+  <DIV>Leave the subject blank. Use as the text: unsubscribe =
+newdocnews-l </DIV>
+  =
+<DIV>********************************************************************=
+**</DIV>
+  <DIV><STRONG><SPAN class=3D537410115-08102002><FONT face=3D"Comic Sans =
+MS"=20
+  color=3D#cc0000 size=3D2><SPAN=20
+  class=3D569582915-10012003></SPAN></FONT></SPAN></STRONG>&nbsp;</DIV>
+  <DIV><STRONG><SPAN class=3D537410115-08102002><FONT face=3D"Comic Sans =
+MS"=20
+  color=3D#cc0000 size=3D2><SPAN class=3D569582915-10012003>-- Helpful =
+Resources from=20
+  SAS Publishing</SPAN></FONT></SPAN></STRONG></DIV>
+  <DIV>&nbsp;</DIV>
+  <DIV><STRONG><FONT face=3D"Comic Sans MS" size=3D2>Authorline=20
+  </FONT></STRONG></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>See what BBU authors are up =
+to with new=20
+  books, proposals, and more. The newest </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>issue of&nbsp;<SPAN=20
+  class=3D537410115-08102002>Auth</SPAN><SPAN =
+class=3D537410115-08102002>orline,=20
+  </SPAN>the online newsletter<SPAN class=3D537410115-08102002>,</SPAN> =
+is=20
+  available at </FONT></DIV>
+  <DIV><A=20
+  =
+href=3D"http://www.sas.com/service/doc/bbu/authorline/07_02/toc.html"><FO=
+NT=20
+  face=3D"Comic Sans MS"=20
+  =
+size=3D2>www.sas.com/service/doc/bbu/authorline/07_02/toc.html</FONT></A>=
+<FONT=20
+  face=3D"Comic Sans MS" size=3D2>.</FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2><STRONG>BBU Companion =
+
+  Pages</STRONG> </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>Here you'll find valuable =
+information=20
+  related to the BBU books you've purchased from </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>SAS. Please visit the home =
+page at=20
+  </FONT><A href=3D"http://www.sas.com/companionsites"><FONT =
+face=3D"Comic Sans MS"=20
+  size=3D2>www.sas.com/companionsites</FONT></A><FONT face=3D"Comic Sans =
+MS"=20
+  size=3D2>. </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2><STRONG>SAS Learning=20
+  Edition</STRONG> </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>SAS Learning Edition is a =
+personal=20
+  learning version of the world's leading business </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>intelligence and analytical =
+software.=20
+  For more information please go to </FONT><A =
+href=3D"http://www.sas.com/le"><FONT=20
+  face=3D"Comic Sans MS" size=3D2>www.sas.com/le</FONT></A><FONT=20
+  face=3D"Comic Sans MS" size=3D2>. </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2><STRONG>Online =
+Training</STRONG>=20
+  </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>SAS software training is =
+available to=20
+  you in a variety of formats, including self-paced </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>online training courses. To =
+take=20
+  advantage of these online training products, please </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>go to </FONT><A=20
+  href=3D"http://www.sas.com/service/doc/train.html"><FONT face=3D"Comic =
+Sans MS"=20
+  size=3D2>www.sas.com/service/doc/train.html</FONT></A><FONT =
+face=3D"Comic Sans MS"=20
+  size=3D2>. </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"><FONT size=3D2><STRONG>SAS =
+OnlineDoc</STRONG>=20
+  </FONT></FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>Web access to SAS Onlinedoc =
+is=20
+  available to registered users for both Version 8 and 9. </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>For more information, =
+please go to=20
+  </FONT><A =
+href=3D"http://www.sas.com/service/doc/cdrom/index.html"><FONT=20
+  face=3D"Comic Sans MS"=20
+  size=3D2>www.sas.com/service/doc/cdrom/index.html</FONT></A><FONT=20
+  face=3D"Comic Sans MS" size=3D2>. </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</DIV>
+  <DIV><FONT face=3D"Comic Sans MS"=20
+  =
+size=3D2>****************************************************************=
+******=20
+  </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>SAS...The Power to Know. =
+</FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"=20
+  =
+size=3D2>****************************************************************=
+*******=20
+  </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>*SAS and all other SAS =
+Institute Inc.=20
+  product or service names </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>are registered trademarks =
+or trademarks=20
+  of SAS Institute Inc. in </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>the USA and other =
+countries. (R)=20
+  indicates USA registration. </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>Note: Please do not reply =
+to this=20
+  listserv to order. Use the </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS" size=3D2>Web addresses, e-mail, or =
+telephone=20
+  numbers listed above </FONT></DIV>
+  <DIV><FONT face=3D"Comic Sans MS"=20
+  =
+size=3D2>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</FONT></DIV></DIV></DIV>
+  <P><FONT face=3D"Comic Sans MS" size=3D2></FONT>&nbsp;</P>
+  <P>&nbsp;</P>
+  <DIV>&nbsp;</DIV></BLOCKQUOTE></BODY></HTML>
+
+------_=_NextPart_001_01C2BB13.51ADB2E4--

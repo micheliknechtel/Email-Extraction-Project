@@ -1,0 +1,919 @@
+Received: (qmail 27861 invoked from network); 8 Jan 2003 13:13:36 -0000
+Received: from dev212.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 8 Jan 2003 13:13:36 -0000
+Received: (qmail 15632 invoked by uid 99); 8 Jan 2003 13:13:36 -0000
+Received: (qmail 12976 invoked from network); 8 Jan 2003 13:13:35 -0000
+Received: from unknown (HELO saf.portlandpress.com) (194.129.54.66)
+  by www.mailshell.com with SMTP; 8 Jan 2003 13:13:35 -0000
+Received: from cdc.bsppl.net (cdc.bsppl.net) by saf.portlandpress.com
+ (Content Technologies SMTPRS 4.2.10) with SMTP id <T5faa4dafd2c2813642160@saf.portlandpress.com> for <nospam@mailshell.com>;
+ Wed, 8 Jan 2003 13:05:11 +0000
+Message-ID: <LYRIS-1599-1816-2003.01.08-13.01.55--nospam#MAILSHELL.COM@lists.biochemsoc.org.uk>
+From: Biochem J current awareness <bj-toc-html@PortlandPress.com>
+To: "Mailshell User" <nospam@mailshell.com>
+Subject: Biochemical Journal Vol. 369 part 2, 15 Jan 2003
+Date: Wed, 8 Jan 2003 13:01:49 -0000 
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2653.19)
+Content-Type: multipart/mixed; boundary="----_=_NextPart_000_01C2B716.1B779320"
+List-Unsubscribe: <mailto:leave-bjtoc-l-1599E@lists.biochemsoc.org.uk>
+Reply-To: Biochem J current awareness <bj-toc-html@PortlandPress.com>
+
+This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+------_=_NextPart_000_01C2B716.1B779320
+Content-Type: text/plain
+
+ <<bj3692.htm>> 
+The table of contents of the current issue of Biochemical Journal is attached. 
+If your email system is unable to handle MIME attachments the rest of this message will be nonsense. 
+If this is the case, there is a text based version of this service as well.
+
+To subscribe to the text based version, send the "SUBSCRIBE BJTOC-TEXT-L" message to LYRIS@LISTS.BIOCHEMSOC.ORG.UK
+
+You will receive an email file attachment every two weeks.
+
+You may leave the list at any time by sending a "SIGNOFF BJTOC-L"
+command to LYRIS@LISTS.BIOCHEMSOC.ORG.UK
+
+If you have problems with this service please contact
+support@portlandpress.com
+
+For details of how to subscribe to the Biochemical Journal visit our web site at http://www.biochemj.org/ or contact sales@portland-services.com
+
+
+
+ 
+
+
+------_=_NextPart_000_01C2B716.1B779320
+Content-Type: text/html;
+	name="bj3692.htm"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: attachment;
+	filename="bj3692.htm"
+
+<html><head>
+<title>Biochemical Journal - Browse Contents</title>
+
+
+
+
+
+
+
+
+
+
+
+<!-- Fireworks 4.0  Dreamweaver 4.0 target.  Created Mon Oct 01 =
+16:38:20 GMT+0100 (GMT Daylight Time) 2001-->
+<script language=3D"JavaScript">
+<!--
+
+var F1 =3D null
+
+
+function MM_swapImage() { //v3.0
+  var i,j=3D0,x,a=3DMM_swapImage.arguments; document.MM_sr=3Dnew Array; =
+for(i=3D0;i<(a.length-2);i+=3D3)
+   if ((x=3DMM_findObj(a[i]))!=3Dnull){document.MM_sr[j++]=3Dx; =
+if(!x.oSrc) x.oSrc=3Dx.src; x.src=3Da[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=3Ddocument.MM_sr; =
+for(i=3D0;a&&i<a.length&&(x=3Da[i])&&x.oSrc;i++) x.src=3Dx.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=3Ddocument; =
+if((p=3Dn.indexOf("?"))>0&&parent.frames.length) {
+    d=3Dparent.frames[n.substring(p+1)].document; =
+n=3Dn.substring(0,p);}
+  if(!(x=3Dd[n])&&d.all) x=3Dd.all[n]; for =
+(i=3D0;!x&&i<d.forms.length;i++) x=3Dd.forms[i][n];
+  for(i=3D0;!x&&d.layers&&i<d.layers.length;i++) =
+x=3DMM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=3Dd.getElementById(n); return x;
+}
+function MM_nbGroup(event, grpName) { //v3.0
+  var i,img,nbArr,args=3DMM_nbGroup.arguments;
+  if (event =3D=3D "init" && args.length > 2) {
+    if ((img =3D MM_findObj(args[2])) !=3D null && !img.MM_init) {
+      img.MM_init =3D true; img.MM_up =3D args[3]; img.MM_dn =3D =
+img.src;
+      if ((nbArr =3D document[grpName]) =3D=3D null) nbArr =3D =
+document[grpName] =3D new Array();
+      nbArr[nbArr.length] =3D img;
+      for (i=3D4; i < args.length-1; i+=3D2) if ((img =3D =
+MM_findObj(args[i])) !=3D null) {
+        if (!img.MM_up) img.MM_up =3D img.src;
+        img.src =3D img.MM_dn =3D args[i+1];
+        nbArr[nbArr.length] =3D img;
+    } }
+  } else if (event =3D=3D "over") {
+    document.MM_nbOver =3D nbArr =3D new Array();
+    for (i=3D1; i < args.length-1; i+=3D3) if ((img =3D =
+MM_findObj(args[i])) !=3D null) {
+      if (!img.MM_up) img.MM_up =3D img.src;
+      img.src =3D (img.MM_dn && args[i+2]) ? args[i+2] : args[i+1];
+      nbArr[nbArr.length] =3D img;
+    }
+  } else if (event =3D=3D "out" ) {
+    for (i=3D0; i < document.MM_nbOver.length; i++) {
+      img =3D document.MM_nbOver[i]; img.src =3D (img.MM_dn) ? =
+img.MM_dn : img.MM_up; }
+  } else if (event =3D=3D "down") {
+    if ((nbArr =3D document[grpName]) !=3D null)
+      for (i=3D0; i < nbArr.length; i++) { img=3DnbArr[i]; img.src =3D =
+img.MM_up; img.MM_dn =3D 0; }
+    document[grpName] =3D nbArr =3D new Array();
+    for (i=3D2; i < args.length-1; i+=3D2) if ((img =3D =
+MM_findObj(args[i])) !=3D null) {
+      if (!img.MM_up) img.MM_up =3D img.src;
+      img.src =3D img.MM_dn =3D args[i+1];
+      nbArr[nbArr.length] =3D img;
+  } }
+}
+
+function MM_preloadImages() { //v3.0
+ var d=3Ddocument; if(d.images){ if(!d.MM_p) d.MM_p=3Dnew Array();
+   var i,j=3Dd.MM_p.length,a=3DMM_preloadImages.arguments; for(i=3D0; =
+i<a.length; i++)
+   if (a[i].indexOf("#")!=3D0){ d.MM_p[j]=3Dnew Image; =
+d.MM_p[j++].src=3Da[i];}}
+}
+
+
+function fwLoadMenus() {
+  if (window.fw_menu_0) return;
+
+  window.fw_menu_0 =3D new Menu("root",185,17,"Verdana, Arial, =
+Helvetica, sans-serif",10,"#00274b","#6699ff","#6699ff","#00274b");
+  fw_menu_0.addMenuItem("Editorial =
+Board","window.open('http://www.biochemj.org/bj/bjedboard.htm', =
+'_self');");
+  fw_menu_0.addMenuItem("Editorial Advisory =
+Panel","window.open('http://www.biochemj.org/bj/bjedavpanel.htm', =
+'_self');");
+  fw_menu_0.addMenuItem("Biochemical =
+Society","window.open('http://www.biochemistry.org', '_self');");
+  fw_menu_0.addMenuItem("Portland =
+Press","window.open('http://www.portlandpress.com', '_self');");
+  fw_menu_0.addMenuItem("Portland Customer =
+Services","window.open('http://www.portlandpress.com/pcs/default.htm', =
+'_self');");
+  =
+fw_menu_0.addMenuItem("Disclaimer","window.open('http://www.biochemj.org=
+/bj/disclaimer.htm', '_self');");
+  fw_menu_0.hideOnMouseOut=3Dtrue;
+
+  window.fw_menu_1 =3D new Menu("root",235,17,"Verdana, Arial, =
+Helvetica, sans-serif",10,"#00274b","#6699ff","#6699ff","#00274b");
+  fw_menu_1.addMenuItem("How to =
+subscribe","window.open('http://www.portlandpress.com/pcs/journals/journ=
+al.cfm?product=3DBJ', '_self');");
+  fw_menu_1.addMenuItem("Latest despatch dates","window.open('http://www=
+.portlandpress.com/pcs/journals/maildates.htm', '_self');");
+  =
+fw_menu_1.addMenuItem("Licensing","window.open('http://www.biochemj.org/=
+bj/licence.htm', '_self');");
+  =
+fw_menu_1.addMenuItem("Offprints","window.open('http://www.portlandpress=
+.com/pp/journals/offprints.htm', '_self');");
+  fw_menu_1.addMenuItem("How to =
+claim","window.open('http://www.portlandpress.com/pcs/journals/claim.htm=
+', '_self');");
+  fw_menu_1.addMenuItem("Biochemical =
+Journal","window.open('http://www.biochemj.org', '_self');");
+  fw_menu_1.addMenuItem("Biochemical Society =
+Transactions","window.open('http://bst.portlandpress.com/', =
+'_self');");
+  fw_menu_1.addMenuItem("Biotechnology &amp; Applied Biochemistry =
+","window.open('http://www.babonline.org', '_self');");
+  fw_menu_1.addMenuItem("Clinical =
+Science","window.open('http://www.clinsci.org', '_self');");
+  fw_menu_1.addMenuItem("Biochemist =
+E-Volution","window.open('http://www.biochemist.org', '_self');");
+  fw_menu_1.hideOnMouseOut=3Dtrue;
+
+  window.fw_menu_2 =3D new Menu("root",250,17,"Verdana, Arial, =
+Helvetica, sans-serif",10,"#00274b","#6699ff","#6699ff","#00274b");
+  fw_menu_2.addMenuItem("Latest =
+Titles","window.open('http://www.portlandpress.com/pp/books/latest.htm',=
+ '_self');");
+  fw_menu_2.addMenuItem("List =
+Alphabetically","window.open('http://www.portlandpress.com/pp/books/prod=
+_list_alpha.cfm', '_self');");
+  =
+fw_menu_2.addMenuItem("General","window.open('http://www.portlandpress.c=
+om/pp/books/prod_list.cfm?product_class=3D', '_self');");
+  fw_menu_2.addMenuItem("Essays in =
+Biochemistry","window.open('http://www.portlandpress.com/pp/books/prod_l=
+ist.cfm?product_class=3DPPEB', '_self');");
+  fw_menu_2.addMenuItem("Biochemical Society Symposia =
+","window.open('http://www.portlandpress.com/pp/books/prod_list.cfm?prod=
+uct_class=3DPPBS', '_self');");
+  fw_menu_2.addMenuItem("Making Sense of Science Children's =
+Books","window.open('http://www.portlandpress.com/pp/books/prod_list.cfm=
+?product_class=3DPPPC', '_self');");
+  =
+fw_menu_2.addMenuItem("Wenner-Gren","window.open('http://www.portlandpre=
+ss.com/pp/books/prod_list.cfm?product_class=3DPPWG', '_self');");
+  fw_menu_2.addMenuItem("Online =
+books","window.open('http://www.portlandpress.com/pp/books/online.htm', =
+'_self');");
+  fw_menu_2.hideOnMouseOut=3Dtrue;
+
+  window.fw_menu_3 =3D new Menu("root",163,17,"Verdana, Arial, =
+Helvetica, sans-serif",10,"#00274b","#6699ff","#6699ff","#00274b");
+  fw_menu_3.addMenuItem("Subscription =
+fulfilment","window.open('http://www.portlandpress.com/pcs/services/jour=
+nals.htm', '_self');");
+  fw_menu_3.addMenuItem("Book =
+fulfilment","window.open('http://www.portlandpress.com/pcs/services/book=
+s.htm', '_self');");
+  fw_menu_3.addMenuItem("Membership =
+services","window.open('http://www.portlandpress.com/pcs/services/member=
+ship.htm', '_self');");
+  fw_menu_3.addMenuItem("Publishing =
+services","window.open('http://www.portlandpress.com/pcs/services/publis=
+hing.htm', '_self');");
+  fw_menu_3.addMenuItem("Web site =
+hosting","window.open('http://www.portlandpress.com/pcs/services/website=
+.htm', '_self');");
+  fw_menu_3.addMenuItem("Electronic journal =
+hosting","window.open('http://www.portlandpress.com/pcs/services/ejourna=
+ls.htm', '_self');");
+  fw_menu_3.addMenuItem("Conference =
+registration","window.open('http://www.portlandpress.com/pcs/services/me=
+etings.htm', '_self');");
+  fw_menu_3.hideOnMouseOut=3Dtrue;
+
+  window.fw_menu_4 =3D new Menu("root",123,17,"Verdana, Arial, =
+Helvetica, sans-serif",10,"#00274b","#6699ff","#6699ff","#00274b");
+  =
+fw_menu_4.addMenuItem("Enquiries","window.open('http://www.portlandpress=
+.com/pcs/about/enquiry.htm', '_blank');");
+  =
+fw_menu_4.addMenuItem("Editorial","window.open('http://www.portlandpress=
+.com/pp/about/contact.htm#14', '_blank');");
+  =
+fw_menu_4.addMenuItem("Marketing","window.open('http://www.portlandpress=
+.com/pp/about/contact.htm#16', '_blank');");
+  fw_menu_4.addMenuItem("Customer =
+services","window.open('http://www.portlandpress.com/pp/about/contact.ht=
+m#17', '_blank');");
+  fw_menu_4.addMenuItem("Where are =
+we?","window.open('http://www.portlandpress.com/pp/about/where.htm', =
+'_blank');");
+  fw_menu_4.hideOnMouseOut=3Dtrue;
+
+  window.fw_menu_5 =3D new Menu("root",165,17,"Verdana, Arial, =
+Helvetica, sans-serif",10,"#00274b","#6699ff","#6699ff","#00274b");
+  =
+fw_menu_5.addMenuItem("General","window.open('http://www.portlandpress.c=
+om/pp/faq.htm', '_self');");
+  fw_menu_5.addMenuItem("Subscriber =
+help/services","window.open('http://www.portlandpress.com/pcs/journals/h=
+elp.htm', '_self');");
+  fw_menu_5.addMenuItem("Instructions to =
+authors","window.open('http://www.biochemj.org/bj/bji2a.htm', =
+'_self');");
+  =
+fw_menu_5.addMenuItem("Links","window.open('http://www.portlandpress.com=
+/pcs/links/default.htm', '_self');");
+  fw_menu_5.hideOnMouseOut=3Dtrue;
+
+  window.fw_menu_6 =3D new Menu("root",100,17,"Verdana, Arial, =
+Helvetica, sans-serif",10,"#00274b","#6699ff","#6699ff","#00274b");
+  fw_menu_6.hideOnMouseOut=3Dtrue;
+
+  fw_menu_6.writeMenus();
+} // fwLoadMenus()
+
+//-->
+</script>
+<script language=3D"JavaScript1.2" =
+src=3D"http://www.biochemj.org/fw_menu.js"></script>
+
+
+		<link rel=3D"stylesheet" href=3D"http://www.biochemj.org/std.css" =
+type=3D"text/css">
+
+
+
+</head>
+
+		<body marginheight=3D"0" marginwidth=3D"0" topmargin=3D"0" =
+leftmargin=3D"0" bgcolor=3D"#ffffff"  text=3D"#00274B" link=3D"#6666FF" =
+vlink=3D"#00274B" alink=3D"#00274B" =
+onLoad=3D"MM_preloadImages('http://www.biochemj.org/images/obut0.gif','h=
+ttp://www.biochemj.org/images/obut1.gif','http://www.biochemj.org/images=
+/obut2.gif','http://www.biochemj.org/images/obut3.gif','http://www.bioch=
+emj.org/images/obut4.gif','http://www.biochemj.org/images/obut5.gif','ht=
+tp://www.biochemj.org/images/obut6.gif','http://www.biochemj.org/images/=
+go_on.gif')" >
+
+<script language=3D"JavaScript1.2">fwLoadMenus();</script>
+
+
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+
+<TR>
+<TD class=3D"backgmast">
+
+		<img name=3D"ppl_rollovers_r1_c1" =
+src=3D"http://www.biochemj.org/images/bj_mast.jpg" width=3D"750" =
+height=3D"107" border=3D"0" align=3D"top" >
+
+</TD>
+</TR>
+
+
+
+<TR>
+<TD class=3D"backg">
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"750" =
+class=3D"backg">
+<tr class=3D"backg" valign=3D"top" HEIGHT=3D"23">
+	<td class=3D"backg"><a href=3D"http://www.biochemj.org/default.htm" =
+onMouseOut=3D"MM_nbGroup('out');"  =
+onMouseOver=3D"MM_nbGroup('over','but0','http://www.biochemj.org/images/=
+obut0.gif','http://www.biochemj.org/images/obut0.gif',1);"><img =
+name=3D"but0" src=3D"http://www.biochemj.org/images/but0.gif" =
+width=3D"63" height=3D"22" border=3D"0" vspace=3D"0" hspace=3D"0" =
+usemap=3D"#map0"></a></td>
+
+	<td class=3D"backg"><a =
+href=3D"http://www.portlandpress.com/pp/journals/default.htm" =
+onMouseOut=3D"MM_nbGroup('out');"  =
+onMouseOver=3D"MM_nbGroup('over','but1','http://www.biochemj.org/images/=
+obut1.gif','http://www.biochemj.org/images/obut1.gif',1);"><img =
+name=3D"but1" src=3D"http://www.biochemj.org/images/but1.gif" =
+width=3D"58" height=3D"22" border=3D"0" vspace=3D"0" hspace=3D"0" =
+usemap=3D"#map1" ></a></td>
+
+	<td class=3D"backg"><a =
+href=3D"http://www.portlandpress.com/pp/books/default.htm" =
+onMouseOut=3D"MM_nbGroup('out');"  =
+onMouseOver=3D"MM_nbGroup('over','but2','http://www.biochemj.org/images/=
+obut2.gif','http://www.biochemj.org/images/obut2.gif',1);"><img =
+name=3D"but2" src=3D"http://www.biochemj.org/images/but2.gif" =
+width=3D"45" height=3D"22" border=3D"0" vspace=3D"0" hspace=3D"0" =
+usemap=3D"#map2" ></a></td>
+
+	<td class=3D"backg"><a =
+href=3D"http://www.portlandpress.com/pcs/services/default.htm" =
+onMouseOut=3D"MM_nbGroup('out');"  =
+onMouseOver=3D"MM_nbGroup('over','but3','http://www.biochemj.org/images/=
+obut3.gif','http://www.biochemj.org/images/obut3.gif',1);"><img =
+name=3D"but3" src=3D"http://www.biochemj.org/images/but3.gif" =
+width=3D"58" height=3D"22" border=3D"0" vspace=3D"0" hspace=3D"0" =
+usemap=3D"#map3" ></a></td>
+
+	<td class=3D"backg"><a =
+href=3D"http://www.portlandpress.com/pcs/about/contact.htm" =
+onMouseOut=3D"MM_nbGroup('out');"  =
+onMouseOver=3D"MM_nbGroup('over','but4','http://www.biochemj.org/images/=
+obut4.gif','http://www.biochemj.org/images/obut4.gif',1);"><img =
+name=3D"but4" src=3D"http://www.biochemj.org/images/but4.gif" =
+width=3D"64" height=3D"22" border=3D"0" vspace=3D"0" hspace=3D"0" usemap=
+=3D"#map4" ></a></td>
+
+	<td class=3D"backg"><a href=3D"http://www.biochemj.org/bj/bji2a.htm" =
+onMouseOut=3D"MM_nbGroup('out');"  =
+onMouseOver=3D"MM_nbGroup('over','but5','http://www.biochemj.org/images/=
+obut5.gif','http://www.biochemj.org/images/obut5.gif',1);"><img =
+name=3D"but5" src=3D"http://www.biochemj.org/images/but5.gif" =
+width=3D"39" height=3D"22" border=3D"0" vspace=3D"0" hspace=3D"0" =
+usemap=3D"#map5" ></a></td>
+
+	<td class=3D"backg"><a href=3D"http://www.biochemj.org/bj/sitemap.htm" =
+onMouseOut=3D"MM_nbGroup('out');"  =
+onMouseOver=3D"MM_nbGroup('over','but6','http://www.biochemj.org/images/=
+obut6.gif','http://www.biochemj.org/images/obut6.gif',1);"><img =
+name=3D"but6" src=3D"http://www.biochemj.org/images/but6.gif" =
+width=3D"50" height=3D"22" border=3D"0" vspace=3D"0" hspace=3D"0" =
+usemap=3D"#map6" ></a></td>
+
+	<td class=3D"backg"><img =
+src=3D"http://www.biochemj.org/images/but_search.gif" width=3D"100" =
+height=3D"22" border=3D"0" vspace=3D"0" hspace=3D"0"></td>
+
+
+	<form method=3D"post" =
+action=3D"http://www.biochemj.org/bj/search/resultssimple.idq" =
+name=3D"searchform">
+	<INPUT TYPE=3D"HIDDEN" NAME=3D"HTMLQueryForm" =
+VALUE=3D"http://www.biochemj.org/bj/search/search.htm">
+
+	<td class=3D"backg" valign=3D"middle">
+	<select name=3D"index" align=3D"middle">
+	<option value=3D"full" selected>Whole site </option>
+	<option value=3D"author" >Author </option>
+	<option value=3D"keywords">Keywords </option>
+	<option value=3D"title" >Title </option>
+    </select></td>
+
+  	<td class=3D"backg"><img =
+src=3D"http://www.biochemj.org/images/spacer.gif" width=3D"5"  =
+height=3D"22" border=3D"0" vspace=3D"0" hspace=3D"0"></td>
+
+	<td class=3D"backg" valign=3D"middle"><input align=3D"middle" =
+HEIGHT=3D"15" type=3D"text" name=3D"SearchText" size=3D"20" =
+maxlength=3D"100"></td>
+
+ 	<td class=3D"backg">	<input type=3D"image" border=3D"0" value=3D"Go" =
+Name=3D"Go" src=3D"http://www.biochemj.org/images/go_on.gif"></td>
+
+  	<td class=3D"backg" width=3D"100%"><img =
+src=3D"http://www.biochemj.org/images/spacer.gif" width=3D"10"  =
+height=3D"23" border=3D"0" vspace=3D"0" hspace=3D"0"></td>
+
+	</form>
+
+
+
+
+  <map name=3D"map0">
+    <area shape=3D"rect" coords=3D"0,0,63,22" =
+href=3D"http://www.biochemj.org/default.htm" =
+onMouseOut=3D"FW_startTimeout();"  =
+onMouseOver=3D"window.FW_showMenu(window.fw_menu_0,0,130);"  >
+  </map>
+  <map name=3D"map1">
+    <area shape=3D"rect" coords=3D"0,0,58,22" =
+href=3D"http://www.portlandpress.com/pp/journals/default.htm" =
+onMouseOut=3D"FW_startTimeout();"  =
+onMouseOver=3D"window.FW_showMenu(window.fw_menu_1,62,130);"  >
+  </map>
+  <map name=3D"map2">
+    <area shape=3D"rect" coords=3D"0,0,45,22" =
+href=3D"http://www.portlandpress.com/pp/books/default.htm" =
+onMouseOut=3D"FW_startTimeout();"  =
+onMouseOver=3D"window.FW_showMenu(window.fw_menu_2,120,130);"  >
+  </map>
+  <map name=3D"map3">
+    <area shape=3D"rect" coords=3D"0,0,58,22" =
+href=3D"http://www.portlandpress.com/pcs/services/default.htm" =
+onMouseOut=3D"FW_startTimeout();"  =
+onMouseOver=3D"window.FW_showMenu(window.fw_menu_3,165,130);"  >
+  </map>
+  <map name=3D"map4">
+    <area shape=3D"rect" coords=3D"0,0,64,22" =
+href=3D"http://www.portlandpress.com/pcs/about/contact.htm" =
+onMouseOut=3D"FW_startTimeout();"  =
+onMouseOver=3D"window.FW_showMenu(window.fw_menu_4,223,130);"  >
+  </map>
+  <map name=3D"map5">
+    <area shape=3D"rect" coords=3D"0,0,39,22" =
+href=3D"http://www.biochemj.org/bj/bji2a.htm" =
+onMouseOut=3D"FW_startTimeout();"  =
+onMouseOver=3D"window.FW_showMenu(window.fw_menu_5,288,130);"  >
+  </map>
+  <map name=3D"map6">
+    <area shape=3D"rect" coords=3D"0,0,50,22" =
+href=3D"http://www.biochemj.org/bj/sitemap.htm" =
+onMouseOut=3D"FW_startTimeout();"  onMouseOver=3D"hideActiveMenus();"  =
+>
+  </map>
+
+
+</tr>
+
+</table>
+
+</TD>
+
+</TR>
+
+
+<TR>
+<TD>
+
+<table width=3D"750" border=3D"0" cellspacing=3D"0" cellpadding=3D"5" =
+align=3D"left">
+  <tr valign=3D"top">
+    <td width=3D"35"><img =
+src=3D"http://www.biochemj.org/images/spacer.gif" width=3D"35" =
+height=3D"1" border=3D"0"></td>
+    <td width=3D"496" class=3D"text">
+      <img src=3D"http://www.biochemj.org/images/spacer.gif" =
+width=3D"1" height=3D"15" border=3D"0"><BR>
+
+
+				<A HREF=3D"http://www.biochemj.org/default.htm"><img =
+src=3D"http://www.biochemj.org/images/bj_title.gif" width=3D"263" =
+height=3D"31" border=3D"0" align=3D"top"></A><BR>
+
+
+
+
+<BR>
+
+<B> Volume 369, part 2</B><BR>
+15 January 2003<BR>
+<BR>
+<BR>
+<img src=3D"http://www.biochemj.org/images/l_grey.gif" width=3D"490" =
+height=3D"1" border=3D"0"><BR>
+<BR>
+
+<B>Contents</B><BR>
+
+<DT><A HREF=3D"#Review">Review</A><BR>
+<DT><A HREF=3D"#Research Papers">Research Papers</A><BR>
+
+<BR>
+<img src=3D"http://www.biochemj.org/images/l_grey.gif" width=3D"490" =
+height=3D"1" border=3D"0"><BR>
+<BR>
+
+
+<B><A NAME=3D"Review">Review</A></B><BR>
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690199.htm">Ceramide: =
+second messenger or modulator of
+membrane structure and dynamics?</A>
+<DT>
+<I>by</I> W.J. van Blitterswijk, A.H. van der Luit,
+R.J. Veldman, M. Verheij and J. Borst..........<B>199&#0150;211</B>
+<DT><I>Published as BJ Immediate Publication 31 October 2002, DOI =
+10.1042/BJ20021528</I>
+
+<BR><BR>
+
+
+<B><A NAME=3D"Research Papers">Research Papers</A></B><BR>
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690213.htm">Oxidative =
+stress increases eukaryotic initiation
+factor 4E phosphorylation in vascular cells</A>
+<DT>R.F. Duncan, H. Peterson, C.H. Hagedorn
+and A. Sevanian..........<B>213&#0150;225</B>
+<DT><I>Published as BJ Immediate Publication 5 September 2002, DOI =
+10.1042/BJ20020435</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690227.htm">Protein =
+kinase B/Akt is essential for the insulin-
+but not progesterone-stimulated resumption of
+meiosis in <I>Xenopus</I> oocytes</A>
+<DT>C.B. Andersen, H. Sakaue, T. Nedachi, K.S. Kovacina, C. Clayberger, =
+M. Conti and
+R.A. Roth..........<B>227&#0150;238</B>
+<DT><I>Published as BJ Immediate Publication 9 October 2002, DOI =
+10.1042/BJ20021243</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690239.htm">Monitoring =
+of apoptosis of HL60 cells by
+Fourier-transform infrared spectroscopy</A>
+<DT>F. Gasparri and M. Muzio..........<B>239&#0150;248</B>
+<DT><I>Published as BJ Immediate Publication 16 October 2002, DOI =
+10.1042/BJ20021021</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690249.htm">Mutation =
+of the important Tyr-33 residue of
+chicken avidin: functional and structural
+consequences</A>
+<DT>A.T. Marttila, V.P. Hyt&ouml;nen, O.H. Laitinen,
+E.A. Bayer, M. Wilchek and M.S. Kulomaa..........<B>249&#0150;254</B>
+<DT><I>Published as BJ Immediate Publication 2 October 2002, DOI =
+10.1042/BJ20020886</I>
+<BR><BR>
+
+<DT><A =
+HREF=3D"http://www.biochemj.org/bj/369/bj3690255.htm">Regulatable liver =
+expression of the rabbit
+apolipoprotein B mRNA-editing enzyme catalytic
+polypeptide 1 (APOBEC-1) in mice lacking
+endogenous APOBEC-1 leads to aberrant
+hyperediting</A>
+<DT>M. Hersberger, S. Patarroyo-White, X. Qian,
+K.S. Arnold, L. Rohrer, M.E. Balestra and
+T.L. Innerarity..........<B>255&#0150;262</B>
+<DT><I>Published as BJ Immediate Publication 9 October 2002, DOI =
+10.1042/BJ20020694</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690263.htm">Disruption =
+of the <I>SHM</I>2 gene, encoding one of two serine =
+hydroxymethyltransferase isoenzymes,
+reduces the flux from glycine to serine in <I>Ashbya
+gossypii</I></A>
+<DT>C. Schl&uuml;pen, M.A. Santos, U. Weber,
+A. de Graaf, J.L. Revuelta and K.-P. =
+Stahmann..........<B>263&#0150;273</B>
+<DT><I>Published as BJ Immediate Publication 26 September 2002, DOI =
+10.1042/BJ20021224</I>
+<BR><BR>
+
+<DT><A =
+HREF=3D"http://www.biochemj.org/bj/369/bj3690275.htm">Sulphoacetaldehyde=
+ acetyltransferase yields acetyl
+phosphate: purification from <I>Alcaligenes
+defragrans</I> and gene clusters in taurine degradation</A>
+<DT>J. Ruff, K. Denger and A.M. Cook..........<B>275&#0150;285</B>
+<DT><I>Published as BJ Immediate Publication 2 October 2002, DOI =
+10.1042/BJ20021455</I>
+<BR><BR>
+
+<DT><A =
+HREF=3D"http://www.biochemj.org/bj/369/bj3690287.htm">Glucagon-like =
+peptide-1 mobilizes intracellular
+Ca<SUP>2+</SUP> and stimulates mitochondrial ATP synthesis
+in pancreatic MIN6 <FONT class=3Dsym>b</FONT>-cells</A>
+<DT>T. Tsuboi, G. da Silva Xavier, G.G. Holz, L.S. Jouaville, A.P. =
+Thomas and G.A. Rutter..........<B>287&#0150;299</B>
+<DT><I>Published as BJ Immediate Publication 31 October 2002, DOI =
+10.1042/BJ20021288</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690301.htm">Extensive =
+temporally regulated reorganization of
+the lipid raft proteome following T-cell antigen
+receptor triggering</A>
+<DT>L. Bini, S. Pacini, S. Liberatori, S. Valensin,
+M. Pellegrini, R. Raggiaschi, V. Pallini and
+C.T. Baldari..........<B>301&#0150;309</B>
+<DT><I>Published as BJ Immediate Publication 2 October 2002, DOI =
+10.1042/BJ20020503</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690311.htm">The =
+integrin <FONT class=3Dsym>a</FONT><SUB>v</SUB><FONT =
+class=3Dsym>b</FONT><SUB>3</SUB> is a receptor for the =
+latency-associated peptides of transforming growth
+factors <FONT class=3Dsym>b</FONT><SUB>1</SUB> and <FONT =
+class=3Dsym>b</FONT><SUB>3</SUB></A>
+<DT>S.B. Ludbrook, S.T. Barry, C.J. Delves and
+C.M.T. Horgan..........<B>311&#0150;318</B>
+<DT><I>Published as BJ Immediate Publication 2 October 2002, DOI =
+10.1042/BJ20020809</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690319.htm">Endogenous =
+phospholipase D2 localizes to
+the plasma membrane of RBL-2H3 mast cells
+and can be distinguished from ADP ribosylation
+factor-stimulated phospholipase D1 activity by
+its specific sensitivity to oleic acid</A>
+<DT>E. Sarri, R. Pardo, A. Fensome-Green and
+S. Cockcroft..........<B>319&#0150;329</B>
+<DT><I>Published as BJ Immediate Publication 9 October 2002, DOI =
+10.1042/BJ20021347</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690331.htm">Regulation =
+of nuclear translocation of nuclear
+factor-<FONT class=3Dsym>k</FONT>B relA: evidence for complex dynamics =
+at the single-cell level</A>
+<DT>K. Schooley, P. Zhu, S.K. Dower and E.E. =
+Qwarnstr&ouml;m..........<B>331&#0150;339</B>
+<DT><I>Published as BJ Immediate Publication 1 October 2002, DOI =
+10.1042/BJ20020253</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690341.htm">Essential =
+role of an activator protein-2
+(AP-2)/specificity protein 1 (Sp1) cluster in the
+UVB-mediated induction of the human vascular
+endothelial growth factor in HaCaT keratinocytes</A>
+<DT>P. Brenneisen, R. Blaudschun, J. Gille,
+L. Schneider, R. Hinrichs, M. Wlaschek,
+S. Eming and K. Scharffetter-Kochanek..........<B>341&#0150;349</B>
+<DT><I>Published as BJ Immediate Publication 2 October 2002, DOI =
+10.1042/BJ20021032</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690351.htm">Insulin =
+stimulation of pyruvate dehydrogenase
+in adipocytes involves two distinct signalling
+pathways</A>
+<DT>S.A. Johnson and R.M. Denton..........<B>351&#0150;356</B>
+<DT><I>Published as BJ Immediate Publication 9 October 2002, DOI =
+10.1042/BJ20020920</I>
+<BR><BR>
+
+<DT><A =
+HREF=3D"http://www.biochemj.org/bj/369/bj3690357.htm">Significant =
+quantities of the glycolytic enzyme
+phosphoglycerate mutase are present in the cell
+wall of yeast <I>Saccharomyces cerevisiae</I></A>
+<DT>P. Motshwene, W. Brandt and G. =
+Lindsey..........<B>357&#0150;362</B>
+<DT><I>Published as BJ Immediate Publication 19 September 2002, DOI =
+10.1042/BJ20021352</I>
+<BR><BR>
+
+<DT><A =
+HREF=3D"http://www.biochemj.org/bj/369/bj3690363.htm">Involvement of =
+phospholipase D in insulin-like
+growth factor-I-induced activation of extracellular
+signal-regulated kinase, but not phosphoinositide
+3-kinase or Akt, in Chinese hamster ovary cells</A>
+<DT>Y. Banno, Y. Takuwa, M. Yamada,
+N. Takuwa, K. Ohguchi, A. Hara and
+Y. Nozawa..........<B>363&#0150;368</B>
+<DT><I>Published as BJ Immediate Publication 18 October 2002, DOI =
+10.1042/BJ20021368</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690369.htm">Effects of =
+osmolarity, ions and compatible
+osmolytes on cell-free protein synthesis</A>
+<DT>M. Brigotti, P.G. Petronini, D. Carnicelli, R.R. Alfieri,
+M.A. Bonelli, A.F. Borghetti and K.P. =
+Wheeler..........<B>369&#0150;374</B>
+<DT><I>Published as BJ Immediate Publication 9 October 2002, DOI =
+10.1042/BJ20021056</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690375.htm">Myeloid =
+zinc finger (MZF)-like, Kruppel-like and
+Ets families of transcription factors determine the
+cell-specific expression of mouse extracellular
+superoxide dismutase</A>
+<DT>I.N. Zelko and R.J. Folz..........<B>375&#0150;386</B>
+<DT><I>Published as BJ Immediate Publication 10 October 2002, DOI =
+10.1042/BJ20021431</I>
+<BR><BR>
+
+<DT><A =
+HREF=3D"http://www.biochemj.org/bj/369/bj3690387.htm">Characterization =
+of the A<FONT class=3Dsym>a</FONT> and A<FONT class=3Dsym>b</FONT> =
+subunit isoforms of protein phosphatase 2A: differences
+in expression, subunit interaction, and evolution</A>
+<DT>J. Zhou, H.T. Pham, R. Ruediger and
+G. Walter..........<B>387&#0150;398</B>
+<DT><I>Published as BJ Immediate Publication 8 October 2002, DOI =
+10.1042/BJ20021244</I>
+<BR><BR>
+
+<DT><A =
+HREF=3D"http://www.biochemj.org/bj/369/bj3690399.htm">Superoxide-depende=
+nt consumption of nitric oxide
+in biological media may confound <I>in vitro</I> experiments</A>
+<DT>R.G. Keynes, C. Griffiths and J. =
+Garthwaite..........<B>399&#0150;406</B>
+<DT><I>Published as BJ Immediate Publication 4 October 2002, DOI =
+10.1042/BJ20020933</I>
+<BR><BR>
+
+<DT><A =
+HREF=3D"http://www.biochemj.org/bj/369/bj3690407.htm">Site-specific =
+phosphorylation of platelet focal
+adhesion kinase by low-density lipoprotein</A>
+<DT>I.A.M. Relou, L.A.B. Bax, H.J.M. van Rijn and
+J.-W.N. Akkerman..........<B>407&#0150;416</B>
+<DT><I>Published as BJ Immediate Publication 18 October 2002, DOI =
+10.1042/BJ20020410</I>
+<BR><BR>
+
+<DT><A HREF=3D"http://www.biochemj.org/bj/369/bj3690417.htm">The =
+membrane-associated form of methane
+mono-oxygenase from <I>Methylococcus capsulatus</I> (Bath) is a =
+copper/iron protein</A>
+<DT>P. Basu, B. Katterle, K.K. Andersson and
+H. Dalton..........<B>417&#0150;427</B>
+<DT><I>Published as BJ Immediate Publication 14 October 2002, DOI =
+10.1042/BJ20020823</I>
+</HTML>
+<BR><BR>
+
+
+
+<BR>
+
+
+
+
+
+
+
+      </td>
+    <td width=3D"200" align=3D"left" valign=3D"top">
+      <img src=3D"http://www.biochemj.org/images/spacer.gif" =
+width=3D"1" height=3D"12" border=3D"0"><BR>
+
+
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/imps/toc.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Immediate =
+Publications</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/369/1/default.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Current =
+issue</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/toc.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Browse =
+archive</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/search/search.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Search =
+archive</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/subjects/reviews.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Reviews</A>=
+<br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/submit"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Online =
+submission</A><br>
+  		<A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/current.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Current =
+awareness</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/50.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Top 50 =
+Downloads</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/bjannounce.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Announcemen=
+ts</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/368/3/default.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Sample =
+online issue</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/licence.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Terms and =
+conditions</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/bji2a.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Instruction=
+s to authors</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/subscriptions.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Subscriptio=
+ns</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/electronic.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Multimedia =
+adjuncts</A><br>
+        <A class=3D"sidelinks" =
+HREF=3D"http://www.biochemj.org/bj/adrates.htm"><img =
+src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Advertising=
+ Information</A><br>
+	    <A class=3D"sidelinks" =
+HREF=3D"http://www.portlandpress.com/pp/journals/libform_ppl_jnl.pdf"><i=
+mg src=3D"http://www.biochemj.org/images/arrow.gif"border=3D"0">Library =
+recommendation form</A><br>
+
+
+
+
+
+	 <img src=3D"http://www.biochemj.org/images/l_blue.gif" width=3D"100%" =
+height=3D"1" vspace=3D"5" hspace=3D"0" border=3D"0" =
+class=3D"sidelinks">
+
+	 <img src=3D"http://www.biochemj.org/images/bj_cover.jpg" =
+width=3D"160" height=3D"211" vspace=3D"0" hspace=3D"0" border=3D"0" =
+align=3D"top">
+
+	 <img src=3D"http://www.biochemj.org/images/l_blue.gif" width=3D"100%" =
+height=3D"1" vspace=3D"0" hspace=3D"0" border=3D"0"></p>
+
+
+<A HREF=3D"http://www.biochemist.org/"><IMG =
+SRC=3D"http://www.biochemj.org/images/spacer.gif" BORDER=3D0 HEIGHT=3D0 =
+WIDTH=3D0></A>
+
+
+      </td>
+
+
+  </tr>
+
+
+</table>
+
+</TD>
+</TR>
+</TABLE>
+
+
+</body>
+</html>
+
+
+
+------_=_NextPart_000_01C2B716.1B779320
+Content-Type: text/plain; charset="us-ascii"
+Content-description: footer
+
+---
+You are currently subscribed to bjtoc-l as: nospam@MAILSHELL.COM
+To unsubscribe send a blank email to leave-bjtoc-l-1599E@lists.biochemsoc.org.uk
+
+------_=_NextPart_000_01C2B716.1B779320--
+

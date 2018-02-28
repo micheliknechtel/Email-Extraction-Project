@@ -1,0 +1,150 @@
+Received: (qmail 13615 invoked from network); 8 Jan 2003 17:01:46 -0000
+Received: from dev212.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 8 Jan 2003 17:01:46 -0000
+Received: (qmail 4192 invoked by uid 99); 8 Jan 2003 17:01:44 -0000
+Received: (qmail 20083 invoked from network); 8 Jan 2003 16:52:59 -0000
+Received: from unknown (HELO blast1.myfree.com) (64.132.70.201)
+  by www.mailshell.com with SMTP; 8 Jan 2003 16:52:59 -0000
+Received: from mail.myfree.com ([64.132.70.215]) by blast1.myfree.com with SMTP (Lyris ListManager WIN32 version 6.0h); Fri, 03 Jan 2003 17:40:01 -0600
+Received: from carole [198.63.247.2] by mail.myfree.com
+  (SMTPD32-7.13) id A13BB76012C; Fri, 03 Jan 2003 17:48:11 -0600
+From: InternetGuru@B2BFreeResources.com
+To: "Mailshell User" <nospam@mailshell.com>
+Subject: Opening an HTML Page in Excel - 1/8/03 - Internet Guru Tip Daily
+Date: Wed, 08 Jan 2003 07:00:00 -0600
+Message-ID: <LYRIS-8755049-408145-2003.01.08-07.00.04--nospam#mailshell.com@blast1.myfree.com>
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.2416 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+X-Declude-Sender: clibbe@myfree.com [198.63.247.2]
+Organization: Ampere Media LLC
+X-Note: This E-mail was checked for spam.
+List-Unsubscribe: <mailto:leave-internet-8755049N@blast1.myfree.com>
+Reply-To: Assist@B2BFreeResources.com
+
+~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+MyFree.Com's Internet Guru Tip Daily - January 8, 2003
+Help Everyone be Better Web Surfers!
+~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~*~
+
+
+
+---------------------- SPONSOR ----------------------
+~~~~~~ You Promised Yourself This Year Would Be Different ~~~~~~
+~~~ Train at Home for a New Career! Request FREE Information ~~
+
+Don't put off your success any longer!  PCDI offers 40 career-training
+courses that you complete in the comfort and convenience of home.
+Course offerings include associate's degree and high school diplomas.
+~~Click Now - Special $200 Discount on Home Study Courses ~~~~~~
+<a href=" http://www.myfree.com/r/PCD/PCD0019.asp ">Click here</a>
+-----------------------------------------------------
+
+Enjoy the FREE INTERNET TIP below and FORWARD TO FRIENDS - Help
+Everyone be Better Web Surfers!
+
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+Today's Internet Tip: Opening an HTML Page in Excel
+
+For some time now, Excel has been "Web aware," meaning that the
+program knows how to handle hyperlinks. You can add a hyperlink in a
+document, click on that link, and Excel opens your Web browser and
+displays the contents of that link in the browser. (You can also
+create a hyperlink to other Office documents, including Excel
+workbooks.) You can even create hyperlinks to different objects on
+your worksheet, such as a command button in a form.
+
+What if you want to start the browser and open an HTML file from
+within a VBA macro, however? There are a couple of ways that you can
+do this. The first is to simply open a new Internet Explorer object
+within your code. A macro to do this would appear as follows:
+
+Sub DoBrowse1()
+Dim ie As Object
+Set ie = CreateObject("Internetexplorer.Application")
+ie.Visible = True
+ie.Navigate "c:\temp\MyHTMLfile.htm"
+End Sub
+
+This macro will open the file c:\temp\MyHTMLfile.htm in a new Internet
+Explorer window. If you want to instead open a Web page from over the
+Internet, you can do so simply by changing where you want to navigate.
+(Replace the file path with a URL.)
+
+Another way to accomplish the same task is to rely on Excel to figure
+out what your default browser is and open the HTML resource. The
+following macro does the trick:
+
+Sub DoBrowse2()
+ActiveWorkbook.FollowHyperlink _
+Address:="c:\temp\MyHTMLfile.htm", _
+NewWindow:=True
+End Sub
+
+Again, the browser opens a new window and displays the specified file.
+You can change the Address parameter to any URL that you desire.
+
+
+Today's Question:
+
+My computer gets hung up all the time when I'm surfing the net and
+when I'm listening to a CD.  What is causing this and how do I fix it?
+Shelby, Rock Hill, SC
+
+If anyone would like to help Shelby, please submit your answer to
+itips@myfree.com, with "itip0108" in the subject line.  I'll publish
+the answer(s) in a future newsletter.
+
+Sincerely,
+
+Carole Libbe
+MyFree.com Internet Guru Tips Editor
+
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+Get Published!
+Something about the World Wide Web or your computer's ability to surf
+it driving you nuts?  Or maybe you have a great idea for helping
+people surf faster and more effectively.  Send questions and tips to
+us at itips@myfree.com and you may get published!  Please include your
+name and city/state.
+
+---------------------- SPONSOR ----------------------
+We Can End Your IRS Worries!  Sign up for a Free Consultation Now!
+Do you owe money to the IRS?  In most cases, we can get the IRS to
+agree to settle for a small fraction of what you owe.  20 years of
+proven experience.  Request a FREE, no obligation consultation:
+<a href=" http://www.myfree.com/r/UNI/UNI0002.asp ">Click here</a>
+-----------------------------------------------------
+
+
+
+                        *
+
+
+                        *
+
+
+                        *
+
+
+
+.  .  .  .  .  .  . GENERAL INSTRUCTIONS.  .  .  .  .  .  .  .
+
+1) Manage All Your E-mail Subscriptions Here (Add, Remove, Change):
+http://join.myfree.com/cp/c.asp?e=nospam@mailshell.com
+2) Free E-Greetings & Postcards: http://postcards.MyFree.com
+3) Free Personalized E-mail:
+http://asp.MyFree.com/postmaster/default.asp?src=mfn
+4) Our Hottest Offers, Updated Weekly:
+http://asp.MyFree.com/qne/default.asp?src=mfn
+5) You Are Subscribed As: nospam@mailshell.com
+--------------------------------------------------------
+Copyright 2003 - Ampere Media LLC, All Rights reserved.
+*MF015010803MF*
+
+
+

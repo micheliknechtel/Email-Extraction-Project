@@ -1,0 +1,127 @@
+Received: (qmail 24268 invoked from network); 7 Jan 2003 08:32:24 -0000
+Received: from dev213.mailshell.com (HELO mailshell.com) (@71.129.195.163)
+  by dev50.mailshell.com with SMTP; 7 Jan 2003 08:32:24 -0000
+Received: (qmail 17927 invoked by uid 99); 7 Jan 2003 08:32:23 -0000
+Message-ID: <20030107083223.8924.qmail@mailshell.com>
+Received: (qmail 16576 invoked from network); 7 Jan 2003 08:32:23 -0000
+Received: from unknown (HELO mclist.about.com) (207.241.145.5)
+  by www.mailshell.com with SMTP; 7 Jan 2003 08:32:23 -0000
+Received: from mclist (mclist1.ops.about.com) by mclist.about.com (LSMTP for Windows NT v1.1b) with SMTP id <3.004617A3@mclist.about.com>; Tue, 7 Jan 2003 3:26:45 -0500
+Date: Tue, 7 Jan 2003 03:11:47 -0500
+From: "About.com C/C++" <newsletters@about.com>
+To: "Mailshell User" <nospam@mailshell.com>
+Subject: About C/C++: Function Template Specialization
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+              boundary="-892222071-940147120-978605369=:2749:-cplus:-1041927119"
+
+Your e-mail reader does not support MIME. Please upgrade.
+
+---892222071-940147120-978605369=:2749:-cplus:-1041927119
+Content-Type: text/plain
+
+What You Need To Know About C/C++
+ From John Kopp, your Editor and Guide
+
+ --------------------------- EDITOR'S NOTE ----------------------------
+
+ http://cplus.about.com
+ ------------------------- IN THE SPOTLIGHT ---------------------------
+ Function Template Specialization, Part II
+ In the first part of this article, function template specializations were introduced. Now, learn how the compiler determines if it should invoke a function base template, a specialized function, or even an overloaded function.
+ http://glclk.about.com/?zi=5/6XL
+ The C++ Tutorial
+ A series of lessons teaching C++ programming from the beginning. Start today!!!
+ http://glclk.about.com/?zi=5/6XM
+ ---------------------------- MORE TOPICS -----------------------------
+ The C Tutorial
+ GuideSite
+ http://glclk.about.com/?zi=5/6XN
+ Compiling and Debugging
+ GuideSite
+ http://glclk.about.com/?zi=5/6XO
+ Freeware and Shareware for C/C++
+ GuideSite
+ http://glclk.about.com/?zi=5/6XP
+ Humor and Amusing Stories
+ GuideSite
+ http://glclk.about.com/?zi=5/6XQ
+ C++ FAQ
+ GuideSite
+ http://glclk.about.com/?zi=5/6XR
+ Tips
+ GuideSite
+ http://glclk.about.com/?zi=5/6XS
+
+ --------------------------- SUBSCRIPTIONS ----------------------------
+ More Newsletters:
+ To sign up for more free newsletters on What You Need to Know About your favorite topics, visit:
+ http://clk.about.com/?zi=4/XR
+ Cancel Subscription:
+ You are receiving this newsletter because you subscribed to the About C/C++ as 'nospam@MAILSHELL.COM'.
+ If you no longer wish to receive emails from us, please click here: http://about.com/nl/usgs.htm?nl=cplus&e=nospam@MAILSHELL.COM
+ About respects your privacy. To see out privacy policy, click here:
+ http://about.com/gi/pages/privacy.htm
+ copyright 2002 About, Inc.
+ Thanks for being a subscriber to the About C/C++ Newsletter. To Advertise in this newsletter, visit Be an Advertiser
+ http://beanadvertiser.about.com/index.htm
+
+
+---892222071-940147120-978605369=:2749:-cplus:-1041927119
+Content-Type: text/html; charset="us-ascii"
+
+
+<html><head><title>C/C++</title>
+<style type="text/css"><!-- .ssnv {font-size: 8pt;} .svb, .sab, .s9a, .snv, .snvb, .sna, .srvb, a.svb, a.sa {font-size: 9pt;} .sab, .s9a, .sna, a.sa {font-family: arial,helvetica;} .ssnv, .svb, .snv, .snvb, .srvb, a.svb {font-family: verdana,arial;} .svb, .sab, .snvb, .srvb, a.svb {font-weight: bold;} .s9a {color: #999999} .srvb {color: #cc0000} --></style>
+</head><body bgcolor="white" link="#330066" vlink="#660066" alink="#cc0000">
+<table cellpadding="3" cellspacing="0" border="0" width="100%">
+<tr><td><a href="http://www.about.com"><img src="http://images.about.com/lg/ab45.gif" border="0"></a></td><td align="right" valign="bottom" class="s9a"></td></tr>
+<tr><td colspan="2" bgcolor="#cc0000" width="100%"><font face="verdana" size="4" color="ffffff"><b>&nbsp;C/C++</b></font></td></tr>
+<tr><td colspan="2" bgcolor="#eeeeee" width="100%" class="sab">&nbsp;<a href="#a">In the Spotlight</a> | <a href="#c">More Topics</a></td></tr>
+<tr><td colspan="2"><img height="1" width="1"></td></tr></table>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td valign="top"><img src="http://z.about.com/w/sites/guidepics/cplus65x65.gif">&nbsp;&nbsp;</td><td colspan="5" class="snv">from <b>John Kopp</b>, your <b>Editor and Guide</b><br>
+<br>&nbsp;<br>&nbsp;</td></tr>
+<tr><td colspan="6"><a name="a"><font face="verdana" size="4" color="cc0000"><b>In the Spotlight</b></font></a></td></tr>
+<tr><td colspan="6" bgcolor="cc0000"><img height="1" width="1"></td></tr>
+<tr><td><img src="http://images.about.com/s.gif" height="5" width="1"></td><td width="60%"><img src="http://images.about.com/s.gif" height="5" width="250"></td><td colspan="3"><img height="5" width="1"></td><td width="40%"><img src="http://images.about.com/s.gif" height="5" width="170"></td></tr>
+<tr><td colspan="2" valign="top" class="snv"><a href="http://glclk.about.com/?zi=5/6XL" class="svb">Function Template Specialization, Part II</a><br>In the first part of this article, function template specializations were introduced. Now, learn how the compiler determines if it should invoke a function base template, a specialized function, or even an overloaded function. <br>
+ &nbsp;</td>
+<td rowspan="2">&nbsp;&nbsp;&nbsp;</td><td rowspan="2" bgcolor="#999999"><img height="1" width="1"></td><td rowspan="2">&nbsp;&nbsp;&nbsp;</td>
+<td valign="top" rowspan="2"><table cellpadding="3" cellspacing="0" border="0" width="100%"><tr><td colspan="2" class="srvb"><a name="c">More Topics</a></td></tr><tr><td valign="top">&#149;</td><td class="s9a" width="100%"><a href="http://glclk.about.com/?zi=5/6XN" class="sab">The C Tutorial</a><br></td></tr>
+<tr><td valign="top">&#149;</td><td class="s9a" width="100%"><a href="http://glclk.about.com/?zi=5/6XO" class="sab">Compiling and Debugging</a><br></td></tr>
+<tr><td valign="top">&#149;</td><td class="s9a" width="100%"><a href="http://glclk.about.com/?zi=5/6XP" class="sab">Freeware and Shareware for C/C++</a><br></td></tr>
+<tr><td valign="top">&#149;</td><td class="s9a" width="100%"><a href="http://glclk.about.com/?zi=5/6XQ" class="sab">Humor and Amusing Stories</a><br></td></tr>
+<tr><td valign="top">&#149;</td><td class="s9a" width="100%"><a href="http://glclk.about.com/?zi=5/6XR" class="sab">C++ FAQ</a><br></td></tr>
+<tr><td valign="top">&#149;</td><td class="s9a" width="100%"><a href="http://glclk.about.com/?zi=5/6XS" class="sab">Tips</a><br></td></tr>
+</table></td></tr>
+<tr><td valign="top"><img src="http://images.about.com/sites/guidepics/65x65.gif">&nbsp;</td><td valign="top" class="snv"><a href="http://glclk.about.com/?zi=5/6XM" class="svb">The C++ Tutorial</a><br>
+A series of lessons teaching C++ programming from the beginning. Start today!!!<br>
+ &nbsp;</td></tr>
+<tr><td colspan="5"><font face="verdana" size="4" color="#999999"><b>Resource Links - </b></font><span class="snv"><a href="http://clk.about.com/?zi=4/RZ">Get Listed Here</a></span></td><td class="snv" valign="bottom" align="right"><a href="http://sprinks.about.com/faq/index.htm">What Is This?</a></td></tr><tr><td colspan="6" bgcolor="#999999"><img height="1" width="1"></td></tr><tr><td colspan="6"><map name="sgmap"><area href="http://x.about.com/sg/r/4141.htm?p=0&amp;ref=cplusgl_sg" shape="rect" coords="0, 0, 600, 20"><area href="http://x.about.com/sg/r/4141.htm?p=1&amp;ref=cplusgl_sg" shape="rect" coords="0, 55, 600, 75"><area href="http://x.about.com/sg/r/4141.htm?p=2&amp;ref=cplusgl_sg" shape="rect" coords="0, 110, 600, 130"></map><img border="0" src="http://z.about.com/sg/sg.gif?cuni=4141" usemap="#sgmap" width="600" height="160"></td></tr><tr><td colspan="6">&nbsp;</td></tr>
+<tr><td colspan="6"><a name="b"><font face="verdana" size="4" color="#999999"><b>Featured Offer</b></font></a></td></tr><tr><td colspan="6" bgcolor="#999999"><img height="1" width="1"></td></tr><tr><td colspan="6">&nbsp;<br><div align="center"><a href="http://glclk.about.com/?zi=5/6XT" target="_top"><img src="http://ad.doubleclick.net/ad/newsletters.about.com/compute_cplus;svc=;site=cplus;kw=;chan=compute;syn=about;pos=slot1;sz=468x60;ord=1" height="60" width="468" border="0"></a></div><br>&nbsp;</td></tr>
+</table>
+<table cellpadding="1" cellspacing="0" border="0" width="100%" bgcolor="#eeeeee">
+<tr><td colspan="3" class="srvb">Visit Related About GuideSites:</td></tr>
+<tr><td><a href="http://certification.about.com" class="sa">Computer Certification</a></td>
+<td><a href="http://delphi.about.com" class="sa">Delphi Programming</a></td>
+<td><a href="http://java.about.com" class="sa">Focus on Java</a></td></tr>
+<tr><td><a href="http://javascript.about.com" class="sa">Focus on JavaScript</a></td>
+<td><a href="http://linux.about.com" class="sa">Focus on Linux</a></td>
+<td><a href="http://windows.about.com" class="sa">Focus on Windows</a></td></tr>
+<tr><td><a href="http://perl.about.com" class="sa">Perl/PHP</a></td>
+<td><a href="http://visualbasic.about.com" class="sa">Visual Basic</a></td>
+<td>&nbsp;</td></tr>
+<tr bgcolor="#eeeeee"><td colspan="3">&nbsp;</td></tr>
+<form method="get" action="http://search.about.com/fullsearch.htm">
+<tr bgcolor="#999999"><td colspan="3"><font face="verdana" size="2" color="#ffffff"><b>&nbsp;&nbsp;&nbsp;&nbsp;Search About&nbsp;</b></font><input type="text" name="terms" size="25" maxlength="100" value="">&nbsp;<input type="image" src="http://images.about.com/bt/go9.gif" border="0" name="action"></td></tr>
+</form><tr bgcolor="#ffffff"><td colspan="3" class="snv"><br><a href="http://clk.about.com/?zi=4/XR" class="svb">More Newsletters:</a> To sign up for more free newsletters on What You Need to Know About your favorite topics,
+ click here: <a href="http://clk.about.com/?zi=4/XR">http://talk.about.com</a><p></p><span class="svb">Cancel Subscription:</span> You are receiving this newsletter because you subscribed to the About C/C++ newsletter as nospam@MAILSHELL.COM.
+ If you no longer wish to receive emails from us, please click here:<br><a href="http://about.com/nl/usgs.htm?nl=cplus&e=nospam@MAILSHELL.COM">http://about.com/nl/usgs.htm?nl=cplus&e=nospam@MAILSHELL.COM</a><p></p>About respects your privacy.
+ To see our privacy policy, <a href="http://about.com/gi/pages/privacy.htm">click here</a>.<br>&#169; 2002 About, Inc.</td></tr>
+</table>
+<img src="http://pixel3.about.com/mp/pixel/pixel.cgi?partner=cplus_20030107" height="1" width="1"></body></html>
+
+
+---892222071-940147120-978605369=:2749:-cplus:-1041927119--
+
