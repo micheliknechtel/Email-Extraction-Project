@@ -1,20 +1,14 @@
-import json
-from typing import NamedTuple
+class Pattern():
+    Url      = 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'
+    Sender   = 'From: \"([^\"]*)\"'
+    Receiver = 'To: \"([^\"]*)\"'
+    Email    = r'[\w\.-]+@[\w\.-]+'
+    Name     = '"([^"]*)"'
 
-class Data(NamedTuple):
-    email_id:  int
-    email:     list
-    domains:   list
-    sender:    list
-    receivers: list
+class Definition():
+    FROM = "From: "
+    TO   = "To: "
 
-class JsonSerializable(object):
-    def toJson(self):
-        return json.dumps(self.__dict__)
-    
-    def __repr__(self):
-        return self.toJson()
 
-class SerialiseDataStructure(JsonSerializable):
-    def __init__(self,data):
-        self.dataStructure = data
+
+
