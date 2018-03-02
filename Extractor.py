@@ -34,11 +34,11 @@ class Extractor():
             subdomain = tldextract.extract(urls[i]).subdomain
             domain    = tldextract.extract(urls[i]).domain[0:3]
             suffix    = tldextract.extract(urls[i]).suffix
-            
             if not subdomain:
                 domains.append(domain + "." + suffix)
             else:
                 domains.append(subdomain+ "." +domain + "." + suffix)
+    
         return domains
 
     def parse(self, fileName, codec):
@@ -72,7 +72,7 @@ class Extractor():
         print(fileName)
         print("------------------------")
 
-        if fileName == "1000":
+        if fileName == "28":
             SerialiseData(data).writeIntoFile(self.pathOutput)
             for i in range(len(urls)):
                 print(urls[i])
