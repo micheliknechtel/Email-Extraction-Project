@@ -1,15 +1,21 @@
 import sys
 from Extractor import Extractor
 from Repository import Repository
+from Nslookup import Nslookup
 
-
-pathInput  = "/Users/micheliknechtel/Documents/xCode/ivizone/email2/"
+pathInput  = "/Users/micheliknechtel/Documents/xCode/ivizone/email/"
 pathOutput = "/Users/micheliknechtel/Documents/xCode/ivizone/json/"
 
 Repository().checkRepositoryExist(pathInput)
 Repository().checkRepositoryExist(pathOutput)
 
-Extractor(pathInput, pathOutput).extractingFiles()
+e = Extractor(pathInput, pathOutput)
+Nslookup().DNSquery(e.getTopTenList(10))
+
+
+
+
+
 
 
 

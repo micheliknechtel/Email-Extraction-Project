@@ -6,19 +6,24 @@ import sys
 from SerialiseData import SerialiseData
 from CodecDetection import CodecDetection
 from Repository import Repository
-from utilities import Definition
-from utilities import Pattern
+from Utilities import Definition
+from Utilities import Pattern
+from PrintManager import PrintManager
 
 class Extractor():
+    topDomains = {}
     def __init__(self,pathInput, pathOutput):
         self.pathInput  = pathInput
         self.pathOutput = pathOutput
+        self.extractingFiles()
     
     def extractingFiles(self):
         r = Repository()
         c = CodecDetection()
         for fileName in r.getListOfFiles(self.pathInput):
             self.parse(fileName, c.getCodec(self.pathInput + fileName))
+#            if fileName == "10":
+#                break
 
     def regex(self, line, pattern):
         array = []
@@ -30,33 +35,51 @@ class Extractor():
 
     def getDomains(self, urls):
         domains = []
+        c = 0
         for i in range(len(urls)):
             subdomain = tldextract.extract(urls[i]).subdomain
-            domain    = tldextract.extract(urls[i]).domain[0:3]
-            suffix    = tldextract.extract(urls[i]).suffix
+            domain    = tldextract.extract(urls[i]).domain
+            suffix    = tldextract.extract(urls[i]).suffix[0:3]
             if not subdomain:
                 domains.append(domain + "." + suffix)
             else:
                 domains.append(subdomain+ "." +domain + "." + suffix)
-    
+          
+            if  self.topDomains.get(str(domains[c])):
+                self.topDomains[str(domains[c])] = self.topDomains.get(str(domains[c])) + 1
+            else:
+                self.topDomains.update({str(domains[c]):1})
+            c = c + 1
         return domains
-
+    
+    def getTopTenList(self, number):
+        topList = []
+        sortedItems = sorted(self.topDomains, key=self.topDomains.get , reverse = True)
+        c  = 0
+        for element in sortedItems :
+            topList.append(element)
+            c = c + 1
+            if  c == number:
+                return topList
+        return topList
+        
     def parse(self, fileName, codec):
-        location  = self.pathInput + fileName
         fileContent = ""
         receivers = []
+        domains   = []
+        urls = []
+        email = []
         sender = {}
-        with open(location, 'rt', encoding=codec) as file:
+        
+        with open(self.pathInput + fileName, 'rt', encoding=codec) as file:
             lines = file.read().splitlines()
             for i in range(len(lines)):
-                auxLine = lines[i]
                 line = lines[i].strip("=")
                 if Definition.FROM in line:
                     sender = {"name":self.regex(line, Pattern.Name)[0], "email":self.regex(line, Pattern.Email)[0]}
                 if Definition.TO  in line:
                     receivers.append({"name":self.regex(line, Pattern.Name)[0],"email":self.regex(line, Pattern.Email)[0]})
                 fileContent = fileContent + line
-
         file.close()
         urls = (self.regex(fileContent, Pattern.Url))
         email = (self.regex(fileContent, Pattern.Email))
@@ -65,16 +88,16 @@ class Extractor():
         data = {"email_id":int(fileName), "email":email, "domains":domains, "sender":sender, "receivers":receivers}
         SerialiseData(data).writeIntoFile(self.pathOutput)
 
-        for i in range(len(urls)):
-            print(domains[i])
-        
-        print("------------------------")
-        print(fileName)
-        print("------------------------")
+        PrintManager().emailExtractedSuccessfully(fileName);
 
-        if fileName == "28":
-            SerialiseData(data).writeIntoFile(self.pathOutput)
-            for i in range(len(urls)):
-                print(urls[i])
-                print(domains[i])
-            sys.exit()
+       
+
+        
+
+
+
+
+
+      
+
+

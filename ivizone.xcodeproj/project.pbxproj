@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		7F1A47B82046F28800D21227 /* utilities.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = utilities.py; sourceTree = "<group>"; };
+		7F1A47B82046F28800D21227 /* Utilities.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Utilities.py; sourceTree = "<group>"; };
 		7F1A47B92048454000D21227 /* Repository.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Repository.py; sourceTree = "<group>"; };
 		7F1A47BA204847FE00D21227 /* CodecDetection.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = CodecDetection.py; sourceTree = "<group>"; };
 		7F1A47BC2048485900D21227 /* SerialiseData.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = SerialiseData.py; sourceTree = "<group>"; };
 		7F1A47BD20484B3200D21227 /* Extractor.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Extractor.py; sourceTree = "<group>"; };
+		7F1A47BE2049823B00D21227 /* Nslookup.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Nslookup.py; sourceTree = "<group>"; };
+		7F1A47C02049914600D21227 /* PrintManager.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = PrintManager.py; sourceTree = "<group>"; };
 		7FDB2358204452C900A81D14 /* app.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = app.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -19,11 +21,13 @@
 		7FDB234C204446CA00A81D14 = {
 			isa = PBXGroup;
 			children = (
+				7F1A47C02049914600D21227 /* PrintManager.py */,
+				7F1A47BE2049823B00D21227 /* Nslookup.py */,
 				7F1A47BD20484B3200D21227 /* Extractor.py */,
 				7F1A47BC2048485900D21227 /* SerialiseData.py */,
 				7F1A47BA204847FE00D21227 /* CodecDetection.py */,
 				7F1A47B92048454000D21227 /* Repository.py */,
-				7F1A47B82046F28800D21227 /* utilities.py */,
+				7F1A47B82046F28800D21227 /* Utilities.py */,
 				7FDB2358204452C900A81D14 /* app.py */,
 			);
 			sourceTree = "<group>";
