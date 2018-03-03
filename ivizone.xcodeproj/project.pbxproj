@@ -14,6 +14,7 @@
 		7F1A47BD20484B3200D21227 /* Extractor.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Extractor.py; sourceTree = "<group>"; };
 		7F1A47BE2049823B00D21227 /* Nslookup.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Nslookup.py; sourceTree = "<group>"; };
 		7F1A47C02049914600D21227 /* PrintManager.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = PrintManager.py; sourceTree = "<group>"; };
+		7F1A47C1204B064D00D21227 /* DataManipulation.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = DataManipulation.py; sourceTree = "<group>"; };
 		7FDB2358204452C900A81D14 /* app.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = app.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -29,6 +30,7 @@
 				7F1A47B92048454000D21227 /* Repository.py */,
 				7F1A47B82046F28800D21227 /* Utilities.py */,
 				7FDB2358204452C900A81D14 /* app.py */,
+				7F1A47C1204B064D00D21227 /* DataManipulation.py */,
 			);
 			sourceTree = "<group>";
 		};

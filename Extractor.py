@@ -19,11 +19,10 @@ class Extractor():
     
     def extractingFiles(self):
         r = Repository()
-        c = CodecDetection()
         for fileName in r.getListOfFiles(self.pathInput):
-            self.parse(fileName, c.getCodec(self.pathInput + fileName))
-#            if fileName == "10":
-#                break
+            self.parse(fileName, CodecDetection().getCodec(self.pathInput + fileName))
+            if fileName == "1000":
+                break
 
     def regex(self, line, pattern):
         array = []
@@ -62,6 +61,7 @@ class Extractor():
             if  c == number:
                 return topList
         return topList
+                
         
     def parse(self, fileName, codec):
         fileContent = ""
@@ -75,19 +75,19 @@ class Extractor():
             lines = file.read().splitlines()
             for i in range(len(lines)):
                 line = lines[i].strip("=")
+                line = str(line).encode('ascii', 'ignore').decode('utf-8')
                 if Definition.FROM in line:
                     sender = {"name":self.regex(line, Pattern.Name)[0], "email":self.regex(line, Pattern.Email)[0]}
                 if Definition.TO  in line:
                     receivers.append({"name":self.regex(line, Pattern.Name)[0],"email":self.regex(line, Pattern.Email)[0]})
                 fileContent = fileContent + line
         file.close()
+
         urls = (self.regex(fileContent, Pattern.Url))
         email = (self.regex(fileContent, Pattern.Email))
         domains = self.getDomains(urls)
-        
         data = {"email_id":int(fileName), "email":email, "domains":domains, "sender":sender, "receivers":receivers}
         SerialiseData(data).writeIntoFile(self.pathOutput)
-
         PrintManager().emailExtractedSuccessfully(fileName);
 
        
