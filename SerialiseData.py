@@ -15,7 +15,7 @@ class SerialiseData(JsonSerializable):
     def writeIntoFile(self, path):
         file = open(path + str(self.data["email_id"]), "w")
         file.write(self.toJson())
-        pprint(self.data)
+#        pprint(self.data)
         file.close()
     
     def readFromFile(self, path):
