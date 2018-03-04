@@ -62,10 +62,10 @@ mv $i ./email
 done
 
 
-#Running Module 1
+#Running Module 1 --- check if it finshed sucessifully
 python36 ./code/DataManipulation.py
 
-#Running Module 2
+#Running Module 2 --- run as nohup still need
 export FLASK_APP=$(pwd)/code/Industrialization.py
 flask run
 
