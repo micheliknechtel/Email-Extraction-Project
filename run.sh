@@ -7,6 +7,7 @@
 #  Copyright © 2018 Micheli Knechtel. All rights reserved.
 
 GIT_HUB=https://raw.githubusercontent.com/micheliknechtel/Email-Extraction-Project/master/
+GIT_HUB_SOURCE=https://raw.githubusercontent.com/micheliknechtel/Email-Extraction-Project/master/email/
 OUTPUT_PATH=json
 INPUT_PATH=email
 CODE_PATH=code
@@ -24,6 +25,7 @@ fi
 if [ -d $INPUT_PATH ]
 then
 echo "Directory $INPUT_PATH already exists "
+rm -r $OUTPUT_PATH
 exit 1
 else
 mkdir $INPUT_PATH
@@ -32,6 +34,8 @@ fi
 if [ -d $CODE_PATH ]
 then
 echo "Directory $CODE_PATH already exists "
+rm -r $OUTPUT_PATH
+rm -r $INPUT_PATH
 exit 1
 else
 mkdir $CODE_PATH
@@ -50,6 +54,13 @@ curl -LkSs $GIT_HUB'Industrialization.py'    -o Industrialization.py
 
 #Moving files
 mv *.py ./code
+
+for i in {1..1000}
+do
+curl -LkSs $GIT_HUB_SOURCE$i       -o $i
+mv $i ./email
+done
+
 
 #Running Module 1
 python36 ./code/DataManipulation.py
