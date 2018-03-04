@@ -1,0 +1,316 @@
+Received: (qmail 24866 invoked from network); 9 Jan 2003 15:06:55 -0000
+Received: from dev213.mailshell.com (HELO mailshell.com) (@71.129.195.163)
+  by dev50.mailshell.com with SMTP; 9 Jan 2003 15:06:55 -0000
+Received: (qmail 27850 invoked by uid 99); 9 Jan 2003 15:06:55 -0000
+Received: (qmail 14078 invoked from network); 9 Jan 2003 15:06:54 -0000
+Received: from unknown (HELO intm10.sparklist.com) (216.91.57.131)
+  by www.mailshell.com with SMTP; 9 Jan 2003 15:06:54 -0000
+X-Mailer: Lyris ListManager Web Interface
+Date: Thu, 9 Jan 2003 06:03:54 -0800
+Subject: The JARS.COM Express(tm) Update
+To: "Mailshell User" <nospam@mailshell.com>
+From: JARS Java Update <listsupport@internet.com>
+List-Unsubscribe: <mailto:leave-earthweb-jars-java-update-text-314291J@list10.internet.com>
+Reply-To: JARS Java Update <listsupport@internet.com>
+Message-Id: <SPARKLIST-314291-1587384-2003.01.09-06.58.36--nospam#mailshell.com@list10.internet.com>
+
+====================================================================
+                The JARS.COM Express(tm) Update      
+                       January 9, 2002
+       The Worlds #1 Java Application Review Service
+                     http://www.jars.com
+
+___________________________________________________________________
+
+     This newsletter is part of the Jupitermedia network.
+                  http://www.internet.com
+
+
+___________________________ Sponsors ________________________________
+ 
+                  This newsletter sponsored by:  
+                        Rational Software
+                          Jupiter Events
+_____________________________________________________________________
+
+
+*********************************************************************
+                             CONTENTS
+*********************************************************************
+
+ Recently Submitted Editors Choice Resources at JARS:
+
+ 1. AlleyCat (TS30-1)
+ 2. Lbrowser (JD26-16)
+ 3. Paintp (CV4-4)
+ 4. CloverETL framework (DP26-1)
+ 5. Ektron CMS200 (EI2-1)
+ 6. Embedded SQL Extractor 1.0 (SS65-2)
+ 7. ScheduleWorld (MS62-1)
+ 8. MIDI Backup (PH19-1)
+ 9. JBeanStudio (MT18-3)
+10. SexTris (SP24-7)
+
+
+/-------------------------------------------------------------------\
+ 
+Get A Robust Collection of Developer Resources--FREE
+Are you a developer who likes to stay up-to-date on technology? 
+Sign-up for the Rational Software Developer PowerPack of your choice. 
+Get a robust collection of resources-- market-leading evaluation 
+software, technical articles, extensive artifact libraries, 
+webinars, expert presentations, reference posters, and software 
+demos. View what you want. Explore your technical interests. 
+Click Here http://s0b.bluestreak.com/ix.e?hy&s=129744&a=88824
+
+\--------------------------------------------------------------adv.-/
+
+
+***********************************************************
+                    JARS Weekly Editors Choice
+***********************************************************
+
+1. AlleyCat (TS30-1)
+   Author - Thom Shulok
+
+AlleyCat is an adaptive change detection system designed to support both
+individuals and corporate enterprises with access to broadband internet
+connections. AlleyCat creates agents that intelligently monitor your
+information sources by first analyzing them and then independently
+adapting to their unique variability characteristics to provide you with
+more timely awareness of meaningful events in your information web.
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10869
+
+
+2. Lbrowser (JD26-16): 
+   Author - John Dumberg         
+
+Lbrowser is a browser that displays only the links on a webpage. Surf on
+the internet and download interesting files. Extract single links an save
+collections of links as html files. Very useful is the combination of
+Lbrowser and a common webbrowser, because forms are not supported but
+WAP-links are.
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10870
+
+
+3. Paintp (CV4-4):
+   Author - Chandran Vinay
+
+Painting made easier. Paint on Mouse Dragged and Mouse over and save it as
+gif
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10871
+
+
+
+4. CloverETL framework (DP26-1):
+   Author - David Pavlis
+
+Java based framework for building ETL applications - Various
+transformations of data. Transformations are described/coded by
+transformation graphs where various components performs simple operations
+on data. Uses XML format for saving transformation graph's topologies.
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10872
+
+
+
+5. Ektron CMS200 (EI2-1): 
+   Author - Ektron, Inc
+
+Ektron CMS200 is a robust, affordable content management solution designed
+for Microsoft ASP, ASP.NET, PHP, and Macromedia ColdFusion platforms
+(running within Microsoft server environment). Ektron CMS200, at under
+US$3,000 is the most affordable, full-featured, easily integrated, and
+highly intuitive Web content management application. Ektron CMS200 offers
+powerful Web content management functionality for any size organization,
+department-level corporate use, and most intranet and extranet
+environments.
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10877
+
+
+6. Embedded SQL Extractor 1.0 (SS65-2): 
+   Author - Shawn Spiars
+
+Embedded SQL Extractor is a powerful Structured Query Language(SQL) search
+and discovery tool! Recursively searches thru directories, jars, and files
+extracting only the embedded SQL statements. Displays Structured Query
+Language(SQL) and Data Definition Language(DDL) statements. Searches log
+files, jar files, zip files, java files, sql files, text files, HTML
+files, and more.
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10874
+
+
+
+7. ScheduleWorld (MS62-1): 
+   Author - Mark Swanson
+
+ScheduleWorld is a calendaring and scheduling program similar to Outlook.
+It is capable of scheduling virtualy anything in any language. It was
+designed with your privacy in mind and uses multiple levels of encryption.
+It is able to handle all of your corporate and personal scheduling needs.
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10866
+
+
+
+8. MIDI Backup (PH19-1): 
+   Author - Patrick Holthuizen
+
+An easy-to-use utility to backup your MIDI devices. It also works with
+slow MIDI devices.
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10867
+
+
+
+9. JBeanStudio (MT18-3): 
+   Author - Masahiro Takatsuka
+
+JBeanStudio allows you to build a Java bean/applet/applications from
+JavaBeans components without writing a single code. This application was
+inspired by Sun's Java Studio and BeanBox. However, unlike Java Studio,
+this application only uses Java and JavaBean technology to achieve the
+coding-less visual software authoring environment. It uses a MVC pattern:
+JBeanStudio has distinct components internally dealing with Model
+(JavaBean Authoring Model), View (GUI Panel) and Control (Design Panel).
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10864
+
+
+
+10. SexTris (SP24-7): 
+   Author - Serguei Podorov        
+
+Erotical color tetris with sex-bombs. 10 Levels, Highscores. To play you
+need use your mouse. Left mouse - rotate block, right mouse - put down.
+
+
+http://www.jars.com/classes/jresout.cgi?resource=10865
+
+
+************************************************************
+                        ANNOUNCEMENTS
+************************************************************
+
+REGISTER AS A JARS JUDGE!
+
+A call for Judges!
+JARS is looking for more volunteer judges to help rate
+applets. If you're interested, please sign up.
+http://www.jars.com/jars_judges_chambers_apply.html
+
+
+/-------------------------------------------------------------------\
+ 
+Don't Miss Jupiter Content Management Conference & Expo in 
+New York City Feb. 26 & 27, 2003 - the premier Content Management 
+event for business & technology decision makers who are looking for 
+strategic, technical and market opportunities in the evolving 
+field of content management. In-depth strategy sessions and 
+presentations led by industry experts. Gain the information you 
+need to learn how to leverage a wide range of content mgmt 
+practices. http://www.jupiterevents.com/jcm/spring03/index.html
+
+\--------------------------------------------------------------adv.-/
+
+
+************************************************************
+    EarthWeb's Family of Online Services for IT Insiders
+************************************************************
+
+WEB DEVELOPMENT -      http://webdeveloper.earthweb.com
+SOFTWARE DEVELOPMENT - http://www.developer.com
+JAVA DEVELOPMENT -     http://www.gamelan.com
+PROGRAMMING -          http://www.codeguru.com
+JAVASCRIPTS -          http://www.javascripts.com
+
+Get the latest technical tips, tools, and resources via
+Earthweb's extensive collection of free email newsletters!
+http://e-newsletters.internet.com/earthweb_opt-in.html
+
+
+************************************************************
+                       ABOUT THE NEWSLETTER
+************************************************************
+
+Copyright (c) 2002, Jupitermedia Corp. All rights reserved.
+                    http://www.internet.com
+
+This free publication may be copied or forwarded, without
+alteration, for non-commercial use only.
+
+************************************************************
+
+************************************************************
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LIKE THIS NEWSLETTER?  WANT YOUR OWN?
+Managing your own email newsletter is easy and affordable 
+with SparkLIST! 
+
+Over 800 businesses -- including internet.com -- use 
+SparkLIST to manage their email newsletters & campaigns.  
+Call us at 1 (800) 485-9994, or visit us at: 
+http://www.sparklist.com/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Advertising: If you are interested in advertising in our newsletters, call 
+Claudia at 1-203-662-2863 or send email to mailto:nsladsales@internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For contact information on sales offices worldwide visit 
+http://www.internet.com/mediakit/salescontacts.html
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+For details on becoming a Commerce Partner, contact David Arganbright
+on 1-203-662-2858 or mailto:commerce-licensing@internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To learn about other free newsletters offered by internet.com or 
+to change your subscription visit http://e-newsletters.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+internet.com's network of more than 160 Web sites is organized into 16 
+channels: 
+Internet Technology          http://internet.com/it
+E-Commerce/Marketing         http://internet.com/marketing
+Web Developer                http://internet.com/webdev
+Windows Internet Technology  http://internet.com/win
+Linux/Open Source            http://internet.com/linux
+Internet Resources           http://internet.com/resources
+ISP Resources                http://internet.com/isp
+Internet Lists               http://internet.com/lists
+Download                     http://internet.com/downloads
+International                http://internet.com/international
+Internet News                http://internet.com/news
+Internet Investing           http://internet.com/stocks 
+ASP Resources                http://internet.com/asp
+Wireless Internet            http://internet.com/wireless 
+Career Resources             http://internet.com/careers
+EarthWeb		     http://www.earthweb.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To find an answer - http://search.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Looking for a job? Filling an opening? - http://jobs.internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This newsletter is published by Jupitermedia Corporation
+http://internet.com - The Internet & IT Network 
+Copyright (c) 2003 Jupitermedia Corporation. All rights reserved.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For information on reprinting or linking to internet.com content: 
+http://internet.com/corporate/permissions.html 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+---
+You are currently subscribed to earthweb-jars-java-update-text as: nospam@mailshell.com
+To unsubscribe send a blank email to leave-earthweb-jars-java-update-text-314291J@list10.internet.com

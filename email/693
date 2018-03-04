@@ -1,0 +1,466 @@
+Received: (qmail 14936 invoked from network); 10 Jan 2003 17:12:59 -0000
+Received: from dev214.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 10 Jan 2003 17:12:59 -0000
+Received: (qmail 8335 invoked by uid 99); 10 Jan 2003 17:12:59 -0000
+Received: (qmail 23579 invoked from network); 10 Jan 2003 17:12:58 -0000
+Received: from unknown (HELO intm5.sparklist.com) (216.91.57.135)
+  by www.mailshell.com with SMTP; 10 Jan 2003 17:12:58 -0000
+X-Mailer: Lyris ListManager Web Interface
+Date: Fri, 10 Jan 2003 09:05:55 -0800
+Subject: WDVL Weekly Newsletter
+To: "Mailshell User" <nospam@mailshell.com>
+From: WDVL <listsupport@internet.com>
+List-Unsubscribe: <mailto:leave-wdvl-text-3723110P@list5.internet.com>
+Reply-To: WDVL <listsupport@internet.com>
+Message-Id: <INTM-3723110-3917814-2003.01.10-09.12.13--nospam#mailshell.com@list5.internet.com>
+
+********************************************
+Jupitermedia's
+WDVL Weekly Newsletter
+For the Week Ending January 10, 2002
+********************************************
+
+___________________________ Sponsors ________________________________
+ 
+                  This newsletter sponsored by:  
+                         Jupiter Events
+_____________________________________________________________________
+
+The purpose of this newsletter is to keep you up to date with the newest
+content at http://wdvl.com, including the latest features, articles and
+tutorials. To be removed from this mailing list see the subscription info
+at the end of this newsletter. Please note that replying to THIS e-mail
+will not remove you from the mailing list.
+
+In this week's newsletter:
+* Feature 1) New Web Developer Articles
+* Feature 2) WDVL Email Discussion List Topics for the Week
+* Feature 3) In Case You Missed It
+* Feature 4) New on internet.com
+
+
+Feature 1) ------------------> New Web Developer Articles
+<------------------
+
+::Macromedia Extends J2EE Support for BEA, IBM, Sun And Apple
+The company shipped ColdFusion MX for BEA WebLogic, updated ColdFusion to
+support the latest IBM and Sun app servers, and shipped the JRun
+application server for Mac OS X.
+http://www.internetweek.com/story/INW20030107S0005
+
+::New Technologies Debuting At Consumer Electronics Show May Catch
+Corporate IT's Eye
+The Consumer Electronics Show has something for everyone, even the
+enterprise.
+http://www.internetweek.com/breakingNews/INW20030109S0009
+
+:: Digging deeper into Apache Axis
+Keld Hansen takes us deeper into Apache Axis. Showing us some of the tools
+that make this a serious application.
+http://javaboutique.internet.com/tutorials/Axis2-2/index.html
+
+:: Virus Alert: Outlook Mass-Mailing Worm
+The latest in viruses is W32.HLLW.GOP.F@mm, a mass-mailing worm that uses
+Microsoft Outlook to send itself to all contacts in Outlook Address Book,
+according to Symantec.
+http://www.esecurityplanet.com/trends/article/0,,10751_1564771,00.html
+
+:: Better Content Starts Today
+Susan offers nine fresh approaches to better Web site content.
+http://www.clickz.com/design/cont_dev/article.php/1564661
+
+:: Viewing and Managing Job Queues in Oracle 9i
+Learn how to schedule the periodic execution of user jobs using job queues
+in Oracle 9i. Also covered are topics on viewing job queue information and
+managing job queues.
+http://www.databasejournal.com/features/oracle/article.php/1563801
+
+:: Banners - Animated Text
+Get your text moving with this animated text script. 
+http://webdeveloper.earthweb.com/webjs/jsbanner/item.php/104961
+
+:: wdvlTalk Roundup December 2002
+It's Roundup time again, and this past month the list wrangled with such
+topics as reliable/cost effect reseller hosting companies, PHP editors and
+some cool Google tid-bits for your toolbox.
+http://wdvl.internet.com/WDVL/Forum/Roundup/dec-02.html
+
+:: Book Excerpt: Usable Shopping Carts, Pt. 3
+You can save time and potential headaches by validating your site
+visitor's credit card number before sending it off to the payment gateway.
+Our concluding excerpt from "Usable Shopping Carts" shows you how to do
+just that; both PHP and ASP examples are provided. From glasshaus.
+http://www.webreference.com/programming/carts/chap7/3/
+
+:: Database Performance and some Christmas Cheer
+James Koopman demystifies some of the definitions surrounding the topic of
+database performance in his latest article. Whether a seasoned veteran or
+a beginner, the arena of database performance should not be confusing.
+Join Koopman as he puts a framework around what database performance truly
+is.
+http://www.databasejournal.com/features/oracle/article.php/1562981
+
+:: Games - Arrange
+A nice implementation of the magic squares game where the objective is to
+arrange the numbers in order.
+http://games.javascriptsource.com/arrange.html
+
+::  Calculators - TeleCalc
+This script works as a regular calculator it also is great with stats.
+When clicking on "more options" new buttons appear, enter your number and
+then click the &quot;Add&quot; button keep doing so until all numbers are in. Then
+you can check for min, max, average and even open a window with all the
+statistics by clicking the  "Sta" button.
+http://calculators.javascriptsource.com/telecalc.html
+ 
+:: Book Excerpt: Ultra Light Client
+ULC enables rapid development of Java-based, thin -client applications
+with sophisticated and highly interactive graphical user interfaces
+(GUIs).
+http://javaboutique.internet.com/demoIDEs/ULC/
+
+:: Mandelbrot Explorer
+Explore the Mandelbrot set with this cool applet that allows you to input
+coordinate sets, explore pre-defined regions, or specify your own color
+schemes!
+http://javaboutique.internet.com/MandelbrotExplorer/
+ 
+
+/-------------------------------------------------------------------\
+ 
+Don't Miss Jupiter Content Management Conference & Expo in 
+New York City Feb. 26 & 27, 2003 - the premier Content Management 
+event for business & technology decision makers who are looking for 
+strategic, technical and market opportunities in the evolving 
+field of content management. In-depth strategy sessions and 
+presentations led by industry experts. Gain the information you 
+need to learn how to leverage a wide range of content mgmt 
+practices. http://www.jupiterevents.com/jcm/spring03/index.html
+
+\--------------------------------------------------------------adv.-/
+
+
+****************************************************************
+
+Really Like an Article or Tutorial? Tell a Friend!
+Ever been on one of our pages when you think to yourself, 'my friend would
+really appreciate this article?' Now you can send the page or the page's
+URL to a friend instantly! Just click on the "Email a Colleague" link
+found at the top of the nav bar on every page in WDVL!
+
+****************************************************************
+
+Beyond HTML Goodies
+by Joe Burns, INT Media Group - Go beyond the basics and learn how the
+pros add and use dynamic HTML features and advanced JavaScript techniques.
+Beyond HTML Goodies demonstrates dozens of new and different features
+readers can add to their existing Web pages using HTML and JavaScript.
+http://books.internet.com/books/0789727803
+
+****************************************************************
+Know More!
+Internet professionals like you need _all_ the latest information.
+internet.com and PostMaster Direct have teamed up to send it to you by
+e-mail. Subscribe to our opt-in lists at
+http://e-newsletters.internet.com/mailinglists.html
+****************************************************************
+
+The new Web Developer Discussion Forums have been launched! it will be
+necessary for existing forum members to re-register at the new site (the
+links to this forum will be redirected to the new site automatically) in
+order to post messages in the new area. We apologize for the inconvenience
+this will cause; but we hope you will agree that the efficiency and new
+features provided via this necessary upgrade will be a substantial benefit
+to all forum users.
+
+Drop in and join the discussion! http://forums.webdeveloper.com/
+
+****************************************************************
+
+
+Feature 2) Join the WDVL's Email Discussion List!
+http://wdvl.internet.com/WDVL/Forum/
+You are currently reading the WDVL Weekly Newsletter. WDVL's Email
+Discussion List, on the other hand, is for the discussion of the technical
+and practical aspects of web development. Novices and experts alike are
+welcome. The list offers help for all user levels, whether you just logged
+on to the Net today or have been on since the start. It's a forum where
+beginning and advanced WWW publishers and designers can interact and learn
+from each other (and you can even choose to receive the 'once-a-day'
+digest format). This week's topic's included:
+
+
+*Graphic doesn't load in Mozilla 
+*Cookies, Form & Setting Preferences 
+*Spliting Atoms, or in our case variables
+*Directory file listings include  '.' and '..'
+*PHP-editors
+
+
+
+
+
+
+
+
+To join the list, send a blank email to
+mailto:wdvltalk-join@lists.wdvl.com or visit
+http://wdvl.internet.com/WDVL/Forum/#sub You can choose the digest format,
+in which you will be sent all threads/messages in one email at the end of
+the day, or the normal form in which you will receive all messages as they
+are sent.
+
+****************************************************************
+
+Looking for a web host you can depend on? Check out Web Hosting List -- a
+definitive directory of thousands of web hosts.  Find personal web site
+hosting, business and colocation facilities and dedicated hosting
+services.
+http://webhost.thelist.com
+
+****************************************************************
+Refer-it.com is the definitive directory of affiliate and referral
+programs on the Internet. Launched in December 1997, Refer-it.com
+(http://www.refer-it.com) was the pioneer of the industry and their
+comprehensive listings provide key information on all of the programs in
+their database. Go to http://e-newsletters.internet.com/referit.html to
+sign up for the Refer-it.com Announcement Newsletter to be notified of new
+revenue sharing/affiliate programs as they become available.
+
+****************************************************************
+
+
+
+
+
+****************************************************************
+The DomainNotes.com Weekly Newsletter and Discussion List
+
+The free DomainNotes weekly newsletter keeps you up to date in the world
+of the Domain Name industry. If you're considering a domain name for your
+business, want to stay informed about the latest domain legality battle,
+are an ISP, Web host, speculator, developer, corporate watchdog, or anyone
+interested in the future of the domain name industry, you need to stay
+informed. We'll give you a weekly roundup of the latest news, along with
+tips you won't find on any Web site!  The free DomainNotes email
+discussion list is an attempt to answer domain name related questions that
+are left unanswered by DomainNotes.com and the rest of the Web Developer
+Network of sites. I expect this list to be very active within a short
+time, and you have the same options as with our other list (digest,
+search, password, etc.).
+http://domainnotes.com/newsletter/
+
+****************************************************************
+
+Feature 3) ----------------> In Case You Missed It <--------------------
+
+:: JavaScript + CSS + DOM Magic
+JavaScript + CSS + DOM Magic has directly applicable projects with
+step-by-step instructions showing you how to master a feature and adapt it
+according to their own needs and creativity. Chapter 12 covers
+Transitional CSS and JavaScript Strategies.
+http://wdvl.com/Authoring/JavaScript/JS_CSS_DOM/
+
+****************************************************************
+
+
+Database Journal
+For the last few months, the staff at Jupitermedia.com has been developing
+a database-focused Web site that will embrace the entire database sector. 
+As part of the launch, we are consolidating the existing sites, SQLWire,
+SQLcourse and the SQL section of Swynk.com, into the new site. But that's
+just the beginning...
+http://databasejournal.com/
+
+
+****************************************************************
+
+
+
+Feature 4) ----------------> New on internet.com <-----------
+
+:: W3C Whips up API to Manage Web Languages 
+The Web standards publishes Document Object Model Level 2 HTML, an
+application programming interface to grapple with HTML and XHTML 1.0
+documents.
+http://www.internetnews.com/wireless/article.php/1561391
+
+:: Hotel Industry Makes Room for Online Bookings 
+The sagging hotel industry can't rest easy yet, but online bookings are
+expected to climb through 2007.
+http://cyberatlas.internet.com/markets/travel/article/0,,6071_1567141,00.html
+
+
+:: WinBook X4 Review 
+Think of WinBook\s new, blue notebook as a laptop reality check: No, it
+doesn\t have a DVD burner, super-speed processor (1.7GHz), or jumbo
+screen (14.1 inches), but it has everything you need on the road --
+including a DVD-ROM/CD-RW combo drive -- in a stylish, slim (6.25 pounds)
+package. At $1,299, what\s not to like?
+http://www.hardwarecentral.com/hardwarecentral/reviews/4620/1/
+
+:: The Final Appeal Over Sex.com  
+The heart of the domain name conversion issue and whether Network
+Solutions might be held accountable now rests in the hands of the
+California Supreme Court.
+http://siliconvalley.internet.com/news/article.php/1565651
+
+:: Case Study: Half.com  
+When eBay's fixed-price subsidiary's business began to grow, and they
+needed a Web analytics solution that was scalable, cost effective, and
+allowed them to honor users' privacy concerns, they turned to SiteCatalyst
+8.0.
+http://ecommerce.internet.com/news/insights/trends/article/0,,10417_1565681,00.html
+
+
+:: Your Next PC? You Won't Recognize It  
+Shedding the old, traditional tower and minitower cases, the new business
+PCs hitting the market are coming in newer, slimmer shapes and sizes.
+http://www.hardwarecentral.com/hardwarecentral/editorials/4611/1/
+
+:: Single Standards Losing Out to Dual-Band  
+802.11b, the bedrock of wireless networking, and its presumed successor,
+802.11a, may quickly be on the way out as we know them.
+http://www.80211-planet.com/news/article.php/1563671
+
+:: SharePoint: Love It, Leave It, Or Hope For More  
+Microsoft gets top marks for its portal solution from the same analysts
+who turn around and report the software is still years from 'workable.'
+http://www.intranetjournal.com/articles/200301/ij_01_03_03a.html
+
+:: 2002 E-Commerce Holiday Wrap-Up 
+E-commerce racked up record numbers, but average spending took a dip. 
+http://cyberatlas.internet.com/markets/retailing/article/0,,6061_1563551,00.html
+
+
+
+**************************************************************************
+The Java Boutique is a collection of over 400 applets that you can put on
+your own pages. It also features the latest Java industry news, links to
+other Java resources, discussion forums, tutorials, software reviews and
+more.
+
+Discover the Java Boutique today, http://javaboutique.internet.com.
+ANNOUNCING JavaBoutique's new online discussion forums. We welcome your
+free exchange of news, views, questions and answers on a variety of Java
+related topics.  You'll find our forums are setup under various topics and
+we welcome your suggestions for new forums as well!
+http://forums.javaboutique.internet.com/
+
+
+/-------------------------------------------------------------------\
+ 
+Game Market Watch Conference & Expo - The Definitive Event for the 
+Electronic Entertainment Industry - April 1 & 2, 2003 - Los Angeles, 
+CA. This two-day event will educate professionals from the PC, 
+console & handheld games industry on emerging trends in this space 
+and help them identify & evaluate new business initiatives and 
+revenue-generating opportunities. Get insight into the latest 
+trends & issues surrounding the growth of this industry. Register 
+early & save! http://www.jupiterevents.com/gmw/spring03/index.html
+
+\--------------------------------------------------------------adv.-/
+
+
+**************************************************************************
+
+Thanks for coming by, and if you have any questions, please write to us at
+
+mailto:lcole@internet.com.
+-- Linda Cole, Managing Editor, WDVL.com, Quadzilla.com
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+http://www.internet.com The E-Business and Internet Technology Network
+http://www.extremeflash.com Help site for Macaromedia Flash and Adobe
+Photo Shop
+http://Flashkit.com Interested in Flash? Here's the place to start!
+http://FlashPlanet.com Flash reviews, tutorials, clip-art and more!
+http://Gif.com Your one-stop shop for gif and jpeg graphics
+http://Jobs.webdeveloper.com Web Developer Jobs
+http://www.JavaBoutique.com Java applets galore for your deployment
+http://javascript.com The only JavaScript portal you need!
+http://www.javascriptsource.com Cut and paste free JavaScript code!
+http://www.JustSmil.com All about SMIL technology!
+http://www.ScriptSearch.com CGI, C, Java, and JavaScript scripts!
+http://www.StreamingMediaWorld.com The latest in streaming media
+http://www.hiermenuscentral.com HierMenusCentral 
+http://webhost.thelist.com Web Hosts
+http://www.wdvl.com Web Developer's Virtual Library
+http://www.WebDeveloper.com News and Resources for Web developers
+http://www.WebDevelopersJournal.com For Suits, Ponytails and Propheads
+http://www.WebReference.com Developer's Guide to the Web & Webmastery
+http://www.XML101.com Articles, information, discussion forum, links,
+tutorials and examples
+
+http://www.internet.com/sections/it.html Internet Technology
+http://www.internet.com/sections/win.html Windows Internet Technology
+http://www.internet.com/sections/linux.html Linux/Open Source 
+http://www.internet.com/sections/news.html Internet News
+
+*************************************************************************
+With over 6 million page views per month, internet.com's Web Developer
+Network is the BIGGEST resource available for the Web Developer community!
+Advertisers can choose from any of our five sites to target Web developers
+and place their ads in a high-quality news and information network of
+sites. Advertise where the LARGEST Web developer audience comes to find
+tutorials, daily news, downloads, links and techniques essential to their
+jobs.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LIKE THIS NEWSLETTER?  WANT YOUR OWN?
+Managing your own email newsletter is easy and affordable 
+with SparkLIST! 
+
+Over 800 businesses -- including internet.com -- use 
+SparkLIST to manage their email newsletters & campaigns.  
+Call us at 1 (800) 485-9994, or visit us at: 
+http://www.sparklist.com/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Advertising: If you are interested in advertising in our newsletters, call 
+Claudia at 1-203-662-2863 or send email to mailto:nsladsales@internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For contact information on sales offices worldwide visit 
+http://www.internet.com/mediakit/salescontacts.html
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+For details on becoming a Commerce Partner, contact David Arganbright
+on 1-203-662-2858 or mailto:commerce-licensing@internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To learn about other free newsletters offered by internet.com or 
+to change your subscription visit http://e-newsletters.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+internet.com's network of more than 160 Web sites is organized into 16 
+channels: 
+Internet Technology          http://internet.com/it
+E-Commerce/Marketing         http://internet.com/marketing
+Web Developer                http://internet.com/webdev
+Windows Internet Technology  http://internet.com/win
+Linux/Open Source            http://internet.com/linux
+Internet Resources           http://internet.com/resources
+ISP Resources                http://internet.com/isp
+Internet Lists               http://internet.com/lists
+Download                     http://internet.com/downloads
+International                http://internet.com/international
+Internet News                http://internet.com/news
+Internet Investing           http://internet.com/stocks 
+ASP Resources                http://internet.com/asp
+Wireless Internet            http://internet.com/wireless 
+Career Resources             http://internet.com/careers
+EarthWeb		     http://www.earthweb.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To find an answer - http://search.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Looking for a job? Filling an opening? - http://jobs.internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This newsletter is published by Jupitermedia Corporation
+http://internet.com - The Internet & IT Network 
+Copyright (c) 2003 Jupitermedia Corporation. All rights reserved.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For information on reprinting or linking to internet.com content: 
+http://internet.com/corporate/permissions.html 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+---
+You are currently subscribed to wdvl-text as: nospam@mailshell.com
+To unsubscribe send a blank email to leave-wdvl-text-3723110P@list5.internet.com

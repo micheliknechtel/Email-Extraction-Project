@@ -1,0 +1,954 @@
+Received: (qmail 20534 invoked from network); 7 Jan 2003 16:21:29 -0000
+Received: from dev210.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 7 Jan 2003 16:21:29 -0000
+Received: (qmail 30069 invoked by uid 99); 7 Jan 2003 16:21:29 -0000
+Received: (qmail 17890 invoked from network); 7 Jan 2003 16:21:28 -0000
+Received: from unknown (HELO intm3.sparklist.com) (216.91.57.133)
+  by www.mailshell.com with SMTP; 7 Jan 2003 16:21:28 -0000
+X-Mailer: Lyris ListManager Web Interface
+Date: Tue, 7 Jan 2003 07:32:06 -0800
+Subject: CWSApps Newsletter for the Week of 1/7/03
+To: "Mailshell User" <nospam@mailshell.com>
+From: CWSApps <listsupport@internet.com>
+List-Unsubscribe: <mailto:leave-cwsapps-html-5544099E@list3.internet.com>
+Reply-To: CWSApps <listsupport@internet.com>
+Message-Id: <INTM-5544099-4412204-2003.01.07-08.20.32--nospam#mailshell.com@list3.internet.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=us-ascii
+
+<HTML>
+<HEAD>
+        <TITLE>What's New at Stroud's CWSApps List - Weekly Newsletter</TITLE>
+        <META HTTP-EQUIV = "Expires" content = "Tue, 23 Apr 1974 23:23:23 GMT">
+        <META HTTP-EQUIV = "Pragma" content = "no-cache">
+  <META NAME = "date" content = "2002-08-17">
+  <META NAME = "author" content = "Forrest Stroud, CWSApps, internet.com Corp.">
+  <META NAME = "channel" content = "Download">
+  <META NAME = "section" content = "What's New">
+  <META NAME = "generator" content = "TextPad - The ultimate HTML/Text editor">
+        <META NAME = "description" content = "What's New at CWSApps - The CWSApps Daily Newsletter.  Get free software downloads, extensive software reviews, ratings, and more from Stroud's CWSApps...">
+        <META NAME = "keywords" content = "new releases, new software, software newsletter, CWSApps newsletter, daily news, CWSApps daily newsletter, daily software news, newsletter">
+ 
+<link rel = STYLESHEET href = "http://cws.internet.com/includes/style.css" type = "text/css">
+ 
+<STYLE TYPE="text/css">
+<!--
+        .SVO                    {color: #8F0000}
+        .REL                    {color: #0000AF}
+        .REV                    {color: #0000AF}
+        .ROO                    {color: #444444}
+        .SW                     {color: #0000DF}
+        A.SRC                   {font: bold 9pt Tahoma, Arial, Helvetica; color: #000000}
+          A.SRC:visited         {color: #000000}
+          A.SRC:hover           {color: #0000FF}
+        A.LOC                   {color: #000055}
+          A.LOC:visited         {color: #000055}
+          A.LOC:hover           {color: #0000FF}
+        A.SOC                   {color: #000000}
+          A.SOC:visited         {color: #000000}
+          A.SOC:hover           {color: #0000CF}
+        A.FOAL                  {color: #FFFFFF}
+          A.FOAL:visited        {color: #FFFFFF}
+          A.FOAL:hover          {color: #B0D0FF}
+        .KA                     {font: 10pt arial, verdana, helvetica; padding-left: 3 }
+        .VA                     {font: bold 12pt}
+        .YA                     {font: 12pt}
+-->
+</STYLE>
+ 
+<base href="http://cws.internet.com/">
+ 
+</HEAD>
+ 
+<BODY bgcolor = "#FFFFFF" text = "#000000" link = "#00008F" alink = "#5080E0" vlink = "#1F1FCF" topmargin = 0 leftmargin = 0 marginheight = 0 marginwidth = 0>
+ 
+<!--banner ad script-->
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_url = 'http://mjxads.internet.com/RealMedia/ads/';
+OAS_sitepage = 'intm/dload/cws.internet.com';
+OAS_listpos = '468x60-1,468x60-2,125x800';
+OAS_query = '';
+OAS_target = '_top';
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+var_a=('<A HREF="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage );
+var_b=(var_a + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' );
+var_c=(var_b+ OAS_query + '" TARGET=' + OAS_target + '>');
+document.write(var_c);
+var_aa=('<IMG SRC="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage );
+var_bb=( var_aa + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?');
+var_cc=( var_bb + OAS_query + '" BORDER=0></A>');
+document.write(var_cc);
+}
+//-->
+</SCRIPT>
+ 
+<SCRIPT LANGUAGE=JavaScript1.1>
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 )
+OAS_version = 10;
+if (navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+OAS_version = 10;
+if (OAS_version >= 11) {
+var_aaa=('<SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url);
+var_bbb=(var_aaa + 'adstream_mjx.ads/' + OAS_sitepage + '/1');
+var_ccc=(var_bbb + OAS_rns + '@' + OAS_listpos + '?' + OAS_query );
+var_ddd=(var_ccc + '"><\/SCRIPT>');
+document.write(var_ddd);
+}
+//-->
+</SCRIPT>
+ 
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11)
+OAS_RICH(pos);
+else
+OAS_NORMAL(pos);
+}
+//-->
+</SCRIPT>
+<!--END banner ad script-->
+ 
+<TABLE width = 100% cellspacing = 0 cellpadding = 4 border = 0 bgcolor = "#0060FF">
+ <tr>
+ <td width = 770 bgcolor = "#3399FF"> <!-- 2226BA -->
+ <nobr>
+ <font face = "Verdana, Tahoma" size = 1 color = "#FFFFFF">&nbsp;
+ <a href = "http://cws.internet.com/"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Home</B></font></a>
+ | <a href = "/new.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>New</B></font></a>
+ | <a href = "/top.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Popular</B></font></a>
+ | <a href = "http://www.dealtime.com/BannerIn/1,2844,,00.html?linkin_id=2063813&path=/main"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Shopping</B></font></a>
+ | <a href = "/browsers.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Browsers</B></font></a>
+ | <a href = "/chat.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Chat</B></font></a>
+ | <a href = "/internet.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Internet</B></font></a>
+ | <a href = "/network.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Network</B></font></a>
+ | <a href = "/microsoft.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Microsoft</B></font></a>
+ | <a href = "/multimedia.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Multimedia</B></font></a>
+ | <a href = "/online.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Online</B></font></a>
+ | <a href = "/servers.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Servers</B></font></a>
+ | <a href = "/utilities.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Utilities</B></font></a>
+ | <a href = "/webdev.html"><font color = "#FFFFFF" style = "color: #FFFFFF">
+ <B>Web Dev</B></font></a>
+ <img src = "/img/space.gif" height = 1 width = 5 border = 0 alt = "">
+ </nobr>
+ </td>
+ </tr>
+</TABLE>
+ 
+<TABLE width = 100% border = 0 cellpadding = 0 cellspacing = 0>
+ <tr>
+ <td bgcolor = "#000000" width = 750 height = 1>
+ <nobr><img src = "/img/space.gif" height = 1 width = 748 border = 0 alt = ""></nobr></td>
+ </tr>
+</TABLE>
+ 
+<TABLE width = 100% cellspacing = 0 cellpadding = 0 border = 0 bgcolor = "#B0D0FF">
+ <tr>
+ <td align = center>
+ 
+ <center>
+ <img src = "/img/space.gif" height = 13 width = 1 border = 0 alt = ""><br>
+ 
+<!-- 468x60 ad tag-->
+<!------ OAS AD '468x60-1' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('468x60-1');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/intm/dload/cws.internet.com/5544099@468x60-1,468x60-2,125x800!468x60-1" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/intm/dload/cws.internet.com/5544099@468x60-1,468x60-2,125x800!468x60-1" border=0>
+</A>
+</NOSCRIPT>
+<!------ OAS AD '468x60-1' end ------>
+<!-- /468x60 ad tag -->
+ 
+ <img src = "/img/space.gif" height = 8 width = 1 border = 0 alt = ""><br>
+ </center>
+ <!-- END AD 1 -->
+ 
+ </td>
+ </tr>
+</TABLE>
+ 
+<TABLE width = 100% cellspacing = 0 cellpadding = 0 border = 0 bgcolor = "#B0D0FF"> <!-- WEB #C1DBFC -->
+ <tr>
+ <td width = 300 align = center>
+ <a href = "/index.html"><img src = "/img/cwslogo.gif" width = 300 height = 60 alt = "Stroud's CWSApps" border = 0></a></td>
+ 
+ <TD width = 11 align = center>
+ <img src = "/img/space.gif" height = 1 width = 11 border = 0 alt = ""></td>
+ 
+<!-- Beg Search -->
+ <td width = 125 align = right>
+ 
+ <!-- BEG Search Form -->
+ <TABLE border = 0 width = 125>
+  <tr><td align = center>
+  <form NAME=CWSsearch method = post action = "http://search.internet.com/query">
+  <input type = hidden name = "method" value = "mainQuery">
+  <input type = hidden name = "IC_StartNumber" value = "0">
+  <input type = hidden name = "IC_QueryDatabase" value = "CWS">
+  <input type = hidden name = "IC_BatchSize" value = "25">
+  <input type = hidden name = "IC_RelevanceThreshold" value = "70">
+  <input type = hidden name = "IC_Summary" value = "querysummary">
+  <a href = "/search.html">
+  <img src = "/img/search.gif" height = 20 width = 70 border = 0></a><img src = "/img/space.gif" height = 0 width = 1 border = 0 alt = ""><br>
+  <input onFocus="clearField(this)" type = text style = "font: 10pt courier san-serif" name = "query" value = " Power Search" size = 12,1></td></tr>
+ </form>
+ </TABLE>
+ <!-- END Search Form -->
+ </td>
+ 
+<!-- End Search -->
+ 
+ <TD width = 11 align = center>
+ <img src = "/img/space.gif" height = 1 width = 11 border = 0 alt = ""></td>
+ 
+<!-- Beg CWSApps -->
+ <td width = 175 align = center>
+ 
+ <TABLE border = 0 cellspacing = 0 cellpadding = 0>
+ <FORM>
+  <TR>
+  <td valign = middle>
+  <center><a href = "/sitemap.html"><img src = "/img/sitemap.gif" align = bottom border = 0 width = 108 height = 20></a></center>
+ 
+  <FORM CLASS = "FO">
+  <SELECT NAME = "CWSMenu" STYLE = "font: 10pt Arial, san-serif;" onChange="top.location.href=this.form.CWSMenu.options[this.form.CWSMenu.selectedIndex].value">
+  <OPTION SELECTED VALUE = "sitemap.html">CWSApps Map
+  <OPTION VALUE = "/index.html">Home
+  <OPTION VALUE = "/new.html">What's New
+  <OPTION VALUE = "/coolapp.html">What's Cool
+  <OPTION VALUE = "/top.html">What's Popular
+  <OPTION VALUE = "#top">
+  <OPTION VALUE = "/sitemap.html">Site Map
+  <OPTION VALUE = "/dbase.html">Apps Database
+  <OPTION VALUE = "/32menu.html">Browse All Apps
+   <OPTION VALUE = "/newapps.html">New Apps Page
+  <OPTION VALUE = "http://serverwatch.internet.com/">ServerWatch
+  <OPTION VALUE = "#top">
+  <OPTION VALUE = "/browsers.html">Browsers
+  <OPTION VALUE = "/chat.html">Chat Clients
+  <OPTION VALUE = "/internet.html">Internet Apps
+  <OPTION VALUE = "/network.html">InterNetworking
+  <OPTION VALUE = "/microsoft.html">Microsoft Files
+  <OPTION VALUE = "/multimedia.html">Multimedia
+  <OPTION VALUE = "/online.html">Online Tools
+  <OPTION VALUE = "/utilities.html">Non-Net Utilities
+  <OPTION VALUE = "/webdev.html">Web Development
+  <OPTION VALUE = "#top">
+  <OPTION VALUE = "/inx.html">Index of Apps
+  <OPTION VALUE = "/search.html">App Search
+  <OPTION VALUE = "/newsletter.html">Newsletters
+  <OPTION VALUE = "/submit.html">Submit App
+  <OPTION VALUE = "/comments.html">Feedback
+  <OPTION VALUE = "http://www.houseofstroud.com/">Who is Stroud?
+  <OPTION VALUE = "#top">
+  </SELECT>
+  </td></tr></form>
+ </TABLE>
+ </TD>
+<!-- End CWSApps -->
+ 
+ <TD width = 11 align = center>
+ <img src = "/img/space.gif" height = 1 width = 11 border = 0 alt = ""></td>
+ 
+<!-- Beg ICom -->
+ <TD width = 200 align = center>
+ 
+ <TABLE border = 0 cellspacing = 0 cellpadding = 0>
+ <FORM>
+  <TR>
+  <td valign = middle>
+  <center><a href = "http://www.internet.com/?cwsapps" target = "_new"><img src = "/img/icomsml.gif" align = bottom border = 0 width = 115 height = 20></a></center>
+  <FORM CLASS = "FO">
+  <SELECT NAME = "ICom" STYLE = "font: 10pt Arial, san-serif;" onChange="top.location.href=this.form.ICom.options[this.form.ICom.selectedIndex].value">
+    <OPTION SELECTED VALUE = "http://www.internet.com/?cwsapps">Internet Channels
+    <OPTION VALUE = "http://www.internet.com/sections/downloads.html">Downloads
+    <OPTION VALUE = "http://www.internet.com/sections/news.html">Internet News
+    <OPTION VALUE = "http://www.internet.com/sections/stocks.html">Internet Investing
+    <OPTION VALUE = "http://www.internet.com/sections/it.html">Internet Technology
+    <OPTION VALUE = "http://www.internet.com/sections/win.html">Windows Net Tech.
+    <OPTION VALUE = "http://www.internet.com/sections/wireless.html">Wireless Internet
+    <OPTION VALUE = "http://www.internet.com/sections/linux.html">Linux/Open Source
+    <OPTION VALUE = "http://www.internet.com/sections/webdev.html">Web Developer
+    <OPTION VALUE = "http://www.internet.com/sections/marketing.html">ECommerce/
+    <OPTION VALUE = "http://www.internet.com/sections/marketing.html">&nbsp;&nbsp;Marketing
+    <OPTION VALUE = "http://www.internet.com/sections/isp.html">ISP Resources
+    <OPTION VALUE = "http://www.internet.com/sections/asp.html">ASP Resources
+    <OPTION VALUE = "http://www.internet.com/sections/wireless.html">Wireless Internet
+    <OPTION VALUE = "http://www.internet.com/sections/resources.html">Internet Resources
+    <OPTION VALUE = "http://www.internet.com/sections/lists.html">Internet Lists
+    <OPTION VALUE = "http://www.internet.com/sections/international.html">International
+    <OPTION VALUE = "http://www.earthweb.com/">EarthWeb
+    <OPTION VALUE = "http://www.internet.com/sections/careers.html">Career Resources
+    <OPTION VALUE = "#top">
+    <OPTION VALUE = "http://search.internet.com">Search internet.com
+    <OPTION VALUE = "http://www.internet.com/mediakit/">Advertising Info
+    <OPTION VALUE = "http://www.internet.com/corporate/">Corporate Info
+    <OPTION VALUE = "http://events.internet.com">Trade Shows
+    <OPTION VALUE = "#top">
+    <OPTION VALUE = "http://www.internet.com/sections/downloads.html"><b>Downloads Channel</b>
+    <OPTION VALUE = "http://cws.internet.com">Stroud's CWSApps
+    <OPTION VALUE = "http://www.jumbo.com">Jumbo
+    <OPTION VALUE = "http://e-newsletters.internet.com/">Software News
+  </SELECT>
+  </td></tr></form>
+ </TABLE>
+ </TD>
+ 
+<!-- End ICom -->
+ 
+ <TD width = 5 align = center>
+ <img src = "/img/space.gif" height = 1 width = 5 border = 0 alt = ""></td>
+ 
+</TR>
+</TABLE>
+ 
+<TABLE width = 100% cellspacing = 0 cellpadding = 0 border = 0>
+ <TR>
+ 
+ <td width = 5 valign = top bgcolor = "#B0D0FF">
+ <img src = "/img/space.gif" height = 465 width = 5 border = 0 alt = ""></td>
+ 
+ <td width = 125 valign = top bgcolor = "#B0D0FF">
+ 
+ <img src = "/img/space.gif" height = 7 width = 1 border = 0 alt = ""><br>
+ 
+ <TABLE border = 0 cellpadding = 0 cellspacing = 0 width = 125 bgcolor = "#B0D0FF">
+  <tr>
+  <td colspan = 2 valign = "top" align = "left">
+  <font face = "Arial, Helvetica, Tahoma" size = 2><b>
+ 
+<!--
+     <a href = "vdef-date.html" class = "SOC">&nbsp;Latest Virus Defs
+     <font face = "TAHOMA" color = "#00008F">&#187;</font></font></a><br></font></b>
+     <font face = "Arial, Tahoma, Helvetica" size = 1>
+ 
+    &nbsp; &nbsp;3/14 - <a href = "/vdef-virus.html">VirusScan</a> (4190)<br>
+    &nbsp; &nbsp;3/13 - <a href = "/vdef-nav.html">Norton AntiVirus</a><br>
+    &nbsp; &nbsp;3/13 - <a href = "/vdef-avp.html">AVP</a><br>
+    &nbsp; &nbsp;3/13 - <a href = "/vdef-inoculate.html">InocIT PE</a> (1897)<br>
+    &nbsp; &nbsp;3/13 - <a href = "/vdef-f-secure.html">F-Secure</a><br>
+    &nbsp; &nbsp;3/11 - <a href = "/vdef-inoculan.html">eTrust</a> (23.51.38)<br>
+ 
+  <p>
+ 
+-->
+ 
+  <font face = "Arial, Helvetica, Tahoma" size = 2><b>
+  &nbsp;<a href = "/menu.html" class = "SOC">Downloads
+  <font face = "TAHOMA">&#187;</font></a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/browsers.html" CLASS = "LOC">Browsers</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/chat.html" CLASS = "LOC">Chat Clients</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/internet.html" CLASS = "LOC">Internet Apps</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/microsoft.html" CLASS = "LOC">Microsoft Files</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/multimedia.html" CLASS = "LOC">Multimedia</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/network.html" CLASS = "LOC">Network Tools</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/online.html" CLASS = "LOC">Online Tools</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/servers.html" CLASS = "LOC">Servers</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/utilities.html" CLASS = "LOC">Utilities</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/webdev.html" CLASS = "LOC">Web Dev</a><br>
+ 
+  <br><img src = "/img/space.gif" height = 10 width = 1 border = 0><br>
+ 
+  &nbsp;<a href = "/index.html" class = "SOC">CWSApps
+  <font face = "TAHOMA">&#187;</font></a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/new.html" CLASS = "LOC">What's New</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/coolapp.html" CLASS = "LOC">What's Cool</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/top.html" CLASS = "LOC">What's Popular</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/dbase.html" CLASS = "LOC">Apps Database</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/inx.html" CLASS = "LOC">Index of Apps</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/search.html" CLASS = "LOC">App Search</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/submit.html" CLASS = "LOC">App Submit</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/newsletter.html" CLASS = "LOC">Newsletter</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/sitemap.html" CLASS = "LOC">Site Map</a><br>
+  &nbsp;&nbsp;&nbsp;<a href = "/index.html" CLASS = "LOC">Home</a><br>
+  <img src = "/img/space.gif" height = 12 width = 1 border = 0><br>
+ 
+  </font></b>
+  </td></tr>
+ 
+  <!--
+  <tr>
+  <td>
+  <img src = "/img/space.gif" height = 13 width = 1 border = 0><br>
+  <TABLE width = 95% align = center border = 0 cellpadding = 0 cellspacing = 0>
+   <tr>
+   <td bgcolor = "#000000" width = 100% height = 1>
+   <spacer type = "block" width = 100% height = 1></td>
+   <td height = 1 width = 5><img src = "/img/space.gif" height = 1 width = 5 border = 0></td>
+   </tr>
+  </TABLE>
+  <img src = "/img/space.gif" height = 10 width = 1 border = 0><br>
+  </td>
+  </tr>
+  -->
+ 
+ </TABLE>
+ 
+<!-- BEG Content -->
+ <td width = 1 valign = top bgcolor = "#000000">
+ <img src = "/img/space.gif" height = 465 width = 1 border = 0 alt = ""></td>
+ 
+ <td width = 98% valign = top bgcolor = "#FFFFFF">
+ <font face = "Verdana, Arial, Helvetica" size = 2>
+ 
+ <TABLE width = 100% border = 0 cellpadding = 0 cellspacing = 0>
+  <tr>
+  <td bgcolor = "#000000" width = 100% height = 1>
+  <spacer type = "block" width = 100% height = 1></td>
+   </tr>
+ </TABLE>
+ 
+<!-- BEG Navigation -->
+ <TABLE border = 0 cellpadding = 0 cellspacing = 0 width = 100%>
+  <tr>
+  <td align = left valign = top>
+  <img src = "/img/space.gif" height = 3 width = 1><br>
+  <font face = "arial, helvetica, sans-serif" size = "2"> &nbsp;
+  <b><a href = "/index.html">CWSApps</a> </b>><b>
+  What's New</b></font>
+  <br><img src = "/img/space.gif" height = 5 width = 1><br>
+  </td>
+  <td align = right valign = top>
+  <img src = "/img/space.gif" height = 3 width = 1><br>
+  <font face = "sans-serif, arial, helvetica" size = "2">
+  <!-- DATE --><a href = "/new.html">
+  What's New for the
+  <!-- BEG Apps -->Week of January 7, 2003
+  </a>&nbsp;&nbsp;</font>
+  <br><img src = "/img/space.gif" height = 5 width = 1><br>
+  </td>
+  </tr>
+ </TABLE>
+ 
+ <TABLE width = 100% border = 0 cellpadding = 0 cellspacing = 0>
+  <tr>
+  <td bgcolor = "#000000" width = 100% height = 1>
+  <spacer type = "block" width = 100% height = 1></td>
+   </tr>
+ </TABLE>
+ 
+ <TABLE width = 98% border = 0 align = center cellpadding = 0 cellspacing = 0>
+ <tr>
+ <td>
+ 
+ <center>
+ <img src = "/img/space.gif" height = 20 width = 1 border = 0 alt = ""><br>
+ 
+ <!-- BEG Apps -->
+<!---begin first software--->
+ 
+ <font face = "verdana, arial, helvetica" size = 2>
+ <a name = "xnews"><img src = "img/space.gif" width = 1 height = 5></a>
+ <br>
+ <table style = "border-collapse:collapse" cellpadding = 1 cellspacing = 1 border = 3 width = 515 class = "TA">
+ <tr bgcolor = "#B0D0FC">
+ <td align = middle width = 105>
+  <a href = "http://cws.internet.com/redir/http://xnews.newsguy.com/release/xnews.zip">
+  <img src = "img/xnews.gif" align = middle border = 0 width = 34 height = 34></a></td>
+ <td align = middle colspan = 4 width = 410>
+  <a class = "header" href = "http://cws.internet.com/redir/http://xnews.newsguy.com/release/xnews.zip">
+  <font size = "+3" face = "Times New Roman" color = "#000000">Xnews</font></a></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 105 height = 52 rowspan = 2 align = middle>
+  <a href = "/news-xnews.html#review">CWSApps<br>Review</a></td>
+ <td width = 75 height = 26 align = middle>Version</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "VA"><b>5.04.25</b></td>
+ <td width = 60 align = middle>Date</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "YA"><i>1/7/03</i></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 75 height = 26 align = middle>Rating</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle><img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top></td>
+ <td width = 60 align = middle>Size</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle>696 KB</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">What's New</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "javascript:openUpgrade()" class = "UPITY" onmouseover = "window.status = 'Click to find out more about our exclusive Upgrade Meter feature'; return true" onmouseout = "window.status = ''">-<b>2</b>- <a href = "reviews/news-xnews4.html#whatsnew" class = "UPITY" onmouseover = "window.status = 'Click to see the complete listing of What\'s New in 5.04.25'; return true" onmouseout = "window.status = ''"><font color = "#000000">Customizable toolbars, smart decoding, JPEG display...</font></a><a href = "reviews/news-xnews4.html#whatsnew">more</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Description</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>News Xpress reincarnated?  Absolutely...and it's freeware, too!</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Download</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "http://cws.internet.com/redir/http://xnews.newsguy.com/release/xnews.zip">http://xnews.newsguy.com/release/xnews.zip</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Platforms</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>Windows XP, Windows 95/98/ME, Windows NT/2000</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Status</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4>Freeware</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Author</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4><a href = "http://xnews.newsguy.com/"><i>Luu Tran</i></a> - <a href = "http://xnews.newsguy.com/">About Xnews</a></td>
+ </table>
+ </font>
+ 
+
+ <font face = "verdana, arial, helvetica" size = 2>
+ <a name = "agent"><img src = "img/space.gif" width = 1 height = 5></a>
+ <br>
+ <table style = "border-collapse:collapse" cellpadding = 1 cellspacing = 1 border = 3 width = 515 class = "TA">
+ <tr bgcolor = "#B0D0FC">
+ <td align = middle width = 105>
+  <a href = "http://cws.internet.com/redir/http://www.hitechgadgets.net/files/forte/agent/english/a32en193.exe">
+  <img src = "img/agent2.gif" align = middle border = 0 width = 34 height = 34></a></td>
+ <td align = middle colspan = 4 width = 410>
+  <a class = "header" href = "http://cws.internet.com/redir/http://www.hitechgadgets.net/files/forte/agent/english/a32en193.exe"><font size = "+3" face = "Times New Roman" color = "#000000">Agent</font></a></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 105 height = 52 rowspan = 2 align = middle>
+  <a href = "/news-agent.html#review">CWSApps<br>Review</a></td>
+ <td width = 75 height = 26 align = middle>Version</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "VA"><b>1.93</b></td>
+ <td width = 60 align = middle>Date</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "YA"><i>1/7/03</i></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 75 height = 26 align = middle>Rating</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle><img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top></td>
+ <td width = 60 align = middle>Size</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle>2349 KB</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">What's New</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "javascript:openUpgrade()" class = "UPITY" onmouseover = "window.status = 'Click to find out more about our exclusive Upgrade Meter feature'; return true" onmouseout = "window.status = ''">-<b>4</b>- <a href = "reviews/news-agent4.html#whatsnew" class = "UPITY" onmouseover = "window.status = 'Click to see the complete listing of What\'s New in v1.93'; return true" onmouseout = "window.status = ''"><font color = "#000000">yEnc support, Free Agent client, SMTP Authentication...</font></a><a href = "reviews/news-agent4.html#whatsnew">more</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Description</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>The powerful, industrial-strength commercial release of Free Agent</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Download</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "http://cws.internet.com/redir/http://www.hitechgadgets.net/files/forte/agent/english/a32en193.exe">http://www.hitechgadgets.net/files/forte/agent/english/a32en193.exe</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Platforms</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>Windows XP, Windows 95/98/ME, Windows NT/2000, <a href = "16news.html#agent">Windows 3.x</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Status</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4>Free 30-day evaluation.  Commercialware - <a href = "http://www.forteinc.com/store/aghow.htm">$29</a> ($40 shrink-wrapped)</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Company</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4><a href = "http://www.forteinc.com/"><i>Forte</i></a> - <a href = "http://www.forteinc.com/agent/index.htm">About Agent Newsreader</a></td>
+ </table>
+ </font>
+ 
+
+<!---end first software--->
+ 
+ <!--house ad 1-->
+ <!--ad-->
+ <p><br><center><table width=505 cellpadding="5" cellspacing="1" border="0"><tr><td bgcolor=ffffcc>
+ <center>
+ <FONT color=#000000 face=Arial,Helvetica size=2>
+Don't Miss Jupiter allNet Devices Conference & Expo: The Digital<br>
+Ubiquity Forum coming to San Jose February 10 & 11, 2003.<br> 
+This two-day event designed to educate technology & business<br> 
+professionals on emerging trends in this space and to help<br> 
+vendors identify and evaluate new business initiatives and<br> 
+revenue-generating opportunities. Featuring Keynote Address<br> 
+by Dr. David Nagel, CEO of Palm Source. Register early & save!<br>
+<a href="http://www.jupiterevents.com/allnet/spring03/index.html">http://www.jupiterevents.com/allnet/spring03/index.html</a>
+ </font>
+ </center>
+ </td></tr><tr><td>
+ <font size = "-1">
+ <center><i>Interested in placing your TEXT AD HERE? <a href="http://www.internet.com/mediakit/">Click Here</a></i></a><center>
+ </center></font></td></tr></table></center><br>
+ </font>
+ <!--ad-->
+ <!--house ad 1-->
+ 
+ 
+ <!-- BEG Apps -->
+<!---begin second software--->
+ 
+ <font face = "verdana, arial, helvetica" size = 2>
+ <a name = "getright"><img src = "img/space.gif" width = 1 height = 5></a>
+ <br>
+ <table style = "border-collapse:collapse" cellpadding = 1 cellspacing = 1 border = 3 width = 515 class = "TA">
+ <tr bgcolor = "#B0D0FC">
+ <td align = middle width = 105>
+  <a href = "http://cws.internet.com/redir/http://www.getright.com/beta50.html">
+  <img src = "img/getrt.gif" align = middle border = 0 width = 32 height = 32></a></td>
+ <td align = middle colspan = 4 width = 410>
+  <a class = "header" href = "http://cws.internet.com/redir/http://www.getright.com/beta50.html">
+  <font size = "+3" face = "Times New Roman" color = "#000000">GetRight</font></a></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 105 height = 52 rowspan = 2 align = middle>
+  <a href = "/ftp-getright.html#review">CWSApps<br>Review</a></td>
+ <td width = 75 height = 26 align = middle>Version</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "VA"><b>5.0 Beta 4</b></td>
+ <td width = 60 align = middle>Date</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "YA"><i>1/7/03</i></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 75 height = 26 align = middle>Rating</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle><img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/halfstar.gif" width = 10 height = 19 align = top></td>
+ <td width = 60 align = middle>Size</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle>2379 KB</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">What's New</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "javascript:openUpgrade()" class = "UPITY" onmouseover = "window.status = 'Click to find out more about our exclusive Upgrade Meter feature'; return true" onmouseout = "window.status = ''">-<b>3</b>- <a href = "reviews/ftp-getright4.html#whatsnew" class = "UPITY" onmouseover = "window.status = 'Click to see the complete listing of What\'s New in v5.0 Beta'; return true" onmouseout = "window.status = ''"><font color = "#000000">QuickSync, Server Synchronizer, Mirror Manager...</font></a><a href = "reviews/ftp-getright4.html#whatsnew">more</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Description</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>An excellent extension to your browser for expediting file downloads</td>
+ <tr>  <!-- http://www.getright.com/get.html -->
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Download</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "http://cws.internet.com/redir/http://www.getright.com/beta50.html">http://www.getright.com/beta50.html</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Platforms</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>Windows XP, Windows 95/98/ME, Windows NT/2000, <a href = "16ftp.html#getright">Windows 3.x</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Status</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4>Free beta release <!-- 30-day evaluation --> (latest official release - <a href = "http://cws.internet.com/redir/http://www.get-right.com/getrt45d.exe">4.5d</a>). Shareware - <a href = "http://www.getright.com/buy.html">$20</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Company</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4><a href = "http://www.getright.com/contact.html"><i>HeadLight Software</i></a> - <a href = "http://www.getright.com/">About GetRight</a></td>
+ </table>
+ </font>
+ 
+
+ <font face = "verdana, arial, helvetica" size = 2>
+ <a name = "mmatch"><img src = "img/space.gif" width = 1 height = 5></a>
+ <br>
+ <table style = "border-collapse:collapse" cellpadding = 1 cellspacing = 1 border = 3 width = 515 class = "TA">
+ <tr bgcolor = "#B0D0FC">
+ <td align = middle width = 105>
+  <a href = "http://cws.internet.com/redir/mmatch.exe/http://www.musicmatch.com/download/free/?os=pc&mode=input.exe">
+   <img src = "img/mmatch.gif" align = middle border = 0 width = 50 height = 36></a></td>
+ <td align = middle colspan = 4 width = 410>
+  <a class = "header" href = "http://cws.internet.com/redir/http://www.musicmatch.com/download/free/?os=pc&mode=input.exe">
+  <font size = "+3" face = "Times New Roman" color = "#000000">MusicMatch Jukebox</font></a></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 105 height = 52 rowspan = 2 align = middle>
+  <a href = "/mp3-mmatch.html#review">CWSApps<br>Review</a></center></td>
+ <td width = 75 height = 26 align = middle>Version</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "VA"><b>7.50.1026</b></td>
+ <td width = 60 align = middle>Date</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "YA"><i>1/7/03</i></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 75 height = 26 align = middle>Rating</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle><img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top></td>
+ <td width = 60 align = middle>Size</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle>10,238 KB</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">What's New</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "javascript:openUpgrade()" class = "UPITY" onmouseover = "window.status = 'Click to find out more about our exclusive Upgrade Meter feature'; return true" onmouseout = "window.status = ''">-<b>2</b>- <a href = "reviews/mp3-mmatch5.html#whatsnew" class = "UPITY" onmouseover = "window.status = 'Click to see the complete listing of What\'s New in v7.50'; return true" onmouseout = "window.status = ''"><font color = "#000000">mp3PRO Recording, Burner Plus, smart-split CD-R support...</font></a><a href = "reviews/mp3-mmatch5.html#whatsnew">more</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Description</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>Jumpin' jukebox! A digital audio MP3 player, CD ripper, and CD burner</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Download</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "http://cws.internet.com/redir/http://www.musicmatch.com/download/free/?os=pc&mode=input.exe">http://www.musicmatch.com/download/free/?os=pc&mode=input</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Platforms</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>Windows XP, Windows 95/98/ME, Windows NT/2000</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Status</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4>Freeware. <!-- (latest official release - <a href = "http://www.musicmatch.com/download/">v6.0</a>).  --> Commercial Plus version also available - <a href = "https://ssl.musicmatch.com/cgi-bin/purchase/direct/purchase">$39.99</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Company</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4><a href = "http://www.musicmatch.com/"><i>MusicMatch</i></a> - <a href = "http://www.musicmatch.com/">About MusicMatch Jukebox</a></td>
+ </table>
+ </font>
+ 
+
+<!--end second software -->
+ <!-- BEG Apps -->
+<!---begin third software--->
+ 
+ 
+ <font face = "verdana, arial, helvetica" size = 2>
+ <a name = "directx"><img src = "img/space.gif" width = 1 height = 5></a>
+ <br>
+ <table style = "border-collapse:collapse" cellpadding = 1 cellspacing = 1 border = 3 width = 515 class = "TA">
+ <tr bgcolor = "#B0D0FC">
+ <td align = middle width = 105>
+  <a href = "http://cws.internet.com/redir/http://download.microsoft.com/download/2/2/3/22371837-c4dc-4f8b-af21-00c80d8b235c/dxwebsetup.exe">
+  <img src = "img/directx6.gif" align = middle border = 0 width = 34 height = 34></a></td>
+ <td align = middle colspan = 4 width = 410>
+  <a class = "header" href = "http://cws.internet.com/redir/http://download.microsoft.com/download/2/2/3/22371837-c4dc-4f8b-af21-00c80d8b235c/dxwebsetup.exe"><font size = "+3" face = "Times New Roman" face = "Times New Roman" color = "#000000">Microsoft DirectX</font></a></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 105 height = 52 rowspan = 2 align = middle>
+  <a href = "/ms-directx.html#review">CWSApps<br>Review</a></td>
+ <td width = 75 height = 26 align = middle>Version</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "VA"><b>9.0</b></td>
+ <td width = 60 align = middle>Date</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "YA"><i>12/31/02</i></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 75 height = 26 align = middle>Rating</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle><img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/halfstar.gif" height = 19 width = 10 align = top></td>
+ <td width = 60 align = middle>Size</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle>292 KB</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">What's New</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "javascript:openUpgrade()" class = "UPITY" onmouseover = "window.status = 'Click to find out more about our exclusive Upgrade Meter feature'; return true" onmouseout = "window.status = ''">-<b>4</b>- <a href = "reviews/ms-directx5.html#whatsnew" class = "UPITY" onmouseover = "window.status = 'Click to see the complete listing of What\'s New in v9.0'; return true" onmouseout = "window.status = ''"><font color = "#000000">Near photo-realistic graphics, more immersive audio...</font></a><a href = "reviews/ms-directx5.html#whatsnew">more</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Description</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>The latest set of drivers to enhance games that support DirectX</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Download</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "http://cws.internet.com/redir/http://download.microsoft.com/download/2/2/3/22371837-c4dc-4f8b-af21-00c80d8b235c/dxwebsetup.exe">http://download.microsoft.com/Install/9.0/dxwebsetup.exe</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Platforms</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>Windows 98, Windows Me, <a href = "http://download.microsoft.com/download/win2000pro/Update/8.1/NT5/EN-US/DX81NTeng.exe">Windows 2000</a>, Windows NT (DirectX 3)</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Status</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4>Freeware</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Company</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4><a href = "http://www.microsoft.com/"><i>Microsoft Corporation</i></a> - <a href = "http://www.microsoft.com/directx/default.asp">The Official DirectX Site</a></td>
+ </table>
+ </font>
+ 
+
+ <font face = "verdana, arial, helvetica" size = 2>
+ <a name = "opera"><img src = "img/space.gif" width = 1 height = 5></a>
+ <br>
+ <table style = "border-collapse:collapse" cellpadding = 1 cellspacing = 1 border = 3 width = 515 class = "TA">
+ <tr bgcolor = "#B0D0FC">
+ <td align = middle width = 105>
+  <a href = "http://cws.internet.com/redir/http://www.opera.com/download/index.dml?opsys=Windows&platform=Windows&lng=en&ver=7.0b2">
+  <img src = "img/opera.gif" align = middle border = 0 width = 34 height = 34></a></td>
+ <td align = middle colspan = 4 width = 410>
+  <a class = "header" href = "http://cws.internet.com/redir/http://www.opera.com/download/index.dml?opsys=Windows&platform=Windows&lng=en&ver=7.0b2">
+  <font size = "+3" face = "Times New Roman" color = "#000000">Opera</font></a></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 105 height = 52 rowspan = 2 align = middle>
+  <a href = "/web-opera.html#review">CWSApps<br>Review</a></td>
+ <td width = 75 height = 26 align = middle>Version</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "VA"><b>7.0 Beta 2</b></td>
+ <td width = 60 align = middle>Date</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle class = "YA"><i>12/31/02</i></td>
+ <tr bgcolor = "#CFD0E8">
+ <td width = 75 height = 26 align = middle>Rating</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle><img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top> <img src = "img/star.gif" height = 19 width = 19 align = top></td>
+ <td width = 60 align = middle>Size</td>
+ <td bgcolor = "#E0E0F0" width = 160 align = middle>3318 KB</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">What's New</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "javascript:openUpgrade()" class = "UPITY" onmouseover = "window.status = 'Click to find out more about our exclusive Upgrade Meter feature'; return true" onmouseout = "window.status = ''">-<b>3</b>- <a href = "reviews/web-opera5.html#whatsnew" class = "UPITY" onmouseover = "window.status = 'Click to see the complete listing of What\'s New in v7.0 Beta'; return true" onmouseout = "window.status = ''"><font color = "#000000">SSR technology, smooth scrolling; M2 e-mail client...</font></a><a href = "reviews/web-opera5.html#whatsnew">more</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Description</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>The latest and best international Web browser -- a Norwegian original</td>
+ <tr> <!-- http://www.opera.com/download.html -->
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Download</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4><a href = "http://cws.internet.com/redir/http://www.opera.com/download/index.dml?opsys=Windows&platform=Windows&lng=en&ver=7.0b2">http://www.opera.com/download/get.pl?platform=win&force=7.0b2</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Platforms</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4>Windows XP, Windows 95/98/ME/NT/2000, <a href = "16web.html#opera">Windows 3.x</a>, <a href = "http://www.opera.com/download/get.cgi?platform=linux">Linux</a></td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Status</td>
+ <td bgcolor = "#FFFFE6" width = 410 class = "KA" colspan = 4>Free beta release (latest official - <a href = "http://www.opera.com/download/get.pl?platform=win&force=6.05">v6.05</a>). <!-- Freeware (ad-supported). --> Commercial version - $29</td>
+ <tr>
+ <td bgcolor = "#CFD0E8" width = 105 class = "KA">Company</td>
+ <td bgcolor = "#FFFFF1" width = 410 class = "KA" colspan = 4><a href = "http://www.opera.com/company/"><i>Opera Software</i></a> - <a href = "http://www.opera.com/">The Opera Page</a></td>
+ </table>
+ </font>
+ 
+
+<!---end software--->
+ 
+ <p>
+ <br>
+ 
+ </td>
+ </tr>
+ </table>
+ 
+ </TD>
+ <td width = 1 valign = top bgcolor = "#000000">
+ <img src = "/img/space.gif" height = 465 width = 1 border = 0></td>
+ 
+ <td width = 1% valign = top bgcolor = "#B0D0FF">
+ <img src = "/img/space.gif" height = 465 width = 10 border = 0></td>
+ 
+ <td valign="top" bgcolor = "#B0D0FF">
+ <!------ OAS AD '125x800' begin ------>
+ <SCRIPT LANGUAGE=JavaScript>
+ <!--
+ OAS_AD('125x800');
+ //-->
+ </SCRIPT>
+ <NOSCRIPT>
+ <A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/intm/dload/cws.internet.com/5544099@468x60-1,468x60-2,125x800!125x800" >
+ <IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/intm/dload/cws.internet.com/5544099@468x60-1,468x60-2,125x800!125x800" border=0>
+ </A>
+ </NOSCRIPT>
+ <!------ OAS AD '125x800' end ------>
+ </td>
+ </TR>
+ 
+ <TR>
+ <td width = 5 bgcolor = "#B0D0FF" align = right>
+ <img src = "/img/space.gif" height = 1 width = 5 border = 0 alt = ""></td>
+ 
+ <td width = 130 bgcolor = "#B0D0FF" align = right>
+ <img src = "/img/space.gif" height = 1 width = 128 border = 0 alt = ""></td>
+ 
+ <td width = 1 bgcolor = "#000000" align = right>
+ <img src = "/img/space.gif" height = 1 width = 1 border = 0 alt = ""></td>
+ 
+ <td bgcolor = "#000000" align = center>
+ <img src = "/img/space.gif" height = 1 border = 0 alt = ""></td>
+ <!-- END -->
+ 
+ <td width = 1 bgcolor = "#000000">
+ <img src = "/img/space.gif" height = 1 width = 1 border = 0 alt = ""></td>
+ 
+ <td width = 1% bgcolor = "#B0D0FF">
+ <img src = "/img/space.gif" height = 1 width = 10 border = 0 alt = ""></td>
+ 
+ <td bgcolor = "#B0D0FF">
+ <img src = "/img/space.gif" height = 1 width = 10 border = 0 alt = ""></td>
+ 
+ </TR>
+</TABLE>
+ 
+<TABLE width = 100% cellspacing = 0 cellpadding = 0 border = 0 bgcolor = "#B0D0FF">
+ <tr>
+ <td align = center>
+ 
+ <img src = "/img/space.gif" height = 15 width = 1 border = 0 alt = ""><br>
+ 
+<!-- 468x60 ad tag-->
+<!------ OAS AD '468x60-2' begin ------>
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+OAS_AD('468x60-2');
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://63.236.18.118/RealMedia/ads/click_nx.ads/intm/dload/cws.internet.com/5544099@468x60-1,468x60-2,125x800!468x60-2" >
+<IMG SRC="http://63.236.18.118/RealMedia/ads/adstream_nx.ads/intm/dload/cws.internet.com/5544099@468x60-1,468x60-2,125x800!468x60-2" border=0>
+</A>
+</NOSCRIPT>
+<!------ OAS AD '468x60-2' end ------>
+<!-- /468x60 ad tag -->
+ 
+ </td>
+ </tr>
+</TABLE>
+ 
+<TABLE width = 100% cellspacing = 0 cellpadding = 0 border = 0>
+ <tr>
+ <td width = 10 bgcolor = "#B0D0FF">
+ <img src = "/img/space.gif" height = 1 width = 10 border = 0 alt = ""></td>
+ 
+ <td bgcolor = "#B0D0FF" align = left>
+ <img src = "/img/space.gif" height = 3 width = 1 border = 0 alt = ""><br>
+ <a href = "http://www.internet.com/?cwsapps" target = "_new">
+ <img src = "/img/icomlrg.gif" width = 129 height = 18 alt = "INT Media Group, Inc." border = 0 hspace = 2 vspace = 3></a><br>
+ <img src = "/img/space.gif" height = 6 width = 1 border = 0 alt = ""><br>
+ </td>
+ 
+ <td bgcolor = "#B0D0FF" align = right width = 400>
+ <img src = "/img/space.gif" height = 3 width = 1 border = 0 alt = ""><br>
+ <font size = 1 face = "Verdana, Arial, Helvetica"><b>
+ <a href = "http://cws.internet.com/"><font color = "#0066FF" style = "color: #0066FF">home</font></a> |
+ <a href = "/search.html"><font color = "#0066FF" style = "color: #0066FF">search</font></a> |
+ <a href = "/32menu.html"><font color = "#0066FF" style = "color: #0066FF">menu</font></a> |
+ <a href = "/new.html"><font color = "#0066FF" style = "color: #0066FF">new</font></a> |
+ <a href = "/coolapp.html"><font color = "#0066FF" style = "color: #0066FF">cool</font></a> |
+ <a href = "/top.html"><font color = "#0066FF" style = "color: #0066FF">popular</font></a> |
+ <a href = "/submit.html"><font color = "#0066FF" style = "color: #0066FF">submit</font></a> |
+ <a href = "/intro.html"><font color = "#0066FF" style = "color: #0066FF">about us</font></a></font><br>
+ <img src = "/img/space.gif" height = 6 width = 1 border = 0 alt = ""><br>
+ </td>
+ 
+ <td width = 1% bgcolor = "#B0D0FF">
+ <img src = "/img/space.gif" height = 1 width = 10 border = 0 alt = ""></td>
+ </tr>
+</TABLE>
+ 
+<TABLE width = 100% cellspacing = 0 cellpadding = 0 border = 0>
+ <tr>
+ <td width = 10 bgcolor = "#B0D0FF">
+ <img src = "/img/space.gif" height = 1 width = 10 border = 0 alt = ""></td>
+ 
+ <td bgcolor = "#B0D0FF" align = left>
+ <img src = "/img/space.gif" height = 1 width = 325><br>
+ <font size = 1 face = "Verdana, Arial, Helvetica"><nobr>
+ <a href = "http://www.internet.com/corporate/legal.html" target = "_new">
+ <font color ="#0066FF" style = "color: #0066FF">
+ <img src = "/img/space.gif" height = 1 width = 2 border = 0 alt = "">Copyright</font></a> &#169;
+ 2003 Jupitermedia Corporation. All Rights Reserved.</nobr></font><br>
+ <img src = "/img/space.gif" height = 1 width = 1 border = 0 alt = ""><br>
+ <font size = 1 face = "Verdana, Arial, Helvetica"><nobr>
+ <a href = "http://www.internet.com/corporate/reprints.html" class = "LOC">
+ <font color = "#0066FF" style = "color: #0066FF">
+ <img src = "/img/space.gif" height = 1 width = 2 border = 0 alt = "">Licensing, Reprints, and Permissions</a></font> Information</nobr></font><br>
+ <img src = "/img/space.gif" height = 8 width = 1 border = 0 alt = ""><br>
+ </td>
+ 
+ <td bgcolor = "#B0D0FF" align = right>
+ <font size = 1 face = "Verdana, Arial, Helvetica">
+ <a href = "http://www.internet.com/corporate/" target = "_new">
+ <font color = "#0066FF" style = "color: #0066FF" target = "_new">About Jupitermedia Corporation</font></a>
+ <!-- | <a href = "http://www.houseofstroud.com" target = "_new">
+ <font color = "#0066FF" style = "color: #0066FF">About Stroud</font></a> --><br>
+ <img src = "/img/space.gif" height = 1 width = 1 border = 0 alt = ""><br>
+ <a href = "http://www.internet.com/corporate/privacy/privacypolicy.html" target = "_new">
+ <font color = "#0066FF" style = "color: #0066FF">Privacy Policy</font></a>
+ | <a href = "http://www.internet.com/corporate/press.html" target = "_new">
+ <font color = "#0066FF" style = "color: #0066FF">Press Releases</font></a><br>
+ <img src = "/img/space.gif" height = 8 width = 1 border = 0 alt = ""><br>
+ </td>
+ 
+ <td width = 1% bgcolor = "#B0D0FF">
+ <img src = "/img/space.gif" height = 1 width = 10 border = 0 alt = ""></td>
+ 
+ </tr>
+</TABLE>
+ 
+<center><TABLE BORDER=0 bgcolor=B0D0FF WIDTH=100% CELLPADDING=3 CELLSPACING=0>
+ 
+<TR><TD VALIGN=TOP><FONT size=2 face="Arial" color=000000>
+ 
+<p><br><center>For newsletter information <a href="http://e-newsletters.internet.com/about.html">click here</a>.</p>
+ </FONT>
+</TD></TR></TABLE>
+</body></html>
+
+ <center>
+<table BORDER=0 bgcolor=ffffcc CELLPADDING=3 CELLSPACING=0>
+<TR><TD VALIGN=TOP>
+<font size=2 face="Arial" color=000000>
+<center>
+You are currently subscribed to <b>CWSApps</b> as:
+<b>nospam@mailshell.com</b><br>
+To unsubscribe send a blank email to <a
+href="mailto:leave-cwsapps-html-5544099E@list3.internet.com"><b>leave-cwsapps-html-5544099E@list3.internet.com</b></a><br>
+For the rest of internet.com's newsletters, please visit <a
+href="http://e-newsletters.internet.com"><b>http://e-newsletters.internet.com</b></a>.</center>
+</font>
+</td></tr>
+</table>
+<p>
+
+
+<font size=2 face="Arial" color=000000>
+LIKE THIS NEWSLETTER?  WANT YOUR OWN?<br>
+Managing your own email newsletter is easy and affordable with SparkLIST!<br>
+Over 800 businesses -- including Internet.com -- use<br>
+SparkLIST to manage their email newsletters & campaigns.<br>
+Call us at 1 (800) 485-9994, or visit us at:<br>
+<a href="http://SparkLIST.com/">http://www.sparklist.com/</a>
+</font></center>

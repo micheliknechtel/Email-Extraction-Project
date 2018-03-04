@@ -1,0 +1,224 @@
+Received: (qmail 3141 invoked from network); 13 Jan 2003 17:46:20 -0000
+Received: from dev213.mailshell.com (HELO mailshell.com) (@71.129.195.163)
+  by dev50.mailshell.com with SMTP; 13 Jan 2003 17:46:20 -0000
+Received: (qmail 18170 invoked by uid 99); 13 Jan 2003 17:46:19 -0000
+Message-ID: <20030113174619.26245.qmail@mailshell.com>
+Received: (qmail 13715 invoked from network); 13 Jan 2003 17:46:17 -0000
+Received: from unknown (HELO intm5.sparklist.com) (216.91.57.135)
+  by www.mailshell.com with SMTP; 13 Jan 2003 17:46:17 -0000
+Date: Mon, 13 Jan 2003 09:41:14 -0800
+Subject: Database Journal - Logic in the DB / Information Schema - 1/13/03
+To: "Mailshell User" <nospam@mailshell.com>
+From: "Database Journal" <listsupport@internet.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+List-Unsubscribe: <mailto:leave-sqlwire-text-4126812P@list5.internet.com>
+Reply-To: Database Journal <listsupport@internet.com>
+X-INTM-Message-Id: <INTM-4126812-3925790-2003.01.13-09.44.52--nospam#mailshell.com@list5.internet.com>
+X-Hosted-By: http://SparkLIST.com/ - High-Performance Email List Publishing Experts
+
+
+*********************************************************************
+
+___________________________ Sponsors ________________________________
+ 
+                  This newsletter sponsored by:  
+                       InterSystems' Caché
+                            Microsoft
+_____________________________________________________________________
+
+*********************************************************************
+
+Database Journal Newsletter - Monday, January 13, 2003
+The Knowledge Center for Database Professionals
+http://www.databasejournal.com/
+
+*********************************************************************
+                            FEATURES
+*********************************************************************
+
+1. Moving Logic Into the Database
+January 13, 2003
+Do you find yourself demanding more precise control over your data? Join Tim
+Perdue as he describes how to strip programming logic from the PHP code and move
+it into the database itself.
+http://www.databasejournal.com/features/php/article.php/1568461
+------------------------------------------------------------
+
+2. Leveraging the Information_schema
+January 10, 2003
+Checking for a particular string in every character column and user table in a
+database is not an enviable task. Fortunately--it's not necessary. Discover
+Information Schema, and learn how to get SQL Server to write the bulk of the SQL
+with a bit of Dynamic SQL.
+http://www.databasejournal.com/features/mssql/article.php/1567611
+------------------------------------------------------------
+
+3. SQL Server Stored Procedures Optimization Tips
+January 8, 2003
+In his latest article, Alexander Chigrik offers twelve useful tips for ensuring
+that you've constructed your SQL Server stored procedures to perform in the most
+efficient manner possible.
+http://www.databasejournal.com/features/mssql/article.php/1565961
+------------------------------------------------------------
+
+
+*********************************************************************
+
+/-------------------------------------------------------------------\
+ 
+FREE Object-Oriented DBMS Download
+Struggling to match your object-oriented Web development to your 
+relational database? Caché, from InterSystems, is a multidimensional 
+database that seamlessly combines robust object and relational technolo-
+gies, making it a perfect match for Java, C++, COM, and XML, as well 
+as ODBC and JDBC. Plus, upcoming Caché 5 supports Web Services--
+and lightning-fast transactional bit-map indexing for real-time 
+analytics! DOWNLOAD FOR FREE AT: http://www.InterSystems.com/match11
+
+\--------------------------------------------------------------adv.-/
+
+*********************************************************************
+                               NEWS
+*********************************************************************
+
+1. New database war shapes up
+January 13, 2003
+IBM plans to debut the first fruits of a long-standing research project later
+this year, setting the stage for a clash with rivals in the multibillion-dollar
+database software market.
+http://www.databasejournal.com/news/article.php/1568441
+------------------------------------------------------------
+
+2. Tool Tests DB2 Security
+January 7, 2003
+Application Security Inc. last week rolled out an IBM DB2 version of its
+AppDetective application security vulnerability scanner.
+http://www.databasejournal.com/news/article.php/1565791
+------------------------------------------------------------
+
+3. Enhanced MySQL Software for Mac OS X Available from MySQL AB
+January 8, 2003
+MySQL AB, developer of the world's most popular open source database,
+announced that a MySQL binary installer in '.pkg' format, the standard for
+software installation on Mac OS X, will be available in February.
+http://www.databasejournal.com/news/article.php/1566041
+------------------------------------------------------------
+
+4. Oracle: No word on software support
+January 7, 2003
+Oracle intends to focus on its latest software at its upcoming AppsWorld
+conference, but many customers are hoping the database giant will spend some
+time ...
+http://www.databasejournal.com/news/article.php/1565271
+------------------------------------------------------------
+
+5. Linux can do hot backups on Oracle now
+January 6, 2003
+... Now, they're releasing a product that will allow companies to run
+'hot' backups on Oracle databases, in Linux. It is called SDP - STORserver
+Data Protection...
+http://www.databasejournal.com/news/article.php/1564491
+------------------------------------------------------------
+
+6. Teradata Outperforms Oracle Database by 194% and IBM Database by 31% in
+Industry Benchmarks
+January 9, 2003
+Industry Benchmark Has Become Irrelevant as Sole Means to Evaluate Vendors
+http://www.databasejournal.com/news/article.php/1566921
+------------------------------------------------------------
+
+
+*********************************************************************
+
+/-------------------------------------------------------------------\
+ 
+When it comes to your mission-critical enterprise
+applications, downtime is not an option. Help get your
+infrastructure ready for anything with a free white paper
+from Microsoft(R). Download "Increasing System 
+Reliability and Availability with Windows 2000" at:
+http://nlads.internet.com/_nlads/microrel1118.html
+
+\--------------------------------------------------------------adv.-/
+
+*********************************************************************
+                          SQL SCRIPTS
+*********************************************************************
+
+1. Simple Grants Cursor Script
+January 12, 2003
+A simple cursor script that will look for User objects and grant access to a
+user or group.
+http://www.databasejournal.com/scripts/article.php/1491351
+------------------------------------------------------------
+
+2. Database Details Script
+January 12, 2003
+This script extracts various details from SQL Server 7.0/2000 based on sysfiles
+and sysdatabases. It returns the server name, version of SQL Server, database
+name, device name, device location, and approximate size in MB of the device.
+http://www.databasejournal.com/scripts/article.php/1491391
+------------------------------------------------------------
+
+*********************************************************************
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LIKE THIS NEWSLETTER?  WANT YOUR OWN?
+Managing your own email newsletter is easy and affordable 
+with SparkLIST! 
+
+Over 800 businesses -- including internet.com -- use 
+SparkLIST to manage their email newsletters & campaigns.  
+Call us at 1 (800) 485-9994, or visit us at: 
+http://www.sparklist.com/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Advertising: If you are interested in advertising in our newsletters, call 
+Claudia at 1-203-662-2863 or send email to mailto:nsladsales@internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For contact information on sales offices worldwide visit 
+http://www.internet.com/mediakit/salescontacts.html
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+For details on becoming a Commerce Partner, contact David Arganbright
+on 1-203-662-2858 or mailto:commerce-licensing@internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To learn about other free newsletters offered by internet.com or 
+to change your subscription visit http://e-newsletters.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+internet.com's network of more than 160 Web sites is organized into 16 
+channels: 
+Internet Technology          http://internet.com/it
+E-Commerce/Marketing         http://internet.com/marketing
+Web Developer                http://internet.com/webdev
+Windows Internet Technology  http://internet.com/win
+Linux/Open Source            http://internet.com/linux
+Internet Resources           http://internet.com/resources
+ISP Resources                http://internet.com/isp
+Internet Lists               http://internet.com/lists
+Download                     http://internet.com/downloads
+International                http://internet.com/international
+Internet News                http://internet.com/news
+Internet Investing           http://internet.com/stocks 
+ASP Resources                http://internet.com/asp
+Wireless Internet            http://internet.com/wireless 
+Career Resources             http://internet.com/careers
+EarthWeb		     http://www.earthweb.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To find an answer - http://search.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Looking for a job? Filling an opening? - http://jobs.internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This newsletter is published by Jupitermedia Corporation
+http://internet.com - The Internet & IT Network 
+Copyright (c) 2003 Jupitermedia Corporation. All rights reserved.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For information on reprinting or linking to internet.com content: 
+http://internet.com/corporate/permissions.html 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+---
+You are currently subscribed to sqlwire-text as: nospam@mailshell.com
+To unsubscribe send a blank email to leave-sqlwire-text-4126812P@list5.internet.com

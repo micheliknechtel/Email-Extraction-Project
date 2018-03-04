@@ -1,0 +1,714 @@
+Received: (qmail 24029 invoked from network); 28 Feb 2003 21:44:52 -0000
+Received: from unknown (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 28 Feb 2003 21:44:52 -0000
+Received: (qmail 26981 invoked by uid 99); 28 Feb 2003 21:44:52 -0000
+Received: (qmail 20906 invoked from network); 28 Feb 2003 21:44:51 -0000
+Received: from unknown (HELO cherry.ease.lsoft.com) (209.119.0.109)
+  by mail.mailshell.com with SMTP; 28 Feb 2003 21:44:51 -0000
+Received: from PEAR.EASE.LSOFT.COM (209.119.0.19) by cherry.ease.lsoft.com (LSMTP for Digital Unix v1.1b) with SMTP id <5.0090CE1C@cherry.ease.lsoft.com>; Fri, 28 Feb 2003 16:44:48 -0500
+Received: from PEACH.EASE.LSOFT.COM by PEACH.EASE.LSOFT.COM (LISTSERV-TCP/IP
+          release 1.8e) with spool id 36827678 for
+          INNOVATIONDATA_LISTC@PEACH.EASE.LSOFT.COM; Fri, 28 Feb 2003 16:44:46
+          -0500
+Approved-By: idpnews@FDRINNOVATION.COM
+Received: from 207.140.179.15 by WALNUT.EASE.LSOFT.COM (SMTPL release 1.0i)
+          with TCP; Fri, 28 Feb 2003 16:01:23 -0500
+Received: from fdrinnovation.com [192.168.100.13] by mail.fdrinnovation.com
+          with ESMTP (SMTPD32-7.13) id AD1814520144; Fri, 28 Feb 2003 15:56:56
+          -0500
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.0.2)
+            Gecko/20021120 Netscape/7.01
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="------------090205050007080008060308"
+Message-ID:  <3E5FCE22.40100@fdrinnovation.com>
+Date:         Fri, 28 Feb 2003 16:01:22 -0500
+Reply-To: Innovationdata Listc <INNOVATIONDATA_LISTC@PEACH.EASE.LSOFT.COM>
+Sender: Innovationdata Listc <INNOVATIONDATA_LISTC@PEACH.EASE.LSOFT.COM>
+From: idpnews <idpnews@FDRINNOVATION.COM>
+Subject: Innovation Data Processing Listc Announcements - February 28, 2003
+To: "Mailshell User" <nospam@mailshell.com>
+Precedence: list
+
+--------------090205050007080008060308
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
+  <title></title>
+</head>
+<body>
+  February 28, 2003 <br>
+  &nbsp;
+<p><b><u><font face="Times New Roman,Times"><font color="#000099"><font
+ size="+3">INNOVATIONDATA_LISTC ANNOUNCEMENTS</font></font></font></u></b>
+ <br>
+  &nbsp; </p>
+
+<p>                     </p>
+
+<table border="3" cellspacing="1" cellpadding="4" width="100%">
+                                                                                                     <tbody>
+      <tr>
+        <td valign="top"> <a
+ href="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/FYIMsthd.gif"><img
+ src="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/FYIMsthd.gif"
+ width="750" height="170" alt="1">
+        </a><br>
+                                          <span class="ParaHeader3">Welcome to INNOVATION FYI</span> <br>
+         <span class="docbodytext"> The objectives of FYI are to share with
+ you the        answers to common questions that users ask, to bring you
+up-to-date  on our        products' latest capabilities, to differentiate
+our products'  capabilities        versus the competition and to provide
+you with hints and recommendations.        <br>
+         <br>
+         <strong>FOCUS ON:</strong> <br>
+         <br>
+         <span class="ParaHeader3">S/390 Linux and OS/390 UNIX</span> <br>
+         FDR full-volume high-speed backups may be used to back up S/390
+Linux  volumes        in CDL (compatible) format, but only full-volume recoveries
+ are possible        from these backups. You cannot restore individual Linux
+ files from full-volume        backups. Since Linux uses 'lazy writes', you
+ must 'harden' the Linux data        to disk before dumping it with FDR by
+ unmounting the Linux file system or        shutting down Linux. <br>
+         <br>
+         VM volumes containing Linux minidisks can also be backed up with
+FDR. Although        it is possible to restore individual Linux minidisks,
+you still cannot restore        individual Linux files from these backups.
+      <br>
+         <br>
+         FDR full-volume backups and FDRDSF data set backups may be used
+for  high-speed        backups of the HFS and zFS data sets used by OS/390
+UNIX  System Services        (USS). You can restore entire individual HFS
+and zFS  data sets from these        backups but you cannot restore individual
+USS  files from these backups.        When backing up HFS data sets, you
+should  also 'harden' the data by unmounting        the file systems or using
+the  FDR parameter HFS=QUIESCE to quiesce the file        systems during
+backup.        <br>
+         <br>
+         So, these FDR backups can be used for high-speed restores for disaster
+ recovery,        and for local recovery of entire volumes, or file systems,
+ but they are        not appropriate for recovery of individual files which
+ have become lost        or corrupted. <br>
+         <br>
+         Innovation offers FDR/UPSTREAM for S/390 Linux and OS/390 UNIX to
+ address        this need. FDR/UPSTREAM can back up Linux S/390 and OS/390
+ UNIX files to        OS/390 mainframe disk or tape without requiring an
+unmount  or shut down.        FDR/UPSTREAM can restore individual files or
+groups of files on command.        <br>
+         <br>
+         One of the key NEW features of FDR/UPSTREAM S/390 Linux is: <br>
+         <br>
+         <span class="ParaHeader3">UPSTREAM S/390 Linux Rescuer</span> <br>
+         A powerful and unique addition to the FDR/UPSTREAM S/390 Linux support
+ is        the S/390 Linux Rescuer, the industry's first and only complete
+ backup and        restore solution with disaster recovery for S/390 Linux.
+ The S/390 Linux        Rescuer is a stand alone system recovery facility
+for SuSE S/390 Linux systems.        <br>
+         <br>
+         The S/390 Linux Rescuer allows administrators to completely restore
+ a system        from data that is saved in FDR/UPSTREAM without separate
+system backups.        S/390 Linux Rescuer is completely integrated into
+FDR/UPSTREAM.       <br>
+         <br>
+         <strong>In addition to the S/390 Linux Rescuer, UPSTREAM provides:</strong>
+        <br>
+
+      <ul class="ulist">
+        <li>Logical file backup for network attached Linux on the Desktop,
+ Linux            on Intel Servers as well as Linux for S/390.</li>
+        <li>Online Database agents for Oracle and DB2 for S/390 Linux.</li>
+      </ul>
+         <a
+ href="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/NwFtrs.gif"><img
+ src="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/NwFtrs.gif"
+ width="750" height="79" alt="2">
+        </a><br>
+         <span class="ParaHeader3">NEW Features for FDR V5.4 L20 LARGE DISK
+ SUPPORT</span>        <br>
+         All FDR programs have been updated to support 'large disks' (up
+to  32760        cylinders in size). Most reports will identify disks larger
+than a 3390-9        as a '3390-27' (for 27GB capacity). <br>
+         <br>
+         The FASTCPK recovery log has been enhanced to handle a larger number
+ of        relocated tracks, enabling it to support large disks and 3390-9
+ disks without        special processing or multiple executions. <br>
+         <br>
+         In FDREPORT, 'ENABLE=LARGEDISK' is required to support devices larger
+ than        a 3390-9. <br>
+         <br>
+         <span class="ParaHeader3">FDREPORT</span> <br>
+
+      <ul class="ulist">
+        <li>FDREPORT can now access and report on offline disk volumes. Offline
+           volumes may be used with point-in-time backups (such as FDRINSTANT)
+           or with other special volume replication functions (PPRC, SRDF,
+BCVs,            ShadowImage, FlashCopy, SnapShot, etc). </li>
+        <li>The new option FASTPATH (ENABLE=FASTPATH) significantly reduces
+ the            overhead of allocating and opening disk volumes, improving
+ FDREPORT            efficiency when processing large numbers of disk volumes.
+ FASTPATH can            reduce FDREPORT execution time from 25% to 75% when
+ processing many            disk volumes, depending on the type of report
+you have requested. FASTPATH            is required when reporting on offline
+ volumes. </li>
+      </ul>
+         <br>
+         <span class="ParaHeader3">MULTI-VOLUME VSAM RESTORE</span> <br>
+         FDRDSF, FDRCOPY and FDRABR have been enhanced when restoring or
+copying         multi-volume VSAM clusters. FDR will now continue searching
+the available         output volumes (NVOL=) for a volume with sufficient
+space to allocate  each        piece of the cluster, for SMS as well as non-SMS.
+As long as volumes are        available in the NVOL list or SMS storage group
+with sufficient  free space        (and size) to handle the extents of the
+cluster, the restore/copy  will be        successful. <br>
+         <br>
+         <span class="ParaHeader3">ARCHIVE CONTROL FILE SIZE</span> <br>
+         The Archive Control File (ACF) can now contain records for up to
+5,701,632        data sets or VSAM components. <br>
+         <br>
+         <span class="ParaHeader3">FDRREORG</span> <br>
+         FDRREORG has been updated to handle all currently supported types
+ of IAM        and VSAM data sets. The CONVERTINDEX operand can be used to
+ convert VSAM        files which were originally allocated with IMBED or
+REPLICATE  to NOIMBED        and NOREPLICATE, since IBM no longer recommends
+those options.        <br>
+         <br>
+         <span class="ParaHeader3">EMC CONCURRENT BCV SUPPORT</span> <br>
+         FDRINSTANT for EMC now supports Concurrent BCVs, a new feature in
+ TimeFinder        which allows 2 BCVs to be connected to the same standard
+ volume at once.        FDRINSTANT can SPLIT and RE-ESTABLISH either BCV.
+      <br>
+         <br>
+         FDRINSTANT now uses EMC Instant Split as a default. FDRINSTANT customers
+        running V5.4 Level 20, 21 or 22 should request zap P-54.2034 to improve
+        the performance of Instant Split. Zap is automatically applied on
+V5.4 L23        or higher. <br>
+         <br>
+         <span class="ParaHeader3">E-MAIL NOTIFICATION</span> <br>
+         You have the option of sending e-mail messages when an FDR, FDRDSF,
+ FDRCOPY        or FDRABR operation is unsuccessful (and if you like, for
+successful operations        as well). An optional FDREMAIL DD statement
+in an FDR step will invoke the        facility; it points to control statements
+defining the message and its recipients.        A mail server that supports
+SMTP (Simple Mail Transport Protocol) is required.        Messages can also
+be sent to alphanumeric pagers and cell phones. <br>
+         <br>
+         <strong>The Concepts and Facilities Guides are a detailed overview
+ of how        a particular INNOVATION component works, with helpful hints.</strong>
+       <br>
+         <a href="http://www.innovationdp.fdr.com/uscfg.cfm">http://www.innovationdp.fdr.com/uscfg.cfm</a>
+        <br>
+         <br>
+         <strong>WHITE PAPER</strong> <br>
+         For important technical information about FDRINSTANT, ask for a
+copy  of        our latest White Paper on Corporate Data Protection with
+a Special  Focus        on DB2. <br>
+         <br>
+         <span class="ParaHeader3">NEW Features for FATS/FATAR V4.8L20</span>
+       <br>
+
+      <ul class="ulist">
+        <li>3590-H (triple density) tape drives are supported.</li>
+        <li>VTS AND COPYCROSS SUPPORT -- Tape volumes in an IBM VTS (virtual
+ tape            server) and EMC's CopyCross product will now be identified
+ as device            type VIRTUAL. The capacity and used percentage for
+an  IBM VTS virtual            tape volume will be reported. </li>
+      </ul>
+         <br>
+         <span class="ParaHeader3">NEW Features for FATSCOPY V4.8L20</span>
+       <br>
+         <span class="DocBodyText">
+      <ul class="ulist">
+        <li>File statistics (bytes, blocks, etc.) will be printed for each
+ file            copied. </li>
+        <li>FDRABR backup tape files and DFSMShsm backup and migration tape
+ files            will be automatically excluded by matching the tape data
+ set name against            various masks. </li>
+        <li>Data sets can be selected based on their size in megabytes (MB).
+         </li>
+        <li>Copy the 'volume assigned' date/time for RMM.</li>
+        <li>Copy the 'creating program name' with CA-1.</li>
+        <li>Selection can be limited to data sets cataloged to EMC CopyCross
+ virtual            tape volumes. </li>
+        <li>In a simulation run, the capacity of the output tapes that will
+ be            used can be specified. The report will display the estimated
+ number            of volumes of that capacity required to hold the data
+selected  by the            simulation. </li>
+      </ul>
+         </span> <br>
+         <span class="ParaHeader3">NEW Features for IAM V8.0L08</span> <br>
+
+      <ul class="ulist">
+        <li>Single System Record Level Sharing (RLS)-No programming changes.
+         </li>
+        <li>Full Journaling and Recovery Tools when files are used under
+ IAM RLS.          </li>
+        <li>Hardware Compression Support.</li>
+        <li>Improved PAV Support and Backup While Open Support. </li>
+        <li>IAM files can now be defined as DFSMS extended format sequential
+ datasets.          </li>
+        <li>3390-27 (27 GB DASD) support allows IAM to use all available
+ space            on the large volume. </li>
+      </ul>
+         <br>
+         <span class="ParaHeader3">NEW Features for IAM V8.0L20 (Available
+ 2nd Qtr,        2003)</span> <br>
+
+      <ul class="ulist">
+        <li>IAM Support for RRDS files will be available at no additional
+ charge            to all IAM users who are licensed for IAM/AIX. </li>
+      </ul>
+         <br>
+         <span class="ParaHeader3">NEW Features for UPSTREAM V3.2 &amp; V3.2.1</span>
+        <br>
+
+      <ul class="ulist">
+        <li>UPSTREAM/SOS local backup volumes supports bi-directional operations
+            for backups AND restores and for file transfer operations, providing
+            the high-speed data transfer and reduced network overhead of
+UPSTREAM/SOS.           </li>
+        <li>UPSTREAM features logical file level support for S/390 Linux
+ as well            as new non-disruptive online database agents for Oracle
+ and DB2 UDB.            These agents provide non-disruptive online support
+ for backups of the            databases without having to take the databases
+ offline. An additional            benefit is the ability to perform incremental
+ processing. </li>
+        <li>The S/390 Linux Rescuer is a stand alone system recovery facility
+            for SuSE S/390 Linux systems. The S/390 Linux Rescuer allows
+administrators             to completely restore a system from data that
+is saved in FDR/UPSTREAM             without separate system backups. </li>
+        <li>The UPSTREAM Rescuer also supports Sun Solaris. </li>
+        <li>FDR/UPSTREAM provides sophisticated cluster support for Windows
+ NT,            Windows 2000 and NetWare 6 cluster servers. </li>
+        <li>UPSTREAM provides support for cluster specific information--for
+ example,            the Cluster Quorum database for Windows 2000. Backups
+ started on a cluster-aware            UPSTREAM system can be automatically
+ restarted when a cluster server            failover occurs--providing the
+ highest possible availability for your            backup services. </li>
+        <li>The new UPSTREAM DB2 (UDB) agent now supports multiple, simultaneous
+            backup and restore operations resulting in the fastest possible
+ operations.          </li>
+        <li>UPSTREAM now has the ability to send e-mail and SNMP Trap notifications.
+            By configuring your backups and restores to send notifications
+ of specific            events, you can add another valuable management tool
+ to your data management            capabilities. </li>
+      </ul>
+         <br>
+         <span class="ParaHeader3">NEW Features for FDRPAS V5.4L20</span>
+      <br>
+
+      <ul class="ulist">
+        <li>JES3-Managed Disk Volumes can now be Swapped with FDRPAS.</li>
+      </ul>
+         <br>
+         <a
+ href="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/QnA.gif"><img
+ src="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/QnA.gif"
+ width="750" height="79" alt="3">
+        </a> <br>
+         <span class="CellTextHeader"><strong>FDREPORT</strong></span> <br>
+         <br>
+         <span class="ParaHeader3">How can I produce a report with just one
+ line        for each multi-volume data set or cluster?</span> <br>
+         In FDREPORT V5.4, it is possible to obtain a report that contains
+ only one        line per data set, even if the data set extends across multiple
+ volumes        and/or is a VSAM cluster with multiple components. Fields
+that are additive,        such as extents, bytes, and tracks, will show the
+total for all parts of        the component, cluster, or non-VSAM data set.
+Percentages will be calculated        based on these totals. Other fields,
+such as record length and key position,        will be taken from the first
+volume. In a report line for a cluster, fields        that are not totaled
+will be taken from the data component. <br>
+         <br>
+         This new feature is called RECORDSUMMARY, because each record (report
+ line)        may be a summary of multiple volumes and/or components. This
+ is different        from the summaries controlled by the SUMMARY command
+and the SUM= operand,        which are produced at control breaks between
+sets of report lines. RECORDSUMMARY        can be requested if you are processing
+ with any of these three data types:        CATARCH, CATVTOC, or EXTRACT.
+The RECORDSUMMARY operand is valid on either        the DEFAULT or the PRINT
+command. There are two values for RECORDSUMMARY:        RECORDSUMMARY=CLUSTER
+specifies that each report line will represent a VSAM        cluster or non-VSAM
+data set, and RECORDSUMMARY= COMPONENT specifies that        each report
+line will reflect a VSAM component or non-VSAM data set. <br>
+         <br>
+         For this feature to work, the input must be sorted by cluster and
+ data set        name. The output from CATARCH and CATVTOC is always sorted
+ in this sequence;        when running with DATATYPE of EXTRACT, you may
+need  to provide the appropriate        SORT command. Note: The BREAK option
+of  the SORT command will not be honored        when RECORDSUMMARY is in
+effect.  It is possible, however, to use the SUM=YES        operand or the
+SUMMARY  command to obtain final totals and to control their        format.
+      <br>
+         <br>
+         <span class="ParaHeader3">Example 1a:</span> <br>
+         <br>
+         <strong>Collect and report information about multi-volume clusters:</strong>
+        </span><br>
+         <br>
+
+      <pre style="font-family: Courier;">XSELECT XDSN=TEST.MV.**
+PRINT   DATATYPE=CATVTOC,RPTYPE=DATA
+CANCEL
+REPORT  FIELD=(NAME,VOL,VOLSQ,COMPTYPE,CATVOLCT,SIZE,SIZEFREE,SIZEUSED)
+PRINT   DATATYPE=EXTRACT
+      </pre>
+         <span class="docbodytext"><strong>This results in the following
+output:</strong>        <br>
+         <br>
+        </span>
+      <pre style="font-family: Courier;">ENTRY NAME         VOLSER   VSQ   CPTYP   CVC   ALLOC   FREE   USED
+----------         ------   ---   -----   ---   -----   ----   ----
+TEST.MV.A.CLUSTER  SMS812     1   DATA      1     135    15     120
+TEST.MV.A.CLUSTER  SMS812     1   INDEX     1       3     2       1
+TEST.MV.B.CLUSTER  SMS811     1   DATA      3     720     0     720
+TEST.MV.B.CLUSTER  SMS812     2   DATA      3    1020     0    1020
+TEST.MV.B.CLUSTER  SMS813     3   DATA      3     930    30     900
+TEST.MV.B.CLUSTER  SMS813     1   INDEX     1       6     2       4
+
+      </pre>
+         <span class="ParaHeader3">Example 1b:</span> <br>
+         <br>
+         <span class="docbodytext"><strong>Continuing to use the same extract
+ file, you can summarize the clusters        like this:</strong> <br>
+        </span>
+      <pre style="font-family: Courier;">PRINT DATATYPE=EXTRACT,RECORDSUMMARY=CLUSTER
+      </pre>
+         <span class="docbodytext"><strong>This results in the following
+output:</strong></span>        <br>
+         <br>
+
+      <pre style="font-family: Courier;">ENTRY NAME         VOLSER   VSQ   CPTYP   CVC   ALLOC   FREE   USED
+----------         ------   ---   -----   ---   ------  ----   ----
+TEST.MV.A.CLUSTER  SMS812     1   DATA      1     138     17    121
+TEST.MV.B.CLUSTER  SMS811     1   ATA       3    2676     32   2644
+      </pre>
+         <span class="ParaHeader3">Example 2:</span> <br>
+         <br>
+         <span class="docbodytext"><strong>Summarize multi-volume data sets
+ from an extract file:</strong></span>        <br>
+
+      <pre style="font-family: Courier;">DEFAULT SORTALLOCATE=(YES,CYL),WORKDD=5,WORKSPACE=500
+SORT    FIELD=(NAME,DSN,VOLSQ)
+REPORT  FIELD=(NAME,VOL,VOLSQ,CATVOLCT,SIZE,SIZEFREE,SIZEUSED)
+PRINT   DATATYPE=EXTRACT,RECORDSUMMARY=COMPONENT
+      </pre>
+         <br>
+         <span class="docbodytext"><strong>This results in the following
+type  of output:</strong></span> <br>
+
+      <pre style="font-family: Courier;">                                               VOL
+ENTRY NAME                            VOLSER   SEQ   CVC   ALLOC   FREE   USED
+-------------                         ------   ---   ---   -----   ----   -----
+TEST.N179.N1790CDC.COMSPEC2.G0313V0   LRG015     1     4     990      1    989
+TEST.N179V.CICS.KDFILE05.TESTA19      DVL425     1     1   21510   1304  20206
+      </pre>
+         <span class="ParaHeader3">How can I report on OFFLINE units?</span>
+       <br>
+         <span class="docbodytext">A new field, UCBSTATS, has been added
+for  reporting        as well as for XSELECT/XEXCLUDE. UCBSTATS has two possible
+ values-ONLINE        and OFFLINE. <br>
+         </span>       <br>
+         <span class="ParaHeader3">Example:</span> <br>
+         <br>
+         <span class="docbodytext"><strong>Report on all offline units with
+ addresses of 20Cx.</strong></span> <br>
+
+      <pre style="font-family: Courier;">REPORT FIELD=(UCBSTATS,VLDEFAUL)
+XSELECT UNIT&gt;=20C0,UNIT&lt;=20CF,UCBSTATS=OFFLINE
+PRINT   DATATYPE=VOLDATA,ENABLE=FASTPATH
+      </pre>
+         <span class="docbodytext"><strong>This results in the following
+output:</strong></span>        <br>
+
+      <pre style="font-family: Courier;">UCBSTAT   VOLSER   DEVTYPE   UADR   VTINDX   USEATTR   USERS   ALOTR   %TU   FRTRK   LFCYL   LFTRK   FREXT   FRAG
+-------   ------   -------   ----   ------   -------   -----   ------   ---   ----   -----   -----   -----   ----
+OFFLINE   SH20C7   3390      20C4   NONE     UNKNOWN       0       2     1   33388   2225    33388       1      0
+OFFLINE   SH20CE   3390      20CA   NONE     UNKNOWN       0   16230    98     465     31      465       1      0
+      </pre>
+         <span class="ParaHeader3">Can I report on both OFFLINE and ONLINE
+ data sets?</span>        <br>
+         <span class="docbodytext">Yes, ENABLE=SELECTOFFLIN specifies that
+ offline DASD units selected using        the UNIT or VLUNIT operand on the
+ XSELECT command(s) be included in the        processing. <br>
+         <br>
+         Note that SELECTOFFLIN is only honored if FASTPATH is enabled and
+ when DATATYPE=VTOC        or VOLDATA is active. <br>
+         <br>
+        </span>       <span class="ParaHeader3">Example:</span> <br>
+         <br>
+         <span class="docbodytext"><strong>Summarize the number of data sets
+ that are on OFFLINE and ONLINE        units in the range 20C0-20FF:</strong></span>
+       <br>
+
+      <pre style="font-family: Courier;">XSELECT        UNIT&gt;=20C0,UNIT&lt;=20FF
+DEFAULT ENABLE=(FASTPATH,SELECTOFFLIN)
+SUMMARY FIELD=(UCBSTATS,DSN,SIZE,SIZEFREE,SIZEUSED)
+SORT    FIELD=(UCBSTATS),BREAK=YES
+PRINT   RPTYPE=NONE
+      </pre>
+         <span class="docbodytext"><strong>This results in the following
+output:</strong></span>        <br>
+
+      <pre style="font-family: Courier;">SUBTOTAL -- UCBSTATS--OFFLINE
+  DSN---------------40 SIZE-----------21304 SIZEFREE-------19929 SIZEUSED--------1375
+  VALUE SUMMARY OF UCBSTATS SUBTOTAL NUMBER OF VALUES-----1
+    UCBSTATS--OFFLINE (     40)
+SUBTOTAL -- UCBSTATS--ONLINE
+  DSN---------------67 SIZE-----------46429 SIZEFREE-------45872 SIZEUSED---------557
+  VALUE SUMMARY OF UCBSTATS SUBTOTAL NUMBER OF VALUES-----1
+    UCBSTATS--ONLINE  (     67)
+FINAL TOTALS --
+  DSN--------------107 SIZE-----------67733 SIZEFREE-------65801 SIZEUSED--------1932
+  VALUE SUMMARY OF UCBSTATS--- TOTAL NUMBER OF VALUES-----2
+    UCBSTATS--OFFLINE (     40) ONLINE (     67)</pre>
+         <br>
+         <span class="ParaHeader3">How does FDRPAS handle multi-volume data
+ sets?</span>        <br>
+         <span class="docbodytext">FDRPAS is not sensitive to multi-volume
+ data sets. Since FDRPAS swaps one        volume at a time, to a like device,
+ in a manner that is transparent to the        system and applications, it
+ can swap volumes containing pieces of multi-volume        data sets with
+no special considerations. Applications will be unaware that        part
+of the data set has been moved to a new device and part may still be
+   on an older device. <br>
+         <br>
+         <span class="ParaHeader3">How does FDRPAS handle HFS and zFS data
+ sets?</span>        <br>
+         <span class="docbodytext">HFS (Hierarchical File System) data sets
+ are used with z/OS UNIX System        Services (USS), the UNIX component
+of z/OS and OS/390. FDRPAS is not sensitive        to HFS data sets. Volumes
+ containing HFS data sets can be swapped even when        they are in use.
+       <br>
+         <br>
+         Likewise, zFS data sets are a new format used by USS, based on a
+VSAM linear        cluster. Volumes containing zFS data sets can also be swapped
+without problems        or any special considerations. <br>
+         <br>
+        </span>       <span class="ParaHeader3">What FDR &amp; ABR RESTORE
+ parameters are recommended        at a disaster recovery site?</span> <br>
+         SMSPROT=NONE and CONFMESS=NO are strongly recommended. <br>
+         <br>
+         By default, FDR and ABR full-volume restore requires confirmation
+ from the        operator, to prevent accidental overlay of a volume. But
+at a disaster site,        where hundreds or thousands of volumes must be
+restored, this confirmation        is useless. CONFMESS=NO will suppress
+it and speed up the restores. <br>
+         <br>
+         Likewise, backups of SMS volumes can normally only be restored to
+ SMS-managed        volumes. But at a DR site, you are probably restoring
+under a starter system        where the target volumes are not marked as
+SMS. SMSPROT=NONE allows the        SMS volumes to be restored. The SMS volumes
+will have the correct SMS attributes        when the full system is IPLed.
+      <br>
+         <br>
+         <span style="font-size: 11px;"> Note: ABR users who license FDRDRP
+ can significantly        reduce elapsed time when recovering from incremental
+ backups on high capacity        tape. </span> <br>
+         <br>
+         <span class="ParaHeader3">How can I improve the performance of FDRINSTANT
+        for ABR (the SPLIT, PSPLIT, SNAP, or FCOPY step)?</span> <br>
+         The number of //TAPEx DD DUMMY statements controls how many FDRINSTANT
+ subtasks        execute concurrently; each subtask processes one disk volume
+ at a time.        To increase the number of volumes that are processed concurrently,
+ add more        //TAPEx DD DUMMY statements (and TAPExx DDs if needed to
+specify retentions).        Up to 9 TAPEx DDs are supported. The number of
+TAPEx DDs in the SPLIT/PSPLIT/SNAP/FCOPY        step can be more than are
+used in the actual DUMP step. <br>
+         <br>
+         If you run several ABR jobs in parallel, each with a number of TAPEx
+ DDs,        you can usually process hundreds of volumes in just a few minutes.
+       <br>
+         <br>
+         <span class="ParaHeader3">How can I release an FDRINSTANT copy?</span>
+       <br>
+         Sometimes you want to backup an FDRINSTANT point-in-time copy with
+ PGM=FDR        or FDRDSF, but you don't want to release the copy immediately,
+ perhaps because        you want to use it for another purpose. To do so,
+you omit the REL or RET        subparameter of BCV=, FCOPY=, SNAP= or PPRC=,
+e.g., code SNAP=USE instead        of SNAP=(USE,REL). <br>
+         <br>
+         To release the point-in-time copy, use a simple FDRDSF step like
+this:</span>
+      <pre style="font-family: Courier;">//RELEASE  EXEC PGM=FDRDSF,REGION=0M
+//SYSPRINT  DD SYSOUT=*
+//TAPE1     DD DUMMY
+//DISK1     DD UNIT=SYSALLDA,
+//          VOL   =SER=vvvvvv,DISP=OLD
+  DUMP TYPE=DSF,DSN=VTOC,SNAP=(USE,REL)</pre>
+         <span class="ParaHeader3">How can I improve FDR's backup performance?</span>
+        <br>
+         <span class="docbodytext">The DUMP parameter RTC=YES is strongly
+recommended, especially if the disks        are attached via FICON channels.
+RTC=YES:
+      <ul class="ulist">
+        <li>Reads and writes up to 1 cylinder of data per I/O.</li>
+        <li>Moves disk buffers above the line, allowing more backups to run
+concurrently            in one DUMP step. </li>
+      </ul>
+         </span>
+      <p><span class="docbodytext">Custom zap C-54.0905 will make RTC=YES
+          the default in V5.4. You can download the zap from the Innovation
+ FTP          site or request it from Innovation. <br>
+           <br>
+           <a
+ href="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/CnptFclt.gif"><img
+ src="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/CnptFclt.gif"
+ width="750" height="79" alt="4">
+        </a> </span>        </p>
+
+      <p><span class="ParaHeader3">Concepts and Facilities Guides</span>
+      <br>
+           The Concepts and Facilities Guides are a halfway house between
+the sales          flyer and the product manual, providing a good level of
+commercial and          technical information. Currently available for the
+following Innovation          products: </p>
+
+      <ul class="ulist">
+        <li><strong>FDRPAS:</strong> Non-disruptive movement of OS/390 disk
+ volumes            from one disk device to another.</li>
+        <li><strong>FDRINSTANT:</strong> Non-disruptive backup of offline
+ DASD.</li>
+        <li><strong>ABR Incremental Backup:</strong> ABR's high-performance,
+ low            resource using, Volume Incremental backup function. </li>
+        <li><strong>ABR Application Backup:</strong> ABR's high-performance,
+ Application            backup function.</li>
+        <li><strong>FDREPORT:</strong> A powerful DASD Management reporting
+ system            providing unparalleled input field support, Customized
+Reports, Health            Check 'Canned' Reports and Real Time Reports.
+        </li>
+        <li><strong>FDR/UPSTREAM:</strong> A powerful product designed to
+ safely            backup Open Systems and LAN-based data.</li>
+        <li><strong>IAM:</strong> An alternative for VSAM. Uses 20%-70% less
+CPU,            50%-80% less EXCPs and runs in 50%-80% less elapsed time.
+        </li>
+        <li><strong>FATS/FATAR:</strong> The revised guide, available shortly,
+            highlights the Key components of this very useful Tape certification,
+            tape copy and tape stacking program. </li>
+      </ul>
+         <span class="docbodytext">
+      <div align="center"> <strong>E-mail us today for your FREE copy of
+any of          the above Concepts and Facilities Guides at: <a
+ href="mailto:sales@fdrinnovation.com">sales@fdrinnovation.com</a></strong>
+        </div>
+         <br>
+         <a
+ href="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/ProdUpdt.gif"><img
+ src="http://innovationdp.fdr.com/newsviaemail/fyi/02.2003/images/ProdUpdt.gif"
+ width="750" height="79" alt="5">
+        </a> <br>
+         This table shows, for each current release of OS/390 and z/OS, the
+ minimum        levels of each Innovation product that should be installed.
+ Use the table        when upgrading your OS/390 or z/OS system, to verify
+ that you have the correct        Innovation software in use. If not, you
+should install the latest version.        If you already are using the indicated
+ minimum level, you may wish to install        the latest version anyway
+in  conjunction with the Operating System upgrade.        If not, please
+review  the Product Notes that <a
+ href="http://innovationdp.fdr.com/osreq.cfm">follow         the table on
+our website at</a> for ZAPs that may be required depending         on the
+hardware and software in use at your installation.<br>
+         <br>
+         Note: While prior versions might still work, the versions listed
+are the        minimum supported versions.<br>
+         <br>
+         </span> <span class="ParaHeader3">For minimum requirements and up-to-date
+        information visit the Current Versions Page:</span> <br>
+         <br>
+         <span class="docbodytext"><a
+ href="http://www.innovationdp.fdr.com/osreq.cfm">http://www.innovationdp.fdr.com/osreq.cfm</a>
+        </span>         </td>
+        </tr>
+
+  </tbody>
+</table>
+    <br>
+  <br>
+
+<p>&nbsp; <br>
+  &nbsp; </p>
+
+<p>For other product information please check out our web site at: </p>
+
+<p>&nbsp;&nbsp;&nbsp; <a href="http://www.innovationdp.fdr.com">http://www.innovationdp.fdr.com</a>
+ <br>
+  &nbsp; </p>
+
+<p>To <b>Unsubscribe</b> from this list, please send an e-mail to <br>
+  <a href="mailto:pcsupport@fdrinnovation.com">pcsupport@fdrinnovation.com</a>
+ <br>
+  &nbsp; </p>
+
+<p>&nbsp;<b><u>Our corporate Offices are located at:</u></b> </p>
+
+<p>&nbsp;&nbsp;&nbsp; <b>Innovation Data Processing</b> <br>
+  &nbsp;&nbsp;&nbsp; Corporate Headquarters: 275 Paterson Avenue, Little Falls,  NJ, 07424
+<br>
+  &nbsp;&nbsp;&nbsp; Tel: 973-890-7300, Fax: 973-890-7147 </p>
+
+<p>&nbsp;&nbsp;&nbsp; E-Mail: <br>
+  &nbsp;&nbsp;&nbsp; Support:<a href="mailto:support@fdrinnovation.com">support@fdrinnovation.com</a>
+ <br>
+  &nbsp;&nbsp;&nbsp; Sales:&nbsp;&nbsp;&nbsp; <a href="mailto:sales@fdrinnovation.com">sales@fdrinnovation.com</a>
+<br>
+  &nbsp;&nbsp;&nbsp; WEB Site: <a href="http://www.innovationdp.fdr.com">http://www.innovationdp.fdr.com</a>
+ </p>
+
+<p>&nbsp;&nbsp;&nbsp; <b>European Offices:</b> </p>
+
+<p>&nbsp;&nbsp;&nbsp; <b>France:</b> <br>
+  &nbsp;&nbsp;&nbsp; Innovation Data Processing S.A.R.L, 191 Avenue Aristide&nbsp;  Briand, <br>
+  &nbsp;&nbsp;&nbsp; 94230 Cachan, France <br>
+  &nbsp;&nbsp;&nbsp; Tel: 01-49-69-94-02, Fax: 01-49-69-90-98 <br>
+  &nbsp;&nbsp;&nbsp; E-Mail: <br>
+  &nbsp;&nbsp;&nbsp; Support: <a href="mailto:frsupport@fdrinnovation.com">frsupport@fdrinnovation.com</a>
+ <br>
+  &nbsp;&nbsp;&nbsp; Sales:&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:frsales@fdrinnovation.com">frsales@fdrinnovation.com</a>
+<br>
+  &nbsp; </p>
+
+<p>&nbsp;&nbsp;&nbsp; <b>Germany:</b> <br>
+  &nbsp;&nbsp;&nbsp; Innovation Data Processing International Ltd., <br>
+  &nbsp;&nbsp;&nbsp; Orleansstrasse4a, <br>
+  &nbsp;&nbsp;&nbsp; D-81669 Muenchen, Germany <br>
+  &nbsp;&nbsp;&nbsp; Tel: 089-489-0210, Fax: 089-489-1355 <br>
+  &nbsp;&nbsp;&nbsp; E-Mail: <br>
+  &nbsp;&nbsp;&nbsp; Support: <a href="mailto:desupport@fdrinnovation.com">desupport@fdrinnovation.com</a>
+ <br>
+  &nbsp;&nbsp;&nbsp; Sales:&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:desales@fdrinnovation.com">desales@fdrinnovation.com</a>
+</p>
+
+<p>&nbsp;&nbsp;&nbsp; <b>Netherlands:</b> <br>
+  &nbsp;&nbsp;&nbsp; Innovation Data Processing, Brouwerstraat 8, <br>
+  &nbsp;&nbsp;&nbsp; 1315 BP Almere, Netherlands <br>
+  &nbsp;&nbsp;&nbsp; Tel: 036-534-1660, Fax: 036-533-7308 <br>
+  &nbsp;&nbsp;&nbsp; E-Mail: <br>
+  &nbsp;&nbsp;&nbsp; Support:&nbsp; <a href="mailto:nlsupport@fdrinnovation.com">nlsupport@fdrinnovation.com</a>
+ <br>
+  &nbsp;&nbsp;&nbsp; Sales:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:nlsales@fdrinnovation.com">nlsales@fdrinnovation.com</a>
+</p>
+
+<p>&nbsp;&nbsp;&nbsp; <b>United Kingdom:</b> <br>
+  &nbsp;&nbsp;&nbsp; Innovation Data Processing Ltd., Clarendon House, 125Shenley  Road,
+<br>
+  &nbsp;&nbsp;&nbsp; Borehamwood Herts, WD6 1AG, England <br>
+  &nbsp;&nbsp;&nbsp; Tel: 0208-905-1266, Fax: 0208-905-1428 <br>
+  &nbsp;&nbsp;&nbsp; E-Mail: <br>
+  &nbsp;&nbsp;&nbsp; Support:&nbsp; <a href="mailto:uksupport@fdrinnovation.com">uksupport@fdrinnovation.com</a>
+ <br>
+  &nbsp;&nbsp;&nbsp; Sales:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:uksales@fdrinnovation.com">uksales@fdrinnovation.com</a>
+<br>
+  &nbsp; <br>
+  &nbsp; <br>
+  &nbsp; <br>
+  &nbsp; </p>
+  <br>
+   <br>
+<br>
+</body>
+</html>
+
+--------------090205050007080008060308--

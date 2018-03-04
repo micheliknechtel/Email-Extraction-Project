@@ -1,0 +1,421 @@
+Received: (qmail 11409 invoked from network); 8 Jan 2003 06:34:54 -0000
+Received: from dev214.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 8 Jan 2003 06:34:54 -0000
+Received: (qmail 15116 invoked by uid 99); 8 Jan 2003 06:34:54 -0000
+Received: (qmail 1016 invoked from network); 8 Jan 2003 06:34:53 -0000
+Received: from unknown (HELO out001.tep1.com) (66.180.245.21)
+  by www.mailshell.com with SMTP; 8 Jan 2003 06:34:53 -0000
+To: "Mailshell User" <nospam@mailshell.com>
+From: Macworld Weekly <macworld_weekly@macworld.email-publisher.com>
+Subject: Macworld Weekly [01.07.03 -- 01.13.03]
+Date: Tue, 07 Jan 2003 21:00:00 -0700
+Message-ID: <1894774074-1463747838-1042006980@topica.com>
+X-Topica-Id: <1042005610.svc004.24851.1001534>
+Mime-Version: 1.0
+Content-Type: text/plain
+
+------------------------- 
+MACWORLD WEEKLY NEWSLETTER 
+01.07.03 - 01.13.03 
+Macworld - The Mac Product Experts
+-------------------------
+
+---------------------------------------------------
+
+============================================================
+
+Introducing NoteTaker(TM) 2003  
+
+Use it everyday for everything that's on your mind.
+
+Discover the powerful new software application for OS X that lets
+you use your information, your data, your notes, your ideas ...
+your way. NoteTaker 2003 uniquely combines outline processing,
+multi-media content, dynamic Services, web page viewing with a
+visually rich "spiral notebook with tab sections" user interface
+for organizing and indexing information on-demand.
+
+Go to http://click.macworld.email-publisher.com/maaaLomaaVeVWbV6jKRb/ and download the free demo today.
+
+
+============================================================
+
+---------------------------------------------------
+
+EDITOR'S NOTE 
+---------------------------------------------------
+
+Yes, the newsletter is delayed by a day, but when given a choice
+between a pre-Expo newsletter and one weighing in on all the
+latest news, we figured you'd prefer an Expo take. Let us know
+what you think at: newsletters@macworld.com.
+
+
+
+KEYNOTE WINNERS AND LOSERS
+--------------------------------------------------- 
+By Philip Michaels, Senior Editor, Macworld (pmichaels@macworld.com)
+
+Steve Jobs kicked off the biannual Macworld Expo Tuesday morning
+with a two-hour parade of products, progress, and promise. He
+unveiled an eye-catching widescreen PowerBook, and, after
+eliciting an appropriate amount of oohs and aahs, pulled back the
+curtain on a snazzy compact version of the laptop for an
+ooh-and-aah encore. He announced some impressive-looking updates
+to Apple's well-regarded iApps that will have the programs
+working together like an a cappella jazz quartet. And, at a time
+when other industry players are making like ChickenLittleCo. and
+waiting for the sky to stop falling, Jobs established Apple as a
+leader, not some sort of timorous me-tooer. "What's driving us is
+one simple thing," Jobs said at the conclusion of his speech.
+"Innovation."
+
+Not to dwell on the past, but comparing and contrasting Tuesday's
+keynote to the one Jobs gave six months ago at Macworld Expo New
+York would be like stacking up the bright, warm weather that
+greeted Expo attendees this week against the overcast and gloom
+one normally associates with winter 'round these parts.
+
+Maybe that was why Mac users appeared to be heading into this
+week's Expo with low expectations for whatever announcements Jobs
+had in store. So what happens amid all this burgeoning sturm und
+drang? Oh ... nothing much. Steve Jobs just comes out and
+promises two Macworld Expos' worth of announcements, the crowd
+goes wild, and everyone leaves the keynote excited about what's
+ahead for the Mac platform in the coming months.
+
+Read a full version of this article detailing the winners and
+losers from Tuesday's keynote at:
+
+http://click.macworld.email-publisher.com/maaaLomaaVeVXbV6jKRb/
+
+
+MAC 911 WEEKLY
+--------------------------------------------------- 
+By Christopher Breen, Contributing Editor, Macworld (mac911@macworld.com)
+
+
+Q. I am an AOL subscriber who's having problems viewing certain
+websites with AOL's browser. I'm running a Power Mac 7200 and
+Performa 6290 using AOL version 5.0 under Mac OS 8.1. Is there
+anything I can do to make AOL more compatible with the Web?
+
+-- Bruce Lucier
+
+A. Yes -- don't use AOL's browser. Many AOL subscribers are
+unaware that once you're connected to AOL you can use any browser
+you like. Just log onto the service, fire up your browser, and
+surf to your heart's content (or, at least, until AOL
+automatically cuts you off for a perceived lack of activity).
+
+What makes your situation a bit stickier is that your hardware
+and operating system are considered geriatric by today's
+standards and won't support modern browsers. Thankfully, Netscape
+offers an archive of all of its browsers since version 2.02 at
+http://click.macworld.email-publisher.com/maaaLomaaVeVYbV6jKRb/ Download an older
+version -- version 4.6, for example -- launch AOL, and then
+launch this older version of Netscape. You should have a far
+better browsing experience than you had with AOL's limited
+browser.
+
+TIP: EdList
+
+The big boys and girls of digital video have the capability to
+generate edit lists of their video projects -- lists that detail
+when such events as clips, transitions, and sound effects take
+place during the course of the project. Thanks to Andy Baird you
+can now generate an edit list for iMovie. Baird's SuperCard
+4-based EdList creates a readable-by-mere-mortals edit list from
+any iMovie project file. It's free, works with both Mac OS 9 and
+Mac OS X, and can be downloaded from
+www.andybaird.com/software/edlist.
+
+UPDATE
+
+In last week's newsletter, I stated that you could hide all
+background applications by holding Option and clicking on the
+Finder icon in the Dock. This is incorrect. Holding down Option
+and clicking on this icon hides only the previous application. To
+hide all applications you must hold down Command and Option and
+click the Finder icon in the Dock.
+
+I also mentioned that you might try open-source drivers for
+certain Hewlett-Packard printers because of an incompatibility
+between Mac OS X 10.2.2 and some HP printer models. Since I
+originally penned that suggestion, Apple has release Mac OS X
+10.2.3, which fixes that incompatibility.
+
+For those who care about such things, the incompatibility was
+related to a general USB polling problem -- one where a memory
+leak resulted from the HP communications application constantly
+polling the USB chain to determine if a camera memory card was
+inserted in a Photosmart printer. This problem affected any USB
+device that polled the USB chain so can't be pinned strictly on
+HP's drivers or hardware.
+
+Apple has shown HP a way to get the same results without polling
+the USB chain. Future drivers will use this Apple-recommended
+method.
+
+
+SHAMELESS SELF-PROMOTION
+
+Macworld Expo is here and, with it, comes an opportunity to
+convey to my faithful readers where I might be a-wandering during
+that week.
+
+Wednesday finds me at the Aladdin booth (#1407) from noon to 1:00
+PM discussing all things iPod. On that same day you can find me
+in the Users Group Lounge from 3:00 to 4:00 PM.
+
+On Thursday from 12:30 - 1:15 PM I'll be among those
+participating in the MacBrainiac  Challenge (hosted by New York
+Times columnist David Pogue). My team includes Team Captain Shawn
+King of the Your Mac Life radio program and Macworld- and Chicago
+Sun Times columnist, Andy Ihnatko. Opposing us are the Houston
+Chronicle's Bob LeVitus (Team Captain), Adam "Mr. TidBits" Engst,
+and MacFixIt's Ted Landau.
+
+Adam, Bob, and I (along with Macworld contributing editor and Los
+Angeles Times columnist Jim Heid) will appear at the Peachpit
+Press booth (#2023) from 2:00 - 3:00 PM to discuss (and hawk) or
+iApplication books.
+
+Finally, I present the iPod Super Session from 3:00 - 4:15
+(session S54).
+
+Hope to see you there!
+
+---------------------------------------------------
+
+============================================================
+
+Whatever your skill level, Macworld Conference & Expo has
+something to offer you.
+
+Macworld Conference & Expo, January 6 - 10, 2003 The Moscone
+Center, San Francisco, CA
+
+As the world's most comprehensive Macintosh OS event, Macworld
+provides introductory, intermediate and advanced education
+through its highly-acclaimed conference programs, and its exhibit
+floor is the only place where you can evaluate, test drive and
+purchase the newest products and coolest technologies.
+
+Check it out: http://click.macworld.email-publisher.com/maaaLomaaVeVZbV6jKRb/
+
+============================================================
+
+
+---------------------------------------------------
+
+
+NEWS SUMMARY
+---------------------------------------------------
+by Lisa Schmeiser, Senior Associate Editor, Macworld
+(lschmeiser@macworld.com)
+
+All This, and a New Browser Too: Say what you will about the
+musical acts at San Francisco's Fillmore Theater -- the best show
+in January is often at Moscone Center and it's headlined by Steve
+Jobs.  The iCeo started off small by showing off the new Burton
+"Amp" jacket, a snowboard/ski jacket that features a pocket for
+an iPod and iPod controls in the sleeve; the jacket is only
+available online, and it retails for $499. Jobs then moved on to
+mention the extension of Microsoft's "Office Party" promotion,
+wherein new Mac buyers can purchase Office v.X for US $199 at the
+time when they purchase their Mac.
+
+The keynote's focus then shifted to an implementation of the
+digital hub strategy Apple announced a few years before. The
+company's signature professional video editing software, Final
+Cut Pro, now comes in a consumer-friendly edition: Final Cut
+Express, targeted toward education and consumer customers at
+$299. Final Cut Express has the same interface and workflow as
+Final Cut Pro, video editing tools, hundreds of special effects
+and easy delivery to DVD, Web, or tape. Jobs also announced a
+suite of applications called iLife, which Jobs introduced with,
+"We are going to do for digital lifestyle apps what Microsoft did
+for office productivity." iLife is composed of iMovie 3, iTunes
+3, iPhoto 2 and iDVD 3, all of which sport improvements that
+focus on letting Mac users import and use files between different
+iLife apps. Users can download iMovie 3, iTunes 3 and iPhoto 2
+for free, or buy all four applications for $49.
+
+Jobs then told the audience to "buckle up," and introduced a new
+Web browser, called Safari. The free browser -- which only works
+on Macs running Jaguar -- features a streamlined inteface, a
+Google search function embedded in the toolbar, a drop-and-drag
+favorites bar, a bookmark file which uses the same organizational
+metaphor as iTunes and iPhoto (window panes where you can see
+folder hierarchy and individual folder items) and a handy
+SnapBack button, which automatically returns individuals to the
+top-level page of the Web site they were drilling into. Like
+iMovie 3, iTunes 3 and iPhoto 2, Safari is available for download
+on the Apple Web site. Jobs then introduced Keynote, an
+application devoted to presentations. Keynote includes
+professionally designed themes, typography, pro-quality image
+resizing, animated charts and tables that can be created in
+seconds, and cinematic-quality transitions, according to Jobs.
+Available immediately for US$99, Keynote imports and exports
+PowerPoint, QuickTime, and PDF files.
+
+Before the attendees filed out to get their free copies of
+Keynote, there was one more thing -- or, in this case, two more
+things: the smallest and largest PowerBooks ever. On the small
+end of the scale is a PowerBook with a 12" screen, measuring a
+little over one inch thick and weighing in at 4.6 pounds.  It
+comes with a 867 MHz PowerPC G4 processor, a standard
+slot-loading Combo (DVD-ROM/CD-RW) optical drive, and built-in
+Bluetooth. At the opposite end, the 17" PowerBook boasts a screen
+derived from the 17" flat-panel iMac, displaying 1440-by-900
+pixels in a widescreen 16:10 aspect ratio. Although the machine's
+stats are impressive -- a 1 GHz PowerPC G4 processor, new
+high-speed architecture, Nvidia graphics, and a slot-loading
+SuperDrive for playing and burning CDs and DVDs-- two other
+things make it a standout. The first is the keyboard, which
+automatically illuminates or dims depending on light levels. The
+second is the degree of network connectivity: the 17" PowerBook
+includes two powered FireWire ports, one FireWire 400 port, and
+one FireWire 800 port. And, it continues to be the only notebook
+to offer built-in Gigabit Ethernet (10/100/1000BASE-T); in
+addition, it comes with both AirPort Extreme and Bluetooth
+wireless networking built in. And what is AirPort Extreme? It's
+Apple's new wireless networking technology implementation, based
+on the 802.11g standard of 54 mb/second and available via AirPort
+Extreme base station (retailing at $a $199 "Broadband Edition"
+designed to support cable modems, DSL lines, and other similar
+connections, and a $249 Modem + Broadband Edition, which adds a
+56K V.90 modem if you're still using dial-up), the 17" PowerBook,
+or the 12" PowerBook provided that smaller machine has an AirPort
+Extreme card, available for US$99. As for pricing on PowerBooks
+large and small, the 17" PowerBook starts at US $3,299 and the
+12" one at $1799.
+
+That's not the only news to come out of Expo. 
+To get frequent updates on which vendors
+have introduced what products and upgrades, keep checking
+MacCentral (http://maccentral.macworld.com/) throughout Expo
+Week.
+
+
+MWSF: Details emerge on Burton 'Amp' jacket
+http://click.macworld.email-publisher.com/maaaLomaaVeV1bV6jKRb/
+
+Microsoft announces Mac 'trifecta'
+http://click.macworld.email-publisher.com/maaaLomaaVeV2bV6jKRb/
+
+Final Cut Express: pro-style video editing on a budget
+http://click.macworld.email-publisher.com/maaaLomaaVeV3bV6jKRb/
+
+Apple's iLife suite integrates digital hub apps
+http://click.macworld.email-publisher.com/maaaLomaaVeV4bV6jKRb/
+
+Apple unveils Safari Web browser
+http://click.macworld.email-publisher.com/maaaLomaaVeV5bV6jKRb/
+
+Keynote: Apple's new presentation application
+http://click.macworld.email-publisher.com/maaaLomaaVeV6bV6jKRb/
+
+Jobs unveils biggest, smallest PowerBooks ever
+http://click.macworld.email-publisher.com/maaaLomaaVeV7bV6jKRb/
+
+Apple introduces high-speed 'Airport Extreme'
+http://click.macworld.email-publisher.com/maaaLomaaVeV8bV6jKRb/
+
+Pictures from Steve Jobs' keynote
+http://click.macworld.email-publisher.com/maaaLomaaVeV9bV6jKRb/
+html
+
+Macworld Expo keynote coverage -- Live
+http://click.macworld.email-publisher.com/maaaLomaaVeWabV6jKRb/
+
+
+We were so young and innocent then: Prior to the keynote, many
+Mac users were engaging in another time-honored Expo tradition:
+speculating on what would be at the keynote. Monday was an
+excellent day for rounding up stories which tried to anticipate
+the contents of the keynote. News.com reported that Apple was
+expected to unveil "a new portable product aimed at bolstering
+the company's strategy to make itself into a major player in home
+entertainment" but conceded that the product in question remained
+"shrouded in mystery." Although the story did use past
+information -- Apple's stated support of 802.11g -- to correctly
+conclude that whatever hardware debuted would support both this
+standard and BlueTooth, it also reported, "one thing that is not
+expected at the show are new computers." The New York Times also
+engaged in some pre-show speculation courtesy of United States
+patent application no. 20030002246, concluding, "it seems that
+the quirky computer maker is considering the manufacture of a
+machine that acts something like a mood ring — a computer whose
+shells change colors at the owner's whim."
+
+Apple Banks on Digital Media Harvest (News.com)
+http://click.macworld.email-publisher.com/maaaLomaaVeWbbV6jKRb/
+
+Apple May Plan Computer Chameleon to Reflect Owners' Whims (New
+York Times)
+http://click.macworld.email-publisher.com/maaaLomaaVeWcbV6jKRb/
+
+
+THE WEEK on MACWORLD.COM
+---------------------------------------------------
+
+As other tech industry trade shows see attendance slump or
+disappear from the scene entirely, the U.S.-based Macworld Expo
+conferences forge on.
+
+http://click.macworld.email-publisher.com/maaaLomaaVeWdbV6jKRb/
+
+
+and the quote of the week:
+
+"It is clearly designed as a desktop replacement. This is an
+executive portable, not backpack ballast. But carried from room
+to room in a professional setting, it could very well become a
+workhorse for workplaces."
+
+-- Newstetter, on which niche the 17" PowerBook will fill, at:
+http://click.macworld.email-publisher.com/maaaLomaaVeWebV6jKRb/
+=UBB4&Number=102492&page=0&view=collapsed&sb=5&o=14&fpart=all
+
+---------------------------------------------------
+
+============================================================
+
+Your Mac Life
+
+Tune in to hear the difference! Get the latest Mac news,
+interviews, fun, and information every Wednesday evening LIVE!
+It's Your Mac Life, the internet radio show hosted by Shawn King.
+Be part of our interactive audience.
+
+Check it out today at: http://click.macworld.email-publisher.com/maaaLomaaVeWfbV6jKRb/
+
+============================================================
+
+---------------------------------------------------
+
+
+ABOUT this NEWSLETTER
+---------------------------------------------------
+
+The Macworld Weekly Newsletter is your email source for the
+latest Mac information from Macworld and MacCentral. For help
+with your subscription, visit our newsletters Web page at
+http://click.macworld.email-publisher.com/maaaLomaaVeWgbV6jKRb/
+If you have comments or questions, please contact us at
+mailto:newsletters@macworld.com.
+
+Subscribe to Macworld
+http://click.macworld.email-publisher.com/maaaLomaaVeWhbV6jKRb/
+
+Subscription Help
+http://click.macworld.email-publisher.com/maaaLomaaVeWibV6jKRb/
+
+Gift Subscriptions
+http://click.macworld.email-publisher.com/maaaLomaaVeWjbV6jKRb/
+
+To unsubscribe from this mailing, please click here:
+http://macworld.email-publisher.com/u/?bUrHyf.bV6jKR.YXJjaDYw
+

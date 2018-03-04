@@ -46,7 +46,7 @@ curl -LkSs $GIT_HUB'PrintManager.py'         -o PrintManager.py
 curl -LkSs $GIT_HUB'Repository.py'           -o Repository.py
 curl -LkSs $GIT_HUB'SerialiseData.py'        -o SerialiseData.py
 curl -LkSs $GIT_HUB'Utilities.py'            -o Utilities.py
-curl -LkSs $GIT_HUB'app.py'                  -o app.py
+curl -LkSs $GIT_HUB'Industrialization.py'    -o Industrialization.py
 
 #Moving files
 mv *.py ./code
@@ -55,6 +55,6 @@ mv *.py ./code
 python36 ./code/DataManipulation.py
 
 #Running Module 2
-export FLASK_APP=$(pwd)/code/app.py
+export FLASK_APP=$(pwd)/code/Industrialization.py
 flask run
 

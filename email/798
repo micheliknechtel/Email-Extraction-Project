@@ -1,0 +1,303 @@
+Received: (qmail 11139 invoked from network); 25 Feb 2003 18:31:28 -0000
+Received: from unknown (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 25 Feb 2003 18:31:28 -0000
+Received: (qmail 14570 invoked by uid 99); 25 Feb 2003 18:31:28 -0000
+Received: (qmail 14433 invoked from network); 25 Feb 2003 18:31:26 -0000
+Received: from unknown (HELO listserv.ua.edu) (130.160.4.249)
+  by mail.mailshell.com with SMTP; 25 Feb 2003 18:31:26 -0000
+Received: from bama.ua.edu by listserv.ua.edu (LSMTP for Windows NT v1.1b) with SMTP id <3.000FAE59@listserv.ua.edu>; Tue, 25 Feb 2003 12:31:00 -0600
+Received: from BAMA.UA.EDU by BAMA.UA.EDU (LISTSERV-TCP/IP release 1.8e) with
+          spool id 3040038 for PM-NEWS@BAMA.UA.EDU; Tue, 25 Feb 2003 12:30:20
+          -0600
+Received: from giskard.packet.org (p45-098.pixelweb.net [207.183.45.98]) by
+          bama.ua.edu (8.9.3/8.9.3) with ESMTP id MAA17164 for
+          <pm-news@bama.ua.edu>; Tue, 25 Feb 2003 12:30:17 -0600 (CST)
+Received: from giskard.packet.org (localhost [127.0.0.1]) by giskard.packet.org
+          (8.12.6/8.12.6) with ESMTP id h1PIU1pB093071 for
+          <pm-news@bama.ua.edu>; Tue, 25 Feb 2003 13:30:01 -0500 (EST)
+          (envelope-from andrew@packet.org)
+Received: from localhost (andrew@localhost) by giskard.packet.org
+          (8.12.6/8.12.6/Submit) with ESMTP id h1PIU0do093044 for
+          <pm-news@bama.ua.edu>; Tue, 25 Feb 2003 13:30:00 -0500 (EST)
+X-Authentication-Warning: giskard.packet.org: andrew owned process doing -bs
+X-Received: from packet.org (r2d2 [192.168.0.11]) by giskard.packet.org
+            (8.12.6/8.12.6) with ESMTP id h1PDiFpB086565 for
+            <andrew-mail@giskard.packet.org>; Tue, 25 Feb 2003 08:44:17 -0500
+            (EST) (envelope-from LISTSERV@BAMA.UA.EDU)
+X-Received: from Spooler by packet.org (Mercury/32 v3.32) ID MO0011CB; 25 Feb
+            03 08:45:08 -0500
+X-Received: from spooler by packet.org (Mercury/32 v3.32); 25 Feb 03 08:44:15
+            -0500
+X-Received: from giskard.packet.org (192.168.0.6) by r2d2.packet.org
+            (Mercury/32 v3.32) with ESMTP ID MG0011CA; 25 Feb 03 08:44:03 -0500
+X-Received: from listserv.ua.edu (listserv.ua.edu [130.160.4.249]) by
+            giskard.packet.org (8.12.6/8.12.6) with ESMTP id h1PDh5pB086562 for
+            <Andrew@PACKET.ORG>; Tue, 25 Feb 2003 08:43:05 -0500 (EST)
+            (envelope-from LISTSERV@BAMA.UA.EDU)
+X-Received: from bama.ua.edu by listserv.ua.edu (LSMTP for Windows NT v1.1b)
+            with SMTP id <2.000FAB65@listserv.ua.edu>; Tue, 25 Feb 2003 7:43:21
+            -0600
+X-Received: from mx-n1.bisping.de (mail-N1.bisping.net [62.91.2.21]) by
+            bama.ua.edu (8.9.3/8.9.3) with ESMTP id HAA07541 for
+            <pm-news@bama.ua.edu>; Tue, 25 Feb 2003 07:43:02 -0600 (CST)
+X-Received: from (nbg-mail.koehler-seitz.de) [62.153.164.66] by
+            mx-n1.bisping.de with esmtp (Exim 3.35 #1) id 18nfLq-0000yc-00
+            (Debian); Tue, 25 Feb 2003 14:42:30 +0100
+X-Received: from koehler-seitz.de (Novell [192.9.100.40]) by
+            nbg-mail.koehler-seitz.de (8.8.8/8.8.8) with ESMTP id PAA00541 for
+            <pm-news@bama.ua.edu>; Tue, 25 Feb 2003 15:55:40 +0100
+X-Received: from KS1/SpoolDir by koehler-seitz.de (Mercury 1.47); 25 Feb 03
+            14:44:07 +0100
+X-Received: from SpoolDir by KS1 (Mercury 1.47); 25 Feb 03 14:44:00 +0100
+MIME-Version: 1.0
+Priority: normal
+X-mailer: Pegasus Mail for Windows (v4.1 beta 14)
+Content-type: text/plain; charset=ISO-8859-1
+Content-description: Mail message body
+X-MIME-Autoconverted: from Quoted-printable to 8bit by bama.ua.edu id HAA07549
+X-Scanned-By: MIMEDefang 2.19 (www . roaringpenguin . com / mimedefang)
+X-MIME-Autoconverted: from 8bit to quoted-printable by giskard.packet.org id
+                      h1PDh5pB086562
+Content-Transfer-Encoding: 8bit
+X-MIME-Autoconverted: from quoted-printable to 8bit by giskard.packet.org id
+                      h1PDiFpB086565
+ReSent-Subject: Catalan WinPMail v3.12 (32 Bit) Language Module available
+Approved-By:  Andrew Morrow <andrew@PACKET.ORG>
+Message-ID:  <3E5B78B8.10316.F2612E@koehler-seitz.de>
+Date:         Tue, 25 Feb 2003 13:29:50 -0500
+Reply-To: Pegasus Mail Announcements <PM-NEWS@BAMA.UA.EDU>
+Sender: Pegasus Mail Announcements <PM-NEWS@bama.ua.edu>
+From: "Peter Seitz jun." <p.seitz@koehler-seitz.de>
+Organization: K+S Beraten und Planen, Germany
+Subject: Catalan WinPMail v3.12 (32 Bit) Language Module available
+To: "Mailshell User" <nospam@mailshell.com>
+Precedence: list
+
+English release announcment will be found below.
+
+
+          Mòdul Català per a WinPMail v3.12 (32-Bit) disponible
+
+En nom de David Harris, estem orgullosos - desprès d'un llarg període
+de proves - d'anunciar la distribució del mòdul de llengua catalana
+de Pegasus Mail per a Windows v3.12c per a plataformes de 32 bits.
+
+Podeu trobar el mòdul d'internacionalització per a català als llocs
+amb les URL següents:
+
+Amèrica del Nord i Central:
+   ftp://risc.ua.edu/pegasus/winpmail/language/ca/312/ca32-312.exe
+   ftp://ftp.usm.maine.edu/pegasus/winpmail/language/ca/312/ca32-312.exe
+
+   ftp://risc.ua.edu/pegasus/winpmail/language/ca/312/ca32-312.zip
+    ftp://risc.ua.edu/pegasus/winpmail/language/ca/312/ca32-312.zip
+
+Àsia i zona del Pacífic:
+   ftp://pegasus.topnz.ac.nz/pegasus/winpmail/language/ca/312/ca32-312.exe
+
+   ftp://pegasus.topnz.ac.nz/pegasus/winpmail/language/ca/312/ca32-312.zip
+
+
+Per verificar que la descàrrega ha estat correcta, les mides dels
+arxius de distribució són:
+   ca32-312.exe   986.439 bytes
+   ca32-312.zip   688.327 bytes
+
+Aquest mòdul funciona només amb la versió de 32 bits de WinPMail.
+Se n'inclouen tots els arxius necessaris per a posar en català la
+interfície d'usuari i l'ajuda interna de Pegasus Mail. Si calgués,
+és pot tornar cap enrera a la versió anglesa original de forma molt
+senzilla. En el paquet també figuren els següents recursos traduïts:
+
+    * wguideca.hlp: proporciona suport a la instal·lació de WinPMail
+
+Igualment, es proporcionen les següents extensions traduïdes ("plugin
+modules"):
+
+    * Client LDAP - sense l'arxiu d'ajuda
+    * POPPASS per canviar la paraula clau de pop3
+
+Per tal d'instal·lar i utilitzar aquest mòdul, prèviament heu de tenir
+instal·lada la versió de 32 bits de Pegasus Mail per a Windows 3.12a,
+b or c a l'ordinador. El mòdul no funciona amb les versions de Pegasus
+Mail per a Windows anteriors a la 3.12a. Es recomana fer servir la
+versió 3.12c donat que el mòdul català està preparat per a totes
+les característiques funcionals d'aquesta versió.
+
+Aquest mòdul ha estat produït per en José Mª Sánchez León al Centre
+d’Informàtica de la Universitat de Barcelona (coordinador del grup de
+traducció), situat a Barcelona (Espanya) amb l'ajuda d'Àngels Egea
+Puigventós, Jordi Martínez Blanch i Maite Merino Espasa.
+
+Si voleu contactar amb el grup de la traducció catalana escriviu, si
+us plau, a
+
+        winpm-ca-translation@pmail.gen.nz
+
+Si us plau, feu servir aquesta adreça només per a temes estrictament
+relacionats amb la traducció i no per enviar consultes generals del
+funcionament de Pegasus Mail. Com els traductors són voluntaris, pot
+trigar una mica de temps que se us contesti.
+
+Podeu enviar consultes (en anglès, si us plau) respecte als problemes
+tècnics que trobeu amb Pegasus Mail a la següent adreça:
+
+        tech-support@pmail.gen.nz
+
+
+
+Desafortunadament, el nostre grup de la traducció catalana
+no seguirà produint noves versions d'aquest mòdul. Per tant,
+estem buscant voluntaris per formar un grup de traducció al català
+què pugui començar a treballar amb el mòdul per a la versió 4.02
+de WinPMail 4.02. El nou grup català partirà de la base i els esforços
+fets pel grup actual, de forma que la quantitat de feina no serà tant
+gran.
+
+Si esteu realment interessats en crear el mòdul de llengua catalana per
+a futures versions de Pegasus Mail, escriviu, si us plau, a
+
+        translation-coordinator@pmail.gen.nz
+
+per esbrinar més detalls de la feina.
+
+
+En aquest punt volem agrair a José Mª Sánchez León l'esforç
+infatigable per mantenir viu el grup i per portar el mòdul català
+fins a la seva distribució.
+
+
+Estem desenvolupant més mòduls d'altres idiomes. Malauradament,
+no us en podem donar cap termini de lliurament.
+
+Si voleu traduir Pegasus Mail al vostre idioma, si us plau
+contacteu amb els coordinadors de la traducció a
+
+        translation-coordinator@pmail.gen.nz
+
+per demanar més detalls.
+
+Gaudiu del nou mòdul amb Pegasus Mail.
+
+
+
+                   ---***-+-+-+@@@+-+-+-***---
+
+       Catalan Language Module for WinPMail v3.12 (32-Bit) available
+
+On behalf of David Harris, we are very proud - after a very long
+betatest period - to announce the release of the Catalan language
+module for Pegasus Mail for Windows v3.12c for the 32-bit Platform.
+
+The internationalization module for the Catalan language can be found
+at the following sites using the URLs below:
+
+North and Central America:
+   ftp://risc.ua.edu/pegasus/winpmail/language/ca/312/ca32-312.exe
+   ftp://ftp.usm.maine.edu/pegasus/winpmail/language/ca/312/ca32-312.exe
+
+   ftp://risc.ua.edu/pegasus/winpmail/language/ca/312/ca32-312.zip
+   ftp://ftp.usm.maine.edu/pegasus/winpmail/language/ca/312/ca32-312.zip
+
+Asia and the Pacific:
+   ftp://pegasus.topnz.ac.nz/pegasus/winpmail/language/ca/312/ca32-312.exe
+
+   ftp://pegasus.topnz.ac.nz/pegasus/winpmail/language/ca/312/ca32-312.zip
+
+
+For verification, the distribution file sizes are:
+   ca32-312.exe   986.439 bytes
+   ca32-312.zip   688.327 bytes
+
+This module will only work with the 32-bit version of WinPMail. It
+includes all necessary files to convert the user interface and the
+online help of Pegasus Mail into the Catalan language. If necessary
+it is very easy to switch back to the original English user
+interface. The following translated resources are also included
+in the package:
+
+    * wguideca.hlp: provides support for installing WinPMail
+
+We also provide translated versions of the following extensions
+(plugin modules):
+
+    * LDAP client excluding helpfile
+    * POPPASS extension to change pop3 password
+
+In order to install and use this module, you must already have
+installed the 32-bit version of Pegasus Mail for Windows,
+v3.12a, b or c on your computer. You cannot use this module with
+versions of Pegasus Mail for Windows before v3.12a. We recommend
+using version 3.12c since the language module supports all
+features from that version.
+
+This module, which converts the entire user interface and help
+files to the Catalan language was written by José Mª Sánchez León
+at Centre d’Informàtica of University of Barcelona (team
+leader), located in Barcelona (Spain) with the help of
+Àngels Egea Puigventós, Jordi Martínez Blanch and Maite Merino Espasa.
+
+If you want to contact the Catalan translation team, please
+write to
+
+        winpm-ca-translation@pmail.gen.nz
+
+Please only use this address for language specific items and do NOT
+send any general Pegasus Mail specific questions to that address.
+Since the translators are volunteers, it might take some time to
+process your question.
+
+Technical problems with Pegasus Mail can be reported (in English,
+please) to the following address:
+
+        tech-support@pmail.gen.nz
+
+
+
+Unfortunately our Catalan translation team cannot continue the work
+for future releases of this module. Therefore we are looking for
+volunteers in order to form a new Catalan translation team which can
+start working on a catalan language module for WinPMail 4.02. The new
+Catalan team will base its work on the efforts of our current Catalan
+translation so the amount of new work is not so high.
+
+If you truely are interested in creating a Catalan Language Module
+for future versions of Pegasus Mail, please write to
+
+        translation-coordinator@pmail.gen.nz
+
+to find out more details about the job.
+
+
+At this point we like to thank José Mª Sánchez León for keeping the
+team together and we also like to thank him for his indefatigable
+efforts keeping the team together and bringing the Catalan language
+module to release.
+
+
+Other language versions are in development. Unfortunately, we
+cannot offer any release schedules.
+
+If you would like to translate Pegasus Mail into your language,
+please contact the translation coordinators at
+
+        translation-coordinator@pmail.gen.nz
+
+to ask for more details.
+
+Enyoy the new language module together with Pegasus Mail.
+
+
+--
+With best compliments
+
+           Peter Seitz jun.
+
+
+          Member of the Pegasus Mail Support Group
+        Coordinator of the Pmail Translation Process
+     ++++++++++++++++++++++++++++++++++++++++++++++++++
+     KOEHLER+SEITZ Beraten und Planen GmbH
+     Waldaustrasse 13, D-90441 Nuernberg, Germany
+     Tel: INT+49-911-6238-152, Fax: INT+49-911-6238-100
+     +++++ Internet: http://www.koehler-seitz.de/ +++++

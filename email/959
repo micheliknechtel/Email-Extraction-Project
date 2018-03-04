@@ -1,0 +1,558 @@
+Received: (qmail 31822 invoked from network); 10 Jan 2003 14:02:18 -0000
+Received: from dev213.mailshell.com (HELO mailshell.com) (@71.129.195.163)
+  by dev50.mailshell.com with SMTP; 10 Jan 2003 14:02:18 -0000
+Received: (qmail 32 invoked by uid 99); 10 Jan 2003 14:02:18 -0000
+Received: (qmail 21450 invoked from network); 10 Jan 2003 14:02:16 -0000
+Received: from unknown (HELO hypatia.cs.wisc.edu) (128.105.14.41)
+  by www.mailshell.com with SMTP; 10 Jan 2003 14:02:16 -0000
+Received: from hypatia (hypatia.cs.wisc.edu) by hypatia.cs.wisc.edu (LSMTP for Windows NT v1.1b) with SMTP id <0.FFD45832@hypatia.cs.wisc.edu>; Fri, 10 Jan 2003 7:54:31 -0600
+Received: from HYPATIA.CS.WISC.EDU by HYPATIA.CS.WISC.EDU (LISTSERV-TCP/IP
+          release 1.8d) with spool id 24532423 for
+          SCOUT-REPORT-HTML@HYPATIA.CS.WISC.EDU; Fri, 10 Jan 2003 07:53:28 -0600
+Approved-By: scout@SCOUT.WISC.EDU
+Received: from lucy.cs.wisc.edu by hypatia.cs.wisc.edu (LSMTP for Windows NT
+          v1.1b) with SMTP id <0.FFD457E8@hypatia.cs.wisc.edu>; Fri, 10 Jan
+          2003 7:44:28 -0600
+Received: from durden.scout.wisc.edu (durden.scout.wisc.edu [144.92.170.200])
+          by lucy.cs.wisc.edu (8.11.3/8.11.3) with ESMTP id h0ADiRH31546 for
+          <scout-report-html@cs.wisc.edu>; Fri, 10 Jan 2003 07:44:27 -0600
+Received: (from apache@localhost) by durden.scout.wisc.edu (8.11.6/8.11.6) id
+          h0ADiLk21013 for scout-report-html@cs.wisc.edu; Fri, 10 Jan 2003
+          07:44:21 -0600
+Content-Type: text/html; charset=us-ascii
+MIME-Version: 1.0
+X-Virus-Scanned: by AMaViS-perl11-milter (http://amavis.org/)
+Message-ID:  <200301101344.h0ADiLk21013@durden.scout.wisc.edu>
+Date:         Fri, 10 Jan 2003 07:44:21 -0600
+Reply-To: scout@CS.WISC.EDU
+Sender: "The Scout Report \(HTML Version\)" <SCOUT-REPORT-HTML@HYPATIA.CS.WISC.EDU>
+From: Internet Scout Project <scout@SCOUT.WISC.EDU>
+Subject:      The Scout Report -- January 10, 2003 -- HTML Version
+To: "Mailshell User" <nospam@mailshell.com>
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+           "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+
+<HEAD>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<TITLE>The Scout Report - January 10, 2003</TITLE>
+</HEAD>
+
+<BODY>
+
+<H1 align="center">The Scout Report</H1>
+
+<H3 align="center">Volume 9, Number 1</H3>
+<H3 align="center">January 10, 2003</H3>
+
+<h4 align="center">A Publication of the Internet Scout Project</h4>
+<h5 align="center">Computer Science Department, University of Wisconsin</h5>
+
+<br><hr><br>
+
+<P>
+The Scout Report is a weekly publication offering a selection of new and newly discovered Internet resources of interest to researchers and educators. However, everyone is welcome to subscribe to one of the mailing lists (plain text or HTML). Subscription instructions are included at the end of each report.
+</P>
+
+<P>
+The Scout Report on the web:
+<UL>
+        <LI>Current issue: <A HREF="http://scout.wisc.edu/report/sr/current/">http://scout.wisc.edu/report/sr/current/</A></LI>
+        <LI>This issue: <A HREF="http://scout.wisc.edu/report/sr/2003/scout-030110.html">http://scout.wisc.edu/report/sr/2003/scout-030110.html</A></LI>
+</UL>
+</p>
+<P>
+Visit the Internet Scout Weblog at:
+<A HREF="http://scout.wisc.edu/weblog/">
+http://scout.wisc.edu/weblog/</A>
+</P>
+
+<P>
+Send comments and contributions to:
+<A HREF="mailto:scout@scout.wisc.edu">
+scout@cs.wisc.edu</A>
+</P>
+
+<br><hr><br>
+
+<A NAME="contents"></A>
+<H2>In This Issue:</H2>
+
+
+<A HREF="#NSDLReports"><H3>NSDL Scout Reports</H3></A>
+
+<UL>
+        <LI><A HREF="#1">NSDL Scout Reports for the Life Sciences and Physical Sciences</A>
+
+</UL>
+
+<A HREF="#R&E"><H3>Research and Education</H3></A>
+
+<UL>
+        <LI><A HREF="#2">American Lung Association: State of Tobacco Control 2002</A>
+        <LI><A HREF="#3">American Council on Education</A>
+        <LI><A HREF="#4">The Nutrition Source: Knowledge for Healthy Eating</A>
+        <LI><A HREF="#5">Charles Booth Online Archive</A>
+        <LI><A HREF="#6">Print and Television Legislative Issue Advertising in the Nation's Capital in 2001</A>
+        <LI><A HREF="#7">Ask A Linguist</A>
+        <LI><A HREF="#8">10th Report on Carcinogens</A>
+        <LI><A HREF="#9">Integrity in Scientific Research: Creating an Environment That Promotes Responsible Conduct</A>
+
+</UL>
+
+<A HREF="#GenInterest"><H3>General Interest</H3></A>
+
+<UL>
+        <LI><A HREF="#10">Freedom: A History of US</A>
+        <LI><A HREF="#11">British Pathe Newsreels Online</A>
+        <LI><A HREF="#12">Photographs from the Chicago Daily News: 1902-1933</A>
+        <LI><A HREF="#13">The University of Wisconsin Center for Women's Health and Women's Health Research</A>
+        <LI><A HREF="#14">Birthplace of American Forestry</A>
+        <LI><A HREF="#15">Cambodia: The Odyssey of the Khmer People</A>
+        <LI><A HREF="#16">The Museum of Hoaxes</A>
+
+</UL>
+
+<A HREF="#NetTools"><H3>Network Tools</H3></A>
+
+<UL>
+        <LI><A HREF="#17">Digital Photo Librarian Image Editor 4.0</A>
+        <LI><A HREF="#18">WebLog Expert Lite</A>
+
+</UL>
+
+<A HREF="#IntheNews"><H3>In The News</H3></A>
+
+<UL>
+        <LI><A HREF="#19">Ten Commandments Sold as Debate over Religious Expression in Public Buildings Continues Across US</A>
+
+</UL>
+
+
+<br><hr><br>
+
+
+<A NAME="NSDLReports"></A><H3>NSDL Scout Reports</H3>
+<BLOCKQUOTE>
+
+<P>
+<A NAME="1"></A>
+<STRONG>NSDL Scout Reports for the Life Sciences and Physical Sciences</STRONG><BR>
+The first issues of the second volumes of the <A HREF="http://scout.cs.wisc.edu/nsdl-reports/life-sci/2003/ls-030110.html" TARGET="_top">Life Sciences Report</A> and <A HREF="http://scout.cs.wisc.edu/nsdl-reports/phys-sci/2003/ps-030110.html" TARGET="_top">Physical Sciences Report</A> are available. The Topic in Depth section of Life Sciences Report annotates sites on hibernation. The Physical Sciences Report's Topic in Depth section offers Web sites and comments about history of energy.<BR>
+
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+
+
+</BLOCKQUOTE>
+<A NAME="R&E"></A><H3>Research and Education</H3>
+<BLOCKQUOTE>
+
+<P>
+<A NAME="2"></A>
+<STRONG>American Lung Association: State of Tobacco Control 2002</STRONG><BR>
+<A HREF="http://lungaction.org/reports/tobacco-control.html" TARGET="_top">
+http://lungaction.org/reports/tobacco-control.html</A><BR>
+Released on January 7, 2003, the American Lung Association's Report on the state of tobacco control contains some rather ominous findings. The Report analyzes individuals states' action four years after the 1998 Master Settlement Agreement in which the tobacco industry committed to paying 46 states approximately $206 billion over 25 years. The report, which uses a letter-grade system to assess statewide efforts, reports that 43 states and the District of Columbia received an "F" in smokefree air laws and 28 received an "F" in laws limiting youth access to tobacco. From this page, users can utilize the map of the United States to click on the state of their choice to obtain the results of the State of Tobacco Control summary results. Also, users may utilized the four icons on the right-hand side of the page to obtain summary results on four categories (smokefree air, youth access to tobacco, etc.) for the entire United States. A methodology section details the
+process by which each state's tobacco control efforts were assessed, and a press center offers detailed news releases from the American Lung Association on the report.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="3"></A>
+<STRONG>American Council on Education</STRONG><BR>
+<A HREF="http://www.acenet.edu/" TARGET="_top">
+http://www.acenet.edu/</A><BR>
+The American Council on Education, headed by David Ward (the former Chancellor of the University of Wisconsin), "seeks to provide leadership and a unifying voice on key higher education issues and to influence public policy through advocacy, research, and program initiatives." To this end, their Web site is a vast repository of papers, research initiatives, and newsletters that will assist those persons working in higher education administration, or those with a general interest in trends within American universities and colleges. The main page contains links to the Council's different working units, such as the Center for Adult Learning, the Center for Policy Analysis, and the International Initiatives office. While many of the publications listed within these respective offices are available for purchase, users will also find helpful working papers available at no charge, such as "Crucial Choices: How Students' Financial Decisions Affect Their Academic Success"
+and "Gender Equity in Higher Education: Are Male Students at a Disadvantage?" For those seeking to learn more about the Council's long-range goals, they have recently placed their strategic plan for the 2002-2005 period on the site.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="4"></A>
+<STRONG>The Nutrition Source: Knowledge for Healthy Eating</STRONG><BR>
+<A HREF="http://www.hsph.harvard.edu/nutritionsource/" TARGET="_top">
+http://www.hsph.harvard.edu/nutritionsource/</A><BR>
+The Harvard School of Public Health set up this Web site to serve as a thorough source of scholarly material on the subjects of nutrition and healthy eating. As the site notes, "we explore the latest science about healthy eating for adults, answering key questions about what you should eat." The site is divided into sections such as Carbohydrates, Protein, and Fiber, each of which features an extended essay providing helpful information about each topic and debunking certain myths about different foodstuffs that are often perpetuated by the media or their mere ubiquity. Some of the subjects addressed by the different sections include the now-legendary butter versus margarine debate that began several decades ago and the contention that fiber may significantly reduce the risk of colon cancer. Perhaps the most helpful section on the site is titled Interpreting News on Diet, which is devoted to explaining the nature of the multitude of medical and scientific studies on
+nutrition and their subsequent coverage in the media.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="5"></A>
+<STRONG>Charles Booth Online Archive</STRONG><BR>
+<A HREF="http://booth.lse.ac.uk/" TARGET="_top">
+http://booth.lse.ac.uk/</A><BR>
+Charles Booth was a 19th century Victorian-era Englishman concerned with the rapid increase in poverty and human suffering throughout London that developed during the late 19th century. As such, he embarked on a 30-year quest to document these conditions throughout London by creating detailed poverty maps of the city, engaging in hundreds of detailed interviews with people from all walks of life, and publishing his results in a multi-volume set that was completed in 1903. To their credit, the London School of Economics and Political Science (collaborating with the University of London Library) has digitized many of these fine maps, along with Booth's original survey notebooks and interviews, and placed them on the site. The excellent interface feature allows visitors to browse over the historic poverty maps and compare them to contemporary London, along with reading the observations of police officers from the period. Along with offering users the ability to search
+the maps of London poverty and the survey notebooks, the site provides a helpful index of subject terms, people, organizations, and locations that are referenced throughout the collection. This site will be of great interest to people seeking an engaging and multi-perspectival approach to social welfare and urban history.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="6"></A>
+<STRONG>Print and Television Legislative Issue Advertising in the Nation's Capital in 2001 [.pdf]</STRONG><BR>
+<A HREF="http://www.appcpenn.org/issueads/2001_legislative_issue_ad_report.pdf" TARGET="_top">
+http://www.appcpenn.org/issueads/2001_legislative_issue_ad_report.pdf</A><BR>
+This 33-page report, published by the Annenberg Public Policy Center of the University of Pennsylvania, addresses the increasing trends in print and television legislative issue advertising throughout the Washington DC area in 2001. The report deals primarily with legislative issue advertisements, which are essentially ads that "are likely to be directed at our national legislators or agencies in hope of swaying their opinions on issues of policy, law, or regulation." Not surprisingly, the report found some rather interesting results. For example, the report notes that ads were sponsored by over 375 different organizations and coalitions, and that four issues accounted for 61 percent of all issue ad spending inside the beltway (education, power, telecommunications, and health care). The report also contains more detailed information about total spending by issue, 9/11 and issue advertising, the methodology deployed by the researchers in this study, and the specific
+sponsorship of issue advertising.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="7"></A>
+<STRONG>Ask A Linguist</STRONG><BR>
+<A HREF="http://linguistlist.org/~ask-ling/" TARGET="_top">
+http://linguistlist.org/~ask-ling/</A><BR>
+The Ask A Linguist Web site is a service provided by The Linguist List, an Internet network for professional linguists. The site allows students, educators, or other interested parties to submit a question dealing with language or linguistics to a panel of linguists that includes faculty members from Oxford University, the University of Arizona, and the University of Michigan. While users can submit any type of question dealing with language they choose, a section of the site provides answers to frequently asked questions, with a particularly thorough section devoted to Arabic. Previous questions are archived on the site, with message threads dating back to May 1997. Recent message threads on the Ask A Linguist Web site include "Origin of the Norwegian Language," "Is language innate?" and "Linguistics and literature." Equally helpful is the ability to search the entire message archive in a variety of fashions, including complex queries.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="8"></A>
+<STRONG>10th Report on Carcinogens [.pdf]</STRONG><BR>
+<A HREF="http://ehp.niehs.nih.gov/roc/toc10.html" TARGET="_top">
+http://ehp.niehs.nih.gov/roc/toc10.html</A><BR>
+The US Department of Health and Human Services has recently made available its 10th Report on Carcinogens (RoC), as prepared by the National Toxicology Program located at the National Institute of Environmental Health Sciences (NIEHS). Users may view the entire report on this Web site provided by Environmental Health Perspectives, a peer-reviewed journal published by NIEHS. The RoC is an authoritative study that identifies and examines substances that pose a potential carcinogenic hazard to human health. For each listed substance, the report offers data on carcinogenicity, genotoxicity, biological mechanism, potential for human exposure, and existing Federal regulations to limit exposures. This site is also reviewed in the <A HREF="http://scout.cs.wisc.edu/nsdl-reports/life-sci/2002/ls-030110.html" TARGET="_top">January 10, 2003 <I>NSDL Life Sciences Report</I></A>.
+<A HREF="#team">[RS]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="9"></A>
+<STRONG>Integrity in Scientific Research: Creating an Environment That Promotes Responsible Conduct</STRONG><BR>
+<A HREF="http://www.nap.edu/books/0309084792/html/" TARGET="_top">
+http://www.nap.edu/books/0309084792/html/</A><BR>
+A new offering from the National Academies Press has been made available entitled "Integrity in Scientific Research: Creating an Environment That Promotes Responsible Conduct." The freely viewable and printable publication has chapter headings that include The Research Environment and Its Impact on Integrity in Research, Institutional Approaches to Fostering Integrity in Research, and Promoting Integrity in Research Through Education, as well as several informative appendixes. As science evolves and expands to new frontiers, ethical discussions and debate become an increasingly important topic. This publication continues this dialogue from a unique viewpoint that professionals may find valuable. This site is also reviewed in the <A HREF="http://scout.cs.wisc.edu/nsdl-reports/phys-sci/2002/ps-030110.html" TARGET="_top">January 10, 2003 <I>NSDL Physical Science Report</I></A>.
+<A HREF="#team">[JAB]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+
+
+</BLOCKQUOTE>
+<A NAME="GenInterest"></A><H3>General Interest</H3>
+<BLOCKQUOTE>
+
+<P>
+<A NAME="10"></A>
+<STRONG>Freedom: A History of US</STRONG><BR>
+<A HREF="http://www.pbs.org/wnet/historyofus/" TARGET="_top">
+http://www.pbs.org/wnet/historyofus/</A><BR>
+Collaborating with WNET New York, PBS has created this Web site as the online analogue to the 16-part television series. Based on the books by Joy Hakim, the series (and the Web site) are dedicated to exploring the theme of freedom throughout the history of the United States, noting that "Freedom is what has drawn to America countless human beings from around the world; it is what generations of men and women have lived and died for; it is, in a profound sense, our nation's highest calling." While anyone with an inkling to learn more about the notion of "freedom" will benefit by perusing the site, it is especially well-honed to serve the needs of educators and students. The site contains 16 "Webisodes," which are both visually and textually rich repositories of information, chronologically ordered, beginning with the American Revolution and concluding with the presidency of Richard Nixon. Additionally, each Webisode contains essays that contain hyperlinks to word
+definitions, photographs, and brief biographical profiles. Also, each Webisode contains standards-based teacher guides and lesson plans prepared by the Talent Development Middle Schools Programs at Johns Hopkins University. Overall, this site is a fine example of utilizing the Web for educational purposes, both for young students and those looking for general edification.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="11"></A>
+<STRONG>British Pathe Newsreels Online [Windows Media Player]</STRONG><BR>
+<A HREF="http://www.britishpathe.com/" TARGET="_top">
+http://www.britishpathe.com/</A><BR>
+British Pathe, one of the oldest media companies in the world, recently made available its entire 3500-hour film archive, covering "news, sport, social history and entertainment from 1896 to 1970." At the Web site, users can search by keyword or try out advanced search, if details such as reel numbers or exact titles are known. Casual users may prefer the "Lucky Dip" search, which provides a random selection of films to see. After a search returns a hit list of films, choices include "Preview Film: a page of stills, with a textual description of the clip;" "Download Now: a free, low resolution clip;" or "Add to basket, to purchase higher resolutions of the film." (A rate card giving prices for low and high resolution clips is provided.) One hint for first-time users, though: if files do not seem to download properly, check your email, because you will be sent the URL to retrieve your film. After just a bit of finagling on our first visit, we watched the Beatles at a
+water-skiing show, Charlie Chaplin, and Sir Ernest Shackleton and his sled dogs photographed in 1916 on returning from their Antarctic expedition.
+<A HREF="#team">[DS]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="12"></A>
+<STRONG>Photographs from the Chicago Daily News: 1902-1933</STRONG><BR>
+<A HREF="http://memory.loc.gov/ammem/ndlpcoop/ichihtml/cdnhome.html" TARGET="_top">
+http://memory.loc.gov/ammem/ndlpcoop/ichihtml/cdnhome.html</A><BR>
+The explosion of daily newspapers and developments in printing technology in the late 19th century made a plethora of visual images available to the majority of urban dwellers, and the city of Chicago was certainly no exception. As part of their excellent online collection series, the Library of Congress (in collaboration with the Chicago Historical Society) has digitized approximately 55,000 images of urban life stored on glass plate negatives dated between 1902 and 1933, all taken by photographers under the employ of the Chicago Daily News. As with the other online collections in the American Memory series, the entire collection is searchable by keyword, and users can browse by subject, ranging from African-American football teams to the YMCA track and field exercises. A special presentation located here features several thematically oriented photograph collections selected by the staff of the Chicago Historical Society, including Christmas Activities and Football
+Becomes a Major Sport. For urban historians, this site will prove to be a valuable place to look for visual documentation, perhaps suggesting new areas of scholarly endeavor.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="13"></A>
+<STRONG>The University of Wisconsin Center for Women's Health and Women's Health Research</STRONG><BR>
+<A HREF="http://www.womenshealth.wisc.edu/" TARGET="_top">
+http://www.womenshealth.wisc.edu/</A><BR>
+Along with 12 other centers designated by the US Public Health Service Office on Women's Health, the Center for Women's Health and Women's Health Research is designed to provide a "one-stop shopping" model for the delivery of clinical health care services to women and a multi-disciplinary research agenda on women's health issues. Located on the site are several resources that will be of interest to visitors, including a Web site hosted by the center that is specifically designed for adolescent girls and women who have been diagnosed with scoliosis, as well as the online Wisconsin Women's Health Information Resource Directory. Visitors will also want to examine the Center's newsletter, their online calendar of events, and a news archive of reports dealing with women's health issues from a number of media sources, such as CNN, the BBC, and the New York Times.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="14"></A>
+<STRONG>Birthplace of American Forestry [.pdf]</STRONG><BR>
+<A HREF="http://www.lib.ncsu.edu/archives/forestry/index.html" TARGET="_top">
+http://www.lib.ncsu.edu/archives/forestry/index.html</A><BR>
+Focusing on the work on Carl Alwin Schenck, the noted German forestry expert and professor, this online exhibit and archive created by the North Carolina State Library Special Collections Department (with the assistance of The Biltmore Company and the Forest History Society) offers a broad perspective on the Biltmore Estate Forest in North Carolina and the founding of the first school of forestry in the United States. Begun in 1898 by Dr. Schenck, the Biltmore Forest School operated on the grounds of the massive Biltmore estate in North Carolina, where Schenck had previously designed a forest management plan for the 100,000 acre estate. During the school's 15 year existence, Schenck trained over 300 foresters, including Gifford Pinchot. The site itself features several historical essays on Schenck, the Biltmore Forest School, and the Biltmore Estate Forest. Additionally, there are several excellent photo archives of the Biltmore Forest School available for perusal,
+a collection of oral histories dealing with early forestry education in North Carolina, and the forestry lectures of Dr. Schenck. Overall, this is a fascinating resource for those with an interest in the history of forestry in the United States.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="15"></A>
+<STRONG>Cambodia: The Odyssey of the Khmer People</STRONG><BR>
+<A HREF="http://www.mekong.net/cambodia/" TARGET="_top">
+http://www.mekong.net/cambodia/</A><BR>
+Bruce Sharp, in collaboration with a host of colleagues, has developed this Web site dealing with the history and culture of Cambodia. Paying close attention to the Khmer Rouge period of the country's history, the site contains a wealth of general information and statistics about Cambodia that will help visitors seeking a basic overview of the country's current status. The site is divided into numerous sections, several that will be of particular interest to visitors. The Oral Histories section contains a dozen narratives from Cambodian men and women who lived in Cambodia during the reign of Pol Pot and the Khmer Rouge. A photo gallery hosts several photo essays by Mr. Sharp, including some dramatic shots of Angkor Wat. Finally, the site also has a search engine and a What's New section that lists new material that is periodically added to the site.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="16"></A>
+<STRONG>The Museum of Hoaxes</STRONG><BR>
+<A HREF="http://www.museumofhoaxes.com/" TARGET="_top">
+http://www.museumofhoaxes.com/</A><BR>
+Developed by Alex Boese, a graduate student at the University of California at San Diego, this site is a compelling introduction to many of the most well-known (and a few that are often overlooked) hoaxes from the year 750 to the present. First time visitors will want to visit some of the introductory materials included here, such as "What is a hoax?"; "Origin of the Word 'Hoax'"; and "Hoaxology," which contains a sampling of literary references to the word <I>hoax.</I> The Main Gallery contains a chronological listing of numerous hoaxes (divided into periods), including the Piltdown Man; the Cardiff Giant; and the interesting story of Charles LeRaye, who claimed to have traveled into the Upper Missouri and Yellowstone regions several years before Lewis and Clark. For a bit of a diversion, the site also allows visitors to test their knowledge of potentially doctored photographs.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+
+
+</BLOCKQUOTE>
+<A NAME="NetTools"></A><H3>Network Tools</H3>
+<BLOCKQUOTE>
+
+<P>
+<A NAME="17"></A>
+<STRONG>Digital Photo Librarian Image Editor 4.0</STRONG><BR>
+<A HREF="http://www.oneilsoftware.com/" TARGET="_top">
+http://www.oneilsoftware.com/</A><BR>
+For persons hoping to catalog and modify extensive digitized photo collections, the Digital Photo Librarian application will be a welcome addition to their software library. The application allows users to manage large photo collections, along with providing the capability of supporting a variety of image formats. Additionally, users can use the application to create CD-ROMs of their photos, modify their images, or remove "red-eye" from photographs. The Digital Photo Librarian is available for use with operating systems utilizing Windows 95 and higher.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<P>
+<A NAME="18"></A>
+<STRONG>WebLog Expert Lite</STRONG><BR>
+<A HREF="http://www.weblogexpert.com/" TARGET="_top">
+http://www.weblogexpert.com/</A><BR>
+Designed to collect information and statistics about Web sites, the WebLog Expert will be a useful tool for those users who are looking to know more about the use of their site. The Lite version of the application collects basic statistics about visitors to a Web site, how many times they visited, and which pages and files they accessed. Additionally, the Lite version collects data on the operating systems and browsers of visitors to the site. WebLog Lite is available for use with operating systems utilizing Windows 95 and higher.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+
+
+</BLOCKQUOTE>
+<A NAME="IntheNews"></A><H3>In The News</H3>
+<BLOCKQUOTE>
+
+<P>
+<A NAME="19"></A>
+<STRONG>Ten Commandments Sold as Debate over Religious Expression in Public Buildings Continues Across US</STRONG><BR>
+Tennessee County Seeks Bids on Ten Commandments Plaques<BR>
+<A HREF="http://www.knoxnews.com/kns/state/article/0,1406,KNS_348_1659957,00.html" TARGET="_top">
+http://www.knoxnews.com/kns/state/article/0,1406,KNS_348_1659957,00.html</A><BR>
+Park Land with Ten Commandments Sold<BR>
+<A HREF="http://www.washingtonpost.com/wp-dyn/articles/A27869-2003Jan8.html" TARGET="_top">
+http://www.washingtonpost.com/wp-dyn/articles/A27869-2003Jan8.html</A><BR>
+Ten Commandments Plaque Ordered Out of Pennsylvania Courthouse<BR>
+<A HREF="http://www.freedomforum.org/templates/document.asp?documentID=15834" TARGET="_top">
+http://www.freedomforum.org/templates/document.asp?documentID=15834</A><BR>
+American Civil Liberties Union: Religious Liberty<BR>
+<A HREF="http://www.aclu.org/ReligiousLiberty/ReligiousLibertylist.cfm?c=38" TARGET="_top">
+http://www.aclu.org/ReligiousLiberty/ReligiousLibertylist.cfm?c=38</A><BR>
+This Nation: Lemon v. Kurtzman<BR>
+<A HREF="http://www.thisnation.com/library/lemon.html" TARGET="_top">
+http://www.thisnation.com/library/lemon.html</A><BR>
+This week, county commissioners in Chattanooga, Tennessee voted to pay their attorneys by  selling plaques featuring the Ten Commandments that had once hung on the walls of the Hamilton County Courthouse. Early in May 2002, US District Judge Allan Edgar found the commission's display of the Ten Commandments to be in violation of the First Amendments provision for the separation of church and state. The debate and lawsuits over the appropriateness of displaying the Ten Commandments on publicly-held property and facilities also found its way to Frederick, Maryland, where the town leaders sold a small sliver of land holding a three-foot-tall granite marker featuring the Ten Commandments to the local chapter of the International Order of Eagles.<BR>
+<BR>
+The first link leads to an online Knoxville News-Sentinel newspaper article about the recent decision to auction off the Ten Commandment plaques. The second link takes users to a Washington Post article on the sale of the publicly-held land in Frederick, Maryland containing the granite monument with the Ten Commandments on it. The third link goes to a report on the removal of a plaque with the Ten Commandments from a courthouse in Chester County, Pennsylvania in early 2002, provided by the Freedom Forum.org Web site. The fourth link is to the ACLU's page on religious liberty, and details some of their recent involvement with related cases around the country. The final link is to the decision rendered in the historic Lemon v. Kurtzman case heard before the Supreme Court in 1971 that established the Lemon Test for analyzing laws related to church-state interaction in the United States.
+<A HREF="#team">[KMG]</A>
+<BR>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+
+
+</BLOCKQUOTE>
+
+
+<br><hr><br>
+
+<!-- Begin Copyright -->
+<P>Below are the copyright statements to be included when reproducing annotations from The Scout Report.</P>
+
+<P>The single phrase below is the copyright notice to be used when reproducing any portion of this report, in any format:
+<BR>
+
+<BLOCKQUOTE>
+From The Scout Report, Copyright Internet Scout Project 1994-2002. http://scout.wisc.edu/
+</BLOCKQUOTE>
+</P>
+
+<P>The paragraph below is the copyright notice to be used when reproducing the
+entire report, in any format:
+<BR>
+
+<BLOCKQUOTE>
+Copyright Susan Calcari and the University of Wisconsin Board of Regents,
+1994-2002. The Internet Scout Project (http://scout.wisc.edu/), located in
+the Computer Sciences Department of the University of Wisconsin-Madison,
+provides information about the Internet to the U.S. research and education
+community under a grant from the National Science Foundation, number
+NCR-9712163. The Government has certain rights in this material. Permission is
+granted to make and distribute verbatim copies of the entire Scout Report
+provided this paragraph, including the copyright notice, are preserved on all
+copies.
+</BLOCKQUOTE>
+</P>
+<!-- End Copyright -->
+
+<P>Any opinions, findings, and conclusions or recommendations expressed in this publication are those of the author(s) and do not necessarily reflect the views of the University of Wisconsin-Madison, or the National Science Foundation.</P>
+
+<br><hr><br>
+
+<A NAME="team"></A>
+<H3>The Scout Report (ISSN 1092-3861) is published weekly by Internet Scout</H3>
+
+<ul>
+    <li><A HREF="/about/team.html#mgrinnell" NAME="mgrinnell">Max Grinnell</A> -- Editor</li>
+    <li><A HREF="/about/team.html#tschroed" NAME="tschroed">Ted Schroeder</A> -- Managing Editor</li>
+
+    <li><A HREF="/about/team.html#bower" NAME="bower">Rachael Bower</A> -- Director</li>
+    <li><A HREF="/about/team.html#ealmasy" NAME="ealmasy">Edward Almasy</A> -- Technical Director</li>
+
+    <li><A HREF="/about/team.html#rsohmer" NAME="rsohmer">Rachel Sohmer</A> -- Contributor</li>
+    <li><A HREF="/about/team.html#jbrieske" NAME="jbrieske">Joel Brieske</A> -- Contributor</li>
+    <li><A HREF="/about/team.html#cleske" NAME="cleske">Cavin Leske</A> -- Contributor</li>
+
+    <li><A HREF="/about/team.html#whayes" NAME="whayes">Wayne Hayes</A> -- Contributor</li>
+    <li><A HREF="/about/team.html#lboyle" NAME="lboyle">Laura Boyle</A> -- Contributor</li>
+    <li><A HREF="/about/team.html#yas" NAME="yas">Yasuhiro Sasahira</A> -- Contributor</li>
+
+    <li><A HREF="/about/emeritus.html#dshapiro" NAME="dshapiro">Debra Shapiro</A> -- Contributor</li>
+
+    <li><A HREF="/about/team.html#djsleasman" NAME="sleasman">David Sleasman</A> -- Internet Cataloger</li>
+    <li><A HREF="/about/team.html#cholden" NAME="cholden">Colin Holden</A> -- Assistant Internet Cataloger</li>
+    <li><A HREF="/about/team.html#bwiegan" NAME="bwiegan">Barry Wiegan</A> -- Software Engineer</li>
+
+    <li><A HREF="/about/team.html#pmcoulthard" NAME="pmcoulthard">Pat Coulthard</A> -- Technical Specialist</li>
+    <li><A HREF="/about/team.html#ndiewald" NAME="ndiewald">Noah Diewald</A> -- Technical Specialist</li>
+    <li><A HREF="/about/team.html#yacomink" NAME="yacomink">Andy Yaco-Mink</A> -- Website Designer</li>
+</ul>
+
+<P>For information on additional contributors, see the Internet Scout Project staff page:
+<BR><A HREF="http://scout.wisc.edu/about/team.html">http://scout.wisc.edu/about/team.html</A>
+</p>
+<br><hr><br>
+
+
+<H3>Scout Report and Scout Report HTML Subscription Instructions</H3>
+
+<P>
+To receive the electronic mail version of the Scout Report each week, join the SCOUT-REPORT mailing list. This is the only mail you will receive from this list.
+</P>
+
+<UL>
+<LI>
+To subscribe Scout Report, go to:<BR>
+<A HREF="http://scout.wisc.edu/misc/lists/">http://scout.cs.wisc.edu/misc/lists/</A>
+<BR></li>
+<LI>
+Or send email to:<BR>
+        <A HREF="mailto:listserv@cs.wisc.edu">listserv@cs.wisc.edu</A><BR>
+In the body of the message type:<BR>
+        subscribe SCOUT-REPORT
+<BR></li>
+<LI>
+To unsubscribe, send email to:<BR>
+<A HREF="mailto:listserv@cs.wisc.edu">listserv@cs.wisc.edu</A><BR>
+In the body of the message type:<BR>
+    unsubscribe SCOUT-REPORT
+<BR></li>
+<LI>
+For subscription options, send email to:<BR>
+<A HREF="mailto:listserv@cs.wisc.edu">listserv@cs.wisc.edu</A><BR>
+In the body of the message type:<BR>
+    query SCOUT-REPORT</li>
+</UL>
+
+
+<P>
+To receive the electronic mail version of the Scout Report in HTML format, subscribe to the SCOUT-REPORT-HTML mailing list. This is the only mail you will receive from this list.
+</P>
+
+<UL>
+<LI>
+To subscribe online to the Scout Report in HTML, go to:<BR>
+<A HREF="http://scout.cs.wisc.edu/misc/lists/">http://scout.cs.wisc.edu/misc/lists/</A>
+<BR></li>
+<LI>
+Or send email to:<BR>
+        <A HREF="mailto:listserv@cs.wisc.edu">listserv@cs.wisc.edu</A><BR>
+In the body of the message type:<BR>
+        subscribe SCOUT-REPORT-HTML
+<BR></li>
+<LI>
+To unsubscribe, send email to:<BR>
+        <A HREF="mailto:listserv@cs.wisc.edu">listserv@cs.wisc.edu</A><BR>
+In the body of the message type:<BR>
+        unsubscribe SCOUT-REPORT-HTML
+<BR></li>
+<LI>
+For subscription options, send email to:<BR>
+        <A HREF="mailto:listserv@cs.wisc.edu">listserv@cs.wisc.edu</A><BR>
+In the body of the message type:<BR>
+        query SCOUT-REPORT-HTML</li>
+</UL>
+
+
+<H3>The Scout Report's Web page:</H3>
+<A HREF="http://scout.wisc.edu/report/sr/">http://scout.wisc.edu/report/sr/</A><BR>
+
+
+<P>
+<A HREF="#contents">[Back to Contents]</A>
+</P>
+
+<br><hr><br>
+
+<CENTER>
+
+<P>
+Comments, Suggestions, Feedback<BR>
+Use our <A HREF="http://scout.wisc.edu/misc/feedback.html">feedback form</A> or send email to <A HREF="mailto:scout@cs.wisc.edu">scout@cs.wisc.edu</A>.
+</P>
+
+<P>
+<FONT SIZE="-1"><EM>&#169; 2002 Internet Scout Project</EM></FONT><BR>
+Information on reproducing any publication is available on our <A HREF="http://scout.wisc.edu/misc/copyright.html">copyright page</A>.
+</P>
+
+<P>
+<A HREF="http://scout.wisc.edu/report/sr/">A Publication of the Internet Scout Project</A>
+</P>
+
+</CENTER>
+
+</BODY>
+</HTML>

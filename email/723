@@ -1,0 +1,372 @@
+Received: (qmail 7498 invoked from network); 7 Jan 2003 20:44:41 -0000
+Received: from dev212.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 7 Jan 2003 20:44:41 -0000
+Received: (qmail 581 invoked by uid 99); 7 Jan 2003 20:44:41 -0000
+Received: (qmail 16334 invoked from network); 7 Jan 2003 20:44:39 -0000
+Received: from unknown (HELO intm10.sparklist.com) (216.91.57.131)
+  by www.mailshell.com with SMTP; 7 Jan 2003 20:44:39 -0000
+X-Mailer: Lyris ListManager Web Interface
+Date: Tue, 7 Jan 2003 12:38:49 -0800
+Subject: CodeGuru Newsletter (1-7-2003)
+To: "Mailshell User" <nospam@mailshell.com>
+From: CodeGuru Update <listsupport@internet.com>
+List-Unsubscribe: <mailto:leave-earthweb-code-guru-update-text-1732277C@list10.internet.com>
+Reply-To: CodeGuru Update <listsupport@internet.com>
+Message-Id: <SPARKLIST-1732277-1583057-2003.01.07-12.40.37--nospam#mailshell.com@list10.internet.com>
+
+==========================================================
+                  CodeGuru  Newsletter 
+                    January 7, 2003
+  
+                    www.CodeGuru.com
+
+            This newsletter is part of the 
+    Developer.com, EarthWeb, and internet.com networks.
+==========================================================
+
+ TOPICS:
+  
+  --> Editorial - A few words on...
+        ...December's Lucky People
+        ...What's Coming From Microsoft in 2003?
+        ...Box Office
+        
+  --> New Articles on CodeGuru:
+
+       ==> Data - Miscellaneous
+         - XMLite: Simple DOM-Based XML Parser - (C++)
+       ==> List View
+         - Simplified Subitem Editing - (C++)
+       ==> Managed C++
+         - Using the .NET Image Class - (VC++ .NET)
+       ==> Misc
+         - Template Classes for Digital Signal Analysis - (C++)
+       ==> .NET General
+         - Building Keyboard Accelerators into .NET Windows 
+           Forms Applications - (.NET)
+       ==> System
+         - Editing A Remote Hard Disk - (C++)
+
+  --> Discussion Groups
+
+  --> Highlighted new articles on Developer.com
+
+       1. The Theory Behind User Interface Design, Part Two
+       2. Building with Ant: Introduction
+       3. JSP Security
+
+
+==========================================================
+                Comments from the Editor
+==========================================================
+
+...............................
+ ...December's Lucky People...
+...............................
+
+Remember, those that have articles posted to the CodeGuru
+site have a chance to get a free copy of the CodeGuru Goodies
+book that is due out later this month. The two people randomly
+chosen from December's article postings are:
+
+   Adrian Bacaianu
+   Jason Clark
+
+Congratulations!  These two will get a copy of the book
+once it publishes. 
+
+Those that have articles published on the site in January are 
+eligible for the next drawing! 
+
+  http://books.internet.com/books/0789727773 
+
+For more information on submitting an article, see:
+
+  http://www.codeguru.com/SubmissionsGuidelines.html
+
+.............................................
+ ...What's Coming From Microsoft in 2003?...
+.............................................
+
+I thought this would be a good time to look ahead at what 
+is coming from Microsoft in 2003.  Microsoft has indicated 
+the following releases and milestones for this new year. It 
+will be interesting to see which of these make it and which 
+-- if any -- don't.
+
+ - Expect the release of Windows&reg; .NET Server 2003. This 
+   is expected in the first half of this year.
+
+ - Expect the release of the next version of Office ("Office 11"). 
+   Among its features, this new version will have broad support 
+   for XML.
+
+ - Expect the next version of the Exchange messaging platform, 
+   code-named "Titanium." Among its new features is better mobile 
+   access.
+
+ - Expect "Jupiter." This is a new, combined version of Microsoft 
+   BizTalk(r) Server, Microsoft Commerce Server and Microsoft 
+   Content Management Server.
+
+ - Expect SharePoint(tm) Team Services.
+
+ - Expect "XDocs," a new application, built from the ground up. 
+   This application which is expected to be a part of the office
+   suite of apps, allows you to create rich text forms that can 
+   serve as a front end in capturing data.
+
+ - Expect Microsoft Visual Studio&reg; .NET 2003 along with the 
+   .NET Framework 1.1. 
+
+ - Expect the release of a 64-bit version of Microsoft SQL Server(tm)
+   2000 Enterprise Edition. This version is to take advantage in the 
+   enhancements in the 64-bit platform of Windows .NET Server 2003.
+
+- Expect an enterprise-level tool for conducting managed communications 
+  via instant messaging - MSN(r) Messenger Connect for Enterprises.
+
+ - Expect speech. Microsoft is working on a number of speech 
+   technologies including the release of a beta of the .NET 
+   Speech platform, the release to manufacturing of the .NET
+   Speech SDK, and browser extensions for Pocket Internet Explorer.
+
+ - Expect a newly upgraded telematics software platform, Windows 
+   Automotive. This software will enable easy access to servers, 
+   networks and a wide range of Web services from your car.
+
+And most of all, expect coverage on CodeGuru and Developer.com on 
+these topics and their impacts.
+
+........................
+ ...At the Box Office...
+.........................
+
+While unrelated to CodeGuru or even programming, I've 
+decided that based on the feedback that I've received that
+I will keep the box office information in the newsletter. 
+I don't promise to have this every week; however, a large
+number of people asked me to keep it -- even though it was
+a bit off topic.
+
+This past week-end was very similar to the previous week-end.
+The top four movies remained the same. For those of you that
+thought Catch Me If You Can would bump Lord of the Rings, I'm
+sorry to say, you were wrong. Lord... maintained the first 
+place with yet another $25 million. At over $260 million in 
+just three weeks, this movie is hot. It is outpacing the first
+in the series.
+
+Second place once again falls to Catch Me If You Can. While
+I am not a big fan of Leonardo, I must say that I thought he
+did a good job in this movie. With another $21 million, this 
+movie is not lagging.
+
+Third and fourth place remained with the same as well. In
+third was Two Weeks Notice with another $11 million. Fourth 
+was Maid in Manhattan with more than another $8 million. 
+Gangs of New York fell to number six with just a little over 
+$7 million, while About Schmidt moved up from 22nd to 5th 
+with just over $8 million.
+
+Until next week... 
+
+Brad! 
+
+---------------------------
+Brad Jones
+www.CodeGuru.com
+webmaster@codeguru.com
+---------------------------
+
+
+
+==========================================================
+                New Articles on CodeGuru
+==========================================================
+
+Following are short descriptions of new articles on CodeGuru. 
+If you are interested in submitting your own article for 
+inclusion on the site, then you will find guidelines located
+at http://www.codeguru.com/SubmissionsGuidelines.html. 
+
+This week's posted CodeGuru articles:
+
+==> Data - Miscellaneous
+
+  - XMLite: Simple DOM-Based XML Parser - (C++)
+     By Cho Kyung Min
+    Build a lightweight XML parser. Support non-English 
+    languages such as Korean as well as escape characters. 
+
+    http://www.codeguru.com/data-misc/XMLite.html
+
+
+==> List View
+
+  - Simplified Subitem Editing - (C++)
+     By Gunnar Andre' Dalsnes
+    A way to subclass the listview edit control. 
+
+    http://www.codeguru.com/listview/subedit.html
+
+
+==> Managed C++
+
+  - Using the .NET Image Class - (VC++ .NET)
+     By Kate Gregory
+    Previously Kate showed how to use the ATL CImage class 
+    to dramatically simplify working with images in classic
+    C++ applications. This time around, she creates the an 
+    application as a Managed C++ Windows application and 
+    uses System.Drawing.Image to do the heavy lifting. 
+
+    http://www.codeguru.com/cpp_managed/12-KateGregory.html
+
+
+==> Misc
+
+  - Template Classes for Digital Signal Analysis - (C++)
+     By Alexander Beletsky
+    Well-known transformations such as Fourier, Walsh, and 
+    Haaras are very useful in digital signal processing. 
+    This article briefly describes a collection of template
+    classes that can be used in digital signal analysis. 
+
+    http://www.codeguru.com/misc/Transform.html
+
+
+==> .NET General
+
+  - Building Keyboard Accelerators into .NET Windows 
+    Forms Applications - (.NET)
+     By Kenn Scribner
+    Accelerator tables aren't the sexiest thing to code in 
+    Microsoft .NET. But ask any professional user interface
+    designer and you'll find that keyboard acceleration is 
+    usually considered a critical application feature. Rare 
+    is the user that has not placed data on the clipboard 
+    using Ctrl+C and pasted it into another application using 
+    Ctrl+V. Users expect such functionality in GUI applications,
+    and .NET Windows Forms applications are no exception. 
+
+    http://www.codeguru.com/net_general/KennS.html
+
+
+==> System
+
+  - Editing A Remote Hard Disk - (C++)
+     By Vinoj Kumar
+    Detailed tutorial on reading and writing to disks in 
+    Windows 95, NT, and beyond. 
+
+    http://www.codeguru.com/system/RemoteEdit.html
+
+
+==========================================================
+               Discussion Groups 
+==========================================================
+
+Check out the CodeGuru discussion forums at:
+
+http://www.codeguru.com/forum
+
+Forums include Visual C++, General C++, Visual Basic, Java,
+General Technology, C#, ASP.NET, XML, Help Wanted, and 
+much, much, more!
+
+You can check out hardcore Visual Basic discussions at:
+
+http://www.VBForums.com
+
+==========================================================
+               New Articles on Developer.com
+==========================================================
+
+Below are some of the new articles that have been posted to
+our sister site, www.developer.com.
+
+1. The Theory Behind User Interface Design, Part Two
+    By Mauro Marinilli - 
+   Mauro Marinilli continues his discussion on some of 
+   the more interesting aspects of graphical user interfaces.
+
+   http://www.developer.com/design/article.php/1564681
+
+
+2. Building with Ant: Introduction
+    By Alex Chaffee - 
+   Developing Web applications using Java Servlets, 
+   JavaServer Pages, and other J2EE technologies is fun! 
+   See how to avoid many of the common growing pains of 
+   application development by using simple tools, like 
+   Ant and JUnit, and a simple directory structure.
+
+   http://www.developer.com/java/other/article.php/989631
+
+
+3. JSP Security
+    By Jordan Dimov - 
+   A concise overview of code and configuration-level 
+   security issues that commonly arise in Java Server 
+   Pages scripts, as well as advice for the mitigation 
+   of associated risks.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LIKE THIS NEWSLETTER?  WANT YOUR OWN?
+Managing your own email newsletter is easy and affordable 
+with SparkLIST! 
+
+Over 800 businesses -- including internet.com -- use 
+SparkLIST to manage their email newsletters & campaigns.  
+Call us at 1 (800) 485-9994, or visit us at: 
+http://www.sparklist.com/
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Advertising: If you are interested in advertising in our newsletters, call 
+Claudia at 1-203-662-2863 or send email to mailto:nsladsales@internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For contact information on sales offices worldwide visit 
+http://www.internet.com/mediakit/salescontacts.html
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+For details on becoming a Commerce Partner, contact David Arganbright
+on 1-203-662-2858 or mailto:commerce-licensing@internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To learn about other free newsletters offered by internet.com or 
+to change your subscription visit http://e-newsletters.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+internet.com's network of more than 160 Web sites is organized into 16 
+channels: 
+Internet Technology          http://internet.com/it
+E-Commerce/Marketing         http://internet.com/marketing
+Web Developer                http://internet.com/webdev
+Windows Internet Technology  http://internet.com/win
+Linux/Open Source            http://internet.com/linux
+Internet Resources           http://internet.com/resources
+ISP Resources                http://internet.com/isp
+Internet Lists               http://internet.com/lists
+Download                     http://internet.com/downloads
+International                http://internet.com/international
+Internet News                http://internet.com/news
+Internet Investing           http://internet.com/stocks 
+ASP Resources                http://internet.com/asp
+Wireless Internet            http://internet.com/wireless 
+Career Resources             http://internet.com/careers
+EarthWeb		     http://www.earthweb.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+To find an answer - http://search.internet.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Looking for a job? Filling an opening? - http://jobs.internet.com
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This newsletter is published by Jupitermedia Corporation
+http://internet.com - The Internet & IT Network 
+Copyright (c) 2003 Jupitermedia Corporation. All rights reserved.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+For information on reprinting or linking to internet.com content: 
+http://internet.com/corporate/permissions.html 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+---
+You are currently subscribed to earthweb-code-guru-update-text as: nospam@mailshell.com
+To unsubscribe send a blank email to leave-earthweb-code-guru-update-text-1732277C@list10.internet.com

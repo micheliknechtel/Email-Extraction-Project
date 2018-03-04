@@ -1,0 +1,138 @@
+Received: (qmail 3622 invoked from network); 22 Jan 2003 22:07:29 -0000
+Received: from unknown (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 22 Jan 2003 22:07:29 -0000
+Received: (qmail 25347 invoked by uid 99); 22 Jan 2003 22:07:29 -0000
+Received: (qmail 30040 invoked from network); 22 Jan 2003 22:07:28 -0000
+Received: from unknown (HELO delivery.pens.microsoft.com) (207.46.248.69)
+  by mail.mailshell.com with SMTP; 22 Jan 2003 22:07:28 -0000
+Received: from TK2MSFTDDSQ01 ([10.40.1.65]) by delivery.pens.microsoft.com with Microsoft SMTPSVC(5.0.2195.5600);
+	 Wed, 22 Jan 2003 14:05:15 -0800
+Reply-To: <3_43313_251D1FCA-FDBA-40F0-A8C6-60BEA1D1A416_US@Newsletters.Microsoft.com>
+From: "Microsoft" <0_43313_251D1FCA-FDBA-40F0-A8C6-60BEA1D1A416_US@Newsletters.Microsoft.com>
+To: "Mailshell User" <nospam@mailshell.com>
+Subject: Microsoft Security Bulletin MS03-001: Unchecked Buffer in Locator Service Could Lead to Code Execution (810833)
+Date: Wed, 22 Jan 2003 14:07:09 -0800
+Message-ID: <187c5d01c2c262$9bd9f010$4101280a@TK2MSFTDDSQ01>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft CDO for Windows 2000
+Thread-Index: AcLCYpa67ZEZQMpXScafpR/VhvxbDg==
+Content-Class: urn:content-classes:message
+X-MimeOLE: Produced By Microsoft MimeOLE V5.50.4910.0300
+X-OriginalArrivalTime: 22 Jan 2003 22:05:15.0703 (UTC) FILETIME=[57E56470:01C2C262]
+
+-----BEGIN PGP SIGNED MESSAGE-----
+
+- ----------------------------------------------------------------------
+Title:      Unchecked Buffer in Locator Service Could Lead to Code
+            Execution (810833)
+Date:       22 January, 2003
+Software:   Microsoft Windows NT 4.0, Windows 2000, and Windows XP
+Impact:     Run code of the attacker's choice=20
+Max Risk:   Critical
+Bulletin:   MS03-001
+
+Microsoft encourages customers to review the Security Bulletins at:=20
+http://www.microsoft.com/technet/security/bulletin/ms03-001.asp
+http://www.microsoft.com/security/security_bulletins/ms03-001.asp
+- ----------------------------------------------------------------------
+
+Issue:
+=3D=3D=3D=3D=3D=3D
+The Microsoft Locator service is a name service that maps logical
+names to network-specific names. It ships with Windows NT 4.0,
+Windows 2000, and Windows XP. By default, the Locator service is
+enabled only on Windows 2000 domain controllers and Windows NT 4.0
+domain controllers; it is not enabled on Windows NT 4.0 workstations
+or member servers, Windows 2000 workstations or member servers,
+or Windows XP.=20
+
+A security vulnerability results from an unchecked buffer in the
+Locator service. By sending a specially malformed request to the
+Locator service, an attacker could cause the Locator service to
+fail, or to run code of the attacker's choice on the system.=20
+
+Mitigating Factors:
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+ - The Locator service is not enabled by default on any affected
+   versions of Windows with the exception of Windows 2000 domain
+   controllers and Windows NT 4.0 domain controllers.=20
+
+ - A properly-configured firewall would block the calls to the
+   Locator service, which would protect an affected machine from
+   an Internet-based attack.=20
+
+Risk Rating:
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+ - Windows NT 4.0 (Workstations and Member Servers): Moderate=20
+ - Windows NT 4.0 (Domain Controllers Only): Critical=20
+ - Windows NT 4.0, Terminal Server Edition: Moderate=20
+ - Windows 2000 (Workstations and Member Servers): Moderate=20
+ - Windows 2000 (Domain Controllers Only): Critical=20
+ - Windows XP: Moderate=20
+
+Patch Availability:
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+ - A patch is available to fix this vulnerability. Please read the=20
+   Security Bulletins at
+   http://www.microsoft.com/technet/security/bulletin/ms03-001.asp
+   http://www.microsoft.com/security/security_bulletins/ms03-001.asp
+
+   for information on obtaining this patch.
+
+Acknowledgment:
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+ -  David Litchfield of Next Generation Security Software Ltd.
+    (http://www.nextgenss.com)
+
+- ---------------------------------------------------------------------
+
+THE INFORMATION PROVIDED IN THE MICROSOFT KNOWLEDGE BASE IS=20
+PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. MICROSOFT DISCLAIMS
+ALL WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING THE=20
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE. IN NO EVENT SHALL MICROSOFT CORPORATION OR ITS SUPPLIERS
+BE LIABLE FOR ANY DAMAGES WHATSOEVER INCLUDING DIRECT, INDIRECT,
+INCIDENTAL, CONSEQUENTIAL, LOSS OF BUSINESS PROFITS OR SPECIAL
+DAMAGES, EVEN IF MICROSOFT CORPORATION OR ITS SUPPLIERS HAVE BEEN
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME STATES DO NOT
+ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL
+OR INCIDENTAL DAMAGES SO THE FOREGOING LIMITATION MAY NOT APPLY.
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP 7.1
+
+iQEVAwUBPi7NZ40ZSRQxA/UrAQEzNggAgAa9wznPiTNtKbrrngSSWIaR/bYQGyzt
+OpI7a1qTGOGUvqYObzOkJy9GYzS1fzTN7rgZ6RpKJyqQeaIs+q9ammFCiufma2Jq
+0tvenbqxN6h3a2pSDlX8vc8bXb7d4irQoiFn077CrYP3/oGfm+gLGdgGnrLLHQpp
++BfWqvG7IIuk6ZVTkBILlQhsWAA9VrF3rdh1FdEWK+QeK/4hEqxSPIfnuSL9R1ay
+f54mhwQ1v0jQfLZq42RHsKGAQdvOwOLcT//5QhwVgSCm9xLjweMCBYyFddua36qR
+LNZCDJncgDbs/pqqg5U/Q6moJtJ30RGHS5qyXanr8ZcFHF80YsD2Bw=3D=3D
+=3DUqEH
+-----END PGP SIGNATURE-----
+
+=0D
+*******************************************************************
+
+You have received this e-mail bulletin because of your subscription to =
+the Microsoft Product Security Notification Service.  For more =
+information on this service, please visit =
+http://www.microsoft.com/technet/security/notify.asp.
+=20
+To verify the digital signature on this bulletin, please download our =
+PGP key at http://www.microsoft.com/technet/security/notify.asp.
+=20
+To unsubscribe from the Microsoft Security Notification Service, please =
+visit the Microsoft Profile Center at =
+http://register.microsoft.com/regsys/pic.asp=20
+=20
+If you do not wish to use Microsoft Passport, you can unsubscribe from =
+the Microsoft Security Notification Service via email as described =
+below:
+Reply to this message with the word UNSUBSCRIBE in the Subject line.
+=20
+For security-related information about Microsoft products, please visit =
+the Microsoft Security Advisor web site at =
+http://www.microsoft.com/security.

@@ -1,0 +1,544 @@
+Received: (qmail 30944 invoked from network); 7 Jan 2003 09:16:39 -0000
+Received: from dev210.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 7 Jan 2003 09:16:39 -0000
+Received: (qmail 12124 invoked by uid 99); 7 Jan 2003 09:16:39 -0000
+Received: (qmail 29151 invoked from network); 7 Jan 2003 09:16:37 -0000
+Received: from unknown (HELO list.adventive.com) (64.35.154.130)
+  by www.mailshell.com with SMTP; 7 Jan 2003 09:16:37 -0000
+Received: from spudmonk (e-64-35-154-130.empnet.net) by list.adventive.com (LSMTP for Windows NT v1.1b) with SMTP id <4.00228C95@list.adventive.com>; Tue, 7 Jan 2003 0:00:53 -0800
+Received: from LIST.ADVENTIVE.COM by LIST.ADVENTIVE.COM (LISTSERV-TCP/IP
+          release 1.8d) with spool id 3308159 for
+          I-STRATEGY@LIST.ADVENTIVE.COM; Tue, 7 Jan 2003 00:00:52 -0800
+Approved-By: editor@ADVENTIVE.COM
+Received: from stargate.audettemedia (bc184249.bendcable.com) by
+          list.adventive.com (LSMTP for Windows NT v1.1b) with SMTP id
+          <3.0022867C@list.adventive.com>; Mon, 6 Jan 2003 11:46:33 -0800
+Content-Type: text/plain; charset=us-ascii
+X-Unsubscribe: i-strategy-signoff-request@list.adventive.com
+Message-ID:  <I-STRATEGY%2003010700005251@LIST.ADVENTIVE.COM>
+Date:         Tue, 7 Jan 2003 00:00:52 -0800
+Reply-To: strategy@ADVENTIVE.COM
+Sender: The I-Strategy Discussion List <I-STRATEGY@LIST.ADVENTIVE.COM>
+From: I-Strategy <editor@ADVENTIVE.COM>
+Subject:      I-Strategy Digest, Issue 230: Happy New Year
+To: "Mailshell User" <nospam@mailshell.com>
+
+-------------------------------------------------------------------
+                    I-Strategy Discussion List
+              "E-commerce and Internet Strategies"
+
+          This Issue Is Brought To You By Adventive
+                     Host Your List With Us
+                    http://www.adventive.com
+
+-------------------------------------------------------------------
+Moderator:                                         Published by:
+Dana Blankenhorn                                     Adventive
+danab@adventive.com                            www.adventive.com
+-------------------------------------------------------------------
+January 7, 2003                                     Digest #230
+-------------------------------------------------------------------
+SEND POSTS: mailto:strategy@adventive.com
+-------------------------------------------------------------------
+Refer a friend: http://www.adventive.com/tellafriend.html
+-------------------------------------------------------------------
+
+                  .....IN THIS DIGEST.....
+
+// -- MODERATOR COMMENT -- //
+
+        "Happy New Year, Etc."
+                ~ YOS
+
+// -- NEW DISCUSSION -- //
+
+        "Sue Me Anywhere"
+                ~ Mark Neely
+                        ~ Moderator Comment
+
+        "The Internet Forgot (On Purpose)"
+                ~ R. G. Smith
+
+// -- CONTINUING DISCUSSION -- //
+
+        "Internet Criticism"
+                ~ Jaime Ospina
+
+        "Hidden Secret of Web Site Success"
+                ~ Kaitlin Duck Sherwood
+                ~ Marilynne Rudick
+
+-------------------------------------------------------------------
+
+// -- MODERATOR COMMENT -- //
+
+== > TOPIC: HAPPY NEW YEAR, ETC.
+
+I hope your New Year was a happy one.
+
+It was for me. With friends and family by my side, I watched my book
+"The Blankenhorn Effect"
+(http://www.trafford.com/robots/02-1082.html) finally become
+available.
+
+I asked for some marketing ideas before, but that was mainly
+theoretical. Now comes the hard part.
+
+And this is, no doubt, the hard part for you as well. Implementing
+new Internet strategies is always hard. I personally find
+implementation much more difficult than coming up with strategies,
+and I don't think I'm alone in that.
+
+So let's start the new year there. How do you settle upon an
+Internet strategy, that is, how do you bring closure to the
+discussion? And what are the steps you think should be taken
+(details please) in transforming plans into action?
+
+YOS
+
+Comment? mailto:strategy@adventive.com
+
+
+============= Sponsor Message ============
+
+               **** Host Your List With Adventive! ****
+
+Adventive is now offering its hosting technology to qualified
+customers. Put your list on the map with high-powered LISTSERV
+technology, superior uptime, and total control of your customer
+lists.
+
+              List promotion packages also available.
+            Apply today:  mailto:hosting@adventive.com
+
+============= Sponsor Message ============
+
+
+// -- NEW DISCUSSION -- //
+
+== > TOPIC: SUE ME ANYWHERE
+
+From: Mark Neely <mpn@infolution.com.au>
+
+Dana,
+
+I was a bit disappointed in your recent criticism ("clueless") of
+the Australian High Court libel decision. Below is a recent response
+I made to a post in I-Sales that outlines my "rebuttal".
+
+Comments/debate (as always) welcome :)
+
+Mark
+
+BL Ochman wrote:
+
+>>What a can of worms! I can easily see Dow Jones' point that they
+can't be expected to know the libel laws in every country on the
+planet. <<
+
+I have to say I'm having something of a "lawyer's reaction" to the
+criticism of the Australian High Court's decision.
+
+The High Court is on par with the US Supreme Court in terms of being
+at the apex of the Australian legal system. It is comprised of a
+handful or so of very well regarded jurists.
+
+I can appreciated that US citizens, given their Constitutional
+treatment of "freedom of speech" and "freedom of press" might react
+to an Australian court holding a US corporation to task for
+"defamatory" statements.
+
+Two important points:
+
+(a) It isn't the case that US (or any other publishers) need to be
+apprised of "the libel laws in every country". Truth is universal.
+Truth, as a rule, is a universal defence in such actions. The report
+was erroneous. US publishers, like all others, just need to worry
+about being right.
+
+(b) I am somewhat surprised that no-one seems to be drawing
+parallels with the ElcomSoft Co. Ltd. prosecution pursuant to the
+U.S. Digital Millennium Copyright Act. A Russian company, and one of
+its chief programmers, neither of which is bound by US law, were
+prosecuted pursuant to a piece of US legislation, after the Russian
+programmer was arrested (by the FBI, at the urging of Adobe) when
+attending a conference in the US.
+
+Again, at least truth is universal - you say something untruthful
+about someone, you can reliably expect that there may be
+ramifications. In the ElcomSoft case, the Russian programmer/company
+created a perfectly legal piece of code, yet were dragged into the
+US legal system - on a CRIMINAL charge - due to a reasonably
+aggressive piece of legislation that has no application beyond US
+shores.
+
+To quote the classics, "Methinks the lady doth protest too much."".
+
+Mark Neely, LLB AIMM
+Author & Technology Commercialisation Consultant
+Moderator - I-Entrepreneur Digest -
+www.adventive.com/lists/ientrepreneur/summary.html
+
+[Moderator Comment]
+
+By way of background, it should be noted that the U.S. Supreme Court
+last week stayed an order from California that forbade the movie
+industry from suing a list of 500 people all over the world over the
+issue of DVD copying. (http://zdnet.com.com/2100-1104-978985.html)
+To quote the classics, "What's good for the goose..."
+
+YOS
+
+Comment? mailto:strategy@adventive.com
+
+
+== > TOPIC: THE INTERNET FORGOT (ON PURPOSE)
+
+From:   R. G. Smith <rgsmith@c-gate.net>
+
+You would think PC Magazine/Ziff-Davis would have somewhat of a
+clue...
+
+but that would be wishful thinking, wouldn't it?
+
+I was looking for an old PC Magazine Utility, one of those written
+by a tech editor and published monthly for years... since it was for
+Windows 3.1, I wasn't surprised when I couldn't find it on PC Mag's
+web site.
+
+No problem... I remembered that old PC Magazine utilities are
+available by ftp from sites like Timo's FTP://ftp.garbo.uwasa.fi/
+
+Well, check this out...
+http://garbo.uwasa.fi/pub/pc/pcmagvol/pcmagvol.txt
+
+After nearly 10 years of hosting this public service, a lawyer from
+Ziff-Davis sends an e-mail to Timo at the University of Vaasa... I'm
+appending the text from the file.
+
+<begin pcmagvol.txt>
+
+Wed 18-Dec-2002 09:22 +0200 (EET)
+ftp://garbo.uwasa.fi/pc/pcmagvol/pcmagvol.txt
+
+pcmagvol.txt About the deletion of all PC Magazine utilities from Garbo
+
+The chronology of the essential events:
+--------------------------------------
+
+Fri 22-Jul-1994: PC Magazine's editor at the time Robin Raskin
+publicly releases a permit for noncommercial distribution of the PC
+Magazine program collections to the program archives on the Usenet
+news. [The public posting is included at the end this file]
+
+Fri 22-Jul-1994: Garbo archives maintainer (Timo Salmi) responds
+both on the Usenet news and privately informing of taking up the
+offer, and lists the relevant arrangements at Garbo archives. [The
+public posting is included at the end this file]
+
+Thu 5-Dec-2002: Ms. Tara Garfinkle tara_garfinkle@ziffdavis.com IP
+Manager of Ziff Davis Media Inc emails a litigious letter to Timo
+Salmi accusing Garbo program archives of "Unauthorized [sic] Hosting
+of Ziff Davis Utilities" and demands us to ".. immediately [to]
+cease and desist from any and all actions to reproduce, distribute,
+publish or prepare derivatives of any Ziff Davis content (including
+Utilities) or parts thereof on your website." The email then goes on
+to threaten with potential claims on damages.
+
+Fri 6-Dec-2002: Ms. Garfinkle's email reaches Timo Salmi during what
+is the Finnish Independence Day and thus also an official holiday in
+Finland.
+
+Sat 7-Dec-2002: Timo Salmi alerts by email the rector of the
+University of Vaasa, the head of the university's computer center,
+and the director of administration of the university about the
+litigious letter from the PC Magazine. Ms. Garfinkle is informed of
+the existence of a distribution permission.
+
+Sat 7-Dec-2002: All the known PC Magazine material is deleted from
+Garbo archives.
+
+Tue 10-Dec-2002: Ms. Garfinkle is informed by Timo Salmi by email of
+the deletion together with "guarantee[s] that in the future [Timo
+Salmi] will stay away from PC Magazine, all and any of its
+utilities, activities and anything else that may be related or
+produced under the auspices of [the] Magazine."
+
+Wed 11-Dec-2002: The relevant correspondence is forwarded to the
+attention of the PC Magazine's Chief Editor Stephanie Chang
+stephanie_chang@ziffdavis.com by Timo Salmi by email.
+
+Thu 12-Dec-2002: The current account of the events information file
+is first written to avert potential enquiries from Garbo's users.
+
+Wed 18-Dec-2002: No responses to the account provided by Garbo
+archives have been forthcoming from the PC Magazine to this date.
+Ziff Davis, of course, have every right to withdraw the earlier
+distribution permission, but their cavalier handling of the matter
+feels singularly lacking in elementary civilized manners.
+
+Prof. Timo Salmi ftp & http://garbo.uwasa.fi/ archives 193.166.120.5
+
+From: rraskin@pipeline.com (Robin Raskin)
+Newsgroups: comp.archives.msdos.announce
+Subject: PC Mag files on the Internet
+
+To all,
+
+Thank you for taking the time to write regarding PC Mag's distribution
+of utilities. The many letters I have received on this subject have
+reaffirmed my respect for both the Internet and the power of the written
+word.
+
+Let me respond to the closest thing to an original posting I can find:
+
+This message was posted on the SimTel Software Repository :
+
+"Because of a claim by PC Magazine that it has exclusive rights to the
+distribution of their programs on the Internet, the entire /msdos/pcmag
+directory and some programs in other directories have been deleted from
+the SimTel Software Repository."
+
+SimTel's posting is in response to a column I wrote in the July Issue
+of PC Magazine (page 30). In that column I wrote about the experiences
+PC Magazine had while creating their WWW server. Our server is a
+compliment to PC Magazine and a service to you. It is NOT, nor was
+it ever, intended to be the sole source of PC Magazine utilities.
+
+Posting the PC Magazine utilities on the Internet is welcome. PC
+Magazine utilities can be copied, but are copyrighted. You are free to
+make copies and distribute the utilities to others provided no charge is
+involved. Making copies or using any portion for commercial purposes is
+prohibited.
+
+I am sorry, that because of some unfortunate wording, I may have
+inadvertently confused some of the ftp administrators who subsequently
+responded by removing the utilities from their repositories. I will
+be contacting them individually to help restore their services.
+
+I truly regret any inconvenience or ill-will that the column caused.
+You can help me by posting this message anywhere you see people asking
+about PC Mag utilities.
+
+Robin Raskin
+PC Magazine
+rraskin@pipeline.com
+
+From: ts@chyde.uwasa.fi (Timo Salmi)
+Newsgroups: comp.archives.msdos.announce
+Subject: Re: PC Mag files on the Internet
+
+Robin Raskin wrote:
+
+"I am sorry, that because of some unfortunate wording, I may have
+inadvertently confused some of the ftp administrators who subsequently
+responded by removing the utilities from their repositories. I will
+be contacting them individually to help restore their services."
+
+Thank you. I have subsequently restored the material to Garbo
+archives. I am always pleased about a constructive resolution.
+
+I have rearranged the PC Magazine material at Garbo so that it now
+is in two directories. The directories are /pc/pcmagutil and
+/pc/pcmagvol with the following descriptions
+
+pcmagutl : Individual utilities and updates related to the PC Magazine
+pcmagvol : The volume collections of the PC Magazine
+
+All the best, Timo
+
+Prof. Timo Salmi Co-moderator of comp.archives.msdos.announce
+Moderating at garbo.uwasa.fi anonymous FTP archives 128.214.87.1
+Faculty of Accounting & Industrial Management; University of Vaasa
+Internet: ts@uwasa.fi BBS +(358)-61-3170972; FIN-65101, Finland
+
+<end pcmagvol.txt>
+
+Dana, we haven't heard the verb "Ziffed" in a while, have we?
+
+Regards,
+Roger
+
+Comment? mailto:strategy@adventive.com
+
+
+// -- CONTINUING DISCUSSION -- //
+
+== > TOPIC: INTERNET CRITICISM
+
+From: Jaime Ospina <info@orlandotouristinformationbureau.com>
+
+This really caught my eye.
+First of all happy holiday's to all.
+
+Rob Frankel wrote:
+
+>> what is the proper Internet Strategy for dealing with Internet
+criticism? If you're running a large company and you're being
+maligned by employees, customers, or others, what's the right way to
+respond, so that you protect your good name and don't do yourself
+further damage? <<
+
+To Rob:
+
+The biggest problem is you have no interest in employees, customers,
+or others. Your employees, customers, or others would not
+necessarily rise so if you were more sensitive to their need and
+input.
+
+Being big chief smoking big cigar that's only temporary.
+
+You have better invest in your revenue producing factors like
+employees, customers, or others.
+
+Try to smile and make friend and ask for INPUT!!
+
+On the off chance that you have been sensitive to employees,
+customers, or others.
+
+Then start asking for opinions other than your mandates....it is
+evident that staff doesn't want to work under those circumstances.
+
+This is easily transmitted to employees, customers, or others which
+is going to continue to bring your work into a deep 6 position
+.....get my drift!!
+
+Jaime Ospina
+Orlando At Your Service Inc.
+
+Comment? mailto:strategy@adventive.com
+
+
+== > TOPIC: HIDDEN SECRET OF WEB SITE SUCCESS
+
+From: Kaitlin Duck Sherwood <ducky@webfoot.com>
+
+>> That's what happens when you do this friendly, helpful stuff.
+You're putting a human touch on business, and people respond like
+the real live humans that they are. You have a wonderful time, but
+suddenly you realize that a day, a week, has slipped by and you
+haven't actually done any productive work for a long time. <<
+
+Okay, I have two pieces of advice for how to respond to email
+personally without it becoming an awful time sink.
+
+First, write and store responses to common questions. This can save
+you a lot of typing! Many email programs have ways to easily reuse
+such text. With Eudora, look for "Stationery" (which is very
+different from what Microsoft calls "Stationery). In Outlook and
+Outlook Express, use "Signatures". (You can insert as many
+"signatures" as you want, wherever you want them, so this works just
+fine for templates.)
+
+Second, be formal. I don't mean to use honorifics (or "Sie" or
+"Vous" vs. "du" or "tu"), but to use a formal writing style.
+"Formal" turns out to be, in many ways, a marker of how much context
+the writer and reader share. If you write informally, then you are
+sending the subtle message, "you and I have a lot of shared context,
+we are alike" which isn't too far off from "we like each other."
+
+So how do you write more formally? The easiest and most practical
+way is to write your response planning to store it to use over and
+over again. (You share essentially no context with an anonymous
+future reader.) This has the fringe benefit of helping you build up
+your response template inventory!
+
+For an interesting but academic paper on formality, see
+http://pespmc1.vub.ac.be/Papers/Formality.pdf
+
+Kaitlin Duck Sherwood
+Author of the _Overcome Email Overload_ series,
+http://www.EmailOverload.com
+
+Comment? mailto:strategy@adventive.com
+
+
+== > HIDDEN SECRET OF WEB SITE SUCCESS
+
+From: Marilynne Rudick <marilynne@ewriteonline.com>
+
+Dana,
+
+Thanks for your e-mail and a copy of your article, The Hidden
+Secrets of Web Success. I couldn't agree with you more about putting
+a personal e-mail address on a Web site. I think that having a Web
+site is an invitation for customers/the public to contact you. I'd
+like to see other contact information on the site as well--including
+a phone number. It's important to give people more than one way to
+contact you (e-mail may not be available or working) and some people
+would rather talk with a human being, rather than sending an e-mail.
+
+I believe that everyone deserves a quick response (I'm not sure that
+10 minutes is a realistic standard!). We collected hundreds of
+e-mails for our workbook, Clear, Correct, Concise E-Mail: A Writing
+Workbook for Customer Service Agents (www.WritingWorkbook.com). A
+good percentage of them don't answer the customer's question, much
+less solve their problem. Many are non responses--totally off topic,
+or send the writer back to the Web site to find an answer that's
+probably not there. A high percent don't respond at all. (We're
+compiling a sampler of customer DISservice e-mails, to illustrate
+the most common problems we've found. I'd be glad to send you the
+sampler when complete (next week!).
+
+We've written about what we consider the essentials of good e-mail
+in our book (Chapter 1: What Makes A Great Customer Service E-Mail).
+On our book Web site, we've also posted an article. Elevating
+Customer Service E-Mail from Adequate to Excellent
+(http://www.writingworkbook.com/articles/) that gives our thoughts
+on customer service e-mail. Feel free to use this article, or others
+from our site on your Web site or newsletter (with attribution).
+
+Like you, we have a lot to say about customer service e-mail! Let us
+know if we can provide more information, or continue this dialogue!
+
+Marilynne Rudick
+E-WRITE
+Author, Clear, Correct, Concise E-Mail: A Writing Workbook for
+Customer Service Agents
+www.WritingWorkbook.com
+
+Comment? mailto:strategy@adventive.com
+
+
+----------------------------------------------------------------
+
+You are subscribed as: nospam@MAILSHELL.COM
+
+List Hosting and Advertising Content:
+Adventive - The E-Publication Network for Professionals
+http://www.adventive.com
+
+Information on how to sponsor this publication:
+http://www.adventive.com/advertise.html
+mailto:advertising@adventive.com
+
+5+ Years of Indexed Searchable Archives:
+http://list.adventive.com/archives/archives.html
+
+UNSUBSCRIBE:
+http://www.adventive.com/removal/i-strategy/unsubscribe.html?subscriber=nospam@MAILSHELL.COM
+
+Alternative Link: <a
+href=http://www.adventive.com/removal/i-strategy/unsubscribe.html?subscriber=nospam@MAILSHELL.COM>
+Click Here to Unsubscribe </a>
+
+or to UNSUBSCRIBE VIA EMAIL:
+mailto:i-strategy-signoff-request@list.adventive.com
+
+Alternative Link: <a
+href="mailto:i-strategy-signoff-request@list.adventive.com">
+Unsubscribe Via Email </a>
+
+PROBLEMS WITH UNSUBSCRIBING?
+Contact our Postmaster: mailto:postmaster@adventive.com
+
+Alternative Link: <a
+href="mailto:postmaster@adventive.com">
+Email Postmaster </a>
+
+SUBSCRIBE:
+Email: mailto:i-strategy-join-request@list.adventive.com
+Web: http://www.adventive.com/subscribe.html
+
+(c) Copyright 2000-2003 Adventive. All Rights Reserved.
+-----------------------------------------------------------------

@@ -1,0 +1,350 @@
+Received: (qmail 19189 invoked from network); 8 Jan 2003 17:17:32 -0000
+Received: from dev210.mailshell.com (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 8 Jan 2003 17:17:32 -0000
+Received: (qmail 18110 invoked by uid 99); 8 Jan 2003 17:17:31 -0000
+Received: (qmail 26988 invoked from network); 8 Jan 2003 17:13:12 -0000
+Received: from unknown (HELO list.adventive.com) (64.35.154.130)
+  by www.mailshell.com with SMTP; 8 Jan 2003 17:13:12 -0000
+Received: from spudmonk (e-64-35-154-130.empnet.net) by list.adventive.com (LSMTP for Windows NT v1.1b) with SMTP id <1.002545F0@list.adventive.com>; Wed, 8 Jan 2003 8:57:59 -0800
+Received: from LIST.ADVENTIVE.COM by LIST.ADVENTIVE.COM (LISTSERV-TCP/IP
+          release 1.8d) with spool id 3400852 for I-WINSOFT@LIST.ADVENTIVE.COM;
+          Wed, 8 Jan 2003 08:57:57 -0800
+Approved-By: editor@ADVENTIVE.COM
+Received: from stargate.audettemedia (bc184249.bendcable.com) by
+          list.adventive.com (LSMTP for Windows NT v1.1b) with SMTP id
+          <2.00247A98@list.adventive.com>; Wed, 8 Jan 2003 8:56:13 -0800
+Content-Type: text/plain; charset=us-ascii
+X-Unsubscribe: i-winsoft-signoff-request@list.adventive.com
+Message-ID:  <I-WINSOFT%2003010808575753@LIST.ADVENTIVE.COM>
+Date:         Wed, 8 Jan 2003 08:57:57 -0800
+Reply-To: winsoft@ADVENTIVE.COM
+Sender: The I-Winsoft Discussion List <I-WINSOFT@LIST.ADVENTIVE.COM>
+From: I-WinSoft <editor@ADVENTIVE.COM>
+Subject:      I-Winsoft Digest, Issue 776
+To: "Mailshell User" <nospam@mailshell.com>
+
+-------------------------------------------------------------------
+                       I-WinSoft Discussion List
+                   "The Windows Software Resource"
+
+                 This Issue Is Brought To You By Adventive
+                        Advertise In I-Winsoft
+                       http://www.adventive.com
+
+-------------------------------------------------------------------
+List Moderator:                                    Published by:
+Michael Hensley                                      Adventive
+winsoft@adventive.com                          www.adventive.com
+-------------------------------------------------------------------
+January 8, 2002                                    Issue # 776
+-------------------------------------------------------------------
+SEND POSTS: mailto:winsoft@adventive.com
+-------------------------------------------------------------------
+ARCHIVES: http://list.adventive.com/archives/i-winsoft.html
+-------------------------------------------------------------------
+
+Have You Included Adventive In Your Marketing Plans?
+
+                          You should...
+
+We're still offering deeply discounted advertising rates
+across all of our digests during December and January.
+
+Don't hesitate to contact us! We can work with you to let our
+readers know about your products, services or site opportunities.
+
+Inquiries and bookings: <mailto:adsales@adventive.com>
+
+-------------------------------------------------------------------
+Refer a friend:  http://www.adventive.com/tellafriend.html
+-------------------------------------------------------------------
+I-WINSOFT HELP REFERENCE WEB PAGE:
+http://www.adventive.com/lists/iwinsoft/help.html
+-------------------------------------------------------------------
+   For instructions which will help you to include all the
+   necessary information to get the best answers to your
+   questions you can review the "Question Information Checklist"
+   either at the "help reference web page" listed above or via
+   email by clicking the following link:
+   mailto:listserv@list.adventive.com?Body=GET%20CHECKLIST.FILE.
+   If responding to a post, please include the original subject
+   and issue number of the post you are responding to.
+
+                  .....IN THIS DIGEST.....
+
+// -- MODERATOR COMMENT -- //
+
+        "Oops"
+                --Michael Hensley
+
+// -- QUESTIONS -- //
+
+        "Outlook At Startup"
+
+        "How do I restore email?"
+
+// -- RESPONSES -- //
+
+        "RE: Dual boot info request - Digest # 774 & 775" -- 2 Posts
+
+        "RE: CMOS battery - Digest # 771"
+
+
+// -- MODERATOR COMMENT -- //
+
+Hi all,
+
+Just wanted to apologize for the confusing moderator comment in
+issue # 775. Adventive publications were shut down over the Holidays
+and I didn't pay close attention to the notice.  I submitted the
+pre-Christmas issue too late to be published, then re-submitted the
+pre-New Year issue which got published after the New Year.  It was a
+very hectic holiday season for me and I am sorry for the confusion.
+We should be back on track now.
+
+YHM,
+
+--Michael
+
+Comment? mailto:winsoft@adventive.com
+
+
+// -- WINSOFT USER'S TIP -- //
+
+Got a tip? Mail it to mailto:winsoft@adventive.com with the word
+"TIP" in the subject line.
+
+
+// -- QUESTIONS -- //
+
+From: Walter Judd [wfjuddjr@comcast.net]
+Subject: Outlook At Startup
+
+Is it possible to add Outlook 2002 to my startup so that it opens when
+I boot/reboot?
+
+Walter Judd
+
+Comment? mailto:winsoft@adventive.com
+
+------- NEXT POST -------
+
+From: Jeff Nott [jeff@collectorsfigurines.com]
+Subject: How do I restore email?
+
+My hard drive crashed. Fortunately, I had everything backed-up on a
+CD. I restored all my files without problems except for my email
+folders which I can not now open.
+
+I am using Outlook Express and the original folders were stored at
+C:\Documents and Settings\Administrator\Local Settings\Application
+Data\Identities\{4903A7CA-6040-49BE-93FE-2461E20F0389}\Microsoft\Out
+look Express. (The usual place Microsoft hides the emails.) I backed
+up the emails by right clicking and using 'Go To' to send the
+folders to the back up CDRom. (The folders are on the CD.)
+
+When I tried to restore the folders, I created a same name folder
+for each in Outlook Express, deleted the new folders from the above
+location and copied my back-up folders into that location to take
+their place.
+
+In theory, and according to the magazine in front of me, this should
+work.... but it does not.
+
+I also tried the Import function in the File menu, but this looks
+for messages and address books - not folders full of messages.
+
+Does anyone know a work around that will restore my emails?
+
+All help will be much appreciated.
+
+Thanks.
+
+Jeff Nott
+http://www.collectorsfigurines.com
+Dog figurines that often zoom in value.
+Everything from the beautiful to the hilarious.
+
+Comment? mailto:winsoft@adventive.com
+
+
+// -- RESPONSES -- //
+
+From: Thomas Fisher [raidermp@yahoo.com]
+Subject: RE: Dual boot info request - Digest # 774 & 775
+
+Sylve;
+
+Speaking as a Win98SE/Win2000 dual boot user, I set mine up just like
+you are planning to do. Installed 98 first, 2000 second, with some
+programs on Drive F (I might add a third OS) and some programs on the
+same partition as the OS.
+
+I didn't really run into many problems as far as installing over top of
+things.  Just make sure you install everything using the same version of
+course, so it doesn't update drivers and such of course...
+
+As far as different versions, most programs will often install different
+versions into different sub-folders.  If not, you could even create the
+sub-folders yourself using the custom installation choice.  It might
+help prevent possible conflicts between drivers and such.
+
+As far as your printer drivers, you won't have any problems here.  I
+installed my printer/scanner/Palm/camera under both, and didn't have any
+problems.  Each is dependant on the OS, so it only applies to that OS in
+the registry.
+
+You will still have to update the Anti-V*rus signatures under each OS.
+Unfortunately, every time I've updated my Norton under one, I need to do
+the same under the other as well.
+
+One GREAT advantage I can mention about a dual boot, is that should your
+one OS take a nose dive, you won't come to a complete stop.  You just
+boot up to your other OS and keep right on moving until you have a
+chance to go back and fix the other.  Just make sure if you change the
+time to display the OS choices, you don't set it under about 10 seconds.
+That gives you at least some time to respond before it boots into the
+default OS.
+
+Good luck and I'd like to hear your results as well.
+
+Thomas
+
+------- NEXT RESPONSE - SAME SUBJECT -------
+
+From: Sylve M. Davis [SMD@sylve.net]
+Subject: RE: Dual boot info request - Digest # 774 & 775
+
+Well, it's done and up and running like a top! Thanks for the input Don,
+John and Allen. You were right on with the dual install of common
+programs Don and John. Partition Magic is a good program Allen but I am
+an old DOS person and fdisk has always been my choice - it never causes
+partition overlap or problems. I tend to shy away from 3rd party apps if
+there is a viable resident choice - less possible conflict.
+
+What and how? I backed up all my personal data to CDs and then fdisked
+and partitioned my 60 gig drive into 5 equal partitions. Formatted in
+FAT32 as I prefer to be able to fall back to DOS should there be problems.
+
+Created an "install98" folder on the F: and installed 98 on the C: and
+then downloaded all the updates I felt were applicable to my system.
+Applied all my system tweaks and then burned an ISO of the clean install.
+
+Integrated SP1 into my XP install files, created an "installXP" folder
+on F: and then installed XP on D:. Downloaded and installed the newest
+criticals for the OS from the update site and did the XP tweaks that I
+felt were needed (remove messenger, dump indexing, cancel error
+reporting etc.)
+
+Burned an ISO of both C: (with its added files for dual boot) and D:.
+
+Installed my film scanner into 98 (No driver for either the card or the
+CanoScan 2710 for XP! Lots of money for a unit that will have no drivers
+written for it for XP) along with the software. XP sees the card but
+ignores it.
+
+Software: All word processing apps overlap wonderfully! Both Office 2000
+and Word Perfect 10 with Presentations are happy residing in one place
+with calls from two different OSes. As I will rarely be on line in 98, I
+did not install either my Virus checker (Panda) nor Zone Alarm in Win98.
+All Graphic apps are also happy campers: Micrographx and Adobe Photoshop
+are content along with Lview, ACDSee and several Corel apps.
+
+Installed my older version of Easy CD 4 in Win98 because I like the
+control it gives me when I take LPs to CD. XP got Roxio's 5.3. Both
+versions reside in a single Adaptec folder inside their own subfolder.
+When they were installed, as there was no ref to the "other" in the
+registry, the install was without hitch in both Oses.
+
+Netscape 4.79 on Win98 and Netscape 7.0 in XP. No problems. IE 5.5 in 98
+and 6.1 in XP.
+
+A single pain in the #$@%$% - Quicken! As XP will be my main OS, it is
+installed there. John, you were right - that program does not like two
+masters!
+
+As far as drivers, each OS loads its own. What I find interesting is
+that I have a single machine, yet the XP drivers allow for faster
+EVERYTHING including downloads with a 56K modem. Have found a utility
+that backs up all driver info (creates *.inf files) and plan to try an
+upgrade on the Win98 drivers. Will not do so till I have burned an ISO
+of both C: and D: with all software info installed into each OS's registry.
+
+Present config:
+C:\ Win98
+D:\ WinXP
+E:\ Software
+F:\ All personal info along with original install folders and collected
+installable utility originals
+G:\ Pictures and Graphic files
+
+John, you had suggested a second machine but I have limited space in my
+office - this fits my needs well so far. What I do plan to do is clone
+all partitions onto a second hard drive (much cheaper and less space
+demanding).
+
+It's been an experience. Took me about 3 days working off and on in the
+evenings as I work during the day. If anyone has any questions or
+additional suggestions, feel free to email me. What an experience this
+has been.
+
+Sylve
+
+------- NEXT RESPONSE - NEW SUBJECT -------
+
+From: Mike Tech [tech@localnetplus.com]
+Subject: RE: CMOS battery - Digest # 771 - 775
+
+i have two *small* progs for saving/restoring CMOS settings that i
+have had since DOS Daze; they will fit on a boot floppy that has all
+the other boot files. do you want me to upload them?
+
+i don't know where to get them out on the net.
+
+Mike
+
+Comment? mailto:winsoft@adventive.com
+
+----------------------------------------------------------------
+
+You are subscribed as: nospam@MAILSHELL.COM
+
+List Hosting and Advertising Content:
+Adventive - The E-Publication Network for Professionals
+http://www.adventive.com
+
+Information on how to sponsor this publication:
+http://www.adventive.com/advertise.html
+mailto:advertising@adventive.com
+
+5+ Years of Indexed Searchable Archives:
+http://list.adventive.com/archives/archives.html
+
+UNSUBSCRIBE:
+http://www.adventive.com/removal/i-winsoft/unsubscribe.html?subscriber=nospam@MAILSHELL.COM
+
+Alternative Link: <a
+href=http://www.adventive.com/removal/i-winsoft/unsubscribe.html?subscriber=
+nospam@MAILSHELL.COM>
+Click Here to Unsubscribe </a>
+
+or to UNSUBSCRIBE VIA EMAIL:
+mailto:i-winsoft-signoff-request@list.adventive.com
+
+Alternative Link: <a
+href="mailto:i-winsoft-signoff-request@list.adventive.com">
+Unsubscribe Via Email </a>
+
+PROBLEMS WITH UNSUBSCRIBING?
+
+Contact our Postmaster: mailto:postmaster@adventive.com
+
+Alternative Link: <a href="mailto:postmaster@adventive.com">
+Email Postmaster </a>
+
+SUBSCRIBE:
+Email: mailto:i-winsoft-join-request@list.adventive.com
+Web: http://www.adventive.com/subscribe.html
+
+© Copyright 1998-2003 Adventive. All Rights Reserved.
+-----------------------------------------------------------------

@@ -1,0 +1,655 @@
+Received: (qmail 21632 invoked from network); 28 Jan 2003 20:19:49 -0000
+Received: from unknown (HELO mailshell.com) (71.129.195.163)
+  by dev50.mailshell.com with SMTP; 28 Jan 2003 20:19:49 -0000
+Received: (qmail 24207 invoked by uid 99); 28 Jan 2003 20:19:49 -0000
+Received: (qmail 5471 invoked from network); 28 Jan 2003 20:19:47 -0000
+Received: from unknown (HELO maelstrom.stjohns.edu) (149.68.45.24)
+  by mail.mailshell.com with SMTP; 28 Jan 2003 20:19:47 -0000
+Received: from maelstrom.stjohns.edu (149.68.45.24) by maelstrom.stjohns.edu (LSMTP for OpenVMS v1.1a) with SMTP id <11.524AA785@maelstrom.stjohns.edu>; Tue, 28 Jan 2003 16:18:13 -0500
+Received: from MAELSTROM.STJOHNS.EDU by MAELSTROM.STJOHNS.EDU (LISTSERV-TCP/IP
+          release 1.8d) with spool id 5391587 for
+          NETFUTURE@MAELSTROM.STJOHNS.EDU; Tue, 28 Jan 2003 16:18:08 -0500
+Approved-By: stevet@OREILLY.COM
+Received: from smtp2.oreilly.com (209.58.173.10) by maelstrom.stjohns.edu
+          (LSMTP for OpenVMS v1.1a) with SMTP id
+          <5.2116E520@maelstrom.stjohns.edu>; Tue, 28 Jan 2003 16:16:51 -0500
+Received: (from stevet@localhost) by smtp2.oreilly.com (8.11.2/8.11.2) id
+          h0SKGIc10095 for netfuture@maelstrom.stjohns.edu; Tue, 28 Jan 2003
+          15:16:18 -0500 (EST)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+X-Mailer: Mutt 1.0.1i
+Message-ID:  <20030128151618.A4342@sol.east.ora.com>
+Date:         Tue, 28 Jan 2003 15:16:18 -0500
+Reply-To: stevet@OREILLY.COM
+From: Steve Talbott <stevet@OREILLY.COM>
+Subject:      NetFuture #141
+To: "Mailshell User" <nospam@mailshell.com>
+
+                                 NETFUTURE
+
+                    Technology and Human Responsibility
+
+==========================================================================
+Issue #141     A Publication of The Nature Institute      January 28, 2003
+==========================================================================
+             Editor:  Stephen L. Talbott (stevet@oreilly.com)
+
+                  On the Web: http://www.netfuture.org/
+     You may redistribute this newsletter for noncommercial purposes.
+
+Can we take responsibility for technology, or must we sleepwalk
+in submission to its inevitabilities?  NetFuture is a voice for
+responsibility.  It depends on the generosity of those who support its
+goals.  To make a contribution:  http://www.netfuture.org/support.html.
+
+
+CONTENTS:
+---------
+
+Hold a Blossom to the Light (Steve Talbott)
+   Amazonian tribes, technology, and the tragedy of progress
+
+DEPARTMENTS
+
+About this newsletter
+
+==========================================================================
+
+                       HOLD A BLOSSOM TO THE LIGHT
+
+        Amazonian Tribes, Technology, and the Tragedy of Progress
+
+                    Steve Talbott (stevet@oreilly.com)
+
+   Notes concerning *One River: Explorations and Discoveries in the Amazon
+   Rain Forest*, by Wade Davis (New York: Simon and Schuster, 1996).
+   Paperback, 537 pages, $16.
+
+While traveling through the Ecuadorian Amazon as an ethnobotanist, Wade
+Davis spent some time with the Waorani, known earlier as the Auca Indians.
+Among the last peoples of the Amazon to be contacted by outsiders, the
+Auca had made headlines around the world when, in January, 1956, they
+speared and killed five American missionaries -- this despite the
+missionaries' practice of dropping gifts from an airplane before their
+disastrous attempt at personal contact.  The incident was only one in a
+series of unfortunate exchanges between the Auca and those who intruded
+upon their territory.  According to Davis, "as late as 1957 there had
+never been a peaceful contact between the Auca and the outside world".
+
+A couple of decades later, during his stay with the Waorani, Davis
+accompanied a young warrior named Tomo on a hunting excursion.  Highly
+skilled with a blowgun, Tomo had already, at the age of five, been able to
+blow a dart through a hanging fruit at thirty paces.  As an adult, he
+could "drive a dart clear through a squirrel at forty feet, knock a
+hummingbird out of the air, and hit a monkey in the canopy 120 feet above
+the forest floor".
+
+After selecting a short blowgun (just over six feet long), Tomo led Davis
+and a companion into the jungle.  As Davis tells the story, suddenly
+
+   Tomo froze, dropped into an attack crouch, and slipped away from us,
+   moving silently and steadily through a thicket of heliconia until
+   stopping at the base of an enormous tree sixty feet from the trail.  In
+   a single gesture he had withdrawn a dart, notched its tip, deftly spun
+   the kapok fiber around the base, and placed it in the mouth of the
+   blowgun that now hovered motionless above his head.  His cheeks
+   suddenly puffed out with tremendous pressure, which was released in an
+   instant.  A moment later he was lunging through the vegetation,
+   laughing and shouting.  By the time we caught up, he held a rufous mot
+   mot in his hand.  The bird was still alive.  Tomo had managed to reach
+   it before the poison took effect.  He dropped the frightened creature
+   into his basket and placed the dart conspicuously in the notch of a
+   tree so that all would know an animal had been taken.
+
+The use of the blowgun is a highly developed art.  The Waorani routinely
+poison the tips of their darts with potent toxins they extract from
+plants.  They notch the darts using the razor-sharp teeth of a piranha
+jaw, thereby ensuring that the poisonous tip will break off in the flesh
+of the prey even if the rest of the dart is swatted away.  As for the gun
+itself, its volume is less than a tenth the capacity of the lungs, so "it
+is not force but control that counts, judging the distance to the prey,
+the angle of ascent, the proper trajectory".  Up to a point, a longer
+blowgun produces a higher velocity in the dart, but beyond that point
+resistance in the gun takes over.  "Finding that perfect balance, the
+right length, is what they're always looking for".
+
+
+On Reading One's Environment
+----------------------------
+
+The skills involved in Tomo's hunting success were those many of us in a
+more technological culture might envy.  But for Tomo himself the envy
+seemed to run in the opposite direction.  "Though a gifted hunter with a
+dart, Tomo confessed that he, like most Waorani, preferred shotguns".
+
+An odd preference, you might think, considering that most of the shotguns
+available to the Waorani were "miserable weapons:  single-shot
+breechloaders cursed with weak firing springs that rarely lasted a year".
+A small box of shells cost what three blowguns did -- the equivalent of a
+week's work (if work was to be had).  A four-day journey was required
+simply to make the purchase.  Once obtained, the shotgun might be useful
+for large terrestrial animals at close range (assuming it didn't misfire),
+"but for birds and monkeys and anything that lived in the canopy, the
+blowgun was by far the superior weapon".  So what was the appeal of the
+shotgun?
+
+   The Waorani affection for shotguns had little to do with efficiency.
+   It was the intrinsic attraction of the object itself, the clicking
+   mechanisms, the polished stock, the power of the explosion.  As one
+   Waorani hunter explained, "It makes such a beautiful noise".
+
+In this regard, are we not all Waorani?  It's just that, as we tire of one
+shiny object, we need another -- preferably a more "sophisticated" one, or
+at least a different one.  Walk into any high-tech emporium, from Radio
+Shack to The Sharper Image, and (if you are at all like me) you will
+experience on every hand "the intrinsic attraction of the object itself"
+-- exactly the sort of attraction that makes a Waorani hunter prefer a
+shotgun with its "cool" clicking mechanisms to the blowgun that has become
+such an intimate and accustomed part of himself.
+
+This suggests what I think is largely true:  the history of technology is
+a history of walking away from ourselves.  We abandon old skills and ways
+of being.  This is not in itself a bad thing.  Every individual's life is
+an endless journey from what he has been to what he is becoming.  We are
+continually leaving ourselves behind, and necessarily so.  That's what it
+means to grow.  It is the same with cultures.
+
+The problem, it seems to me, lies in a profound shift of emphasis -- a
+shift that was *not* necessary.  The issue here, however, is difficult to
+grasp within an already technologized culture.
+
+In mastering the blowgun, Tomo learned stealth and many physical skills.
+He learned great care, whether in preparing his poisons or notching his
+dart or avoiding what we like to call "collateral damage".  He learned
+patience and well-focused attention.  But above all, he learned to read
+his environment through a resonant inner connection with it:  only by
+understanding the ways of the forest, the character and likely movements
+of his prey, the meanings carried upon the ceaseless symphony of sounds
+enlivening the jungle -- only so could he find success in the hunt using a
+weapon such as the blowgun.
+
+The crucial point (it will emerge more clearly in what follows) is that
+Tomo's reading of his environment was thoroughly qualitative.  He had to
+understand *what it was like* to be a certain animal.  He needed to
+recognize the characteristic gestures of its movement -- and, indeed, of
+all its behaviors -- to know it from the inside, so to speak.  The
+decisive detail for a particular hunt, whatever it turned out to be, was
+very likely available to Tomo without reflection or calculation, because
+it was implicit in the larger, expressive pattern that he grasped as a
+unified whole.  Such "inner resonance" with one's surroundings is
+profound, subtle, and revelatory, a prerequisite (though not the only
+prerequisite) for any full understanding of the world.
+
+The shift of emphasis I am concerned about is the sacrifice of this
+qualitative attention to one's environment in favor of a strictly
+analytical and technical understanding.  It's the difference between
+receiving "information" about something and being open to the thing itself
+-- which also means being open to that part of ourselves through which the
+other can speak.  It means overcoming, in the moment of knowing, the
+barrier between self and other.  We can recognize the world's qualities
+only by discovering them within ourselves, for to experience the quality
+of a thing is necessarily to *experience* it, to find its shape and
+movement and significance reproduced within ourselves.  This is what I
+mean by "resonance".
+
+
+The Powers of Recognition
+-------------------------
+
+The ability to read nature in this qualitative sense, to know its
+phenomena from the inside, is not restricted to "primitive" cultures.
+While we may not know how to reconcile this ability with the canonized
+procedures of science, we do often recognize it as a mark of scientific
+genius.  The primary subject of Davis' book, the legendary Harvard
+ethnobotanist, Richard Evans Schultes, exemplified this sort of genius.
+
+Schultes stood apart in his field.  As Davis relates it, "even the most
+highly trained botanists are humbled by the immense diversity of the
+Amazonian forests":
+
+   Confronted with the unknown, they collect specimens and do their best
+   to identify a plant to family or genus.  Only later, in the comfort of
+   the herbarium and invariably with the assistance of a colleague
+   specializing in that particular group of plants, will they figure out
+   the species and obtain a complete determination.
+
+With Schultes, who collected more than 25,000 plants in Columbia between
+1941 and 1953, and who was the first to record entire genera previously
+unknown to science, along with hundreds of species, it was different.  "He
+possessed what scientists call the taxonomic eye" -- an immediate ability
+to detect significant variation within an overall pattern.  He
+occasionally demonstrated his powers of attention to such variation in
+striking ways:
+
+   He was once in a small plane that took off from a dirt runway, brushed
+   against the canopy of the forest, and very nearly crashed.  A colleague
+   who was with him recalled years later that throughout the entire
+   episode Schultes had sat calmly by a window, oblivious to the screams
+   of the terrified passengers.  It turned out that he had spotted a tree,
+   a new species of *Cecropia*, and had scarcely noticed the crisis.
+
+What all this meant, Davis comments, is that Schultes
+
+   could resolve botanical problems in the moment, write descriptions in
+   the field, realign species and genera just by holding a blossom to the
+   light.  In the entire history of Amazonian botany, only a handful of
+   scientists have possessed this talent.
+
+"...just by holding a blossom to the light".  This is the essence of
+qualitative knowledge.  It's the difference between going laboriously
+through a set of analytical keys to identify a plant or, based on direct
+and intimate familiarity with the plant world, immediately *recognizing*
+the distinctive character of the plant and its relations to other plants.
+In order to appreciate a little about what this means, think of how you
+would identify a face in a crowd when all you had was a list of discrete
+features, and compare that to recognizing an old friend.  The recognition
+is instantaneous, or nearly so, a single act drawing on the qualities of
+an entire image, without analysis.  And in that image you may read a great
+deal about the kind of experience your friend has just been through and
+how he is relating to those around him.
+
+We in fact exercise such powers of recognition all the time; without them
+there would be no science.  Yet a science that long ago disavowed any
+concern with the qualities of things has steadily pushed our acts of
+recognition to the periphery.  Mention these mundane, daily human
+performances in certain scientific contexts and you will soon hear the
+muttered epithet, "mystical".  In addition, our technologies, with their
+emphasis on automatically transferable information, persistently train us
+in the disregard of subtle qualities.  The steps in identifying a plant
+analytically via a key are easily taught through a program.  What Schultes
+learned to see when he held a flower to the light is not.  The program
+yields clean, unambiguous, yes-or-no answers -- and little else.  The kind
+of understanding Schultes employed when studying a blossom enabled him to
+re-imagine and re-organize the relations upon which programmatic keys are
+based.
+
+
+Puzzling Knowledge
+------------------
+
+The tribes of the Amazon present numerous riddles that are surely related
+to the difference between a qualitative and analytic understanding.  There
+is a plant called *yage* whose bark contains the beta-carbolines, harmine
+and harmaline.  By combining *yage* with various other plants, the shamans
+of the northwest Amazon long ago learned to concoct potent psychoactive
+drinks.  Investigating two of the auxiliary plants employed in these
+concoctions, Schultes noted that they contained tryptamines, "powerful
+psychoactive compounds [writes Davis] that when smoked or snuffed induce a
+very rapid, intense intoxication of short duration marked by astonishing
+visual imagery".  (Neither Schultes nor Davis was loath to verify such
+effects for himself.)
+
+The problem is that, taken orally (the Indians drank these potions), the
+tryptamines have no effect; they are denatured by an enzyme in the human
+gut.  But, as it turns out, the beta-carbolines in *yage* inhibit exactly
+this enzyme.  So when *yage* is combined with one of the admixture plants,
+the combination produces dramatic hallucinogenic effects.
+
+   What astonished Schultes was less the raw effect of the drugs -- by
+   this time, after all, he was becoming accustomed to having his
+   consciousness awash in color -- than the underlying intellectual
+   question that the elaboration of these complex preparations posed.  The
+   Amazonian flora contains literally tens of thousands of species.  How
+   had the Indians learned to identify and combine in this sophisticated
+   manner these morphologically dissimilar plants that possessed such
+   unique and complementary chemical properties?  The standard scientific
+   explanation was trial and error -- a reasonable term that may well
+   account for certain innovations -- but at another level, as Schultes
+   came to realize on spending more time in the forest, it is a euphemism
+   which disguises the fact that ethnobotanists have very little idea how
+   Indians originally made their discoveries.
+
+   The problem with trial and error is that the elaboration of the
+   preparations often involves procedures that are either exceedingly
+   complex or yield products of little or no obvious value.  *Yage* is an
+   inedible, nondescript liana that seldom flowers.  True, its bark is
+   bitter, often a clue to medicinal properties, but it is no more so than
+   a hundred other forest vines.  An infusion of the bark causes vomiting
+   and severe diarrhea, conditions that would discourage further
+   experimentation.  Yet not only did the Indians persist but they became
+   so adept at manipulating the various ingredients that individual
+   shamans developed dozens of recipes, each yielding potions of various
+   strengths and nuances to be used for special ceremonial and ritual
+   purposes.
+
+Another example was the preparation of dart poison, known as "curare":
+
+   The bark is rasped and placed in a funnel-shaped leaf suspended between
+   two spears.  Cold water is percolated through, and the drippings
+   collect in a ceramic pot.  The dark fluid is slowly heated and brought
+   to a frothy boil, then cooled and later reheated until a thick viscous
+   scum gradually forms on the surface.  This scum is removed and applied
+   to the tips of darts or arrows, which are then carefully dried over the
+   fire.  The procedure itself is mundane.  What is unusual is that one
+   can drink the poison without being harmed.  To be effective it must
+   enter the blood.  The realization on the part of the Indians that this
+   orally inactive substance, derived from a small number of forest
+   plants, could kill when administered into the muscle was profound and,
+   like so many of their discoveries, difficult to explain by the concept
+   of trial and error alone.
+
+Perhaps the trial-and-error hypothesis simply reflects a long habit of
+ignoring the knowledge potentials of an attention to the qualities of our
+environment.  Such attention on the Indians' part could be quite
+remarkable.  They recognized many different kinds of *yage* plants, all of
+which, so far as Schultes could tell, were referable to a single species.
+The distinguishing criteria made no sense botanically, and yet "the
+Indians could readily differentiate their varieties on sight, even from a
+considerable distance in the forest.  What's more, individuals from
+different tribes, separated by large expanses of forest, identified these
+same varieties with amazing consistency".
+
+Much the same was true of *yoco*, a caffeine-containing stimulant.
+Schultes collected fourteen different types by the Indians' reckoning,
+"not one of which could be determined based on the rules of his own
+science".  Schultes, as Davis reports it, was learning that
+
+   in unveiling the indigenous knowledge, his task was not merely to
+   identify new sources of wealth but rather to understand a new vision of
+   life itself, a profoundly different way of living in a forest.
+
+
+Seeking a New Balance
+---------------------
+
+It is a long way from the mechanics of information processing to the
+pursuit of a new vision -- a new *manner* of seeing.  But what I am
+suggesting is that we urgently need to combine this pursuit of a new,
+qualitative manner of seeing with our more technical ambitions if we are
+to counter the unhealthy one-sidedness of the latter.  The meeting of the
+two different ways of knowing proves undeniably fruitful, even in strictly
+scientific terms.  Look at what has been gained through the contact of
+botany and medicine with native plant wisdom.  To take just one example:
+curare, the dart poison, led western medicine to d-tubocurarine, a potent
+muscle relaxant.  When administered during surgery, it greatly reduced the
+required levels of anesthesia.  D-tubocurarine, Davis notes, ended up
+saving far more human lives than curare had ever taken.
+
+More broadly, native wisdom has presented us with sounder images of the
+whole organism in its relation to health and disease:
+
+   For the Waorani, as for many indigenous peoples, good or bad health
+   results not from the presence or absence of pathogens alone but from
+   the proper or improper balance of the individual.  Health is harmony, a
+   coherent state of equilibrium between the physical and spiritual
+   components of the individual.  Sickness is disruption, imbalance, and
+   the manifestation of malevolent forces in the flesh.
+
+Slowly, sometimes reluctantly, our own medicine has been coming to terms
+with this awareness that illness and health are matters of harmony,
+balance, equilibrium.  The projection of our fears upon "deadly"
+microorganisms as the sole and uncontested causes of disease will
+eventually be recognized as a latter-day echo of our ancestors'
+preoccupation with evil spirits.  When, by contrast, we turn toward the
+organism as a whole, we will have to reckon with the fact that its harmony
+or disharmony cannot be read from instruments.  True diagnosis requires
+nothing less than the kind of highly developed scientific art and
+qualitative vision that Schultes demonstrated with his plants.
+
+Not many seem to recognize that in the age of digital technologies, our
+ability to read the qualities of our surroundings, detecting what is toxic
+and what is healing in them, what is in balance and what is out of
+balance, is even more crucial than it was for Tomo.  That is, the reading
+requires a greater, more self-conscious effort on our part precisely
+because our machines seem to make the effort irrelevant and futile; and
+because the penalty for neglecting our responsibility is that the inhuman
+inertia of the machines will dictate our future.
+
+It is not easy, after all, to read a collection of people sitting in front
+of monitors.  Tomo, we can imagine, might need to make a quick, accurate
+assessment as to whether a group of warriors encountered in the forest was
+a peaceful hunting expedition or a raiding party.  But how are we to gauge
+the friendliness of that roomful of programmers or data-entry clerks?  Are
+they preying upon the larger society, or serving it?  Are they working for
+the next Enron, or moving in a very different direction?  Yet we *must*
+learn to read these things.  The fact is that our social future will be
+determined by the human qualities of the activities being mediated through
+hundreds of millions of programmed devices, and by our ability consciously
+to resonate with and thereby to recognize these qualities.
+
+Unfortunately, the devices themselves serve primarily to conceal -- and in
+some ways to nullify -- the qualitative dimensions of our activities.
+This is why, in a typical computer-based work group, the art of
+communication and openness to the other tends to give way to the mere
+manipulation of technical information.  The scheduling of activities is
+tightly programmed.  The budgeting and allocation of resources fall more
+or less automatically out of a spreadsheet.  But the question remains:
+what do these databases and programs and numbers *mean* for the workers
+involved, for the surrounding community, for the global economy?  What do
+we *want* them to mean -- or do our wants matter any longer?
+
+To read the significance of our activities rather than being lulled by the
+blank expressions of our machines -- this is the skill and art demanded of
+us today.  The skill and art are hardly new, however; it's just that our
+fascination with the technical aspects of our jobs encourages a much too
+narrow focus.  Yet it is not that difficult, amid all the email exchange
+and programmed organization, to make an occasional inquiry of one's
+neighbor in the next cubicle:  "How are you doing?"  "How do you feel
+about your work?"  "Do you think the product we're working on will help to
+heal our society or instead debilitate it?"
+
+If what all the employees in a large corporation actually sensed,
+qualitatively, about their own work and the company's endeavors were a
+matter of common inquiry and group reflection, could the business avoid
+going through a revolutionary transformation?  Could it any longer be the
+same business?  If, as a society, we cultivated anything like Tomo's
+attentive openness to the expressive qualities of his environment, surely
+the transformation I refer to would be commonplace rather than
+revolutionary.  And the sudden surprise of an Enron would be next to
+impossible.
+
+But why bother when the *program* seems to be the only real work?  When
+the next email and next report and next milestone demand attention, and
+the software can be trusted to "take care" of the larger issues of
+coordination?  Our own functioning becomes comfortingly undemanding on the
+qualitative and expressive level, with all the challenges reduced to
+merely technical ones.  But if the qualitative and expressive level is
+where we discover both the noxious and healing properties of our
+environment, it is also where we discover the meaning of our work and the
+ethical nuances of our relations with each other.  It is no surprise when,
+having replaced this level with the programmatic automatisms of
+information processing, we find organizations running badly off the
+tracks.
+
+
+The Thrill of Cutting Down Trees
+--------------------------------
+
+None of this is to say that we could get by in today's world without the
+newer technologies.  But it *is* to say that we cannot get by without
+recognizing the disciplines we must work ever harder to develop in order
+to invest the ubiquitous programming with our own purposes.  And we also
+need to realize when our preoccupation with technology is just plain
+fickle.
+
+In 1975, when the flood of goods from outside was threatening the Waorani
+way of life, the local missionaries tried to stem the tide.  But when they
+restricted the flow of radios, T-shirts, sunglasses, and baseball hats,
+the Waorani simply expanded their contacts with nearby oil exploration
+camps and tourists.  Going so far as to clear an airstrip at one location,
+"they invented rituals, imitated the activities of an oil camp, and sang
+songs to the helicopters, with the hope that they would unleash a rain of
+gifts".
+
+Eventually the missionaries realized the hopelessness of the situation.
+One of them, Jim Yost, remarked to Davis,
+
+   As romantics we idealize a past we never experienced and deny those who
+   knew that past from changing.  We forget perhaps the most disturbing
+   lesson of anthropology.  As Levi-Strauss said, "The people for whom the
+   term cultural relativism was invented, have rejected it".  (p. 290)
+
+The "cultural relativism" Levi-Strauss was referring to includes the
+notion that every culture has its own distinctive values worth preserving.
+Surely this is true.  Yet so also is his point that the members of the
+culture itself may prefer change to preservation.  We can hardly preserve
+them against their will, whether by dictating their values to them or
+artificially isolating them.
+
+Davis hones the issue to a fine sharpness when he quotes Yost as saying,
+
+   Nothing thrills the Waorani more than killing game and cutting down big
+   trees.  It's what so many people don't understand who haven't lived in
+   the forest.  You don't have to conserve what you don't have the power
+   to destroy.  Harming the forest is an impossible concept for them.
+
+When Davis interjects, "They don't know what it means to destroy", Yost
+goes on:
+
+   They have no capacity to understand.  In a world of such abundance, the
+   word "scarcity" has no meaning.  It's what makes them most vulnerable.
+   It's the same with their culture.  When you've lived in complete
+   isolation, how can you understand what it means to lose a culture?
+   It's not until it is almost gone and when people become educated that
+   they realize what's being lost.  By then the attractions of the new way
+   are overpowering, and the only people who want the old ways are the
+   ones who never lived it.
+
+You can easily imagine that a similar sense of the indestructible
+abundance of natural resources must have seized the early European
+settlers of the American West.  And in a rather different way, the
+inexhaustible supply of computing power now invites the impoverishment of
+our cultural mores and institutions through their transfer to the shallow
+and much-too-automatic pathways of silicon.
+
+Historically, there appears to be an element of tragedy in all this.  We
+stumble along in ignorance and, by the time we realize the subtle ways our
+actions have caught up with us, the damage and loss are already
+irrevocable.
+
+But one function of tragedy is to shock us into wakefulness.  With this
+wakefulness comes a new ability to stand back and look at ourselves
+critically in the very moment of acting.  And with this awareness in turn
+comes greater moral responsibility.  Surely by the time of the settling of
+the American West there was much less innocence in the relations between
+settler and environment than there was for the Waorani.  And it would be
+hard to excuse as innocent at all the widespread narcosis evident in the
+way we have yielded so passively to mass media and digital technologies
+today, allowing them to cut us off from vital openness toward the full-
+fleshed qualities of our human and natural contexts.  We, after all, have
+as examples the Waorani and many other cultures, not to mention a
+reasonably objective knowledge of our own history.  The Waorani had none
+of this.
+
+
+Don't Bemoan the Loss of Old Skills
+-----------------------------------
+
+All growth has a tragic element.  Something is lost.  Catastrophe is a
+prime agent of maturation.  Unwelcome as it may sound, the Waorani had no
+choice but to "grow up".  What enables one to say this is that *every*
+culture has no choice but to grow up.  Our own fascination with digital
+technologies is no less naive, and no less a blind toying with cultural
+catastrophe, than was the Waorani fascination with shotguns and radios.
+The difference between us and the Waorani of several decades ago is that,
+given our history with such things, we ought to know better.
+
+On one way of viewing this history, it confronts us with a succession of
+tools giving us an opportunity to develop an ever-expanding array of
+skills and capacities.  Increasingly, however, the peculiar challenge of
+our tools is that they invite us to ignore the matter of skills and
+capacities.  Disastrously, they are advertised as *labor-saving* devices,
+and the main selling point lies in what we no longer need to do, not in
+the new skills we must develop if we truly want to *master* the new tools.
+
+Bemoaning the loss of old skills is probably not the most productive way
+to critique the new technologies.  The greater need is to recognize that,
+precisely *because* of the labor-saving capabilities of our high-tech
+tools, the art of mastery demands greater skills and more arduous
+discipline than ever before.  Think of the retail clerk, nearly all of
+whose former responsibilities in engaging the customer and providing
+feedback for the operation of the business are now taken over by
+computers.  This clerk is as fully detached from an earlier set of skills
+as was Tomo with a shotgun in his hands.  So we have a choice:  simply to
+accept that the human being in this case is now little more than a "dumb
+assistant" to "intelligent machinery", or else to tackle the huge task of
+re-visioning employees' jobs, and the business itself, along more humane
+lines.  The challenge in all this -- if we accept it -- puts us into
+continual tension with the machines surrounding us.  It is a tension that
+Tomo could scarcely have noted with his blowgun.
+
+But if we do accept the challenge, then I'm convinced we will not really
+find ourselves abandoning the older skills -- not, at least, in the sense
+that counts.  A qualitative and sensitive openness to our environment
+today -- the kind of openness where we move beyond technical information
+about people and things to a qualitative *meeting* with them, learning to
+recognize their characteristic expressions and gestures, learning what it
+is like to be in that other place, what are the poisonous and the curative
+elements in our surroundings -- this is not so much a negation of Tomo's
+skills as an extension of them.  And in cultivating these skills we will
+find not only that our relations to the technologized world become
+healthier, but so also our relations to the natural world that sustains
+us.
+
+                      *   *   *   *   *  *  *  *  *
+
+The preceding notes are drawn from a relatively few pages of Wade Davis'
+large, sprawling work.  The book primarily concerns Schultes and his many
+years of travel throughout the Amazon basin -- and also the later travels
+of the author and another student of Schultes, Tim Plowman.  There's a
+great deal about the numerous psychotropic plants used by the natives
+(Schultes, with his unparalleled knowledge of these plants, garnered some
+notoriety during the psychedelic revolution in this country), about the
+critical quest for rubber by the Allies during World War II (in which
+Schultes played a central role), and about the culture of the native
+Americans and their grievous mistreatment by the colonists.  All in all a
+highly stimulating book, well written and worth reading.
+
+Related articles:
+
+** "Love and Detachment: How We Can Reconnect with Nature", in *In
+   Context* #8 (Fall, 2002).  Most of us have an experience of being cut
+   off from nature.  What are the implications of this for the world?
+
+      http://www.netfuture.org/ni/ic/ic8/detachment.html
+
+** "Ecological Conversation: Wildness, Anthropocentrism, and Deep
+   Ecology", in NF #127.  We needn't choose between a strict, hands-off
+   stance toward nature and a domineering, prediction-and-control stance.
+   We can, instead, converse with her.
+
+      http://www.netfuture.org/2002/Jan1002_127.html
+
+** "Technology, Alienation, and Freedom", in NF #134.  Our detachment from
+   an objectified world has not only resulted in ecological disasters on
+   an unprecedented scale, but has also made possible the free
+   responsibility on which the future of the world depends.
+
+      http://www.netfuture.org/2002/Jul1802_134.html#2
+
+
+==========================================================================
+
+                          ABOUT THIS NEWSLETTER
+
+NetFuture, a freely distributed newsletter dealing with technology and
+human responsibility, is published by The Nature Institute, 169 Route 21C,
+Ghent NY 12075 (tel: 518-672-0116; web: http://www.natureinstitute.org).
+Postings occur roughly every three or four weeks.  The editor is Steve
+Talbott, author of *The Future Does Not Compute: Transcending the Machines
+in Our Midst* (http://www.praxagora.com/~stevet/index.html).
+
+Copyright 2003 by The Nature Institute.
+
+You may redistribute this newsletter for noncommercial purposes.  You may
+also redistribute individual articles in their entirety, provided the
+NetFuture url and this paragraph are attached.
+
+NetFuture is supported by freely given reader contributions, and could not
+survive without them.  For details and special offers, see
+http://www.netfuture.org/support.html .
+
+Current and past issues of NetFuture are available on the Web:
+
+   http://www.netfuture.org/
+
+To subscribe to NetFuture send the message, "subscribe netfuture
+yourfirstname yourlastname", to listserv@maelstrom.stjohns.edu .  No
+subject line is needed.  To unsubscribe, send the message, "signoff
+netfuture".
+
+If you have problems subscribing or unsubscribing, send mail to:
+netfuture-request@maelstrom.stjohns.edu .
+
+Send comments about the publication to Steve Talbott (stevet@oreilly.com).
