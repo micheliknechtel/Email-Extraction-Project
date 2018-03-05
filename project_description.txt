@@ -1,0 +1,40 @@
+Requirements:
+
+1)Operational system : 
+	OSx or linux 
+
+2)Language: 
+	python 3.6 
+
+3)Additional libs:
+	Flask==0.12.2
+	chardet==3.0.4
+	tld==0.7.9
+	tldextract==2.2.0
+	dnspython==1.15.0
+
+
+The project is divided in two modules:
+
+1) DataManipulation:
+2) Industrialization:
+
+
+1) DataManipulation
+From a input repository DataManipulation,extracts from a set of files the following structures: email, domain, urls, sender and receiver. During this process, it also create a list of the top 10 occuring domains.
+The extracted structures are stored in the output repository as json representation.
+
+Lastly, for each domain in the top 10 list, is performed a DNS query to find the IP Addresses mapping.
+
+2) Industrialization
+Is a simple web-server application, that can a to request to queries on the dataset in JSON format.
+
+1) request: 
+GET /emails
+answer:list of all the unique emails in the dataset
+
+2) request:
+GET /top/n/emails/
+answer:a list of top n most frequently occuring emails in the datase.
+
+

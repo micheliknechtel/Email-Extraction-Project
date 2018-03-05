@@ -1,0 +1,20 @@
+1) Make sure you have a internet connection !!!!
+1.2) Make sure you meet the following requirements:
+
+
+1.2.1)Operational system : 
+		OSx or linux 
+
+1.2.2)Language: 
+		python 3.6 
+	
+1.2.3)Additional libs:
+		Flask==0.12.2
+		chardet==3.0.4
+		tld==0.7.9
+		tldextract==2.2.0
+		dnspython==1.15.0
+
+
+2) Copy the script run.sh into a empty folder
+3) To execute the script type ./run.sh

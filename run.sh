@@ -41,6 +41,7 @@ else
 mkdir $CODE_PATH
 fi
 
+echo "Downloading files ... can take some time depending on internet connection"
 #Downloading files from github
 curl -LkSs $GIT_HUB'CodecDetection.py'       -o CodecDetection.py
 curl -LkSs $GIT_HUB'DataManipulation.py'     -o DataManipulation.py
@@ -55,17 +56,27 @@ curl -LkSs $GIT_HUB'Industrialization.py'    -o Industrialization.py
 #Moving files
 mv *.py ./code
 
-for i in {1..1000}
+
+for i in {1..10}
 do
 curl -LkSs $GIT_HUB_SOURCE$i       -o $i
 mv $i ./email
 done
 
+echo "Running DataManipulation module"
 
-#Running Module 1 --- check if it finshed sucessifully
-python36 ./code/DataManipulation.py
+#Running Module 1 
+python36 ./code/DataManipulation.py> output_DataManipulation.txt &
+
+echo "Loading Industrialization module"
 
 #Running Module 2 --- run as nohup still need
 export FLASK_APP=$(pwd)/code/Industrialization.py
-flask run
+nohup flask run > output_flask.txt &
+
+sleep 10
+
+cat output_flask.txt
+echo "Check the following links:"
+echo "/top/n/emails/ and /emails by adding "
 
