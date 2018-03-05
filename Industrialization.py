@@ -1,3 +1,18 @@
+#  Industrialization.py
+#  python
+#
+#  Created by Micheli Knechtel on 05/03/2018.
+#  Copyright © 2018 Micheli Knechtel. All rights reserved.
+# 
+#   Description: add to the server the following paths: 
+#   1) /emails
+#      call function getListEmails() which get all file in given repository "r"
+#      and build list of emails and top ten emails. Lastly, return a list of emails as
+# 	   show as json representation.
+#   2) /top/n/emails/
+#      also call function getListEmails() but return a list of top ten emails as
+
+
 from flask import Flask, jsonify
 from SerialiseData import SerialiseData
 from Repository import Repository
@@ -13,6 +28,7 @@ def getTopTenList(number):
     global topEmails
     global topList
     topEmails = []
+
     e = topList
     sortedItems = sorted(topList, key=topList.get, reverse = True)
     c  = 0
@@ -57,7 +73,7 @@ def getTopEmails():
     global listEmails
     global topList
     listEmails = []
-    topEmails = []
+    topList = {}
     getListEmails()
     getTopTenList(10)
     return jsonify({'emails': topEmails})

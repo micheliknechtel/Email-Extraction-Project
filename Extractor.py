@@ -1,3 +1,23 @@
+#  Extractor.py
+#  python
+#
+#  Created by Micheli Knechtel on 05/03/2018.
+#  Copyright © 2018 Micheli Knechtel. All rights reserved.
+# 
+#   Description: class Extractor()
+# 
+#   Class extracts and write in a customized json schema the following
+#   data from a given repository (multiple files) :
+# 
+#   * All email addresses 
+#   * All valid top-level domains 
+#   * All urls 
+#   * All Sender names: 
+#   * All Receiver names
+# 
+#   This class also rank top domains.
+
+
 import re
 from re import finditer
 import tld
@@ -12,26 +32,29 @@ from PrintManager import PrintManager
 
 class Extractor():
     topDomains = {}
-    def __init__(self,pathInput, pathOutput):
-        self.pathInput  = pathInput
-        self.pathOutput = pathOutput
-        self.extractingFiles()
     
+#   this method set-up input and output path and start the extraction process 
+    def __init__(self,r):
+        self.r  = r
+        self.extractingFiles()
+  
+#   this method start the parse to a list of files in input repository
     def extractingFiles(self):
-        r = Repository()
-        for fileName in r.getListOfFiles(self.pathInput):
-            self.parse(fileName, CodecDetection().getCodec(self.pathInput + fileName))
-            if fileName == "1000":
-                break
+        for fileName in self.r.getListOfFiles(self.r.getInputRepository()):
+            self.parse(fileName, CodecDetection().getCodec(self.r.getInputRepository() + fileName))
 
+#   for a given (string, pattern) the method evaluate a regular
+#   expression returning a list of matched occurrences
     def regex(self, line, pattern):
-        array = []
+        list = []
         for match in finditer(pattern, line):
-            array.append(match.group().strip('"'))
-        if  not array:
-            array.append(" ")
-        return array
+            list.append(match.group().strip('"'))
+        if  not list:
+            list.append(" ")
+        return list
 
+#   to each url "u" in urls, the method extract the domain
+#   building a score list of domains
     def getDomains(self, urls):
         domains = []
         c = 0
@@ -51,6 +74,7 @@ class Extractor():
             c = c + 1
         return domains
     
+#   returns a list of top "n" domains   
     def getTopTenList(self, number):
         topList = []
         sortedItems = sorted(self.topDomains, key=self.topDomains.get , reverse = True)
@@ -62,7 +86,9 @@ class Extractor():
                 return topList
         return topList
                 
-        
+#   this function parse a given file extracting the following structures:
+#   email, urls, sender, receiver, domain
+#   Lastly, the structures will be write in a file as json representation        
     def parse(self, fileName, codec):
         fileContent = ""
         receivers = []
@@ -71,7 +97,7 @@ class Extractor():
         email = []
         sender = {}
         
-        with open(self.pathInput + fileName, 'rt', encoding=codec) as file:
+        with open(self.r.getInputRepository() + fileName, 'rt', encoding=codec) as file:
             lines = file.read().splitlines()
             for i in range(len(lines)):
                 line = lines[i].strip("=")
@@ -87,8 +113,8 @@ class Extractor():
         email = (self.regex(fileContent, Pattern.Email))
         domains = self.getDomains(urls)
         data = {"email_id":int(fileName), "email":email, "domains":domains, "sender":sender, "receivers":receivers}
-        SerialiseData(data).writeIntoFile(self.pathOutput)
-        PrintManager().emailExtractedSuccessfully(fileName);
+        SerialiseData(data).writeIntoFile(self.r.getOutputRepository())
+        PrintManager().parse(fileName);
 
        
 
